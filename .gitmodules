@@ -1,0 +1,27 @@
+[submodule "modules/gushiwen"]
+	path = modules/gushiwen
+	url = https://github.com/yht050511/gushiwen.git
+[submodule "modules/chinese_ancient_poetry"]
+	path = modules/chinese_ancient_poetry
+	url = https://github.com/JoshuaCH/chinese_ancient_poetry.git
+[submodule "modules/chinese-gushiwen"]
+	path = modules/chinese-gushiwen
+	url = https://github.com/caoxingyu/chinese-gushiwen.git
+[submodule "modules/chinese-poetry"]
+	path = modules/chinese-poetry
+	url = https://github.com/chinese-poetry/chinese-poetry.git
+[submodule "modules/hanzi-writer-data"]
+	path = modules/hanzi-writer-data
+	url = https://github.com/chanind/hanzi-writer-data.git
+[submodule "modules/makemeahanzi"]
+	path = modules/makemeahanzi
+	url = https://github.com/skishore/makemeahanzi.git
+[submodule "modules/chinese-dictionary"]
+	path = modules/chinese-dictionary
+	url = https://github.com/mapull/chinese-dictionary.git
+[submodule "modules/chinese-xinhua"]
+	path = modules/chinese-xinhua
+	url = https://github.com/pwxcoo/chinese-xinhua.git
+[submodule "modules/ChineseLyrics"]
+	path = modules/ChineseLyrics
+	url = https://github.com/dengxiuqi/ChineseLyrics.git
