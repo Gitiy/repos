@@ -22,38 +22,71 @@ jobs:
           git config --global user.name "github-actions[bot]"
           git config --global user.email "github-actions[bot]@users.noreply.github.com"
 
-      - name: Read repos.txt and add new submodules
+      - name: Initialize .gitmodules if missing
         run: |
-          # 创建子模块目录（可选，例如放在 ./modules/）
+          if [ ! -f .gitmodules ]; then
+            touch .gitmodules
+            git add .gitmodules
+            git commit -m "chore: init .gitmodules" || true
+          fi
+
+      - name: Process repos.txt and manage submodules
+        run: |
           mkdir -p modules
 
-          # 逐行读取 repos.txt
-          while IFS= read -r url; do
+          # 兼容 Windows 换行符
+          sed -i 's/\r$//' repos.txt
+
+          while IFS= read -r line || [[ -n "$line" ]]; do
+            # 去除首尾空白
+            trimmed=$(echo "$line" | sed 's/^[[:space:]]*//;s/[[:space:]]*$//')
             # 跳过空行和注释
-            [[ -z "$url" || "$url" =~ ^[[:space:]]*# ]] && continue
-
-            # 从 URL 提取仓库名作为本地路径（如 repo1）
-            repo_name=$(basename "$url" .git)
-
-            local_path="modules/$repo_name"
-
-            # 检查是否已是 submodule（通过 .gitmodules）
-            if grep -q "path = $local_path" .gitmodules 2>/dev/null; then
-              echo "✅ Already exists: $url -> $local_path"
+            if [[ -z "$trimmed" || "$trimmed" == \#* ]]; then
               continue
             fi
 
-            echo "➕ Adding new submodule: $url -> $local_path"
-            git submodule add "$url" "$local_path"
+            # 提取 URL 和可选路径
+            url=$(echo "$trimmed" | awk '{print $1}')
+            custom_path=$(echo "$trimmed" | awk 'NF>=2 {print $2}')
+
+            # 跳过明显无效的 URL
+            if [[ -z "$url" || "$url" == "https://" || "$url" == "http://" ]]; then
+              echo "⚠️ Skipping invalid line: '$line'"
+              continue
+            fi
+
+            if [[ -z "$custom_path" ]]; then
+              repo_name=$(basename "$url" .git)
+              local_path="modules/$repo_name"
+            else
+              local_path="$custom_path"
+              mkdir -p "$(dirname "$local_path")"
+            fi
+
+            # 检查是否已存在
+            if grep -q "path = $local_path" .gitmodules 2>/dev/null; then
+              echo "🔄 Updating existing submodule: $local_path"
+              (
+                cd "$local_path" && git fetch origin && git checkout $(git rev-parse --abbrev-ref HEAD) || echo "⚠️ Failed to update $local_path"
+              )
+            else
+              echo "➕ Adding new submodule: $url -> $local_path"
+              git submodule add --force "$url" "$local_path" || echo "❌ Failed to add $url"
+            fi
           done < repos.txt
 
       - name: Commit and push if changed
         run: |
-          if ! git diff --quiet HEAD .gitmodules || ! git diff --quiet HEAD modules/; then
-            git add .gitmodules modules/
-            git commit -m "chore: auto-add new submodules from repos.txt"
+          # 确保 modules/ 目录存在（防止 git add 报错）
+          mkdir -p modules
+
+          git add .gitmodules
+          git add modules/ 2>/dev/null || true
+
+          if ! git diff --cached --quiet; then
+            git commit -m "chore: sync submodules from repos.txt"
             git push
             echo "✅ Changes pushed."
           else
-            echo "ℹ️ No new submodules added."
+            echo "ℹ️ No changes detected."
           fi
