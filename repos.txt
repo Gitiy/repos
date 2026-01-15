@@ -1,0 +1,23 @@
+# 格式1: 仅URL（自动用仓库名作为路径）
+# https://github.com/user/utils.git
+
+# 格式2: URL + 自定义路径
+# https://github.com/org/core.git libs/core-engine
+
+https://github.com/yht050511/gushiwen.git
+
+https://github.com/JoshuaCH/chinese_ancient_poetry.git
+
+https://github.com/caoxingyu/chinese-gushiwen.git
+
+https://github.com/chinese-poetry/chinese-poetry.git
+
+https://github.com/chanind/hanzi-writer-data.git
+
+https://github.com/skishore/makemeahanzi.git
+
+https://github.com/mapull/chinese-dictionary.git
+
+https://github.com/pwxcoo/chinese-xinhua.git
+
+https://github.com/dengxiuqi/ChineseLyrics.git

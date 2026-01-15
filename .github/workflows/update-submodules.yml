@@ -1,0 +1,59 @@
+name: Update Submodules from repos.txt
+
+on:
+  schedule:
+    - cron: '0 0 * * *'  # 每天 UTC 00:00 运行
+  workflow_dispatch:     # 允许手动触发
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write  # 必须允许 push
+
+    steps:
+      - name: Checkout main repo
+        uses: actions/checkout@v4
+        with:
+          submodules: false  # 先不初始化子模块
+
+      - name: Setup Git user
+        run: |
+          git config --global user.name "github-actions[bot]"
+          git config --global user.email "github-actions[bot]@users.noreply.github.com"
+
+      - name: Read repos.txt and add new submodules
+        run: |
+          # 创建子模块目录（可选，例如放在 ./modules/）
+          mkdir -p modules
+
+          # 逐行读取 repos.txt
+          while IFS= read -r url; do
+            # 跳过空行和注释
+            [[ -z "$url" || "$url" =~ ^[[:space:]]*# ]] && continue
+
+            # 从 URL 提取仓库名作为本地路径（如 repo1）
+            repo_name=$(basename "$url" .git)
+
+            local_path="modules/$repo_name"
+
+            # 检查是否已是 submodule（通过 .gitmodules）
+            if grep -q "path = $local_path" .gitmodules 2>/dev/null; then
+              echo "✅ Already exists: $url -> $local_path"
+              continue
+            fi
+
+            echo "➕ Adding new submodule: $url -> $local_path"
+            git submodule add "$url" "$local_path"
+          done < repos.txt
+
+      - name: Commit and push if changed
+        run: |
+          if ! git diff --quiet HEAD .gitmodules || ! git diff --quiet HEAD modules/; then
+            git add .gitmodules modules/
+            git commit -m "chore: auto-add new submodules from repos.txt"
+            git push
+            echo "✅ Changes pushed."
+          else
+            echo "ℹ️ No new submodules added."
+          fi
