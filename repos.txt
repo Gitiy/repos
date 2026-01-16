@@ -21,3 +21,19 @@ https://github.com/mapull/chinese-dictionary.git
 https://github.com/pwxcoo/chinese-xinhua.git
 
 https://github.com/dengxiuqi/ChineseLyrics.git
+
+https://github.com/WZMIAOMIAO/deep-learning-for-image-processing.git
+
+https://github.com/heyhu/AndroidReverseStudy.git
+
+https://github.com/violet7pan/XYplorer_Help
+
+https://github.com/kleiton0x00/Advanced-SQL-Injection-Cheatsheet
+
+https://github.com/hookmaster/frida-all-in-one
+
+https://github.com/Micropoor/Micro8
+
+https://github.com/supperjet/H5-Animation
+
+https://github.com/goreliu/zshguide
