@@ -25,3 +25,30 @@
 [submodule "modules/ChineseLyrics"]
 	path = modules/ChineseLyrics
 	url = https://github.com/dengxiuqi/ChineseLyrics.git
+[submodule "modules/deep-learning-for-image-processing"]
+	path = modules/deep-learning-for-image-processing
+	url = https://github.com/WZMIAOMIAO/deep-learning-for-image-processing.git
+[submodule "modules/AndroidReverseStudy"]
+	path = modules/AndroidReverseStudy
+	url = https://github.com/heyhu/AndroidReverseStudy.git
+[submodule "modules/XYplorer_Help"]
+	path = modules/XYplorer_Help
+	url = https://github.com/violet7pan/XYplorer_Help
+[submodule "modules/Advanced-SQL-Injection-Cheatsheet"]
+	path = modules/Advanced-SQL-Injection-Cheatsheet
+	url = https://github.com/kleiton0x00/Advanced-SQL-Injection-Cheatsheet
+[submodule "modules/frida-all-in-one"]
+	path = modules/frida-all-in-one
+	url = https://github.com/hookmaster/frida-all-in-one
+[submodule "modules/Micro8"]
+	path = modules/Micro8
+	url = https://github.com/Micropoor/Micro8
+[submodule "modules/mybackup-IT"]
+	path = modules/mybackup-IT
+	url = https://github.com/cxapython/mybackup-IT
+[submodule "modules/H5-Animation"]
+	path = modules/H5-Animation
+	url = https://github.com/supperjet/H5-Animation
+[submodule "modules/zshguide"]
+	path = modules/zshguide
+	url = https://github.com/goreliu/zshguide
