@@ -40,3 +40,6 @@ https://github.com/supperjet/H5-Animation
 
 https://github.com/goreliu/zshguide
 
+https://github.com/Ceelog/DictionaryByGPT4
+
+
