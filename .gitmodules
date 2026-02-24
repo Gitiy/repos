@@ -52,3 +52,9 @@
 [submodule "modules/zshguide"]
 	path = modules/zshguide
 	url = https://github.com/goreliu/zshguide
+[submodule "modules/DictionaryByGPT4"]
+	path = modules/DictionaryByGPT4
+	url = https://github.com/Ceelog/DictionaryByGPT4
+[submodule "modules/ChinaTextbook"]
+	path = modules/ChinaTextbook
+	url = https://github.com/TapXWorld/ChinaTextbook
