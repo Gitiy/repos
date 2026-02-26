@@ -44,3 +44,6 @@ https://github.com/Ceelog/DictionaryByGPT4
 
 https://github.com/TapXWorld/ChinaTextbook
 
+https://github.com/Yuheng0101/X.git
+
+https://github.com/Gitiy/hwyy
