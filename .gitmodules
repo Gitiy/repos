@@ -58,3 +58,6 @@
 [submodule "modules/ChinaTextbook"]
 	path = modules/ChinaTextbook
 	url = https://github.com/TapXWorld/ChinaTextbook
+[submodule "modules/hwyy"]
+	path = modules/hwyy
+	url = https://github.com/Gitiy/hwyy
