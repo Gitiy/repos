@@ -47,3 +47,5 @@ https://github.com/TapXWorld/ChinaTextbook
 https://github.com/Yuheng0101/X.git
 
 https://github.com/Gitiy/hwyy
+
+https://github.com/ylytdeng/wechat-decrypt
