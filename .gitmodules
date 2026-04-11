@@ -61,3 +61,6 @@
 [submodule "modules/hwyy"]
 	path = modules/hwyy
 	url = https://github.com/Gitiy/hwyy
+[submodule "modules/wechat-decrypt"]
+	path = modules/wechat-decrypt
+	url = https://github.com/ylytdeng/wechat-decrypt
