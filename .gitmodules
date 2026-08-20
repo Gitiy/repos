@@ -64,3 +64,9 @@
 [submodule "modules/wechat-decrypt"]
 	path = modules/wechat-decrypt
 	url = https://github.com/ylytdeng/wechat-decrypt
+[submodule "modules/OpenHome3D"]
+	path = modules/OpenHome3D
+	url = https://github.com/yuyou-dev/OpenHome3D
+[submodule "modules/prehistoric-animal-museum"]
+	path = modules/prehistoric-animal-museum
+	url = https://github.com/s010s/prehistoric-animal-museum
