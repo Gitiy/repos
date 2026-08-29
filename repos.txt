@@ -53,3 +53,5 @@ https://github.com/ylytdeng/wechat-decrypt
 https://github.com/yuyou-dev/OpenHome3D
 
 https://github.com/s010s/prehistoric-animal-museum
+
+https://github.com/THU-MAIC/OpenMAIC
