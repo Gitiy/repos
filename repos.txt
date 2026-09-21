@@ -55,3 +55,5 @@ https://github.com/yuyou-dev/OpenHome3D
 https://github.com/s010s/prehistoric-animal-museum
 
 https://github.com/THU-MAIC/OpenMAIC
+
+https://github.com/tigerowo/awesome-gpt-image-2-prompts
