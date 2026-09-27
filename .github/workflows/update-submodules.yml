@@ -1,4 +1,4 @@
-name: Update Submodules from repos.txt
+name: Sync Subtrees from repos.txt
 
 on:
   schedule:
@@ -15,24 +15,16 @@ jobs:
       - name: Checkout main repo
         uses: actions/checkout@v4
         with:
-          submodules: false  # 先不初始化子模块
+          fetch-depth: 0   # subtree 需要完整历史
 
       - name: Setup Git user
         run: |
           git config --global user.name "github-actions[bot]"
           git config --global user.email "github-actions[bot]@users.noreply.github.com"
 
-      - name: Initialize .gitmodules if missing
+      - name: Sync subtrees from repos.txt
         run: |
-          if [ ! -f .gitmodules ]; then
-            touch .gitmodules
-            git add .gitmodules
-            git commit -m "chore: init .gitmodules" || true
-          fi
-
-      - name: Process repos.txt and manage submodules
-        run: |
-          mkdir -p modules
+          mkdir -p repos
 
           # 兼容 Windows 换行符
           sed -i 's/\r$//' repos.txt
@@ -55,36 +47,54 @@ jobs:
               continue
             fi
 
+            # 计算 subtree 目录名
             if [[ -z "$custom_path" ]]; then
               repo_name=$(basename "$url" .git)
-              local_path="modules/$repo_name"
+              subtree_name="$repo_name"
             else
-              local_path="$custom_path"
-              mkdir -p "$(dirname "$local_path")"
+              subtree_name=$(basename "$custom_path")
             fi
+            subtree_dir="repos/$subtree_name"
 
-            # 检查是否已存在
-            if grep -q "path = $local_path" .gitmodules 2>/dev/null; then
-              echo "🔄 Updating existing submodule: $local_path"
-              (
-                cd "$local_path" && git fetch origin && git checkout $(git rev-parse --abbrev-ref HEAD) || echo "⚠️ Failed to update $local_path"
-              )
+            echo "🌳 Syncing subtree: $url -> $subtree_dir"
+
+            # 探测远端默认分支
+            remote_ref=$(git ls-remote --symref "$url" HEAD 2>/dev/null \
+              | awk '/^ref:/ {sub("refs/heads/", "", $2); print $2; exit}')
+            remote_ref=${remote_ref:-main}
+
+            if [[ -d "$subtree_dir" && -n "$(ls -A "$subtree_dir" 2>/dev/null)" ]]; then
+              # ---- 已存在 → 拉取更新 ----
+              echo "   ↻ pull subtree (branch: $remote_ref)"
+              if ! git subtree pull --prefix="$subtree_dir" "$url" "$remote_ref" \
+                   -m "chore(subtree): update $subtree_name from $remote_ref"; then
+                echo "⚠️ subtree pull failed for $subtree_name, trying --squash fallback..."
+                git subtree pull --prefix="$subtree_dir" "$url" "$remote_ref" \
+                  --squash -m "chore(subtree): update $subtree_name (squash)" || \
+                  echo "❌ Failed to update subtree $subtree_name"
+              fi
             else
-              echo "➕ Adding new submodule: $url -> $local_path"
-              git submodule add --force "$url" "$local_path" || echo "❌ Failed to add $url"
+              # ---- 不存在 → 首次添加 ----
+              echo "   ➕ add subtree"
+              rm -rf "$subtree_dir"
+              remote_alias="subtree_${subtree_name//[^A-Za-z0-9_]/_}"
+              git remote remove "$remote_alias" 2>/dev/null || true
+              git remote add "$remote_alias" "$url"
+              git fetch "$remote_alias" --tags --force || true
+              git subtree add --prefix="$subtree_dir" "$remote_alias" "$remote_ref" \
+                -m "chore(subtree): add $subtree_name from $remote_ref" || \
+                echo "❌ Failed to add subtree $subtree_name"
+              git remote remove "$remote_alias" 2>/dev/null || true
             fi
           done < repos.txt
 
       - name: Commit and push if changed
         run: |
-          # 确保 modules/ 目录存在（防止 git add 报错）
-          mkdir -p modules
-
-          git add .gitmodules
-          git add modules/ 2>/dev/null || true
+          mkdir -p repos
+          git add repos/ 2>/dev/null || true
 
           if ! git diff --cached --quiet; then
-            git commit -m "chore: sync submodules from repos.txt"
+            git commit -m "chore: sync subtrees from repos.txt"
             git push
             echo "✅ Changes pushed."
           else
