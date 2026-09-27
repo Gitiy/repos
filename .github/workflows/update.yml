@@ -5,17 +5,21 @@ on:
     - cron: '0 0 * * *'  # 每天 UTC 00:00 运行
   workflow_dispatch:     # 允许手动触发
 
+concurrency:
+  group: sync-subtrees
+  cancel-in-progress: false
+
 jobs:
   update:
     runs-on: ubuntu-latest
     permissions:
-      contents: write  # 必须允许 push
+      contents: write
 
     steps:
       - name: Checkout main repo
         uses: actions/checkout@v4
         with:
-          fetch-depth: 0   # subtree 需要完整历史
+          fetch-depth: 0
 
       - name: Setup Git user
         run: |
@@ -29,11 +33,15 @@ jobs:
           STATE_FILE=".subtree-state.json"
           [[ -f "$STATE_FILE" ]] || echo '{}' > "$STATE_FILE"
 
-          # 兼容 Windows 换行符
           sed -i 's/\r$//' repos.txt
 
-          # 本轮被跳过的仓库（供 README 使用）
           : > .subtree-skipped.txt
+
+          # 分条 add，避免一条失败影响其他
+          git add .subtree-state.json 2>/dev/null || true
+          git add .subtree-skipped.txt 2>/dev/null || true
+          git add repos/ 2>/dev/null || true
+          git commit -m "chore: init subtree state" --allow-empty || true
 
           while IFS= read -r line || [[ -n "$line" ]]; do
             trimmed=$(echo "$line" | sed 's/^[[:space:]]*//;s/[[:space:]]*$//')
@@ -59,35 +67,35 @@ jobs:
 
             echo "🌳 Syncing subtree: $url -> $subtree_dir"
 
-            # 探测远端默认分支
             remote_ref=$(git ls-remote --symref "$url" HEAD 2>/dev/null \
               | awk '/^ref:/ {sub("refs/heads/", "", $2); print $2; exit}')
             remote_ref=${remote_ref:-main}
+            echo "   branch=$remote_ref"
 
-            # ---------- 探测上游 HEAD ----------
             remote_alias="probe_${subtree_name//[^A-Za-z0-9_]/_}"
             git remote remove "$remote_alias" 2>/dev/null || true
             git remote add "$remote_alias" "$url"
-            if ! git fetch "$remote_alias" "$remote_ref" --force --tags 2>/dev/null; then
-              echo "❌ Failed to fetch $url, skipping $subtree_name"
+
+            if ! git fetch "$remote_alias" "$remote_ref" --force --tags 2>&1; then
+              echo "❌ Failed to fetch $url (branch: $remote_ref), skipping $subtree_name"
               git remote remove "$remote_alias" 2>/dev/null || true
+              echo "$subtree_name|$url|$remote_ref|fetch-failed" >> .subtree-skipped.txt
               continue
             fi
-            upstream_head=$(git rev-parse "$remote_alias/$remote_ref" 2>/dev/null || echo "")
 
+            upstream_head=$(git rev-parse "$remote_alias/$remote_ref" 2>/dev/null || echo "")
             if [[ -z "$upstream_head" ]]; then
               echo "⚠️ Cannot resolve upstream HEAD for $subtree_name, skipping"
               git remote remove "$remote_alias" 2>/dev/null || true
+              echo "$subtree_name|$url|$remote_ref|no-head" >> .subtree-skipped.txt
               continue
             fi
 
-            # 读取上次记录的上游 HEAD
             last_head=$(jq -r --arg k "$subtree_name" '.[$k].last_upstream_head // ""' "$STATE_FILE" 2>/dev/null || echo "")
 
             echo "   upstream_head=$upstream_head"
             echo "   last_head=${last_head:-<none>}"
 
-            # ---------- 判断是否为 force push / 回退 ----------
             REWRITTEN=false
             if [[ -n "$last_head" && "$last_head" != "null" && "$last_head" != "none" ]]; then
               if git cat-file -e "$last_head" 2>/dev/null; then
@@ -95,7 +103,6 @@ jobs:
                   REWRITTEN=true
                 fi
               else
-                # 旧 HEAD 在本地已不存在（被 gc 或从未 fetch），无法判断，保守视为可疑
                 echo "   ⚠️ last_head not present locally, cannot verify ancestry"
               fi
             fi
@@ -107,31 +114,42 @@ jobs:
               continue
             fi
 
-            # ---------- 正常更新 ----------
+            # ===== 关键：stash -u 保证工作区干净 =====
+            git stash push -u -m "pre-subtree-$subtree_name" 2>/dev/null || true
+
+            SUCCESS=false
             if [[ -d "$subtree_dir" && -n "$(ls -A "$subtree_dir" 2>/dev/null)" ]]; then
-              echo "   ↻ pull subtree (branch: $remote_ref)"
-              if ! git subtree pull --prefix="$subtree_dir" "$remote_alias" "$remote_ref" \
+              echo "   ↻ pull subtree"
+              if git subtree pull --prefix="$subtree_dir" "$remote_alias" "$remote_ref" \
                    -m "chore(subtree): update $subtree_name from $remote_ref"; then
+                SUCCESS=true
+              else
                 echo "⚠️ subtree pull failed, trying --squash fallback..."
-                git subtree pull --prefix="$subtree_dir" "$remote_alias" "$remote_ref" \
-                  --squash -m "chore(subtree): update $subtree_name (squash)" || {
-                    echo "❌ Failed to update subtree $subtree_name"
-                    git remote remove "$remote_alias" 2>/dev/null || true
-                    continue
-                  }
+                if git subtree pull --prefix="$subtree_dir" "$remote_alias" "$remote_ref" \
+                     --squash -m "chore(subtree): update $subtree_name (squash)"; then
+                  SUCCESS=true
+                fi
               fi
             else
               echo "   ➕ add subtree"
               rm -rf "$subtree_dir"
-              git subtree add --prefix="$subtree_dir" "$remote_alias" "$remote_ref" \
-                -m "chore(subtree): add $subtree_name from $remote_ref" || {
-                  echo "❌ Failed to add subtree $subtree_name"
-                  git remote remove "$remote_alias" 2>/dev/null || true
-                  continue
-                }
+              if git subtree add --prefix="$subtree_dir" "$remote_alias" "$remote_ref" \
+                   -m "chore(subtree): add $subtree_name from $remote_ref"; then
+                SUCCESS=true
+              fi
             fi
 
-            # ---------- 更新状态文件 ----------
+            # 恢复 stash
+            git stash pop 2>/dev/null || true
+
+            if [[ "$SUCCESS" != "true" ]]; then
+              echo "❌ Failed to sync subtree $subtree_name"
+              echo "$subtree_name|$url|$remote_ref|add-failed" >> .subtree-skipped.txt
+              git remote remove "$remote_alias" 2>/dev/null || true
+              continue
+            fi
+
+            # 更新状态文件
             tmp=$(mktemp)
             jq --arg k "$subtree_name" \
                --arg u "$url" \
@@ -157,7 +175,6 @@ jobs:
           TOTAL_KB=0
           TABLE_ROWS=""
 
-          # 读取跳过的仓库
           SKIPPED_LIST=""
           if [[ -f .subtree-skipped.txt ]]; then
             SKIPPED_LIST=$(cat .subtree-skipped.txt)
@@ -184,31 +201,38 @@ jobs:
             fi
             subtree_dir="repos/$subtree_name"
 
-            # 大小
             if [[ -d "$subtree_dir" ]]; then
               size_kb=$(du -sk "$subtree_dir" 2>/dev/null | awk '{print $1}')
               size_kb=${size_kb:-0}
+              file_count=$(find "$subtree_dir" -type f 2>/dev/null | wc -l)
+              echo "   📁 $subtree_dir: ${size_kb} KB, ${file_count} files"
             else
               size_kb=0
+              echo "   ⚠️ $subtree_dir does not exist"
             fi
             TOTAL_KB=$((TOTAL_KB + size_kb))
             REPO_COUNT=$((REPO_COUNT + 1))
 
-            # 最近提交
             last_commit=$(git log -1 --format='%h %ad' --date=short -- "$subtree_dir" 2>/dev/null)
             last_commit=${last_commit:-N/A}
 
-            # 人类可读大小
             if (( size_kb >= 1024 )); then
               size_hr=$(awk -v k="$size_kb" 'BEGIN{printf "%.2f MB", k/1024}')
             else
               size_hr="${size_kb} KB"
             fi
 
-            # 是否被跳过
             status="✅ 正常"
-            if echo "$SKIPPED_LIST" | grep -q "^${subtree_name}|"; then
-              status="⚠️ 已跳过（上游历史被重写）"
+            if [[ -n "$SKIPPED_LIST" ]] && echo "$SKIPPED_LIST" | grep -q "^${subtree_name}|"; then
+              reason=$(echo "$SKIPPED_LIST" | grep "^${subtree_name}|" | head -1 | cut -d'|' -f4)
+              case "$reason" in
+                force-push) status="⚠️ 已跳过（上游历史被重写）" ;;
+                fetch-failed) status="❌ 拉取失败" ;;
+                add-failed) status="❌ 添加失败" ;;
+                pull-failed) status="❌ 更新失败" ;;
+                no-head) status="❌ 无法解析上游 HEAD" ;;
+                *) status="⚠️ 已跳过" ;;
+              esac
             fi
 
             TABLE_ROWS="${TABLE_ROWS}| [${subtree_name}](${url}) | \`repos/${subtree_name}\` | ${size_hr} | ${last_commit} | ${status} |"$'\n'
@@ -258,11 +282,24 @@ jobs:
           git add repos/ 2>/dev/null || true
           git add README.md
           git add .subtree-state.json 2>/dev/null || true
+          git add .subtree-skipped.txt 2>/dev/null || true
 
-          if ! git diff --cached --quiet; then
-            git commit -m "chore: sync subtrees, update state and README"
-            git push
-            echo "✅ Changes pushed."
-          else
+          if git diff --cached --quiet; then
             echo "ℹ️ No changes detected."
+            exit 0
           fi
+
+          git commit -m "chore: sync subtrees, update state and README"
+
+          git fetch origin main
+          if ! git rebase origin/main; then
+            echo "⚠️ rebase conflict, trying merge strategy..."
+            git rebase --abort 2>/dev/null || true
+            if ! git pull --no-rebase --no-edit origin main; then
+              echo "❌ merge failed, aborting"
+              exit 1
+            fi
+          fi
+
+          git push origin main
+          echo "✅ Changes pushed."
