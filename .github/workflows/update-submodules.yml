@@ -30,24 +30,19 @@ jobs:
           sed -i 's/\r$//' repos.txt
 
           while IFS= read -r line || [[ -n "$line" ]]; do
-            # 去除首尾空白
             trimmed=$(echo "$line" | sed 's/^[[:space:]]*//;s/[[:space:]]*$//')
-            # 跳过空行和注释
             if [[ -z "$trimmed" || "$trimmed" == \#* ]]; then
               continue
             fi
 
-            # 提取 URL 和可选路径
             url=$(echo "$trimmed" | awk '{print $1}')
             custom_path=$(echo "$trimmed" | awk 'NF>=2 {print $2}')
 
-            # 跳过明显无效的 URL
             if [[ -z "$url" || "$url" == "https://" || "$url" == "http://" ]]; then
               echo "⚠️ Skipping invalid line: '$line'"
               continue
             fi
 
-            # 计算 subtree 目录名
             if [[ -z "$custom_path" ]]; then
               repo_name=$(basename "$url" .git)
               subtree_name="$repo_name"
@@ -58,23 +53,20 @@ jobs:
 
             echo "🌳 Syncing subtree: $url -> $subtree_dir"
 
-            # 探测远端默认分支
             remote_ref=$(git ls-remote --symref "$url" HEAD 2>/dev/null \
               | awk '/^ref:/ {sub("refs/heads/", "", $2); print $2; exit}')
             remote_ref=${remote_ref:-main}
 
             if [[ -d "$subtree_dir" && -n "$(ls -A "$subtree_dir" 2>/dev/null)" ]]; then
-              # ---- 已存在 → 拉取更新 ----
               echo "   ↻ pull subtree (branch: $remote_ref)"
               if ! git subtree pull --prefix="$subtree_dir" "$url" "$remote_ref" \
                    -m "chore(subtree): update $subtree_name from $remote_ref"; then
-                echo "⚠️ subtree pull failed for $subtree_name, trying --squash fallback..."
+                echo "⚠️ subtree pull failed, trying --squash fallback..."
                 git subtree pull --prefix="$subtree_dir" "$url" "$remote_ref" \
                   --squash -m "chore(subtree): update $subtree_name (squash)" || \
                   echo "❌ Failed to update subtree $subtree_name"
               fi
             else
-              # ---- 不存在 → 首次添加 ----
               echo "   ➕ add subtree"
               rm -rf "$subtree_dir"
               remote_alias="subtree_${subtree_name//[^A-Za-z0-9_]/_}"
@@ -88,13 +80,112 @@ jobs:
             fi
           done < repos.txt
 
+      - name: Generate README.md
+        run: |
+          sed -i 's/\r$//' repos.txt
+
+          SYNC_TIME=$(date -u '+%Y-%m-%d %H:%M:%S UTC')
+          REPO_COUNT=0
+          TOTAL_KB=0
+
+          # 收集数据行，稍后写入 README 表格
+          TABLE_ROWS=""
+
+          while IFS= read -r line || [[ -n "$line" ]]; do
+            trimmed=$(echo "$line" | sed 's/^[[:space:]]*//;s/[[:space:]]*$//')
+            if [[ -z "$trimmed" || "$trimmed" == \#* ]]; then
+              continue
+            fi
+
+            url=$(echo "$trimmed" | awk '{print $1}')
+            custom_path=$(echo "$trimmed" | awk 'NF>=2 {print $2}')
+
+            if [[ -z "$url" || "$url" == "https://" || "$url" == "http://" ]]; then
+              continue
+            fi
+
+            if [[ -z "$custom_path" ]]; then
+              repo_name=$(basename "$url" .git)
+              subtree_name="$repo_name"
+            else
+              subtree_name=$(basename "$custom_path")
+            fi
+            subtree_dir="repos/$subtree_name"
+
+            # 计算目录大小（KB）
+            if [[ -d "$subtree_dir" ]]; then
+              size_kb=$(du -sk "$subtree_dir" 2>/dev/null | awk '{print $1}')
+              size_kb=${size_kb:-0}
+            else
+              size_kb=0
+            fi
+            TOTAL_KB=$((TOTAL_KB + size_kb))
+            REPO_COUNT=$((REPO_COUNT + 1))
+
+            # 最近一次提交（子目录内）
+            if [[ -d "$subtree_dir/.git" || -d "$subtree_dir" ]]; then
+              last_commit=$(git log -1 --format='%h %ad' --date=short -- "$subtree_dir" 2>/dev/null)
+              last_commit=${last_commit:-N/A}
+            else
+              last_commit="N/A"
+            fi
+
+            # 人类可读大小
+            if (( size_kb >= 1024 )); then
+              size_hr=$(awk -v k="$size_kb" 'BEGIN{printf "%.2f MB", k/1024}')
+            else
+              size_hr="${size_kb} KB"
+            fi
+
+            TABLE_ROWS="${TABLE_ROWS}| [${subtree_name}](${url}) | \`repos/${subtree_name}\` | ${size_hr} | ${last_commit} |"$'\n'
+          done < repos.txt
+
+          # 总大小
+          if (( TOTAL_KB >= 1024 )); then
+            TOTAL_HR=$(awk -v k="$TOTAL_KB" 'BEGIN{printf "%.2f MB", k/1024}')
+          else
+            TOTAL_HR="${TOTAL_KB} KB"
+          fi
+
+          # 生成 README
+          {
+            echo "# Repos Sync"
+            echo ""
+            echo "本仓库通过 [GitHub Actions](.github/workflows/) 定时从 \`repos.txt\` 同步第三方仓库源码到 \`repos/\` 目录（使用 \`git subtree\`，保留完整提交历史）。"
+            echo ""
+            echo "## 📊 状态"
+            echo ""
+            echo "| 项目 | 值 |"
+            echo "|------|----|"
+            echo "| 🕒 最后同步 | ${SYNC_TIME} |"
+            echo "| 📦 跟踪仓库数 | ${REPO_COUNT} |"
+            echo "| 💾 总大小 | ${TOTAL_HR} |"
+            echo ""
+            echo "## 📚 仓库列表"
+            echo ""
+            if [[ -n "$TABLE_ROWS" ]]; then
+              echo "| 仓库 | 路径 | 大小 | 最近提交 |"
+              echo "|------|------|------|----------|"
+              printf "%s" "$TABLE_ROWS"
+            else
+              echo "_暂无仓库，请在 \`repos.txt\` 中添加。_"
+            fi
+            echo ""
+            echo "---"
+            echo ""
+            echo "<sub>🤖 本文件由 GitHub Actions 自动生成，请勿手动修改。</sub>"
+          } > README.md
+
+          echo "✅ README.md generated."
+
       - name: Commit and push if changed
         run: |
           mkdir -p repos
           git add repos/ 2>/dev/null || true
+          git add README.md
 
           if ! git diff --cached --quiet; then
-            git commit -m "chore: sync subtrees from repos.txt"
+            git commit -m "chore: sync subtrees and update README"
             git push
             echo "✅ Changes pushed."
           else
