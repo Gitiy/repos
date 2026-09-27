@@ -26,8 +26,14 @@ jobs:
         run: |
           mkdir -p repos
 
+          STATE_FILE=".subtree-state.json"
+          [[ -f "$STATE_FILE" ]] || echo '{}' > "$STATE_FILE"
+
           # 兼容 Windows 换行符
           sed -i 's/\r$//' repos.txt
+
+          # 本轮被跳过的仓库（供 README 使用）
+          : > .subtree-skipped.txt
 
           while IFS= read -r line || [[ -n "$line" ]]; do
             trimmed=$(echo "$line" | sed 's/^[[:space:]]*//;s/[[:space:]]*$//')
@@ -53,43 +59,109 @@ jobs:
 
             echo "🌳 Syncing subtree: $url -> $subtree_dir"
 
+            # 探测远端默认分支
             remote_ref=$(git ls-remote --symref "$url" HEAD 2>/dev/null \
               | awk '/^ref:/ {sub("refs/heads/", "", $2); print $2; exit}')
             remote_ref=${remote_ref:-main}
 
+            # ---------- 探测上游 HEAD ----------
+            remote_alias="probe_${subtree_name//[^A-Za-z0-9_]/_}"
+            git remote remove "$remote_alias" 2>/dev/null || true
+            git remote add "$remote_alias" "$url"
+            if ! git fetch "$remote_alias" "$remote_ref" --force --tags 2>/dev/null; then
+              echo "❌ Failed to fetch $url, skipping $subtree_name"
+              git remote remove "$remote_alias" 2>/dev/null || true
+              continue
+            fi
+            upstream_head=$(git rev-parse "$remote_alias/$remote_ref" 2>/dev/null || echo "")
+
+            if [[ -z "$upstream_head" ]]; then
+              echo "⚠️ Cannot resolve upstream HEAD for $subtree_name, skipping"
+              git remote remove "$remote_alias" 2>/dev/null || true
+              continue
+            fi
+
+            # 读取上次记录的上游 HEAD
+            last_head=$(jq -r --arg k "$subtree_name" '.[$k].last_upstream_head // ""' "$STATE_FILE" 2>/dev/null || echo "")
+
+            echo "   upstream_head=$upstream_head"
+            echo "   last_head=${last_head:-<none>}"
+
+            # ---------- 判断是否为 force push / 回退 ----------
+            REWRITTEN=false
+            if [[ -n "$last_head" && "$last_head" != "null" && "$last_head" != "none" ]]; then
+              if git cat-file -e "$last_head" 2>/dev/null; then
+                if ! git merge-base --is-ancestor "$last_head" "$upstream_head" 2>/dev/null; then
+                  REWRITTEN=true
+                fi
+              else
+                # 旧 HEAD 在本地已不存在（被 gc 或从未 fetch），无法判断，保守视为可疑
+                echo "   ⚠️ last_head not present locally, cannot verify ancestry"
+              fi
+            fi
+
+            if [[ "$REWRITTEN" == "true" ]]; then
+              echo "::warning::Force push / history rewrite detected on $subtree_name ($url). Skipping to preserve local copy."
+              echo "$subtree_name|$url|$remote_ref|force-push" >> .subtree-skipped.txt
+              git remote remove "$remote_alias" 2>/dev/null || true
+              continue
+            fi
+
+            # ---------- 正常更新 ----------
             if [[ -d "$subtree_dir" && -n "$(ls -A "$subtree_dir" 2>/dev/null)" ]]; then
               echo "   ↻ pull subtree (branch: $remote_ref)"
-              if ! git subtree pull --prefix="$subtree_dir" "$url" "$remote_ref" \
+              if ! git subtree pull --prefix="$subtree_dir" "$remote_alias" "$remote_ref" \
                    -m "chore(subtree): update $subtree_name from $remote_ref"; then
                 echo "⚠️ subtree pull failed, trying --squash fallback..."
-                git subtree pull --prefix="$subtree_dir" "$url" "$remote_ref" \
-                  --squash -m "chore(subtree): update $subtree_name (squash)" || \
-                  echo "❌ Failed to update subtree $subtree_name"
+                git subtree pull --prefix="$subtree_dir" "$remote_alias" "$remote_ref" \
+                  --squash -m "chore(subtree): update $subtree_name (squash)" || {
+                    echo "❌ Failed to update subtree $subtree_name"
+                    git remote remove "$remote_alias" 2>/dev/null || true
+                    continue
+                  }
               fi
             else
               echo "   ➕ add subtree"
               rm -rf "$subtree_dir"
-              remote_alias="subtree_${subtree_name//[^A-Za-z0-9_]/_}"
-              git remote remove "$remote_alias" 2>/dev/null || true
-              git remote add "$remote_alias" "$url"
-              git fetch "$remote_alias" --tags --force || true
               git subtree add --prefix="$subtree_dir" "$remote_alias" "$remote_ref" \
-                -m "chore(subtree): add $subtree_name from $remote_ref" || \
-                echo "❌ Failed to add subtree $subtree_name"
-              git remote remove "$remote_alias" 2>/dev/null || true
+                -m "chore(subtree): add $subtree_name from $remote_ref" || {
+                  echo "❌ Failed to add subtree $subtree_name"
+                  git remote remove "$remote_alias" 2>/dev/null || true
+                  continue
+                }
             fi
+
+            # ---------- 更新状态文件 ----------
+            tmp=$(mktemp)
+            jq --arg k "$subtree_name" \
+               --arg u "$url" \
+               --arg b "$remote_ref" \
+               --arg h "$upstream_head" \
+               '.[$k] = {url:$u, branch:$b, last_upstream_head:$h, synced_at:(now|todate)}' \
+               "$STATE_FILE" > "$tmp" && mv "$tmp" "$STATE_FILE"
+
+            git remote remove "$remote_alias" 2>/dev/null || true
           done < repos.txt
+
+          echo "✅ Subtree sync finished."
 
       - name: Generate README.md
         run: |
           sed -i 's/\r$//' repos.txt
 
+          STATE_FILE=".subtree-state.json"
+          [[ -f "$STATE_FILE" ]] || echo '{}' > "$STATE_FILE"
+
           SYNC_TIME=$(date -u '+%Y-%m-%d %H:%M:%S UTC')
           REPO_COUNT=0
           TOTAL_KB=0
-
-          # 收集数据行，稍后写入 README 表格
           TABLE_ROWS=""
+
+          # 读取跳过的仓库
+          SKIPPED_LIST=""
+          if [[ -f .subtree-skipped.txt ]]; then
+            SKIPPED_LIST=$(cat .subtree-skipped.txt)
+          fi
 
           while IFS= read -r line || [[ -n "$line" ]]; do
             trimmed=$(echo "$line" | sed 's/^[[:space:]]*//;s/[[:space:]]*$//')
@@ -112,7 +184,7 @@ jobs:
             fi
             subtree_dir="repos/$subtree_name"
 
-            # 计算目录大小（KB）
+            # 大小
             if [[ -d "$subtree_dir" ]]; then
               size_kb=$(du -sk "$subtree_dir" 2>/dev/null | awk '{print $1}')
               size_kb=${size_kb:-0}
@@ -122,13 +194,9 @@ jobs:
             TOTAL_KB=$((TOTAL_KB + size_kb))
             REPO_COUNT=$((REPO_COUNT + 1))
 
-            # 最近一次提交（子目录内）
-            if [[ -d "$subtree_dir/.git" || -d "$subtree_dir" ]]; then
-              last_commit=$(git log -1 --format='%h %ad' --date=short -- "$subtree_dir" 2>/dev/null)
-              last_commit=${last_commit:-N/A}
-            else
-              last_commit="N/A"
-            fi
+            # 最近提交
+            last_commit=$(git log -1 --format='%h %ad' --date=short -- "$subtree_dir" 2>/dev/null)
+            last_commit=${last_commit:-N/A}
 
             # 人类可读大小
             if (( size_kb >= 1024 )); then
@@ -137,21 +205,27 @@ jobs:
               size_hr="${size_kb} KB"
             fi
 
-            TABLE_ROWS="${TABLE_ROWS}| [${subtree_name}](${url}) | \`repos/${subtree_name}\` | ${size_hr} | ${last_commit} |"$'\n'
+            # 是否被跳过
+            status="✅ 正常"
+            if echo "$SKIPPED_LIST" | grep -q "^${subtree_name}|"; then
+              status="⚠️ 已跳过（上游历史被重写）"
+            fi
+
+            TABLE_ROWS="${TABLE_ROWS}| [${subtree_name}](${url}) | \`repos/${subtree_name}\` | ${size_hr} | ${last_commit} | ${status} |"$'\n'
           done < repos.txt
 
-          # 总大小
           if (( TOTAL_KB >= 1024 )); then
             TOTAL_HR=$(awk -v k="$TOTAL_KB" 'BEGIN{printf "%.2f MB", k/1024}')
           else
             TOTAL_HR="${TOTAL_KB} KB"
           fi
 
-          # 生成 README
           {
             echo "# Repos Sync"
             echo ""
             echo "本仓库通过 [GitHub Actions](.github/workflows/) 定时从 \`repos.txt\` 同步第三方仓库源码到 \`repos/\` 目录（使用 \`git subtree\`，保留完整提交历史）。"
+            echo ""
+            echo "> 🛡️ 若上游发生 **force push / 历史重写 / 清空**，本次同步会**跳过该仓库**以保留本地副本，并在下表标注 ⚠️。"
             echo ""
             echo "## 📊 状态"
             echo ""
@@ -164,8 +238,8 @@ jobs:
             echo "## 📚 仓库列表"
             echo ""
             if [[ -n "$TABLE_ROWS" ]]; then
-              echo "| 仓库 | 路径 | 大小 | 最近提交 |"
-              echo "|------|------|------|----------|"
+              echo "| 仓库 | 路径 | 大小 | 最近提交 | 状态 |"
+              echo "|------|------|------|----------|------|"
               printf "%s" "$TABLE_ROWS"
             else
               echo "_暂无仓库，请在 \`repos.txt\` 中添加。_"
@@ -183,9 +257,10 @@ jobs:
           mkdir -p repos
           git add repos/ 2>/dev/null || true
           git add README.md
+          git add .subtree-state.json 2>/dev/null || true
 
           if ! git diff --cached --quiet; then
-            git commit -m "chore: sync subtrees and update README"
+            git commit -m "chore: sync subtrees, update state and README"
             git push
             echo "✅ Changes pushed."
           else
