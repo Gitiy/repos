@@ -120,12 +120,12 @@ jobs:
             SUCCESS=false
             if [[ -d "$subtree_dir" && -n "$(ls -A "$subtree_dir" 2>/dev/null)" ]]; then
               echo "   ↻ pull subtree"
-              if git subtree pull --prefix="$subtree_dir" "$remote_alias" "$remote_ref" \
+              if git subtree pull --prefix="$subtree_dir" "$remote_alias" "$remote_ref"  --squash\
                    -m "chore(subtree): update $subtree_name from $remote_ref"; then
                 SUCCESS=true
               else
                 echo "⚠️ subtree pull failed, trying --squash fallback..."
-                if git subtree pull --prefix="$subtree_dir" "$remote_alias" "$remote_ref" \
+                if git subtree pull --prefix="$subtree_dir" "$remote_alias" "$remote_ref" --squash\
                      --squash -m "chore(subtree): update $subtree_name (squash)"; then
                   SUCCESS=true
                 fi
@@ -133,7 +133,7 @@ jobs:
             else
               echo "   ➕ add subtree"
               rm -rf "$subtree_dir"
-              if git subtree add --prefix="$subtree_dir" "$remote_alias" "$remote_ref" \
+              if git subtree add --prefix="$subtree_dir" "$remote_alias" "$remote_ref"  --squash\
                    -m "chore(subtree): add $subtree_name from $remote_ref"; then
                 SUCCESS=true
               fi
