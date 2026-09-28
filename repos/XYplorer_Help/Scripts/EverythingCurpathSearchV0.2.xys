@@ -1,0 +1,2 @@
+	$everything_dir = "D:\PortableApps\Everything";		//填写everything路径
+	run ("cmd /c everything -path "."""<curpath>""", $everything_dir);
