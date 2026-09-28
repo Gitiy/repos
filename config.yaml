@@ -1,0 +1,18 @@
+album_format: '{output}/{album}/'
+artist_album_format: '{output}/{artist}/{album}/'
+artist_single_format: '{output}/{artist}/'
+artist_type: s
+authorization: 
+cover: true
+cover_size: big
+download: true
+file_name: '{title}-{filesize}-{duration}-{rate}'
+lyric: true
+max_count: 500
+num_threads: 10
+output: ./o
+playlist_format: '{output}/{playlist_name}/{title}/'
+range: all
+single_format: '{output}/{artist}/'
+ablum_range: 1-2
+quality: all
