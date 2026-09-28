@@ -1,0 +1,16 @@
+# Script output / working dirs
+tmp/
+result/
+script/
+__pycache__/
+build/
+dist/
+
+# Local
+AGENTS.md
+PromptEditor/
+prompt/
+.env
+.skill/
+server.bat
+server.py

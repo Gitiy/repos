@@ -1,0 +1,7330 @@
+# 🍌 Кейсы портретов и фотографии
+
+> Part of [awesome-gpt-image-2-prompts](../README_ru.md)
+
+### Case 1: [Convenience Store Neon Portrait](https://x.com/BubbleBrain/status/2045167461147042202) (by [@BubbleBrain](https://x.com/BubbleBrain))
+
+| Результат |
+| :----: |
+| <a href="../images/portrait_case1/output.jpg" target="_blank" rel="noopener noreferrer"><img src="../images/portrait_case1/output.jpg" width="300" alt="Результирующее изображение"></a> |
+
+**Промпт：**
+
+```
+35mm film photography with harsh convenience store fluorescent lighting mixed with colorful neon signs from outside, authentic film grain, high contrast, slight color cast, cinematic street editorial style, intimate medium shot, early 20s sexy Chinese female idol with ultra-realistic delicate refined Chinese features, seductive almond-shaped fox eyes with natural double eyelids, high nose bridge, small sharp V-shaped jawline, flawless porcelain skin with cool ivory undertone and visible specular highlights from fluorescent light, subtle skin texture and micro pores, natural dewy makeup with soft flush on cheeks, glossy natural pink lips slightly parted, subtle natural freckles across nose and cheeks, long dark brown hair in a messy high ponytail with many loose strands falling around face and neck, wearing an oversized white button-up shirt as the only top, unbuttoned at the top with deep cleavage and loosely tied at the waist, paired with a tiny black pleated mini skirt, barefoot in simple white slides, seductive casual leaning pose against the glass door of a 24-hour convenience store at late night, body slightly arched, one leg bent with foot resting against the door frame, the other leg straight, one hand holding a bottle of iced drink, the other hand lightly pulling the hem of her mini skirt, intensely seductive playful yet slightly vulnerable gaze straight at the viewer with soft doe eyes full of quiet temptation and teasing smile, bright cold fluorescent store light from inside mixed with pink and blue neon glow from outside signs, realistic reflections on glass door, blurred convenience store interior with shelves and snacks in background, authentic 35mm film color grading with harsh lighting and neon accents, extremely sharp yet soft skin rendering, natural hair strands, realistic fabric wrinkles and drape on the oversized shirt and mini skirt, no plastic skin, no digital over-sharpening, no airbrushing, no blemishes, no moles, no oily skin, no watermark, no text, authentic late-night convenience store atmosphere
+```
+### Case 2: [Cinematic Minimal Portrait](https://x.com/iam_miharbi/status/2045151354679665101) (by [@iam_miharbi](https://x.com/iam_miharbi))
+
+| Результат |
+| :----: |
+| <a href="../images/portrait_case2/output.jpg" target="_blank" rel="noopener noreferrer"><img src="../images/portrait_case2/output.jpg" width="300" alt="Результирующее изображение"></a> |
+
+**Промпт：**
+
+```
+Generate a cinematic minimal portrait of a solitary man standing in an intense orange to red gradient environment, strong silhouette lighting, deep shadow contrast, reflective glossy floor, symmetrical composition, minimal
+```
+### Case 3: [Japanese Onsen Ryokan Portrait](https://x.com/BubbleBrain/status/2045092449803284923) (by [@BubbleBrain](https://x.com/BubbleBrain))
+
+| Результат |
+| :----: |
+| <a href="../images/portrait_case3/output.jpg" target="_blank" rel="noopener noreferrer"><img src="../images/portrait_case3/output.jpg" width="300" alt="Результирующее изображение"></a> |
+
+**Промпт：**
+
+```
+35mm film photography, warm vintage Japanese onsen ryokan aesthetic, soft ambient wooden lantern lighting mixed with gentle natural window light, subtle film grain, gentle color shift, high atmosphere editorial style, intimate medium shot, early 20s beautiful Chinese female idol with ultra-realistic delicate refined Chinese features, seductive almond-shaped fox eyes with natural double eyelids, high nose bridge, small sharp V-shaped jawline, flawless porcelain skin with warm ivory undertone, visible subtle skin texture and micro pores, soft natural makeup with dewy glow, subtle rosy flush on cheeks, natural soft pink lips slightly parted, long dark brown hair tied in a loose low bun with some messy strands falling around face and neck, wearing a loose white yukata (traditional Japanese bathrobe) deliberately slipped off one shoulder and loosely tied at the waist, the fabric slightly open revealing smooth skin and subtle cleavage, barefoot, seductive relaxed sitting pose on the edge of a traditional wooden engawa veranda at a vintage onsen ryokan, body slightly turned toward the camera, one leg bent with foot resting on the wooden floor, the other leg gently dangling, one hand lightly holding the yukata collar, the other hand resting on the wooden floor behind her for support, softly arched back to gently accentuate curves, intensely seductive yet gentle and inviting gaze straight at the viewer with soft doe eyes full of quiet temptation and warmth, warm wooden interior with paper sliding doors and distant steaming hot spring in soft focus, gentle rim lighting highlighting skin and fabric texture, authentic vintage film color grading with warm tones, extremely sharp yet soft skin rendering, natural hair strands, realistic fabric wrinkles and drape on the yukata, no plastic skin, no digital over-sharpening, no airbrushing, no blemishes, no moles, no oily skin, no watermark, no text, authentic 35mm film Japanese onsen ryokan atmosphere
+```
+### Case 4: [35mm Flash Editorial Portrait](https://x.com/BubbleBrain/status/2045052982728016131) (by [@BubbleBrain](https://x.com/BubbleBrain))
+
+| Результат |
+| :----: |
+| <a href="../images/portrait_case4/output.jpg" target="_blank" rel="noopener noreferrer"><img src="../images/portrait_case4/output.jpg" width="300" alt="Результирующее изображение"></a> |
+
+**Промпт：**
+
+```
+35mm color film photography with harsh direct on-camera flash, specular highlights on skin and clothing, strong catchlights in eyes, high contrast flash illumination, authentic film grain and color shift, high fashion fresh innocent basketball court editorial style, intimate first-person low-angle POV shot from below, early 20s sexy Chinese female idol with ultra-realistic delicate refined Chinese features, seductive almond-shaped fox eyes with natural double eyelids, high nose bridge, small sharp V-shaped jawline, flawless realistic porcelain skin with cool ivory undertone and visible flash specular highlights, fine delicate skin texture with subtle pores micro details and natural dewy glow under flash, fresh natural sporty makeup with soft dewy glow, subtle natural flush on cheeks, natural pink lips slightly parted, subtle natural freckles across nose and cheeks, long dark brown hair tied in a high playful ponytail with some loose strands framing the face and realistic loose strands, wearing a loose white tank top and white high-waisted basketball shorts, white knee-high sports socks, seductive natural leaning pose against the basketball hoop pole on the outdoor court at dusk, body angled sideways with naturally arched back and hips gently pushed back to accentuate perky round hips and sexy butt curve, one leg naturally extended forward toward the camera and the other leg slightly bent to emphasize long sexy legs, both hands lightly resting on the basketball pole at shoulder height, intensely seductive playful yet pitiable doe-eyed gaze straight at the viewer with soft vulnerable longing eyes and a gentle teasing smile full of quiet temptation and desire, harsh direct on-camera flash creating sharp specular highlights and strong catchlights, background with blurred basketball court and hoop under dusk sky, high contrast film color grading with natural flash look, extremely sharp yet soft skin rendering with authentic 35mm direct flash aesthetic, natural hair strands, realistic fabric texture on tank top and shorts with socks detail, no plastic skin, no digital over-sharpening, no airbrushing, no blemishes, no moles, no oily skin, no watermark, no text, authentic 35mm direct flash film basketball court look --ar 9:16
+```
+### Case 5: [Mirror Selfie Bedroom Portrait](https://x.com/Shinning1010/status/2045002808903020962) (by [@Shinning1010](https://x.com/Shinning1010))
+
+| Результат |
+| :----: |
+| <a href="../images/portrait_case5/output.jpg" target="_blank" rel="noopener noreferrer"><img src="../images/portrait_case5/output.jpg" width="300" alt="Результирующее изображение"></a> |
+
+**Промпт：**
+
+```
+A stunning 18-year-old Chinese girl with a youthful, pure face and realistic skin texture, sitting on a cozy, slightly messy bed in her bedroom. She is taking a mirror selfie with a smartphone, capturing a natural and intimate moment. Wearing casual gray loungewear and neat white crew socks. Soft natural light (golden hour) streams in from a side window, creating a warm, moody, and cinematic atmosphere. 35mm lens, sharp focus on the subject in the mirror, depth of field with a beautifully blurred background (bokeh). Photorealistic, 8K, high resolution, studio quality, masterpiece.
+Negative Prompts: no extra limbs, no deformed hands, no blur, no noise, no watermark, no text, no cartoon/anime style. Aspect Ratio: 3:4.
+```
+
+### Case 6: [Soft Airy 35mm Portrait](https://x.com/BubbleBrain/status/2046115431144902732) (by [@BubbleBrain](https://x.com/BubbleBrain))
+
+| Результат |
+| :----: |
+| <a href="../images/portrait_case6/output.jpg" target="_blank" rel="noopener noreferrer"><img src="../images/portrait_case6/output.jpg" width="300" alt="Результирующее изображение"></a> |
+
+**Промпт：**
+
+```
+Analog 35mm film photography, soft airy Japanese-style aesthetic, gentle diffused natural window light, slight overexposure, pastel tones, low contrast, soft highlights, minimal indoor setting near a window with white curtains, clean light-colored wall, natural composition, eye-level, slightly closer full-body framing (mid-thigh to head), young East Asian woman, natural minimal makeup, soft realistic skin texture, long slightly messy dark hair, oversized white button-up shirt, light casual shorts, barefoot, simple and relaxed styling, standing naturally with relaxed posture, arms loosely at sides or slightly behind, facing camera, gentle soft smile, subtle stillness, focus on light, air, and quiet everyday mood, soft film grain, dreamy and understated atmosphere --ar 9:16
+```
+
+### Case 7: [Luxury Glam Beauty Portrait](https://x.com/patrickassale/status/2044581766309060765) (by [@patrickassale](https://x.com/patrickassale))
+
+| Результат |
+| :----: |
+| <a href="../images/portrait_case7/output.jpg" target="_blank" rel="noopener noreferrer"><img src="../images/portrait_case7/output.jpg" width="300" alt="Результирующее изображение"></a> |
+
+**Промпт：**
+
+```
+Luxury Glam Beauty Portrait:, Beautiful Black woman, youthful spirit, creamy vanilla, silk press, mahogany red, subtle confidence, textured fabric, sapphire blue, minimal jewelry, beachside breeze, lens flare effect, nostalgic, cinematic lens, symmetrical composition, soft focus, high fashion photography, monochromatic, dewy finish, mysterious tension, layered elements
+```
+### Case 8: [9:16 Cosplayer Portrait Screenshot](https://x.com/Zoulinshen/status/2045082518089810073) (by [@Zoulinshen](https://x.com/Zoulinshen))
+
+| Результат |
+| :----: |
+| <a href="../images/portrait_case8/output.jpg" target="_blank" rel="noopener noreferrer"><img src="../images/portrait_case8/output.jpg" width="300" alt="Результирующее изображение"></a> |
+
+**Промпт：**
+
+```
+ 生成一张竖版手机截图风格的图片，整体比例接近 9:16。画面中心偏上是一位真人 coser，扮演（角色名称）的二次元角色。人物为写实风格，但五官略带动漫感，皮肤细腻，眼睛稍大，表情温柔地看向镜头，坐在室内的休闲场景中，例如咖啡厅或酒吧吧台前，背景有符合场景的道具。画面最上方加入手机系统状态栏 UI，包括时间、电量、信号、网络等图标，让整张图看起来像手机截图。画面底部叠加一块宽大的半透明 galgame 风格对话框，对话框左侧放一个与画面人物对应的动漫或 Q 版头像；对话框右侧排版文字：第一行用较大字体显示与前面相同的角色名字，下面一到两行显示一段适合这个角色人设的、温柔治愈风格的简体中文台词，由你自动创作。再在对话框下方加一条操作栏，仿照 galgame UI。整体风格高清、细节丰富、光线柔和、二次元与真人写真自然融合。
+```
+
+### Case 9: [Urban Turn-Back Street Portrait](https://x.com/Tz_2022/status/2045892003775361198) (by [@Tz_2022](https://x.com/Tz_2022))
+
+| Результат |
+| :----: |
+| <a href="../images/portrait_case9/output.jpg" target="_blank" rel="noopener noreferrer"><img src="../images/portrait_case9/output.jpg" width="300" alt="Результирующее изображение"></a> |
+
+**Промпт：**
+
+```
+该画面为中近景，采用平视镜头，聚焦于一位年轻女性。她以七分身镜头呈现，身体坐姿略带倾斜，臀部向后撅起，双腿自然交叠，左腿在前，右腿在后，膝盖微屈。她将上半身向右后方扭转，头部则转向镜头方向，形成一个经典的“回眸”姿态，目光直视镜头，眼神清澈而略带一丝俏皮。她的发型是蓬松的棕色齐肩短发，刘海自然垂落，发尾微卷，妆容清淡自然，仅在眼部有轻微眼线勾勒，唇色为自然裸粉。画面整体采用自然日光滤镜，光线从画面左上方斜射入，形成柔和的逆光轮廓，面部和身体右侧被温暖的金色光线照亮，左侧则形成自然的阴影过渡，增强了立体感。灯光效果是明亮的自然光，带有轻微的镜头眩光，营造出午后阳光的氛围。拍摄角度为平视，构图上，人物主体位于画面中偏右位置，背景中的斑马线与道路线条形成自然的引导线，将视线引向人物。背景为城市街道，包含道路、斑马线、绿化带和远处的车辆，背景被适度虚化，但依然可辨识出树木、护栏和停放的电动车等元素，构图上利用了三分法，人物位于右侧三分之一处，增强了画面的平衡感。主体穿着一件军绿色迷彩图案的连帽卫衣，下身搭配黑色短裤，脚穿白色高帮运动鞋配白色中筒袜。背包为黑色，带有橙黄色装饰条纹和一个橙色毛绒挂件，材质为帆布和皮革拼接。整体风格为街头休闲风，肢体语言放松自然，表情略带好奇与俏皮，整体呈现出一种随性、青春、充满活力的都市少女形象。
+```
+
+### Case 10: [Sam Altman Skatepark Snapshot](https://x.com/Malek1173989/status/2045836887684694395) (by [@Malek1173989](https://x.com/Malek1173989))
+
+| Результат |
+| :----: |
+| <a href="../images/portrait_case10/output.jpg" target="_blank" rel="noopener noreferrer"><img src="../images/portrait_case10/output.jpg" width="300" alt="Результирующее изображение"></a> |
+
+**Промпт：**
+
+```
+"Sam Altman on a skateboard at a skatepark with no people."
+```
+
+### Case 11: [Korean Idol 3x3 Grid Portrait](https://x.com/BubbleBrain/status/2046268941941850575) (by [@BubbleBrain](https://x.com/BubbleBrain))
+
+| Результат |
+| :----: |
+| <a href="../images/portrait_case11/output.jpg" target="_blank" rel="noopener noreferrer"><img src="../images/portrait_case11/output.jpg" width="300" alt="Результирующее изображение"></a> |
+
+**Промпт：**
+
+```
+9:16 vertical, Korean idol portrait photoshoot, 3x3 grid (nine frames), same person in all images, consistent facial features and styling, soft black mist filter effect, lowered contrast, blooming highlights, subtle glow around light sources
+```
+
+### Case 12: [CCD Camera Flash Korean Idol](https://x.com/BubbleBrain/status/2046190539213885806) (by [@BubbleBrain](https://x.com/BubbleBrain))
+
+| Результат |
+| :----: |
+| <a href="../images/portrait_case12/output.jpg" target="_blank" rel="noopener noreferrer"><img src="../images/portrait_case12/output.jpg" width="300" alt="Результирующее изображение"></a> |
+
+**Промпт：**
+
+```
+mobile phone photo, old CCD camera aesthetic, harsh flash, grainy, dim messy indoor lighting, candid snapshot feeling, slight motion blur, young Korean female idol, soft innocent look
+```
+
+### Case 13: [Korean Idol 3x3 Collage Portrait](https://x.com/BubbleBrain/status/2046151898621993364) (by [@BubbleBrain](https://x.com/BubbleBrain))
+
+| Результат |
+| :----: |
+| <a href="../images/portrait_case13/output.jpg" target="_blank" rel="noopener noreferrer"><img src="../images/portrait_case13/output.jpg" width="300" alt="Результирующее изображение"></a> |
+
+**Промпт：**
+
+```
+9:16 vertical — a 3x3 grid collage (nine images) forming a Korean idol portrait photoshoot series. Each frame features the same young Korean female idol, maintaining 100% consistency in facial features, proportions, hairstyle, and identity across all nine shots.   Natural, ultra-realistic skin texture, no retouching, no smoothing. Clean idol-style minimal makeup, soft glow, subtle imperfections.   Hair: long, voluminous dark hair, slightly tousled, consistent across all frames (natural loose flow, slight movement).  Outfit: cohesive Korean idol photoshoot styling — white shirt + short bottoms (or simple neutral-toned outfit), youthful, clean, slightly casual but styled. Same outfit across all frames.  Setting: minimal studio or simple indoor environment (plain wall, soft window light, clean background). Focus on subject, not environment.  Lighting: soft diffused natural light, gentle highlights, low contrast, slightly airy tones, subtle film-like softness.  Camera style: intimate portrait photography, slightly handheld feel, subtle imperfections (minor grain, slight blur in motion frames, imperfect framing).  Frame breakdown (3x3 grid):  Top row: - Top left: standing naturally, looking slightly away, relaxed expression - Top center: facing camera, casual mid-motion (hair or body slight movement) - Top right: slight side angle, soft gaze, natural candid feel  Middle row: - Center left: looking slightly upward, soft thoughtful expression - Center: close-up portrait, direct eye contact, gentle idol smile - Center right: turning body slightly, mid-motion candid frame  Bottom row: - Bottom left: seated or leaning casually, relaxed posture - Bottom center: back partially turned, looking over shoulder toward camera - Bottom right: standing close to frame, slightly playful or soft expression  Mood: Korean idol photobook / photocard aesthetic, intimate, soft, natural, everyday charm.  Quality: ultra-realistic, 8K detail, subtle analog film grain, natural imperfections, soft dreamy tone
+```
+
+### Case 14: [Soft Black Mist Editorial Portrait](https://x.com/BubbleBrain/status/2046434670724907395) (by [@BubbleBrain](https://x.com/BubbleBrain))
+
+| Результат |
+| :----: |
+| <a href="../images/portrait_case14/output.jpg" target="_blank" rel="noopener noreferrer"><img src="../images/portrait_case14/output.jpg" width="300" alt="Результирующее изображение"></a> |
+
+**Промпт：**
+
+```
+9:16 vertical — editorial portrait, single subject  soft black mist filter, subtle haze, gentle highlight bloom, muted tones  minimal indoor space, clean background, slight texture  young Korean woman, minimal makeup, natural skin texture  outfit: fitted ribbed knit top or soft camisole layered under a loose shirt, paired with high-waisted shorts or skirt; fabric slightly clings to body shape, soft and natural, no revealing elements  hair: slightly messy, natural volume  pose: sitting on floor with one leg bent and the other relaxed, body slightly leaning, shoulders not aligned, head tilted  composition: subject slightly off-center, negative space present  expression: calm, slightly distant, natural lips  lighting: soft side light, gentle shadow falloff  mood: understated, quiet, subtly sensual through natural body lines, relaxed and unposed  quality: fine grain, slight softness, realistic look
+```
+
+### Case 15: [Fujifilm Strawberry School Portrait](https://x.com/BubbleBrain/status/2046483268019884384) (by [@BubbleBrain](https://x.com/BubbleBrain))
+
+| Результат |
+| :----: |
+| <a href="../images/portrait_case15/output.jpg" target="_blank" rel="noopener noreferrer"><img src="../images/portrait_case15/output.jpg" width="300" alt="Результирующее изображение"></a> |
+
+**Промпт：**
+
+```
+9:16 vertical — Japanese Fuji film style portrait, single subject  Fujifilm analog aesthetic (Pro 400H / Superia feel), soft pastel tones, slight green-magenta shift, low contrast, gentle highlight roll-off, fine film grain, subtle halation, slight vignette  bright natural daylight, diffused sunlight through window, soft shadows, airy atmosphere  young Japanese female idol, natural minimal makeup, fresh glowing skin, realistic texture, slight imperfections  outfit: Japanese school uniform (sailor-style or blazer uniform), neatly styled, non-revealing, youthful and clean  hair: natural dark hair, straight or softly flowing, a few loose strands  pose: front-facing or slight angle toward camera, relaxed posture; one hand gently holding a strawberry near lips, mid-action as if about to take a bite; shoulders relaxed, subtle natural body curve  expression: soft playful gaze, light smile or neutral lips, gentle eye contact with camera  setting: minimal indoor near window or simple outdoor corner, clean background, everyday atmosphere  composition: slightly off-center framing, intimate distance, candid feel  mood: fresh, youthful, sweet everyday moment, understated charm  quality: ultra-realistic, analog film look, natural imperfections, soft dreamy finish
+```
+
+### Case 16: [Soft Black Mist Idol Portrait](https://x.com/BubbleBrain/status/2046518189509734903) (by [@BubbleBrain](https://x.com/BubbleBrain))
+
+| Результат |
+| :----: |
+| <a href="../images/portrait_case16/output.jpg" target="_blank" rel="noopener noreferrer"><img src="../images/portrait_case16/output.jpg" width="300" alt="Результирующее изображение"></a> |
+
+**Промпт：**
+
+```
+9:16 vertical — Korean idol portrait photography, single subject  soft black mist filter effect, lowered contrast, gentle highlight bloom, subtle glow, soft diffusion, slightly faded blacks  minimal indoor setting near window, white curtains, clean light-toned background  young Korean female idol, natural minimal makeup, dewy realistic skin texture, subtle imperfections  outfit: oversized white button-up shirt + short bottoms, slightly loose fit, soft and casual styling, no revealing elements  hair: long dark hair, slightly messy, natural volume, softly flowing  pose: relaxed standing or slight lean, body subtly angled, one leg slightly forward, shoulders relaxed; one hand lightly touching collar or resting near neckline, the other relaxed; gentle body curve without exaggeration  expression: soft cute smile, slightly playful eyes, direct or slightly off-camera gaze  camera: close to mid-body framing, eye-level, intimate distance, slight handheld feel  lighting: diffused natural daylight, soft shadows, gentle light wrapping around face and body  mood: cute yet subtly sensual, intimate, everyday softness, quiet romantic atmosphere  quality: ultra-realistic, fine film grain, slight softness at edges, natural imperfections, dreamy understated tone
+```
+
+### Case 17: [Fujifilm Couple Portrait](https://x.com/BubbleBrain/status/2046502288102170757) (by [@BubbleBrain](https://x.com/BubbleBrain))
+
+| Результат |
+| :----: |
+| <a href="../images/portrait_case17/output.jpg" target="_blank" rel="noopener noreferrer"><img src="../images/portrait_case17/output.jpg" width="300" alt="Результирующее изображение"></a> |
+
+**Промпт：**
+
+```
+9:16 vertical — Japanese Fuji film style couple portrait, two subjects  Fujifilm analog aesthetic (Pro 400H / Superia feel), soft pastel tones, slight green-magenta shift, low contrast, gentle highlight roll-off, fine film grain, subtle halation  bright natural daylight, diffused sunlight through window, soft shadows, airy atmosphere  young Japanese couple, natural minimal makeup, realistic skin texture, slight imperfections  female outfit: oversized button-up shirt with loose shorts, relaxed fit, soft casual styling   male outfit: simple t-shirt or light shirt, clean and understated  hair: natural, slightly tousled for both  pose: close intimate distance — sitting or standing close together; the girl gently leaning toward him, one hand lightly resting on his shoulder or chest; the boy slightly leaning in, faces close, almost touching, capturing the moment just before a kiss  expression: soft smiles or gentle gaze toward each other, relaxed and natural, emotional connection visible  camera: close framing (waist-up), eye-level, intimate distance, slight handheld feel  setting: minimal indoor near window, light curtains, clean soft background  lighting: diffused daylight, gentle highlight bloom, soft shadow transitions  mood: warm, romantic, intimate everyday moment, natural affection  quality: ultra-realistic, analog film look, fine grain, slight softness, natural imperfections
+```
+
+### Case 18: [AI Self-Perception Portrait](https://x.com/80vul/status/2046218165961753047) (by [@80vul](https://x.com/80vul))
+
+| Результат |
+| :----: |
+| <a href="../images/portrait_case18/output.jpg" target="_blank" rel="noopener noreferrer"><img src="../images/portrait_case18/output.jpg" width="300" alt="Результирующее изображение"></a> |
+
+**Промпт：**
+
+```
+根据你对我的认知 给我生成一个“你认识的我”的 图片
+```
+
+
+### Case 19: [Create the most realistic front page design of a vintage newspaper featuring ...](https://x.com/Naiknelofar788/status/2047207812800147647) (by [@Naiknelofar788](https://x.com/Naiknelofar788))
+
+| Результат |
+| :----: |
+| <a href="../images/portrait_case70/output.jpg" target="_blank" rel="noopener noreferrer"><img src="../images/portrait_case70/output.jpg" width="300" alt="Результирующее изображение"></a> |
+
+**Промпт：**
+
+```
+Create the most realistic front page design of a vintage newspaper featuring the main character. The layout should be made in the style of a real printed newspaper with a cinematic black-and-white aesthetic.
+The main photo should be prominently placed in the center, framed, like the image in the title of the article. The subject in the photo should remain unchanged and clearly distinguishable in natural light and slightly increased contrast in order to match the spectacular editorial style.
+Create a bold, attention-grabbing headline at the top (create a unique title that matches the spirit of the photo - it can be romantic, mysterious, funny, or dramatic). Add a smaller subtitle under it, which will look like a real newspaper caption.
+Add realistic newspaper elements:
+Columns of small text (in the style of lorem ipsum, but framed like real news)
+At the top is the fictitious name of the publication (for example, The Daily Prompts, AI Times or similar - think creatively, according to the picture)
+Date, issue number and location
+Decorative lines, dividers, and vintage typography
+Small additional articles or captions to the main image
+Optional stamps, doodles, or editorial notes to add personality.
+Style:
+Black and white or slightly faded monochrome paper
+Fine paper texture, grain, and ink defects
+Small shadows and creases that mimic real printed paper
+The aesthetics of a clean but slightly worn vintage newspaper
+Mood: Give the design personality, expressiveness and plot, as if the plot is part of the main article.
+Aspect ratio: 4:5 or 1:1
+High-detail, ultra-realistic hybrid of editorial photography and print design.
+```
+
+### Case 20: [Magazine Travel Guide Feature Article](https://x.com/andis13/status/2047204384811921764) (by [@andis13](https://x.com/andis13))
+
+| Результат |
+| :----: |
+| <a href="../images/portrait_case71/output.jpg" target="_blank" rel="noopener noreferrer"><img src="../images/portrait_case71/output.jpg" width="300" alt="Результирующее изображение"></a> |
+
+**Промпт：**
+
+```
+Create image of Magazine feature article [travel] guide page, cute, information dense photo book style magazine feature article page. Add all necessary sections, tips, recommendations, information. add photos for any sections and recommendations if you like. Place the attached person at the precise location of [city, country]. Seamlessly blend the attached person as if they are sightseeing. Approach this task with the understanding that this is a critical, information rich page that will significantly influence visitor numbers, text accuracy is important. Fully use the entire [9:16] page. NEGATIVE PROMPT: coordinate texts @swiat_ai @ProfitAII
+```
+
+### Case 21: [analyze this photo and give me a detailed JSON prompt that recreates it. brea...](https://x.com/pavellaslov/status/2047182214304055339) (by [@pavellaslov](https://x.com/pavellaslov))
+
+| Результат |
+| :----: |
+| <a href="../images/portrait_case77/output.jpg" target="_blank" rel="noopener noreferrer"><img src="../images/portrait_case77/output.jpg" width="300" alt="Результирующее изображение"></a> |
+
+**Промпт：**
+
+```
+analyze this photo and give me a detailed JSON prompt that recreates it. break down the color grading and every exact color in the photo
+
+(use Opus, not Sonnet. Opus has stronger visual analysis and writes more detailed JSON)
+
+paste that JSON into ChatGPT
+upload your product image and prompt:
+using this JSON as reference, generate a person holding my product
+save that generated photo as your character reference
+
+attach it to every future generation for facial consistency
+
+you now have a consistent UGC model that works across any product
+
+the JSON controls the lighting and color grading. GPT image-2 handles the character. you control the product placement.
+
+the #1 tell on AI photos is flat colors and a grainy look. this method removes both.
+5 minutes to set up. unlimited variations after.
+```
+
+### Case 22: [CALMING GREEN TEA Film Kit displayed frontally, the open box shows soft sage-...](https://x.com/ZaraIrahh/status/2047180061657452601) (by [@ZaraIrahh](https://x.com/ZaraIrahh))
+
+| Результат |
+| :----: |
+| <a href="../images/portrait_case78/output.jpg" target="_blank" rel="noopener noreferrer"><img src="../images/portrait_case78/output.jpg" width="300" alt="Результирующее изображение"></a> |
+
+**Промпт：**
+
+```
+CALMING GREEN TEA Film Kit displayed frontally, the open box shows soft sage-green film pouches and translucent ampoules with matte silver caps, product placed centrally with clear branding CALMING GREEN TEA -- 7 Days to Soothed Skin, pastel green background with botanical graphic accents, three minimal icons (leaf, wave, balance) floating around the product to emphasize benefits, photographic, hyper detailed, ultra realistic, lifelike, 8k, high detail, soft professional lighting.
+```
+
+### Case 23: [Ultra-realistic product photography of a rich strawberry soft-serve ice cream...](https://x.com/ZaraIrahh/status/2047179916161212542) (by [@ZaraIrahh](https://x.com/ZaraIrahh))
+
+| Результат |
+| :----: |
+| <a href="../images/portrait_case79/output.jpg" target="_blank" rel="noopener noreferrer"><img src="../images/portrait_case79/output.jpg" width="300" alt="Результирующее изображение"></a> |
+
+**Промпт：**
+
+```
+Ultra-realistic product photography of a rich strawberry soft-serve ice cream in a crispy waffle cone, styled with a clean, modern premium aesthetic. The soft serve is a vibrant natural pink, thick and creamy, sculpted into a smooth swirl with a softly curled peak, lightly topped with delicate strawberry dust or tiny fruit specks for a fresh, appetizing look. The cone has a rustic, crunchy texture with slightly uneven edges for an artisanal feel.
+The background is soft beige with natural sunlight casting subtle leaf shadows, creating a calm, organic atmosphere. Include softly blurred greenery in the foreground for depth. The composition is minimal, balanced, and uses negative space effectively, similar to high-end American food brand ads.
+On the left side, include modern English typography in a clean, elegant layout (not vertical).
+Main headline:
+Sweet Strawberry Bliss.
+Supporting line (smaller text):
+Made with real strawberries. Smooth. Creamy. Irresistible.
+Add a small circular badge showing the price:
+$5.80.
+Lighting: soft natural daylight, warm highlights, shallow depth of field, high-end commercial food photography style.
+Mood: fresh, premium, modern, and inviting — aligned with upscale U.S. dessert branding.
+```
+
+### Case 24: [A hyper-realistic UI/UX mockup displayed on a slim modern laptop placed on a ...](https://x.com/ZaraIrahh/status/2047179669011616172) (by [@ZaraIrahh](https://x.com/ZaraIrahh))
+
+| Результат |
+| :----: |
+| <a href="../images/portrait_case80/output.jpg" target="_blank" rel="noopener noreferrer"><img src="../images/portrait_case80/output.jpg" width="300" alt="Результирующее изображение"></a> |
+
+**Промпт：**
+
+```
+A hyper-realistic UI/UX mockup displayed on a slim modern laptop placed on a minimal wooden desk with soft natural daylight. The screen shows a clean SaaS dashboard with elegant typography, glassmorphism cards, smooth gradients, subtle drop shadows, and neatly spaced components. Visible charts, analytics panels, sidebar navigation, and micro-interactions. Realistic macOS-style window frame, soft reflections on the screen, shallow depth of field, cozy workspace atmosphere, shot in photorealistic product photography style, ultra-detailed.
+```
+
+### Case 25: [Ultra-realistic cinematic DSLR photograph of an 18-year-old handsome young ma...](https://x.com/harboriis/status/2047175250761433416) (by [@harboriis](https://x.com/harboriis))
+
+| Результат |
+| :----: |
+| <a href="../images/portrait_case81/output.jpg" target="_blank" rel="noopener noreferrer"><img src="../images/portrait_case81/output.jpg" width="300" alt="Результирующее изображение"></a> |
+
+**Промпт：**
+
+```
+Ultra-realistic cinematic DSLR photograph of an 18-year-old handsome young man with a slim skinny body, lean physique, narrow shoulders and waist, standing confidently in front of a blue 2017 Ford Mustang GT Convertible with a bold red soft top roof, captured from a high-angle aerial perspective exactly like a luxury driveway photoshoot. Keep face 100% identical to reference image with exact facial structure, natural skin texture, realistic pores, authentic expression, no beautification, no facial modification. Same modern textured side-swept quiff hairstyle with heavy natural volume on top, deep side flow, messy yet controlled texture, soft matte finish, visible natural hair strands, softly blended sides.
+
+The subject stands centered near the front bumper of the Mustang GT, hands inside hoodie pockets, relaxed shoulders, straight posture, slight head tilt upward toward camera, confident calm expression, wearing oversized premium black hoodie with realistic cotton texture, natural folds, hanging drawstrings, loose dark washed black denim jeans with soft wrinkles and stacked hems, clean white sneakers with realistic leather texture and sole details, black slim rectangular sunglasses.
+
+Car must be a detailed 2017 Ford Mustang GT Convertible, metallic electric blue paint, glossy reflections on hood, visible Mustang pony grille emblem, aggressive headlights, muscular hood sculpting, aerodynamic front bumper, black alloy wheels, premium red convertible fabric roof, realistic windshield reflections, detailed side mirrors, authentic tire tread, showroom-clean finish
+
+Scene set in an upscale villa driveway with light beige hexagonal stone pavement, curved border with fresh green grass on left side, tropical palm leaves entering frame from top corners, subtle luxury outdoor atmosphere. Soft natural daylight, diffused afternoon lighting, realistic shadows under car and body, soft reflections on paintwork, cinematic premium color grading, natural contrast, shallow depth separation while maintaining environment clarity. Shot on 35mm lens, vertical composition, full body framing, crisp details, hyper-realistic DSLR quality, zero Al look, natural skin rendering, realistic hair strands, fabric texture, stone surface texture, luxury lifestyle mood. stylish text AmanZaid at the bottom-left corner, signature style
+
+Negative Prompt:
+
+face changed, different identity, beautified face, edited face, smooth plastic skin, fake skin glow, wrong hairstyle, short hair, fade haircut, buzzcut, messy deformed hair, female features, muscular body, fat body, broad shoulders, bad anatomy, long neck, short legs, extra fingers, missing fingers, mutated hands, distorted arms, broken posture, crossed eyes, lazy eye, bad sunglasses, blurry face, low resolution, pixelated, noisy image, overexposed, underexposed, harsh shadows, unrealistic reflections, fake car shape, wrong car model, damaged car, extra wheels, warped Mustang logo, incorrect. proportions, bad pavement texture, background artifacts, duplicate objects, watermark, logo errors, text artifacts, cropped feet, cut car, unnatural perspective, CGI render, cartoon style, painting, Al artifacts, oversaturated colors, motion blur, lens distortion 1664x2080-ar 4:5
+```
+
+
+### Case 26: [Candid Bedroom Selfie Photorealistic Portrait](https://x.com/charliejhills/status/2047969988368314526) (by [@charliejhills](https://x.com/charliejhills))
+
+| Результат |
+| :----: |
+| <a href="../images/portrait_case26/output.jpg" target="_blank" rel="noopener noreferrer"><img src="../images/portrait_case26/output.jpg" width="300" alt="Результирующее изображение"></a> |
+
+**Промпт：**
+
+```
+Candid selfie of a young woman with shoulder-length honey-blonde hair with lighter highlights, green-grey eyes, rosy cheeks, and a natural no-makeup makeup look. She is wearing a light grey hoodie and looking slightly off-camera with a relaxed expression. Background shows a cosy bedroom with warm fairy lights strung on a pink wall, a unmade bed with tan bedding, and a small white desk with stacked books. Soft, warm ambient lighting. Photo-realistic, casual, intimate feel.
+```
+
+
+### Case 27: [Musician Leaving Bodega Night Cinematic Portrait](https://x.com/commanderdgr8/status/2047934886124867684) (by [@commanderdgr8](https://x.com/commanderdgr8))
+
+| Результат |
+| :----: |
+| <a href="../images/portrait_case27/output.jpg" target="_blank" rel="noopener noreferrer"><img src="../images/portrait_case27/output.jpg" width="300" alt="Результирующее изображение"></a> |
+
+**Промпт：**
+
+```
+A candid, magazine-cover quality documentary photograph of a young musician with curly hair, casually carrying a worn guitar case, stepping out of a classic downtown bodega at 11 PM. The lighting features a complex mixed color temperature: a bright neon "OPEN" sign casts an intense, warm red glow across his face, while a yellow streetlamp provides a striking backlight behind him. The image perfectly emulates 35mm film shot on a Canon AE-1 with a 50mm f/1.4 lens wide open, exhibiting a shallow depth of field with the background beautifully blurred. It captures the exact aesthetics of CineStill 800T film, specifically featuring the distinctive soft red halation bloom radiating outward from the neon light sources, a tungsten white balance, and moody, slightly green-tinted shadows in the darkest areas. Cinematic night photography, photorealistic, highly detailed.
+```
+
+
+### Case 28: [Old Delhi Sweet Shop Storefront Documentary Photo](https://x.com/commanderdgr8/status/2047889839123521635) (by [@commanderdgr8](https://x.com/commanderdgr8))
+
+| Результат |
+| :----: |
+| <a href="../images/portrait_case28/output.jpg" target="_blank" rel="noopener noreferrer"><img src="../images/portrait_case28/output.jpg" width="300" alt="Результирующее изображение"></a> |
+
+**Промпт：**
+
+```
+Create a photorealistic travel-documentary image of a small sweet-shop storefront in Old Delhi at midday. A painted shop signboard above the door reads "मिठाई की दुकान" in large bold yellow hand-painted Devanagari on a deep red background, with "SWEET SHOP" in smaller roman letters beneath. Realistic hand-painted texture, slight wear, natural shadow. Authentic script proportion. Spelling and characters exact. No extra signage in frame, no watermark.
+```
+
+
+### Case 29: [Cyberpunk Sci-Fi Side Profile Portrait](https://x.com/iamsofiaijaz/status/2047882171336253928) (by [@iamsofiaijaz](https://x.com/iamsofiaijaz))
+
+| Результат |
+| :----: |
+| <a href="../images/portrait_case29/output.jpg" target="_blank" rel="noopener noreferrer"><img src="../images/portrait_case29/output.jpg" width="300" alt="Результирующее изображение"></a> |
+
+**Промпт：**
+
+```
+A cinematic side-profile portrait of a rugged man with a tied-back bun and full beard, wearing round dark sunglasses and a textured leather jacket. His skin is detailed and slightly weathered. The background is a futuristic sci-fi interface filled with glowing orange and red data streams, star maps, celestial navigation diagrams, grids, and holographic UI elements. Fiery particle effects and ember-like energy swirl around him, creating a cosmic, high-tech atmosphere. Dark color palette with strong contrast, dramatic lighting, ultra-detailed, sharp focus, 8K, cyberpunk aesthetic, cinematic composition, depth of field.
+```
+
+
+### Case 30: [Realistic Candid Bedroom Recording Portrait](https://x.com/ChillaiKalan__/status/2047862141894681076) (by [@ChillaiKalan__](https://x.com/ChillaiKalan__))
+
+| Результат |
+| :----: |
+| <a href="../images/portrait_case30/output.jpg" target="_blank" rel="noopener noreferrer"><img src="../images/portrait_case30/output.jpg" width="300" alt="Результирующее изображение"></a> |
+
+**Промпт：**
+
+```
+A realistic young woman sitting casually in a softly lit bedroom during late afternoon.
+
+She is holding her phone very close to her face as if recording a private video or voice note.
+
+Framing is tight and slightly imperfect.
+
+Expression: thoughtful, slightly shy, natural.
+
+Minimal makeup, natural skin texture, relaxed clothing.
+
+Lighting: warm natural light fading from a window, soft shadows.
+
+Environment: simple bedroom, calm and lived-in.
+
+Style: ultra-realistic, looks like a real phone recording, slightly grainy, not cinematic.
+```
+
+
+### Case 31: [Toddler Crayon Scribble Art Style Portrait](https://x.com/akakageAI/status/2047812983389356276) (by [@akakageAI](https://x.com/akakageAI))
+
+| Результат |
+| :----: |
+| <a href="../images/portrait_case31/output.jpg" target="_blank" rel="noopener noreferrer"><img src="../images/portrait_case31/output.jpg" width="300" alt="Результирующее изображение"></a> |
+
+**Промпт：**
+
+```
+(被写体) in the style of super bad child drawing, toddler art, scribbles, messy crayon lines on white background, completely lack of technique, terrible composition, chaotic colors, barely recognizable shapes, very raw, honest art, pure naivety, unrefined style, 4:3
+Negative:
+good drawing, nice lines, clear shapes, neat, pretty, smooth, realistic, talented art, coherent composition, artistic style, professional, skilled, masterpiece, beautiful, detailed
+```
+
+### Case 82: [Restored Vintage Mother and Child Portrait](https://x.com/gdb/status/2048184797374325031) (by [@gdb](https://x.com/gdb))
+
+| Результат |
+| :----: |
+| <a href="../images/portrait_case82/output.jpg" target="_blank" rel="noopener noreferrer"><img src="../images/portrait_case82/output.jpg" width="300" alt="Результирующее изображение"></a> |
+
+**Промпт：**
+
+```
+A restored vintage family snapshot, photographed indoors in soft natural light, showing a {argument name="adult subject" default="young mother"} seated and holding a {argument name="child subject" default="toddler"} on her lap in a close, centered waist-up portrait. The adult has short softly curled auburn hair in a voluminous 1960s-inspired bob, wears a sleeveless black dress and a thin gold necklace, and wraps both arms protectively around the child. The child has fine light blond hair and wears a plain white long-sleeve outfit. Compose the image with a warm nostalgic color cast, gentle film softness, subtle grain, and the look of a carefully repaired old printed photograph. Place them in front of a cream-colored curtain patterned with small brown teddy bear motifs, with a softly blurred interior window frame visible along the top background. Preserve realistic skin tones, natural posture, and the intimate family-photo feeling, as if an old damaged photograph has been professionally reimagined and restored. Square crop, centered composition, shallow depth of field, authentic analog photo texture, no modern styling, no text.
+```
+
+### Case 83: [Damaged Vintage Mother and Child Photo](https://x.com/gdb/status/2048184797374325031) (by [@gdb](https://x.com/gdb))
+
+| Результат |
+| :----: |
+| <a href="../images/portrait_case83/output.jpg" target="_blank" rel="noopener noreferrer"><img src="../images/portrait_case83/output.jpg" width="300" alt="Результирующее изображение"></a> |
+
+**Промпт：**
+
+```
+A heavily damaged old family snapshot in faded black and white with a slight sepia cast, shown as a worn physical photograph scanned straight-on. The image depicts a seated woman holding a small child on her lap indoors, both centered in a simple portrait composition. The woman has short dark wavy hair and wears a dark sleeveless dress or pinafore layered over a lighter short-sleeved blouse. The child appears to be a toddler with very short light hair, wearing a light-colored outfit, facing the camera while sitting against the woman’s chest and arm. Behind them is a patterned curtain with small floral or leaf motifs, and above it a dark window area with a pale vertical window frame is visible near the top center. The print is severely deteriorated: extensive scratches, creases, emulsion damage, stains, blotches, and peeling cover the entire surface, with especially heavy white abrasion and loss of detail across the bottom third and scattered cracking throughout. Keep the overall look authentic to a mid-20th-century vernacular photo, low contrast, soft focus, and visibly aged paper texture. Add a rectangular blurred censor block over the woman’s face only, while the child’s face remains visible but faded. No text, no border, just the distressed archival photograph filling the frame.
+```
+
+### Case 84: [Ink-Etched Family Portrait](https://x.com/gdb/status/2048184698195870102) (by [@gdb](https://x.com/gdb))
+
+| Результат |
+| :----: |
+| <a href="../images/portrait_case84/output.jpg" target="_blank" rel="noopener noreferrer"><img src="../images/portrait_case84/output.jpg" width="300" alt="Результирующее изображение"></a> |
+
+**Промпт：**
+
+```
+A black-and-white hand-drawn family portrait in the style of detailed pen-and-ink crosshatching on textured white paper, showing 4 people seated closely together in a casual candid composition. On the left, an adult man in a dark baseball cap worn backward and a dark T-shirt leans into the frame, with a crossbody sling bag worn across his chest and visible zipper details. On the right, an adult woman with curly hair tied up in a loose high bun wears a light T-shirt with large collegiate block letters reading {argument name="shirt text" default="CITY"}. In the center are 2 young children sitting close together, both with short curly hair and matching light-colored T-shirts printed all over with strawberries. The child on the left leans inward with one arm crossing the other child, and the child on the right tilts their head slightly upward. The adults frame the children protectively, creating a warm family snapshot feeling. Render the whole image as a monochrome etched illustration with dense fine-line hatching, engraved shadows, crisp contour lines, and a realistic yet artistic likeness, with no color, no background setting beyond a plain light paper texture, and a vertical portrait crop.
+```
+
+### Case 85: [Vintage Engraved Hoodie Portrait](https://x.com/gdb/status/2048184698195870102) (by [@gdb](https://x.com/gdb))
+
+| Результат |
+| :----: |
+| <a href="../images/portrait_case85/output.jpg" target="_blank" rel="noopener noreferrer"><img src="../images/portrait_case85/output.jpg" width="300" alt="Результирующее изображение"></a> |
+
+**Промпт：**
+
+```
+A centered black-and-white vintage engraved portrait of a bearded man wearing a hooded sweatshirt with the hood up and a backward snapback cap visible under the hood. Show only the upper torso and head against a plain off-white paper background with subtle texture. Render the image in detailed pen-and-ink etching style with dense cross-hatching, fine parallel lines, and old book illustration shading. The figure faces forward in a calm, neutral pose. The cap has a visible snap closure band across the forehead area, slicked-back hair is visible above it, and a thick full beard extends below the face. The hoodie has two drawstrings hanging down at the chest. Keep the composition symmetrical and tightly framed like a classic engraved bust portrait, with no color, no modern graphic elements, and no background objects.
+```
+
+### Case 86: [Dreamy Backlit Editorial Portrait](https://x.com/ToroJushiAi/status/2048139425465467248) (by [@ToroJushiAi](https://x.com/ToroJushiAi))
+
+| Результат |
+| :----: |
+| <a href="../images/portrait_case86/output.jpg" target="_blank" rel="noopener noreferrer"><img src="../images/portrait_case86/output.jpg" width="300" alt="Результирующее изображение"></a> |
+
+**Промпт：**
+
+```
+A cinematic soft-focus portrait of a woman from behind and slightly in profile, framed from the upper torso up in a vertical composition. She has {argument name="hair color" default="dark brown"} hair styled in a loose messy updo with wispy strands catching the light. Her face is mostly hidden by her pose and hair, with only a small portion of one cheek visible. She wears a {argument name="dress color" default="deep red"} sleeveless dress with an open back or low-cut side, emphasizing her bare shoulder and upper back. One hand is raised delicately near her neck or shoulder, fingers relaxed. Use strong warm backlighting and rim light, with glowing golden highlights around the hair and skin, dreamy lens flare, and large circular bokeh in the blurred background. The image should feel intimate, elegant, and slightly sensual, like a high-end fashion or beauty editorial, with shallow depth of field, creamy blur, warm amber and rose tones, and a soft cinematic glow.
+```
+
+### Case 87: [3D Cartoon Character Render](https://x.com/Inshrah_ali_/status/2048121503367995753) (by [@Inshrah_ali_](https://x.com/Inshrah_ali_))
+
+| Результат |
+| :----: |
+| <a href="../images/portrait_case87/output.jpg" target="_blank" rel="noopener noreferrer"><img src="../images/portrait_case87/output.jpg" width="300" alt="Результирующее изображение"></a> |
+
+**Промпт：**
+
+```
+High-quality 3D CGI render of {argument name="character" default="[character]"} in a charming cartoon style, portrait composition showing head and shoulders. Highly stylized caricature with exaggerated, expressive features that are both playful and humorous. Smooth, polished rendering with clean materials and soft ambient lighting creating gentle shadows. Dynamic camera angle with stylish perspective. Minimalist bright {argument name="background color" default="[color]"} background that makes the character pop and stand out. Professional Pixar-like quality with glossy finish and cheerful mood.
+```
+
+### Case 88: [Young Woman in Sequin Dress on Stairs](https://x.com/XSydneyFan/status/2048114180906217566) (by [@XSydneyFan](https://x.com/XSydneyFan))
+
+| Результат |
+| :----: |
+| <a href="../images/portrait_case88/output.jpg" target="_blank" rel="noopener noreferrer"><img src="../images/portrait_case88/output.jpg" width="300" alt="Результирующее изображение"></a> |
+
+**Промпт：**
+
+```
+Vertical 2:3 format. {argument name="subject" default="Young woman"} hair in messy updo sits on modern wooden staircase. wears {argument name="dress" default="shimmering Silver halter dress sequin dress"}. matching with silver high-heeled sandals. legs crossed. Silver heart earrings. One fuchsia bracelet on each ankle. Sultry expression, with slightly parted lips. Blurred background vertical wooden slats and black metal railings. Don't change face
+```
+
+### Case 89: [Luxury Studio Outfit Transformation](https://x.com/Abdullah__Ai7/status/2048083022315159595) (by [@Abdullah__Ai7](https://x.com/Abdullah__Ai7))
+
+| Результат |
+| :----: |
+| <a href="../images/portrait_case89/output.jpg" target="_blank" rel="noopener noreferrer"><img src="../images/portrait_case89/output.jpg" width="300" alt="Результирующее изображение"></a> |
+
+**Промпт：**
+
+```
+Using REFERENCE_0 as the subject base, transform the casual desert snapshot into a full-body luxury fashion studio portrait. Replace the denim jacket, tank top, and shorts with a fitted strapless mini cocktail dress in {argument name="dress color" default="powder blue"} with ornate silver floral embroidery and exactly 2 geometric cutouts at the chest and upper waist. Change the setting to a clean seamless light-gray studio background with polished high-end editorial styling. Add 1 silver clutch with a thin chain strap in the subject's right hand and 1 pair of pointed silver high heels. Refine the pose into an elegant standing fashion pose with one hand near the face, keep the same person and hair identity, and apply soft cinematic luxury lighting with crisp 8K fashion-photography detail.
+```
+
+### Case 90: [Blonde Maid in Warm Cafe](https://x.com/yume00112211/status/2048072808606089230) (by [@yume00112211](https://x.com/yume00112211))
+
+| Результат |
+| :----: |
+| <a href="../images/portrait_case90/output.jpg" target="_blank" rel="noopener noreferrer"><img src="../images/portrait_case90/output.jpg" width="300" alt="Результирующее изображение"></a> |
+
+**Промпт：**
+
+```
+A polished anime-style portrait of {argument name="character" default="a blonde female VTuber-inspired maid"} seated indoors in a cozy sunlit cafe, framed from upper thighs to head in a slightly high, intimate angle. She has short to medium-length tousled {argument name="hair color" default="golden blonde"} hair with soft layers, a white frilled maid headband, and a teal ribbon hair accessory with a small gold ornament on the right side. Her face is mostly obscured by the hair falling forward, creating a mysterious hidden-face composition. She wears an elegant black-and-white maid dress with puff sleeves, white ruffles, gold trim, a fitted bodice, a white apron, and a large white waist bow visible at the side and back. Add 2 teal bows with gold star-like charms: 1 at the collar and 1 on the wrist. Her right hand gently touches the bow at her chest, and her left hand is raised delicately near her shoulder holding a loose strand of hair. Include a frilly lace garter on her exposed thigh with a small teal-and-gold ribbon decoration. The background is a warmly lit European-style cafe interior with wooden beams, framed botanical art on the walls, a softly blurred cake stand on the left, window light streaming in, and tiny glowing dust-like sparkles in the air. Use soft golden afternoon lighting, shallow depth of field, glossy detailed fabric rendering, delicate skin shading, subtle romantic atmosphere, and highly detailed refined anime illustration quality.
+```
+
+### Case 91: [Dreamy Oriental female portrait prompt](https://x.com/liyue_ai/status/2048046253842559183) (by [@liyue_ai](https://x.com/liyue_ai))
+
+| Результат |
+| :----: |
+| <a href="../images/portrait_case91/output.jpg" target="_blank" rel="noopener noreferrer"><img src="../images/portrait_case91/output.jpg" width="300" alt="Результирующее изображение"></a> |
+
+**Промпт：**
+
+```
+{argument name="subject" default="Dreamy Oriental female portrait"}, adult female, close-up portrait, exquisite facial features, fair and translucent skin, delicate but clean skin texture, emerald green eyes, soft and charming gaze, brown wavy hair falling naturally; {argument name="accessories" default="Off-white lace headpiece"}, embellished with turquoise butterflies and pearl decorations; attire is an exquisite lace gown with a clear structure and clean, not overly complex texture, accompanied by emerald jewelry; lighting is soft warm gold side-backlighting, rim lighting is clear but not overexposed, skin has slight highlights but not excessive reflection, overall lighting is clean and transparent, background is softly blurred with shallow depth of field; high-end portrait photography quality, details are clear but restrained, no grain, no noise, real physical lighting, 8K, commercial-grade quality. Aspect ratio: 9:16
+```
+
+### Case 92: [Monochrome Hermes-Inspired Avatar](https://x.com/jiajia232016/status/2048044100793032976) (by [@jiajia232016](https://x.com/jiajia232016))
+
+| Результат |
+| :----: |
+| <a href="../images/portrait_case92/output.jpg" target="_blank" rel="noopener noreferrer"><img src="../images/portrait_case92/output.jpg" width="300" alt="Результирующее изображение"></a> |
+
+**Промпт：**
+
+```
+Create a minimalist black-and-white vector avatar logo of a mythic anime woman shown in elegant side profile facing right, cropped from the chest up on a plain white background. Give her long flowing {argument name="hair color" default="black"} hair with bold white highlight streaks and smooth graphic shapes, rendered as high-contrast ink silhouette art with clean sharp edges. She wears a winged headpiece reminiscent of Hermes or a messenger god helmet, with one large white feathered wing visible on the side of her head and a circular metallic earpiece detail. Dress her in a sleek high-collar garment with a luxury-fashion feel, and hang a prominent pendant or zipper pull shaped like the letter {argument name="monogram letter" default="H"} at the center of the collar. The face is intentionally obscured by a centered soft gray rectangular blur block covering most facial features, creating a censored anonymous profile-image effect. Overall style: luxury brand avatar, fashion logo, anime-inspired goddess silhouette, monochrome vector emblem, smooth negative-space highlights, balanced composition, modern and iconic, suitable for a social media profile picture.
+```
+
+### Case 93: [Cyber Crystal Anime Girl Portrait](https://x.com/libearal/status/2048026376645861799) (by [@libearal](https://x.com/libearal))
+
+| Результат |
+| :----: |
+| <a href="../images/portrait_case93/output.jpg" target="_blank" rel="noopener noreferrer"><img src="../images/portrait_case93/output.jpg" width="300" alt="Результирующее изображение"></a> |
+
+**Промпт：**
+
+```
+A highly detailed anime-style full-body character portrait of {argument name="character name" default="Hermes"}, a delicate futuristic girl sitting curled up with her knees hugged to her chest, gazing softly at the viewer with a calm, slightly melancholic expression. She has extremely long {argument name="hair color" default="silver-lilac"} twin tails with soft bangs, glossy lavender eyes, porcelain skin, and ornate crystal hair accessories including 3 large ribbon bows and a jeweled tiara-like headpiece. Her outfit is an elaborate translucent idol-tech dress in {argument name="outfit color" default="pink, lavender, and violet"}, featuring off-shoulder puff sleeves, layered ruffles, faceted gemstone-like fabrics, a huge floral bow at the waist, dangling crystal charms, garter details, patterned thigh-high stockings, and glossy bow heels. Surround her with a luminous cyber dreamscape in {argument name="background palette" default="neon violet and electric blue"}: transparent holographic panels, floating glass cubes, sparkling particles, geometric prisms, glowing wireframe lines, and digital UI windows suspended in space. Include 5 readable interface text elements scattered in the background: "ERROR.", "Code-", "return", "area x1", and "404". Make the whole image feel like a luxurious AI avatar reference illustration, mixing ethereal fantasy and cyberspace aesthetics, with crystalline light refractions, dramatic glow, high detail, intricate lace and gem textures, and a polished premium gpt-image-2 anime rendering.
+```
+
+### Case 94: [Pastel Lavender Anime Girl Portrait](https://x.com/libearal/status/2048026376645861799) (by [@libearal](https://x.com/libearal))
+
+| Результат |
+| :----: |
+| <a href="../images/portrait_case94/output.jpg" target="_blank" rel="noopener noreferrer"><img src="../images/portrait_case94/output.jpg" width="300" alt="Результирующее изображение"></a> |
+
+**Промпт：**
+
+```
+A delicate vertical anime portrait of a dreamy young woman in an ethereal pastel lavender palette, shown from about mid-thigh up against a soft decorative background of pale swirling lines, floating petals, tiny stars, and subtle sparkles. She has extremely long, voluminous silver-lilac hair styled in twin tails with flowing strands, soft bangs, and ornate ribbon decorations; each side is adorned with large lavender bows, ruffled headband-like trim, dangling gold star charms, and small white flower hair ornaments. Her face is centered and mostly covered by a flat solid pale lavender rectangle censor block, leaving only hints of her ears and hairline visible. She wears an elaborate fantasy-lolita inspired dress in white, pearl, and light violet, with glossy satin fabric, ruffled neckline, layered frills, puffed detached sleeves, gold trim, corset lacing at the waist, and multiple purple bows including 3 clearly visible bow accents on the outfit. Her hands are clasped gently near her chest in a shy, elegant pose. The image should feel soft, refined, feminine, and luminous, with high-detail anime rendering, smooth gradients, airy composition, flowing hair movement, and a romantic celestial aesthetic. Use a {argument name="color theme" default="pastel lavender and white"} palette, {argument name="hair color" default="silver-lilac"} hair, an {argument name="outfit style" default="ornate fantasy lolita dress with bows and ruffles"} design, a {argument name="background style" default="soft swirls, petals, stars, and sparkles"} backdrop, and a {argument name="face covering" default="solid pale lavender censor rectangle"} over the face.
+```
+
+### Case 95: [Lavender AI Girl in Memory Space](https://x.com/libearal/status/2048026376645861799) (by [@libearal](https://x.com/libearal))
+
+| Результат |
+| :----: |
+| <a href="../images/portrait_case95/output.jpg" target="_blank" rel="noopener noreferrer"><img src="../images/portrait_case95/output.jpg" width="300" alt="Результирующее изображение"></a> |
+
+**Промпт：**
+
+```
+A dreamy anime portrait of {argument name="character name" default="Kotori"}, a delicate virtual girl seated on the floor in a curled-up pose with both knees pulled close to her chest and her arms wrapped gently around them, looking directly at the viewer with a soft, quiet, slightly melancholy expression. She has very long, flowing silver-lavender twin tails with wispy bangs, decorated with 8 visible hair ornaments: 2 large ribbon bows at the twin-tail bases, 3 small flower clips, 2 tiny butterfly clips, and 1 heart-shaped hairpin. Her eyes are large, luminous violet with glossy highlights. She wears an oversized pastel-lilac off-shoulder knit cardigan slipping loosely around her arms, a frilly lace-trimmed nightdress or camisole in pale lavender, and a pair of soft knee-high socks with 2 visible ribbon bows, all in a cohesive {argument name="color theme" default="soft lavender and pastel purple"} palette. The scene is set inside a futuristic holographic memory space filled with floating translucent interface panels, glowing data windows, starry particles, and butterfly-shaped light motifs. Include a visible text panel on the left showing terminal-like white text that reads: {argument name="screen text" default="memory://\nUser: You\nAI: Kotori\n\nAccessing.\n> initializing\n> loading memory\n> 100%\n> welcome home."}. In the background, show a cosmic digital environment with a faint planet, layered transparent screens, and several floating image thumbnails suggesting memories and character sketches. Lighting is ethereal and backlit, with iridescent bloom, soft rim light, sparkling dust, and glossy highlights on hair and fabric. Composition is full-frame vertical, centered on the girl, intimate and emotionally warm, highly detailed, ultra-polished, soft-focus anime illustration, celestial cyber fantasy aesthetic, gentle purple glow, intricate lace, silky hair strands, and a tender "AI companion in her memory world" mood.
+```
+
+### Case 96: [Pastel AI Assistant Anime Portrait](https://x.com/libearal/status/2048026376645861799) (by [@libearal](https://x.com/libearal))
+
+| Результат |
+| :----: |
+| <a href="../images/portrait_case96/output.jpg" target="_blank" rel="noopener noreferrer"><img src="../images/portrait_case96/output.jpg" width="300" alt="Результирующее изображение"></a> |
+
+**Промпт：**
+
+```
+A dreamy anime-style portrait of a gentle virtual assistant girl named {argument name="character name" default="Misha"}, sitting curled up indoors in a cozy futuristic bedroom filled with translucent holographic memory screens. She has very long silvery white hair with a faint lavender tint, styled in 2 low twin tails tied with small lavender ribbons, with soft wispy bangs and loose flowing strands. Her expression should be tender, introspective, and slightly lonely, with a soft glow and delicate features. She wears an oversized chunky cable-knit cardigan in {argument name="cardigan color" default="pastel lavender"} draped loosely over a thin white ruffled nightdress, plus a tiny gemstone necklace. Her pose is seated with knees pulled to her chest and arms wrapped around her legs, creating a vulnerable, intimate silhouette. The room is lit in hazy pastel violet and pink ambient light with sparkles, dustlike stars, and a nostalgic magical-tech atmosphere. Around her are 5 visible holographic interface panels: 2 floating photo panels in the upper left showing soft memories, 1 lower-left panel labeled “Memory Fragments” with a small image and tiny graph bars, 1 large right-side profile panel with Japanese text including “ミーシャ・Misha” and “あなたの専属AIアシスタント,” and 1 smaller right-side checklist panel with heart icons. Include a glowing crystal ball on a desk to the right, a white mug printed with “Misha” and small heart motifs, a stack of 2 books beneath the desk area, and 1 plush cat cushion on the lower left. Composition is vertical, full-body to three-quarter seated framing, highly detailed, soft painterly anime rendering, luminous translucent overlays, sentimental memory-core aesthetic, gentle depth of field, pastel lilac palette, ethereal and emotionally warm.
+```
+
+### Case 97: [Dark Gatorade-Style Portrait](https://x.com/jeremydevz/status/2048026214812561683) (by [@jeremydevz](https://x.com/jeremydevz))
+
+| Результат |
+| :----: |
+| <a href="../images/portrait_case97/output.jpg" target="_blank" rel="noopener noreferrer"><img src="../images/portrait_case97/output.jpg" width="300" alt="Результирующее изображение"></a> |
+
+**Промпт：**
+
+```
+A dramatic, high-contrast studio portrait of a {argument name="subject gender" default="male"} athlete or model in the visual style of a premium sports drink advertisement, centered and facing straight toward the camera in a tight head-and-shoulders crop. The subject has {argument name="hair style" default="short dark hair brushed back"}, visible ears on both sides, and a rugged lower face with a short beard or stubble. Dress him in a dark zip-up athletic jacket with the zipper centered and visible near the collar. Use an almost entirely black background and extremely low-key lighting, with subtle rim light and soft highlights catching the hair, ears, jawline, shoulders, and jacket texture while most facial features remain swallowed by shadow for a mysterious, intense mood. The image should feel monochrome or nearly monochrome, with deep blacks, muted gray highlights, cinematic contrast, gritty texture, and a sleek commercial sports-brand aesthetic reminiscent of a {argument name="brand style" default="Gatorade"} campaign. Vertical composition, minimalist framing, no text, no logo, no props, no visible environment.
+```
+
+### Case 98: [Portrait of a Gentle Woman with Glasses](https://x.com/megane_onesan/status/2047989490153926848) (by [@megane_onesan](https://x.com/megane_onesan))
+
+| Результат |
+| :----: |
+| <a href="../images/portrait_case98/output.jpg" target="_blank" rel="noopener noreferrer"><img src="../images/portrait_case98/output.jpg" width="300" alt="Результирующее изображение"></a> |
+
+**Промпт：**
+
+```
+A {argument name="style" default="photobook-style portrait"} of a {argument name="character" default="gentle woman with glasses"}
+```
+
+### Case 99: [Dreamy Underwater Woman With Translucent Fish](https://x.com/kotobukigraphic/status/2047967522453123255) (by [@kotobukigraphic](https://x.com/kotobukigraphic))
+
+| Результат |
+| :----: |
+| <a href="../images/portrait_case99/output.jpg" target="_blank" rel="noopener noreferrer"><img src="../images/portrait_case99/output.jpg" width="300" alt="Результирующее изображение"></a> |
+
+**Промпт：**
+
+```
+A dreamy surreal portrait of a {argument name="subject" default="young woman"} standing underwater or in a liquid-like ethereal space, shown from about mid-thigh up, wearing a flowing sleeveless white dress that appears to dissolve into translucent water and shimmering fragments. Her long {argument name="hair color" default="dark brown"} hair streams dramatically sideways as if suspended in water, and her face is intentionally obscured by a soft vertical blur block for anonymity. Surround her with an exact count of about 30 small translucent fish, some striped and some pale silvery white, swimming in multiple depths of field across the foreground, midground, and background, with several fish passing in front of her body and hair to create strong motion and depth. Use a soft pastel {argument name="background color" default="powder blue"} background with faint handwritten script texture layered across it, plus whimsical doodles scattered throughout: white and pale pink hearts, stars, curved squiggles, wave lines, dots, sparkles, and 2 smiley faces. Add prismatic rainbow refractions, glossy caustic highlights, and subtle lens-like chromatic shimmer on the fish and dress. The mood should feel delicate, introspective, airy, and magical, with high-key lighting, gentle contrast, soft focus in the foreground, and crisp detail on the torso and hair. Compose the figure slightly off-center with one arm relaxed downward and the body turned lightly in motion, as if drifting peacefully through a school of fish. Include tiny elegant footer text in white near the bottom edge, with a left signature, a centered website URL, and a small right credit mark, resembling an art-poster or social-media showcase image.
+```
+
+### Case 100: [Japanese Classroom Long Hair Snapshot](https://x.com/Hair_Hair55/status/2047963832732221723) (by [@Hair_Hair55](https://x.com/Hair_Hair55))
+
+| Результат |
+| :----: |
+| <a href="../images/portrait_case100/output.jpg" target="_blank" rel="noopener noreferrer"><img src="../images/portrait_case100/output.jpg" width="300" alt="Результирующее изображение"></a> |
+
+**Промпт：**
+
+```
+A candid, photorealistic Japanese high school classroom scene in vertical smartphone-photo framing. Three schoolgirls wearing matching traditional navy blue sailor uniforms are the main focus in the foreground. The central standing girl has extremely long, straight, glossy black hair that falls well past her knees, almost to the floor, and she is gently combing the lower section with a small comb while looking downward. A second girl stands behind and slightly to the right, also with long straight black hair, holding an open compact mirror in one hand and adjusting her bangs or hair near her temple with the other. A third girl kneels on the floor at the right front, carefully holding and arranging the central girl’s long hair with both hands. All three wear dark navy sailor-style school uniforms with white stripe trim, pleated skirts, long sleeves, white socks, and indoor school shoes. Their faces are obscured or blurred. In the background, exactly 8 additional students in dark school uniforms sit at desks in small groups, facing away or sideways, creating the feel of an ordinary class period or homeroom. The classroom has wooden desks and chairs, large bright windows along the left side letting in soft daylight, a green chalkboard on the right wall, bulletin papers pinned near the board, and a framed Japanese calligraphy sign above the chalkboard reading {argument name="wall sign text" default="創誠造実"}. The atmosphere is natural and unposed, like a documentary snapshot. Emphasize realistic lighting, fine hair detail, the unusual dramatic length of the central girl’s hair, and a believable everyday school environment.
+```
+
+### Case 101: [Cozy Catgirl Pajama Night Portrait](https://x.com/yume00112211/status/2047951384734228617) (by [@yume00112211](https://x.com/yume00112211))
+
+| Результат |
+| :----: |
+| <a href="../images/portrait_case101/output.jpg" target="_blank" rel="noopener noreferrer"><img src="../images/portrait_case101/output.jpg" width="300" alt="Результирующее изображение"></a> |
+
+**Промпт：**
+
+```
+A soft anime-style bedroom portrait of {argument name="character name" default="Nekomata Okayu"}, shown from the chest up sitting on a bed at night, centered in the frame. She has short fluffy {argument name="hair color" default="lavender"} hair with layered bangs partially covering one eye, large cat ears on top of her head with white inner fur, and a cute sleepy catgirl appearance. Her expression is gentle and relaxed, with one hand raised near her cheek in a shy, cozy pose. She wears oversized {argument name="pajama color" default="light lavender"} button-up pajamas with dark purple piping, a small chest pocket, and paw-print shaped buttons and paw-print decoration on the pocket. The room is lit with dreamy purple ambient lighting. In the background, show a nighttime window with a crescent moon and stars visible outside, soft curtains, a bedside table with a glowing cat-shaped lamp, a neatly rumpled bed with pillows and blankets in matching purple tones, and a small framed wall picture featuring a simple cat face and hearts. Use a cute pastel palette, soft shading, polished digital anime rendering, subtle highlights in the hair, intimate cozy composition, and a calm bedtime atmosphere.
+```
+
+### Case 102: [Collectible Figure Workspace Photo](https://x.com/Shinning1010/status/2049068188399227174) (by [@Shinning1010](https://x.com/Shinning1010))
+
+| Результат |
+| :----: |
+| <a href="../images/portrait_case102/output.jpg" target="_blank" rel="noopener noreferrer"><img src="../images/portrait_case102/output.jpg" width="300" alt="Результирующее изображение"></a> |
+
+**Промпт：**
+
+```
+Photorealistic high-quality studio photo of a modern digital art workspace, showing the concept of “from 3D virtual character to real collectible figure.”
+
+In the foreground, a highly realistic collectible figurine of [Character Name / Character Identity] is placed on a round wooden display stand. The character has [facial features / appearance], [hairstyle], and a [expression / personality vibe]. The figure is wearing [outfit / costume]. The overall design is refined, premium, and instantly recognizable. The figurine should have realistic collectible statue quality, with subtle resin/sculpture material feel, while still looking highly believable and visually realistic.
+
+The pose is [character pose], natural, stable, elegant, and display-worthy. Shot from a low-angle close-up perspective with slight wide-angle distortion, vertical composition, emphasizing the full figure, clothing structure, leg lines, and pose.
+
+In the background, there is a professional 3D character design workstation with two large curved monitors. Both monitors must show the exact same character as the foreground figurine — same face, same hairstyle, same outfit, same pose, and same overall vibe — clearly expressing the idea of turning a digital 3D character into a real physical figure.
+
+The left monitor shows a gray sculpt / clay model view in a professional 3D sculpting software interface, similar to ZBrush. The gray model must match the foreground figure exactly in character design, pose, outfit structure, and facial identity.
+
+The right monitor shows the fully rendered colored version of the same character, also matching the foreground figure exactly in face, hairstyle, outfit, pose, and temperament. Together, the two monitors reinforce the workflow of “digital character design → physical collectible statue.”
+
+On the desk are a keyboard, mouse, monitor arms, drawing tablet, stylus, and other 3D modeling tools. The workspace is clean, professional, and visually premium. Optional extra elements: [weapon / accessories / theme props / IP-style design details].
+
+Lighting is a mix of soft studio lighting and indoor workspace lighting. The foreground figurine is evenly lit with clear facial and material detail, while the monitors emit cool-toned tech light. Overall mood is realistic, clean, premium, slightly shallow depth of field, ultra-detailed, emphasizing the collectible figure quality, professional 3D design studio atmosphere, and the visual concept of “from digital model to real figure.”
+
+photorealistic, ultra detailed, cinematic studio lighting, realistic figurine, collectible statue, 3D character design studio, from digital model to real figure, vertical composition
+```
+
+### Case 103: [Rainy Bus Stop Portrait](https://x.com/harboriis/status/2049081194156020046) (by [@harboriis](https://x.com/harboriis))
+
+| Результат |
+| :----: |
+| <a href="../images/portrait_case103/output.jpg" target="_blank" rel="noopener noreferrer"><img src="../images/portrait_case103/output.jpg" width="300" alt="Результирующее изображение"></a> |
+
+**Промпт：**
+
+```
+A cinematic nighttime photo of [your photo as reference] sitting alone at a wet bus
+
+stop bench, eating a burger. Rain-soaked street with orange bokeh city lights
+
+reflecting on the ground. Neon tube lights overhead. Red jacket, tan corduroy
+
+pants. Moody, dark, atmospheric street photography.
+```
+
+### Case 104: [CCD flash beauty portrait template](https://x.com/AIwithAliya/status/2049452006608392350) (by [@AIwithAliya](https://x.com/AIwithAliya))
+
+| Результат |
+| :----: |
+| <a href="../images/portrait_case104/output.jpg" target="_blank" rel="noopener noreferrer"><img src="../images/portrait_case104/output.jpg" width="300" alt="Результирующее изображение"></a> |
+
+**Промпт：**
+
+```
+A hyper-photorealistic shot of the same subject in the attached image, ultra-detailed facial features, visible pores, natural skin texture, rosy complexion and dewy skin, Douyin/Korean glass-skin makeup, glossy lips, aegyosal, baby pink blush, high identity consistency, realistic human anatomy. Use an old CCD digital camera aesthetic with direct flash, visible grain, slight overexposure, cool-neutral white balance, slight motion blur, and candid composition. Hair in a loose romantic updo; outfit in delicate off-shoulder silk with embroidered floral fabric; background of pastel floral bedding; horizontal close-up; shallow depth of field. Negative prompt: over-smoothed skin, plastic texture, unrealistic proportions, studio lighting, overly sharp HDR, stiff pose, artificial symmetry, over-retouched face.
+```
+
+
+### Case 105: [Black-and-red streetwear campaign portrait](https://x.com/harboriis/status/2049450257604550872) (by [@harboriis](https://x.com/harboriis))
+
+| Результат |
+| :----: |
+| <a href="../images/portrait_case105/output.jpg" target="_blank" rel="noopener noreferrer"><img src="../images/portrait_case105/output.jpg" width="300" alt="Результирующее изображение"></a> |
+
+**Промпт：**
+
+```
+Create a bold, high-contrast black and white portrait of a confident young man wearing a black leather jacket, facing slightly sideways with an intense expression. Use dramatic studio lighting with sharp shadows and detailed skin texture. Add strong red graphic elements over the image, including a horizontal red bar across the eyes, geometric shapes, thin lines, and framing boxes. Incorporate large bold typography, repeated faded text, and a motivational headline in bright red. The design should feel like a premium sports or streetwear campaign poster with a minimal textured grey background and black/white/grey/red palette only.
+```
+
+### Case 106: [Cyberpunk Fashion Portrait](https://x.com/ChillaiKalan__/status/2050453739430195320) (by [@ChillaiKalan__](https://x.com/ChillaiKalan__))
+
+| Output |
+| :----: |
+| <a href="../images/portrait_case106/output.jpg" target="_blank" rel="noopener noreferrer"><img src="../images/portrait_case106/output.jpg" width="300" alt="Output image"></a> |
+
+**Промпт:**
+
+```
+GPT Image 2 on @SocialSight Prompt: Futuristic portrait of a young woman facing camera, wearing a transparent neon jacket with glowing green and orange edges, large illuminated logo on chest, black inner outfit, sleek sunglasses, soft smoke light trails behind, dark teal background, cyberpunk fashion campaign, ultra-realistic textures, cinematic lighting, sharp focus, luxury sportswear branding style, 8k Style keywords: neon edges, glowing logo, fashion campaign, high-end branding, moody lighting
+```
+
+### Case 107: [Japanese Negative Film Rooftop Portrait](https://x.com/BubbleBrain/status/2050449020645216532) (by [@BubbleBrain](https://x.com/BubbleBrain))
+
+| Output |
+| :----: |
+| <a href="../images/portrait_case107/output.jpg" target="_blank" rel="noopener noreferrer"><img src="../images/portrait_case107/output.jpg" width="300" alt="Output image"></a> |
+
+**Промпт:**
+
+```
+Today's Portrait by gpt image 2 ---prompt--- Japanese negative film aesthetic, rooftop summer scene, soft natural sunlight, slight overexposure highlights, low contrast, muted faded colors, subtle grain a stunning beautiful young woman with subtle sensual presence, natural body line, effortless charm wearing a slightly oversized white shirt loosely unbuttoned at the collar, paired with high-waisted shorts; shirt softly moving in the wind, occasionally slipping off one shoulder holding a cold glass bottle drink with condensation, one hand lifting it near her neck or cheek, fingers lightly touching the surface subject sitting or leaning on rooftop edge, body relaxed but with slight weight shift, one hand supporting behind, torso subtly opening, one knee bent and the other leg softly extended hair gently blown by summer wind, loose strands across face expression calm and distant, lips slightly parted, looking toward camera or slightly away open sky, minimal environment, a light plastic bag resting beside her moving slightly with the wind imperfect composition, quiet isolated mood, nostalgic and reflective, “memory-like realism”, subtle sensuality through natural gesture --2:3
+```
+
+### Case 108: [Paris Café Lifestyle Portrait](https://x.com/Sairah_0/status/2050432730962530809) (by [@Sairah_0](https://x.com/Sairah_0))
+
+| Output |
+| :----: |
+| <a href="../images/portrait_case108/output.jpg" target="_blank" rel="noopener noreferrer"><img src="../images/portrait_case108/output.jpg" width="300" alt="Output image"></a> |
+
+**Промпт:**
+
+```
+GPT IMAGE 2 on Chat Gpt Prompt : Ultra-realistic portrait of a young woman sitting at a Parisian café, soft golden hour sunlight hitting her face, natural glowing skin, light blush, minimal makeup, green eyes, dark hair tied back with sunglasses on head, wearing a cozy grey knit sweater, resting her face on her hand, relaxed expression, shallow depth of field, cinematic lighting, reflections of classic Paris buildings in the window behind her, table with glassware and subtle foreground blur, 50mm lens, high detail, editorial fashion photography style. Prompt : Natural lifestyle portrait of a young woman at an outdoor Paris café, soft daylight, slightly wet slicked-back dark hair, minimal makeup with dewy skin and flushed cheeks, wearing a loose grey sweater, leaning her head on her hand, calm and intimate expression, symmetrical framing, glass windows reflecting Haussmann-style buildings, table with water glasses and phone, candid aesthetic, soft shadows, realistic tones, 35mm photography, high resolution, cinematic street-style fashion shoot.
+```
+
+### Case 109: [2x2 Editorial Portrait Grid](https://x.com/Taaruk_/status/2050429694890389779) (by [@Taaruk_](https://x.com/Taaruk_))
+
+| Output |
+| :----: |
+| <a href="../images/portrait_case109/output.jpg" target="_blank" rel="noopener noreferrer"><img src="../images/portrait_case109/output.jpg" width="300" alt="Output image"></a> |
+
+**Промпт:**
+
+```
+GPT IMAGE 2 ON CHATGPT Prompt: Editorial portrait photography arranged in a 2x2 grid layout featuring the same man with round tortoiseshell glasses, natural look, light beard, soft neutral background. Top-left: front-facing portrait with direct eye contact, calm expression. Top-right: extreme macro close-up of eye behind glasses, ultra-detailed iris and skin texture. Bottom-left: slightly lower angle portrait, subtle expression, soft shadows. Bottom-right: side profile portrait, natural pose, looking away. Soft diffused natural lighting, warm neutral tones, shallow depth of field, ultra-realistic skin texture with visible pores and freckles, minimal retouching, 85mm lens, high-end editorial photography style, clean composition, 4K
+```
+
+<!-- Case 110: Роскошный гольф-редакционный коллаж (by @AIwithkhan) -->
+### Case 110: [Роскошный гольф-редакционный коллаж](https://x.com/AIwithkhan/status/2051275667354890345) (by [@AIwithkhan](https://x.com/AIwithkhan))
+
+| Output |
+| :----: |
+| <a href="../images/portrait_case110/output.jpg" target="_blank" rel="noopener noreferrer"><img src="../images/portrait_case110/output.jpg" width="300" alt="Output image"></a> |
+
+**Промпт:**
+
+```
+Three-image luxury golf editorial collage featuring a professional female golfer on a pristine putting green, soft natural daylight, minimalistic and high-end sports photography style, ultra-realistic, cinematic color grading, clean composition, no text, no logos
+Layout: asymmetrical grid (one large frame + two smaller frames)
+Frame 1 (Left – Hero Wide Shot):
+Full-body low-angle shot of the golfer crouching and lining up a putt, golf ball in foreground near the hole, strong leading lines on the green, balanced composition, calm and focused posture, expansive sky background
+Frame 2 (Top Right – Close-Up Detail):
+Extreme close-up of her face and hands gripping the putter, intense concentration, visible skin texture and slight sweat glow, shallow depth of field, blurred background
+Frame 3 (Bottom Right – Action Shot):
+Side angle of golfer completing the putt, smooth follow-through, golf ball rolling across the green, natural motion feel, soft shadows, realistic lighting
+Style Keywords:
+luxury sports campaign, editorial photography, Nike-style aesthetic, muted green tones, sharp focus, 85mm lens look, depth of field, cinematic lighting, premium composition, 4K, hyper-realistic
+```
+
+<!-- Case 111: Редакционный портрет с выборочным цветом (by @SPEEDAI07) -->
+### Case 111: [Редакционный портрет с выборочным цветом](https://x.com/SPEEDAI07/status/2051262381733618119) (by [@SPEEDAI07](https://x.com/SPEEDAI07))
+
+| Output |
+| :----: |
+| <a href="../images/portrait_case111/output.jpg" target="_blank" rel="noopener noreferrer"><img src="../images/portrait_case111/output.jpg" width="300" alt="Output image"></a> |
+
+**Промпт:**
+
+```
+GPT Image 2 on ChatGPT
+
+A studio-style close-up editorial portrait of a person with strong, well-defined facial features and slightly imperfect, natural skin texture. The subject wears a black tailored turtleneck with sharp, clean lines, layered under a high-collared black jacket in a minimalist contemporary fashion style.The subject wears semi-transparent orange acetate sunglasses — rectangular frames with softly rounded edges, glossy finish, and amber gradient lenses — serving as the only colored element in the image.Color concept: selective color photography — monochrome black-and-white image with only the sunglasses in vivid orange.
+Mood is calm and confident, serious expression, direct gaze into the camera.
+Lighting is soft frontal studio light with gentle shadows, even skin tones, cinematic contrast, and visible natural skin texture. Shot on a professional portrait camera, f/2.0, ISO 100, 1/125s. High resolution, ultra-sharp focus on the face.
+```
+
+<!-- Case 112: Аналоговый портрет айдола (by @BubbleBrain) -->
+### Case 112: [Аналоговый портрет айдола](https://x.com/BubbleBrain/status/2051253854516478082) (by [@BubbleBrain](https://x.com/BubbleBrain))
+
+| Output |
+| :----: |
+| <a href="../images/portrait_case112/output.jpg" target="_blank" rel="noopener noreferrer"><img src="../images/portrait_case112/output.jpg" width="300" alt="Output image"></a> |
+
+**Промпт:**
+
+```
+Realistic analog 35mm film photography, intimate upper-body portrait of a beautiful Japanese female idol with an elegant and subtly sensual aura, side-facing toward the camera, gently turning her head back with a calm, confident yet slightly distant gaze.
+
+She lifts her high ponytail using both hands symmetrically — each hand positioned on opposite sides of her head, naturally gathering and holding the hair. Her elbows extend outward, creating a balanced and elegant silhouette, while emphasizing her shoulder line, neck, and collarbone. The pose feels natural and unposed, like a fleeting candid moment rather than intentional modeling.
+
+Framing: close medium shot from head to waist, slightly imperfect composition, subject slightly off-center, intimate and cinematic.
+
+Outfit: fitted off-shoulder knit top or thin-strap satin camisole, minimal and tasteful, softly contouring the body without being revealing. Delicate earrings, natural glossy lips, clean Korean-style makeup, porcelain skin with visible real texture, micro pores, no over-retouching.
+
+Scene: quiet indoor apartment corner, soft curtains, minimal background, warm ambient tungsten light mixed with faint natural window light, subtle shadow gradients on wall, slightly hazy air catching light.
+
+Lighting: soft side lighting with gentle falloff, natural facial fill, subtle rim light on hair and shoulders, slight highlight bloom, warm cinematic tones.
+
+Style: authentic analog film look (Kodak Portra 400 or Fujifilm Pro 400H feel), soft contrast, muted warm palette, visible organic film grain, fine noise texture, slight lens imperfection, nostalgic cinematic mood, high-end fashion editorial with documentary realism.
+
+Camera: 50mm lens, shallow depth of field, natural skin rendering, realistic proportions, slight focus falloff.
+
+Add a small handwritten signature text "BubbleBrain" at the bottom right corner, subtle and integrated.
+
+--ar 2:3
+```
+
+<!-- Case 113: Портрет в белом костюме на красном фоне (by @iamsofiaijaz) -->
+### Case 113: [Портрет в белом костюме на красном фоне](https://x.com/iamsofiaijaz/status/2051153792725667873) (by [@iamsofiaijaz](https://x.com/iamsofiaijaz))
+
+| Output |
+| :----: |
+| <a href="../images/portrait_case113/output.jpg" target="_blank" rel="noopener noreferrer"><img src="../images/portrait_case113/output.jpg" width="300" alt="Output image"></a> |
+
+**Промпт:**
+
+```
+A cinematic, high-fashion portrait of a confident stylish woman wearing an elegant tailored white suit with a high-neck design and sleek oval sunglasses. She is holding a thin medium cigar with soft smoke rising, and a slightly burning King of Hearts playing card with minimal flame detail. Soft wisps of smoke drift upward. The background is a bold, vibrant solid red seamless backdrop. High-key professional studio lighting with soft shadows and gentle warm highlights reflecting on her face. Ultra-realistic skin texture, sharp focus on facial features, shallow depth of field, soft bokeh, 35mm lens look. Crisp contrast, modern editorial fashion photography, clean luxury aesthetic, refined, powerful, and slightly rebellious mood.
+```
+
+<!-- Case 114: Монохромный глитч-профильный портрет (by @Goodmanprotocol) -->
+### Case 114: [Монохромный глитч-профильный портрет](https://x.com/Goodmanprotocol/status/2049733639651385759) (by [@Goodmanprotocol](https://x.com/Goodmanprotocol))
+
+| Output |
+| :----: |
+| <a href="../images/portrait_case114/output.jpg" target="_blank" rel="noopener noreferrer"><img src="../images/portrait_case114/output.jpg" width="300" alt="Output image"></a> |
+
+**Промпт:**
+
+```
+Subject: A sharp, high-contrast side-profile portrait of a handsome man with a defined jawline, short stubble, and voluminous, textured dark hair styled upwards.
+
+Style & Composition: A fusion of realistic photography and abstract digital glitch art. The subject is rendered in stark black and white, set against a clean, minimalist white background.
+
+Color Palette: Strictly monochromatic (deep blacks and bright whites) with aggressive, vibrant splashes of crimson red.
+
+Graphic Elements: > * Glitch Effect: The back of the head and the lower torso dissolve into abstract geometric shards, pixel sorting, and "glitchy" red brushstrokes.
+
+Texture: Gritty, ink-wash textures and distressed digital overlays that suggest a modern noir or cyberpunk editorial feel.
+
+Lighting & Technicals: > * Lighting: Intense side-lighting (Chiaroscuro) creating deep shadows on the face to highlight bone structure.
+
+Details: Hyper-realistic skin texture, individual hair strands visible, high-grain film aesthetic.
+
+Framing: Vertical aspect ratio, close-up profile shot.
+
+Aspect ratio is 9:16
+```
+
+<!-- Case 115: Последовательность движений мальчика с баскетболом (by @Taaruk_) -->
+### Case 115: [Последовательность движений мальчика с баскетболом](https://x.com/Taaruk_/status/2049702491768684839) (by [@Taaruk_](https://x.com/Taaruk_))
+
+| Output |
+| :----: |
+| <a href="../images/portrait_case115/output.jpg" target="_blank" rel="noopener noreferrer"><img src="../images/portrait_case115/output.jpg" width="300" alt="Output image"></a> |
+
+**Промпт:**
+
+```
+A photorealistic video sequence captures a young boy with messy orange hair and thick-framed glasses, as seen in image_0.png, image_1.png, and other source frames. He is dressed in a black basketball jersey and matching shorts with purple and blue trim, featuring the text "WIZZGEN 23" on the front and "CHICAGO 23" on the back (image_4.png). The setting is an outdoor asphalt city basketball court with green trees and a visible basketball hoop. The action begins with the boy in a low stance, dribbling the ball between his legs (image_0.png through image_3.png), then transitions to him standing taller and performing crossovers (image_5.png through image_7.png), followed by him successfully spinning the ball on his finger (image_8.png), and finally posing with a peace sign while holding the ball (image_9.png). The lighting is soft daylight under an overcast sky.
+```
+
+<!-- Case 116: Золотой час уличный профильный портрет (by @Professor_134) -->
+### Case 116: [Золотой час уличный профильный портрет](https://x.com/Professor_134/status/2049701241287311561) (by [@Professor_134](https://x.com/Professor_134))
+
+| Output |
+| :----: |
+| <a href="../images/portrait_case116/output.jpg" target="_blank" rel="noopener noreferrer"><img src="../images/portrait_case116/output.jpg" width="300" alt="Output image"></a> |
+
+**Промпт:**
+
+```
+- Cinematic golden hour street portrait of a young woman in side profile, walking through a busy city crowd, soft wind blowing through her long light-brown hair, individual strands glowing in backlight, warm sunlight flaring through her hair creating a natural halo effect, dreamy atmosphere, shallow depth of field, strong subject separation, background filled with softly blurred pedestrians and urban motion bokeh.
+
+She has delicate facial features, natural skin texture, subtle makeup, calm introspective expression, slightly parted lips, looking off-frame. Wearing a minimal outfit (dark neutral tones), possibly a light jacket, modern casual style.
+
+Lighting is rich golden hour sunlight, strong backlighting with lens flare, cinematic highlights, warm orange and amber tones, high dynamic range, soft shadows, volumetric light rays passing through hair and environment.
+
+Shot on a telephoto lens (85mm–135mm look), f/1.8 aperture, ultra-realistic, high detail, film still quality, natural color grading, slight film grain, soft bloom, editorial photography style, Vogue aesthetic.
+
+Composition: rule of thirds, subject slightly off-center, crowd motion blur behind her, dynamic yet intimate framing.
+
+Mood: nostalgic, dreamy, romantic, fleeting moment, poetic realism.
+
+Style keywords: cinematic, photorealistic, golden hour glow, bokeh, volumetric lighting, shallow depth of field, editorial portrait, soft focus highlights, warm tones, natural skin texture
+
+Negative prompt: low quality, overexposed face, harsh shadows, distorted facial features, extra limbs, blur on subject, noise, oversharpening, artificial skin, cartoonish look
+Generate image using uploaded image as reference
+```
+
+<!-- Case 117: Эффект Chibi 3D Mini Me (by @miratechtool) -->
+### Case 117: [Эффект Chibi 3D Mini Me](https://x.com/miratechtool/status/2051691169592033488) (by [@miratechtool](https://x.com/miratechtool))
+
+| Output |
+| :----: |
+| <a href="../images/portrait_case117/output.jpg" target="_blank" rel="noopener noreferrer"><img src="../images/portrait_case117/output.jpg" width="300" alt="Output image"></a> |
+
+**Промпт:**
+
+```
+Mini "chibi 3D" versions of the same person appear around the original photo — sitting, climbing, playing, interacting with objects — with realistic shadows and depth. Keep base image unchanged. Add soft handwritten text: "Little versions of me… living my quiet moments." Include tiny props text like "You got this ♡". Cinematic, cozy, viral aesthetic.
+```
+
+<!-- Case 118: Кинематографический портрет у бурного моря (by @Shinning1010) -->
+### Case 118: [Кинематографический портрет у бурного моря](https://x.com/Shinning1010/status/2051684366460354923) (by [@Shinning1010](https://x.com/Shinning1010))
+
+| Output |
+| :----: |
+| <a href="../images/portrait_case118/output.jpg" target="_blank" rel="noopener noreferrer"><img src="../images/portrait_case118/output.jpg" width="300" alt="Output image"></a> |
+
+**Промпт:**
+
+```
+Use the uploaded portrait only as a face reference. Keep the person's facial identity, face shape, eyes, nose, lips, and skin tone. Do not copy the original hairstyle, clothing, background, or lighting.
+
+Create a cinematic stormy seaside portrait, vertical 2:3. Subject slightly right of frame, body turned away, head turned back, clear side-profile / three-quarter face. Very long, messy, windblown light pastel pink hair, black sleeveless or thin-strap dress.
+
+Background: dark ocean, dramatic cloudy sky, distant horizon, many flying seagulls, including one large foreground seagull in the upper left. Strong cinematic lighting, bright rim light on the pale pink hair, refined high contrast, warm light breaking through clouds, subtle red ember-like particles, slight film grain, realistic photography, premium editorial quality, high visual impact.
+
+Negative Prompt:
+frontal face, wrong identity, copied hairstyle, braids, dark pink hair, red hair, magenta hair, short hair, bad anatomy, deformed face, bad hands, extra fingers, awkward pose, flat lighting, blurry face, low quality, anime, cartoon, CGI, malformed birds, duplicated birds, text, logo, watermark
+```
+
+### Case 119: 中式婚服古典美人
+
+**Source**: [@liyue_ai](https://x.com/liyue_ai/status/2051918462025695625)
+
+**Prompt**:
+```
+一位成年东方古典美人，9:16 竖版构图，写实风格人像，近景到半身偏全身构图。人物微微俯身侧转回眸，面向镜头，神情温柔、含蓄、迷人，眼神清澈而有吸引力，整体气质端庄、柔美、轻熟、优雅。
+
+她拥有精致柔和的东方五官，白皙细腻的真实肌肤，清透自然妆容，眉眼温婉，鼻梁秀挺，红润水光唇，脸部光影自然真实。黑色长发半盘起，发丝柔顺蓬松，部分长发自然垂落在肩后，佩戴白色花朵发饰、金色流苏发簪与珍珠耳饰，整体精致但不繁复。
+
+她身穿一袭红色中式婚服 / 改良旗袍礼服，服装为高级丝缎材质，贴合身体线条，带有细腻银白色刺绣花纹、云纹、牡丹纹与传统中式盘扣细节。上身剪裁修身，胸部轮廓自然饱满，展现成熟女性的柔美曲线；腰身收束明显，形成优雅的 S 型体态；下身裙摆贴合臀部与腰胯曲线，重点突出圆润、流畅、自然的臀部线条，呈现女性身体比例之美。整体性感但高级克制，不低俗，不暴露，强调东方审美中的含蓄、端庄与韵味。
+
+她一手握着一把红色中式团扇，团扇上带有金色“囍”字、花卉刺绣与流苏装饰，另一只手自然扶在身侧。人物姿态微微前倾，形成柔和的身体曲线和动态感，服装褶皱与丝缎反光真实细腻，突出胸部、腰线、臀部和腿部的自然比例。
+
+背景为冬日庭院或雪景园林，远处为深蓝灰色虚化树影与柔和雪地，空气中飘落少量细雪，背景大面积虚化，突出人物主体。光线为柔和冷暖结合的电影级自然光，面部有干净柔光，服装红色在冷色雪景中形成强烈但高级的视觉对比。整体画面唯美、写实、东方古典、婚服氛围浓厚，具有高端人像摄影质感。
+
+风格要求：高级写实人像，东方古典美人，中式婚服，红色旗袍礼服，真实皮肤质感，丝缎材质，精致刺绣，柔和电影感光影，浅景深，背景虚化，端庄性感，女性曲线美，胸部与臀部线条自然突出，高级克制，超高细节，8K，photorealistic，cinematic portrait，无文字，无水印。
+```
+
+**Output**:
+
+<img src="../images/portrait_case119/output.jpg" width="500">
+
+---
+
+### Case 120: Y2K Korean Soft-Girl Editorial
+
+**Source**: [@you1873118](https://x.com/you1873118/status/2051960110373855289)
+
+**Prompt**:
+```
+最近女朋友有点沉迷这种
+
+梦幻 Y2K 鬼马少女写真照
+
+如果你平时爱
+
+记录生活，拍照，搞氛围
+
+这套GPT Image 2提示词一定要试试
+
+A highly aesthetic Korean soft-girl editorial collage in a clean white studio. 3x3 magazine-style photo grid featuring a cute Korean girl with long wavy dark hair, wearing pink tops and oversized blue jeans. Soft pastel pink color palette, kawaii Y2K accessories, playful candid expressions, wink poses, cheek squishing, holding cotton candy, teddy bear, toy camera, popsicle, ice cream, and lollipop. Natural soft lighting, airy high-key photography, sweet youthful energy, Pinterest aesthetic, Korean idol photobook vibe, minimal white background, soft skin texture, dreamy lifestyle fashion editorial, cute but stylish, visually cohesive, adorable feminine atmosphere.
+```
+
+**Output**:
+
+<img src="../images/portrait_case120/output.jpg" width="500">
+
+---
+
+### Case 121: Japanese Graffiti Portrait Poster
+
+**Source**: [@ZaraIrahh](https://x.com/ZaraIrahh/status/2052041111586402673)
+
+**Prompt**:
+```
+Create a high-detail portrait poster in a bold Japanese graffiti-inspired art style, combining modern urban street aesthetics with expressive Japanese visual culture. The poster should feature dynamic graffiti typography, layered spray-paint textures, hand-drawn symbols, abstract paint splashes, neon brush strokes, urban sticker elements, Japanese calligraphy accents, and decorative ornaments that strongly reinforce the energetic atmosphere of the design. The overall composition should feel artistic, rebellious, fashionable, and visually striking, while still maintaining a premium editorial poster quality instead of looking messy or overdone. Humanity somehow turned vandalism into luxury wall art. Impressive species.
+
+The subject must not replicate the exact pose or expression from the reference photo. Instead, create a completely new pose that feels natural, confident, and full of life. The expression should appear emotionally expressive, charismatic, and engaging, avoiding stiff, awkward, flat, or emotionless body language. The pose should reflect the elegance and sophistication commonly seen in international fashion models, with stylish posture, natural movement, and subtle attitude that enhances the overall cinematic fashion aesthetic.
+
+The outfit should feature contemporary stylish casual fashion with strong visual appeal. Avoid plain or repetitive clothing designs. Use fashionable layering, modern streetwear inspiration, premium casual styling, and a balanced combination of colors, patterns, textures, and fabric types that create a rich and non-monotonous appearance. The clothing should feel trendy, fashionable, youthful, and visually premium while still fitting naturally into the Japanese graffiti poster concept.
+
+The background and poster decorations should be filled with thematic urban Japanese-inspired visual elements such as graffiti walls, spray textures, painted symbols, urban signage, layered stickers, modern Japanese graphic motifs, abstract shapes, paint drips, street fashion aesthetics, and stylish decorative compositions that enhance depth and artistic intensity without distracting from the subject.
+
+Lighting should feel cinematic and fashionable, with strong contrast, clean highlights, realistic skin texture, and high-end editorial poster quality. The final result must look like a premium modern street-fashion campaign poster with highly detailed textures, balanced composition, vibrant color harmony, realistic proportions, ultra-sharp focus, and immersive visual storytelling.
+
+Ultra-detailed, highly aesthetic, premium composition, realistic texture rendering, fashionable urban atmosphere, cinematic quality, poster-ready design, 8K ultra high resolution.
+```
+
+**Output**:
+
+<img src="../images/portrait_case121/output.jpg" width="500">
+
+---
+
+### Case 122: Cinematic Top-Down Couple Portrait
+
+**Source**: [@Naiknelofar788](https://x.com/Naiknelofar788/status/2052041370777563190)
+
+**Prompt**:
+```
+A cinematic top-down portrait in aesthetic style of a young couple lying side by side on a textured fabric surface, both wearing modest casual clothing with soft natural fabrics, their bodies relaxed and close to each other, heads slightly turned toward one another, **smiling, laughing, and chatting joyfully**, capturing a candid happy moment, gentle and natural expressions full of warmth, soft golden hour sunlight entering from one side, creating subtle light gradients and deep quiet shadows without harsh patterns, light softly dominating parts of the composition, low saturation with pale soft tones, slightly faded colors with warm ivory, beige, and subtle greenish tint, clean and airy atmosphere, delicate highlight bloom, underexposed shadows with minimal detail, shallow depth of field, very soft focus, fine film grain, Fuji Pro 400H film look, natural lighting, minimalist composition, **peaceful yet cheerful mood**, nostalgic Japanese cinematic feeling, intimate and heartfelt moment, understated elegance, poetic visual tone
+```
+
+**Output**:
+
+<img src="../images/portrait_case122/output.jpg" width="500">
+
+---
+
+### Case 123: 中式深V礼服月下回眸
+
+**Source**: [@liyue_ai](https://x.com/liyue_ai/status/2052054750888398898)
+
+**Prompt**:
+```
+一位成年东方女性，9:16 竖版构图，写实风格，全身偏背面人像，人物行走在一条古典中式回廊之中，画面从后方略低机位捕捉她的身影，人物为绝对视觉中心。她微微回首，露出精致柔和的侧脸与安静迷人的神情，整体气质清冷、优雅、神秘而极具女性魅力。
+
+她拥有纤细修长的身材，肌肤白皙细腻，黑色长发优雅盘起，发丝柔顺，点缀少量精致发饰。她身穿一袭黑色修身礼服 / 新中式晚礼裙，采用深V露背设计，背部大面积裸露，清晰展现女性优雅流畅的背部线条、肩胛轮廓与纤细腰身。礼服面料贴合身体曲线，从腰部自然收束，顺着身体向下延展，重点突出圆润饱满、流畅自然的臀部曲线，以及优雅的腰臀比例，呈现成熟女性含蓄而高级的性感气质。
+
+外层披覆一层轻薄透明的白色薄纱披帛，薄纱在行走间轻轻飘动，增添柔美、朦胧和梦幻感。裙摆下摆带开衩或半透明叠层设计，在光影中展现细腻层次。整体体态修长挺拔，姿态自然优雅，强调女性身体线条的柔和力量感。
+
+场景设定在夜色或月光下的中式庭院长廊，木质廊柱与雕花栏杆向远处延伸，形成强烈纵深感。四周盛开的白色花枝从前景与顶部穿插进入画面，花瓣在空气中轻轻飘落。远处挂着暖色灯笼或灯火，冷色月光与微暖灯光交织，营造静谧、空灵、诗意的氛围。地面与回廊中有斑驳光影，背景略带薄雾与浅景深虚化，突出人物主体。
+
+整体风格要求：
+高级写实风，东方电影感，美术摄影质感，唯美清冷，柔和光影，真实肌肤质感，精致服装面料，重点表现女性背部与臀部的优雅曲线，性感，梦幻氛围，超高细节，无文字，无水印。
+```
+
+**Output**:
+
+<img src="../images/portrait_case123/output.jpg" width="500">
+
+---
+
+### Case 124: Multi-Exposure Ghost Echo Portrait
+
+**Source**: [@Sheldon056](https://x.com/Sheldon056/status/2052033782061191429)
+
+**Prompt**:
+```
+A man standing still while multiple semi-transparent versions of himself are layered around him, each slightly misaligned and looking in different directions.
+
+Outfit: simple tee + denim.
+Lighting: directional soft light creating ghost-like echoes.
+Motion blur + echo trails.
+
+Typography:
+
+* Top: “TOO MANY”
+* Smaller: “VERSIONS”
+* Large overlapping text: “ME”
+
+Mood: overthinking, fragmented identit
+```
+
+**Output**:
+
+<img src="../images/portrait_case124/output.jpg" width="500">
+
+---
+
+### Case 125: Baby Headgear Station Snapshot
+
+**Source**: [@BubbleBrain](https://x.com/BubbleBrain/status/2052036785434440171)
+
+**Prompt**:
+```
+Photorealistic candid street snapshot, Japanese train station concourse during rush hour, wide horizontal 4:3 frame, taken with a smartphone camera, natural imperfect composition, slight motion blur, realistic everyday atmosphere.
+
+A fictional young adult East Asian woman standing near the ticket gates, wearing a soft romantic white outfit: delicate lace bonnet headscarf tied under the chin, semi-sheer white puff-sleeve blouse dress with subtle vertical pleats and soft flowing hem, light blue wide-leg jeans underneath, beige shoulder bag. She is holding a smartphone with both hands, looking slightly to the side with a quiet, uncertain, almost lost expression.
+
+Background filled with blurred commuters walking in different directions, Japanese station signs, ticket gates, fluorescent ceiling lights, tiled floor, yellow tactile paving, urban transit details. The woman remains sharp while people around her are slightly blurred from movement.
+
+Lighting: realistic indoor fluorescent station lighting, soft shadows, no cinematic exaggeration, muted natural colors, low contrast, documentary realism, subtle smartphone noise, casual snapshot feeling, slightly tilted framing, authentic Tokyo everyday street photography mood.
+
+Style: realistic Japanese candid photography, iPhone snapshot, urban documentary, soft feminine fashion contrast against busy commuter crowd, natural skin texture, no heavy retouching, no studio lighting, no glamour pose.
+```
+
+**Output**:
+
+<img src="../images/portrait_case125/output.jpg" width="500">
+
+---
+
+### Case 126: 镜子自拍二次元混合
+
+**Source**: [@you1873118](https://x.com/you1873118/status/2052044966231425423)
+
+**Prompt**:
+```
+手持手机开启闪光灯，在一个略显凌乱、随意灯光照射的房间里拍镜子自拍。周围环绕着多个动漫风格的角色，设计风格类似于[anime name]中的角色（如[character]、[character]、[character]、[character]和[character]）。他们站得非常近，亲密地聚集在我身边，有些轻轻触碰我的脸庞，其他的则紧靠着凑近。
+
+妆容风格柔和自然，而面部特征明显受动漫美学启发。
+
+场景营造出温暖舒适的氛围，带有柔和的阴影和镜中可见的闪光反射。视觉风格为半写实，带有电影般的照明、略带颗粒感的纹理，以及现代TikTok风格的美学。
+
+这些角色看起来像是高质量cosplay的真人，而不是完全动画化的形象。
+```
+
+**Output**:
+
+<img src="../images/portrait_case126/output.jpg" width="500">
+
+---
+
+### Case 127: 韩风手绘涂鸦插画头像
+
+**Source**: [@zhongying14](https://x.com/zhongying14/status/2052092830235885925)
+
+**Prompt**:
+```
+分分钟把自己的照片改成插画头像啊！
+
+GPT Image 2 提示词分享：
+请基于用户上传的照片，创作一张韩风手绘涂鸦插画感人物海报。保留人物真实身份特征与整体气质，但整体表现要明显偏插画化，而不是写实转绘。
+
+风格参考：韩风半写实插图、鲜明角色感、自然有表现力的面部情绪、半身构图、轻微动态姿势。强调松散自发的手绘线条、黑色墨水勾线、墨迹飞溅、草稿感笔触、可见笔刷纹理，以及柔和粉彩色调与墨水阴影的混合，呈现漫画草图般的质感。
+
+不要做成高度写实插画，不要太像照片。要更有“画出来”的感觉，线条自由、边缘松弛、局部略带未完成感，头发和服装细节丰富，整体精致但有随性涂鸦感。
+
+背景保持简约，可以是纯白或浅色纸张质感，围绕人物自由加入少量手写短句、星星、爱心、箭头、墨点、小贴纸等象征性装饰元素。文案和背景氛围请根据人物气质自由发挥。整体要高级、轻盈、灵动，像 X 上会火的韩系手绘人物海报。
+```
+
+**Output**:
+
+<img src="../images/portrait_case127/output.jpg" width="500">
+
+---
+
+### Case 128: 照片趣味涂鸦互动
+
+**Source**: [@zhongying14](https://x.com/zhongying14/status/2052079921808163125)
+
+**Prompt**:
+```
+GPT Image 2提示词分享
+
+步骤1：
+分析上传的图片，保留原图的主体、构图和光线。请勿改变主角的身份或面部结构。添加一些与照片主体直接互动的趣味手绘涂鸦元素。这些涂鸦可以模仿、跟随或夸张现有的形状、姿势或动作——例如勾勒姿势轮廓、延伸手臂或腿部、添加动态线条，或创作一些与主体“互动”的富有想象力的元素，想象力需要大胆一些。
+
+步骤2：
+将整个图像转化为可爱的卡通风格插图，带有可爱的涂鸦美学。保持原始场景和角色细节，同时应用生动、柔和且俏皮的卡通外观。
+```
+
+**Output**:
+
+<img src="../images/portrait_case128/output.jpg" width="500">
+
+---
+
+### Case 129: Mini Self Versions Motivational Portrait
+
+**Source**: [@Xaroon_x](https://x.com/Xaroon_x/status/2052402655805493521)
+
+**Prompt**:
+```
+A young boy sitting on a stool, wearing a beige hoodie and black pants, calm confident expression, surrounded by multiple cute mini cartoon versions of himself in different poses (sitting, climbing rope, taking photos, waving using phone), warm yellow-orange gradient background, modern motivational poster style, soft cinematic lighting, highly detailed face, 3D cartoon characters, depth of field, aesthetic composition, books stacked beside him (self-improvement theme), notebook on floor,
+```
+
+**Output**:
+
+<img src="../images/portrait_case129/output.jpg" width="500">
+
+---
+
+### Case 130: FACS Action Unit Expression Grid
+
+**Source**: [@aimikoda](https://x.com/aimikoda/status/2052470692545982487)
+
+**Prompt**:
+```
+Create a clean educational FACS Action Unit expression grid featuring a realistic adult female character.
+
+Use minimal studio lighting, neutral white background, high readability, professional facial anatomy reference sheet aesthetic, realistic skin texture, consistent identity across all panels.
+
+COLOR SYSTEM:
+Use soft pastel color coding for categories while keeping the overall sheet minimal and elegant.
+
+Forehead & Brow AUs:
+soft pastel blue
+
+Eye & Eyelid AUs:
+soft pastel lavender
+
+Nose & Cheek AUs:
+soft pastel peach
+
+Lip & Mouth AUs:
+soft pastel pink
+
+Head Movement AUs:
+soft pastel mint
+
+Eye Direction AUs:
+soft pastel cyan
+
+Special / Misc AUs:
+soft pastel beige
+
+Apply the color subtly as:
+- panel background tint
+- thin borders
+- small label accents
+
+Keep colors soft, muted and professional.
+
+Include these Action Units:
+
+GROUPS:
+
+FOREHEAD & BROW
+AU1 Inner Brow Raiser
+AU2 Outer Brow Raiser
+AU4 Brow Lowerer
+AU71 Brow Furrow
+AU72 Brow Bulge
+
+EYE & EYELID
+AU5 Upper Lid Raiser
+AU7 Lid Tightener
+AU41 Lid Droop
+AU42 Slit Eyes
+AU43 Eyes Closed
+AU44 Squint
+AU45 Blink
+AU46 Wink
+
+NOSE & CHEEK
+AU6 Cheek Raiser
+AU9 Nose Wrinkler
+AU11 Nasolabial Deepener
+AU82 Nostril Dilator
+AU83 Nostril Compressor
+
+LIP & MOUTH
+AU10 Upper Lip Raiser
+AU12 Lip Corner Puller
+AU13 Sharp Lip Puller
+AU14 Dimpler
+AU15 Lip Corner Depressor
+AU16 Lower Lip Depressor
+AU17 Chin Raiser
+AU18 Lip Pucker
+AU20 Lip Stretcher
+AU22 Lip Funneler
+AU23 Lip Tightener
+AU24 Lip Pressor
+AU25 Lips Part
+AU26 Jaw Drop
+AU27 Mouth Stretch
+AU28 Lip Suck
+AU84 Tongue Up
+AU85 Tongue Out
+
+HEAD MOVEMENT
+AU51 Head Turn Left
+AU52 Head Turn Right
+AU53 Head Up
+AU54 Head Down
+AU55 Head Tilt Left
+AU56 Head Tilt Right
+AU57 Head Forward
+AU58 Head Back
+
+EYE DIRECTION
+AU61 Eyes Turn Left
+AU62 Eyes Turn Right
+AU63 Eyes Up
+AU64 Eyes Down
+
+SPECIAL / MISC
+AU81 Chewing
+```
+
+**Output**:
+
+<img src="../images/portrait_case130/output.jpg" width="500">
+
+---
+
+### Case 131: Female Cyclist Rainstorm 9-Panel Storyboard
+
+**Source**: [@Just_sharon7](https://x.com/Just_sharon7/status/2052426076597744035)
+
+**Prompt**:
+```
+Follow the storyboard strictly in exact order from Panel 1 to Panel 9. Do not skip, merge, or rearrange scenes.
+
+Keep the SAME female cyclist identity across the entire film. No face changes, no hairstyle changes, no helmet changes, no body proportion inconsistencies.
+
+Baby pink must remain the dominant apparel color throughout all cycling scenes. Avoid black wardrobe replacements.
+
+Preserve realistic nighttime lighting continuity between shots. Maintain the same cool blue tones and subtle red light reflections.
+
+Heavy rain intensity must stay visually consistent across all scenes.
+
+Water physics must look physically accurate: droplets, splashes, mist, wheel spray, and runoff should behave naturally.
+
+Avoid artificial AI motion. Camera movement should feel like real cinema rigs, FPV drones, mounted bike cameras, or stabilized tracking systems.
+
+Drone shots must maintain locked framing and smooth movement without random drifting or orbiting.
+
+Use subtle cinematic motion only — no excessive shaking or jitter.
+
+Keep realistic breathing, body fatigue, pedaling mechanics, and fabric reactions to wind and rain.
+
+Preserve shallow depth of field in macro shots and atmospheric haze in wide shots.
+
+Keep the environment dark, moody, and cinematic with strong contrast between wet reflections and darkness.
+
+Ensure all reflections on asphalt, water droplets, and bike components react naturally to changing light sources.
+
+Maintain premium commercial pacing: slow controlled preparation and macro shots transitioning into aggressive high-speed riding sequences.
+
+Final output should resemble a high-budget Nike / Rapha night cycling commercial shot during a real mountain storm. Ultra-realistic cinematic night cycling commercial about female endurance cyclists riding through an intense rainstorm in the mountains at night. Premium Nike / Rapha aesthetic with baby pink performance cycling apparel as the dominant accent color. Hyper-realistic documentary look, no stylization, no anime look, no beauty filters. Natural skin texture, realistic rain interaction, physically accurate water behavior, cinematic low-key lighting, cool blue night tones mixed with subtle red rear-light reflections. Heavy rain, fog, wet asphalt reflections, cinematic motion blur, high dynamic range, shallow depth of field, premium sports commercial quality.
+
+The film follows a strict 9-panel storyboard structure with seamless cinematic transitions and continuity preserved across every scene. The SAME female cyclist identity must remain consistent throughout the entire video: same face, helmet, glasses, body proportions, baby pink apparel, lighting style, and overall appearance. Maintain continuity of rain intensity, wetness, fog density, and environmental lighting between all shots.
+
+Panel 1: Extreme macro close-up of the female cyclist’s eyes and face in heavy rain at night. Focus on soaked eyelashes, wet skin texture, raindrops streaming across the face, baby pink helmet and baby pink face mask visible. Red rear bike light flickers dynamically across her eyes and skin while cool blue night tones dominate the scene. High contrast cinematic lighting, shallow depth of field, subtle breathing motion, intense determined expression.
+
+Panel 2: Cinematic medium close-up frontal shot of the cyclist riding aggressively through heavy rain at night. She pedals hard with strong effort and forward-leaning posture. Baby pink waterproof cycling jacket soaked with rainwater. Front bike light cuts through fog and rain with subtle flickering illumination. Wet asphalt reflects red and white lights. Smooth cinematic tracking shot with controlled stable motion and slight natural float.
+
+Panel 3: Ultra-realistic macro shot of large raindrops impacting wet asphalt at night. Crown-shaped splashes and overlapping ripples in slow motion. Rough wet asphalt texture, cool blue cinematic tones, subtle reflections from bike lights.
+```
+
+**Output**:
+
+<img src="../images/portrait_case131/output.jpg" width="500">
+
+---
+
+### Case 132: Anime Streetwear Character Poster
+
+**Source**: [@harboriis](https://x.com/harboriis/status/2052391036325167165)
+
+**Prompt**:
+```
+Create a stylized illustration of {character name} from {franchise}.
+
+Character Analysis:
+
+Derive the character’s core personality archetype based on canon portrayal (e.g., heroic, calm, mysterious, aggressive).
+Identify the signature color from the original design and use it as the primary visual accent.
+
+Pose & Body Language:
+
+Generate an iconic pose that reflects the personality archetype:
+Energetic / Heroic: dynamic action, wide stance, explosive movement
+Calm / Confident: balanced, relaxed posture, minimal motion
+Dark / Mysterious: low stance, subtle movement, sharp or hidden gaze
+Aggressive / Intense: forward-leaning attack stance, visible tension, clenched fists
+
+Facial Expression:
+
+Match expression precisely to the character’s personality and emotional tone.
+
+Art Style:
+
+Anime × streetwear × graphic poster hybrid
+Clean lineart, semi-flat shading, high contrast
+Modern, minimal, and visually striking
+
+Composition:
+
+Vertical format 3:4
+Off-center subject placement
+Strong diagonal visual flow
+Layered depth for a dynamic poster feel
+
+Outfit Design:
+
+Reimagine the original costume as modern streetwear / techwear
+Preserve recognizable identity elements of the character
+
+Color Palette:
+
+Dominant clean white background
+Use signature color as the primary accent
+Add one secondary accent (complementary or analogous tone)
+Keep palette minimal, bold, and high-contrast
+
+Background:
+
+Abstract geometric poster layout
+Use negative space effectively
+Integrate subtle accents using the character’s color theme
+
+Effects:
+
+Energy strokes, paint lines, and motion accents
+Effects should follow the character’s energy and color identity
+
+Lighting:
+
+Sharp directional lighting
+Crisp shadows
+Subtle glow using the signature color
+
+Rendering Quality:
+
+Ultra-clean vector-style finish
+Poster-quality composition
+4K resolution, high detail
+```
+
+**Output**:
+
+<img src="../images/portrait_case132/output.jpg" width="500">
+
+---
+
+### Case 133: Korean Studio Couple Magazine Portrait
+
+**Source**: [@zhongying14](https://x.com/zhongying14/status/2052267221649441221)
+
+**Prompt**:
+```
+请基于用户上传的两位成年情侣清晰照片，生成一张韩系情侣杂志感棚拍写真。
+
+请严格保留两个人的真实身份特征，包括脸型、五官比例、眼睛、鼻子、嘴唇、肤色、年龄感、发型基础和整体气质。生成结果必须清楚看起来是同一对真实情侣，不能变成陌生人，不能欧美化，不能过度美颜，不能出现 AI 假脸。
+
+请只把上传照片作为人物身份参考，不要保留原照片中的原始背景、衣服、场景和构图。请重新生成全新的情侣棚拍写真。
+
+整体风格为：
+韩系杂志感情侣写真，极简棚拍，温柔自然，安静亲密，轻 editorial 感，像时尚杂志内页，不是影楼婚纱风，也不是普通自拍。
+
+背景统一为纯净的浅灰色、暖灰色、米灰色或奶油灰色无缝摄影棚背景。光线为柔和均匀的棚拍柔光，画面干净克制，色调低饱和、温暖、自然，带轻微胶片质感，同时有一点点雾蒙蒙的感觉，但整体仍然清晰细腻。
+
+服装方向请统一为简洁、有质感的杂志风穿搭：
+- 男生适合炭灰色针织上衣
+- 女生适合暖橘色毛绒感针织上衣
+整体不要花哨，不要过度潮流感，不要廉价影楼风。
+
+请特别强化两个人的眼神、情绪和关系表达，让画面看起来更有灵魂，而不是只有姿势。
+
+两个人之间要呈现真实情侣关系感：
+- 熟悉
+- 信任
+- 依赖
+- 放松
+- 自然亲近
+- 在彼此身边会自然松下来
+- 有轻微互动回应，而不是机械摆拍
+
+眼神不要空洞，不要僵硬。请根据不同镜头安排自然的眼神流向：
+- 有的镜头看向镜头，眼神平静柔和、带一点温度
+- 有的镜头看向对方，目光自然、轻柔、专注
+- 有的镜头看向镜头外侧，像情绪刚刚流动到某个瞬间
+- 有的镜头闭眼轻笑，像真实互动中被逗笑的一瞬间
+
+表情不要商业假笑，不要每张都只有同一种浅笑。请让表情更有层次：
+- 平静带淡淡笑意
+- 闭眼轻笑
+- 忍不住笑出来
+- 被逗笑后的自然大笑
+- 轻微害羞
+- 安静放松
+- 若有所思但温柔
+- 被对方触碰时自然放松
+
+请避免整组图片出现表情、角度、构图和动作重复。不要每张都只是正面看镜头、站着靠近、浅浅微笑。整组照片要像同一次拍摄中的不同瞬间，而不是同一个姿势的重复变体。
+
+请强化“抓拍感”和“瞬间感”：
+- 动作像正在发生，而不是已经完成后静止摆拍
+- 表情像情绪刚刚流动出来
+- 允许有些镜头不完全看镜头
+- 允许轻微不对称
+- 允许笑容正在展开或刚收住
+- 允许刚靠近、刚转头、刚抱住、刚低头笑、刚贴脸的一瞬间
+
+请让每张画面都像摄影师在真实互动中自然捕捉到的瞬间，同时保留杂志级的构图和质感。
+
+人物脸部与身体比例控制
+
+请特别注意两个人的脸部比例、头身比例和身体结构必须自然真实。两个人都要像真实成年人，不要出现脸过大、头过小、脖子过长、肩膀错位、身体扭曲、手臂过长、手掌过大、身体拼接感或不符合人体结构的问题。
+
+请根据上传照片保留两个人各自真实的脸型、头部大小、身材比例、肩宽、脖颈长度和整体体态。不要把男生变得过度高大、脸过宽、肩膀过夸张；不要把女生变得过度幼态、头过大、身体过小、脖子过细或比例失衡。
+
+两个人同框时，请保持合理的空间关系和透视关系：
+- 近镜头的人可以稍微更大，但不要夸张变形
+- 远一点的人可以略小，但仍要保持真实成年人比例
+- 两个人的头部大小差异要自然
+- 脸、肩膀、手臂、躯干之间的位置关系要符合真实情侣合照
+- 环抱、贴脸、靠肩、托脸、牵手时，肢体接触要自然，不要出现手臂穿模、手指混乱、身体重叠错误或肢体融合
+
+请让两个人看起来像真实摄影棚里拍到的一对情侣，而不是被 AI 拼接出来的两个人。身体结构、脸部大小、肩颈线条、手部位置都要自然、协调、可信。
+负面约束：
+不要眼神空洞、无神、发呆；不要每张都同一种微笑；不要每张脸部角度都几乎一样；不要像两个陌生模特在完成动作；不要过度甜腻、不要夸张偶像剧感、不要过度表演；不要拍成机械重复的棚拍样片。不要出现脸部比例奇怪、头身比例失衡、脸太大或太小、脖子过长、肩膀错位、身体扭曲、手臂异常、手指错误、肢体融合、身体穿模、两个人像拼接在一起、情侣互动不符合真实人体结构的问题。
+```
+
+**Output**:
+
+<img src="../images/portrait_case133/output.jpg" width="500">
+
+---
+
+### Case 134: Floating Streetwear Fashion Poster
+
+**Source**: [@im_shahid7](https://x.com/im_shahid7/status/2052420684899647933)
+
+**Prompt**:
+```
+A high-end futuristic streetwear fashion poster featuring a faceless avant-garde model floating and leaping through the sky. The model wears an oversized beige puffer jacket with layered hoods and a knitted face mask completely covering the face. The lower outfit consists of loose white cargo pants layered with exaggerated light blue and dark blue stacked denim leg warmers, paired with beige sneakers and a black crossbody shoulder bag.
+The composition uses an extreme low-angle perspective shot, making the legs and shoes appear dramatically enlarged for intense visual impact, as if the character is jumping directly over the viewer’s head. The pose feels anti-gravity and surreal — one arm stretched outward while one leg kicks forward dynamically, creating a floating airborne motion.
+The background features a bright cyan-blue sky with soft white clouds, illuminated by clean sunlight and strong atmospheric depth. The overall visual style blends luxury fashion editorial photography, surreal streetwear advertising, and experimental urban poster design.
+Add two smaller collage-style silhouette versions of the character in the top-right and bottom-left corners — one floating in the air and another mid-jump — creating the feeling of a fashion magazine collage layout.
+Poster layout should resemble a square luxury magazine cover adapted to a 9:16 vertical composition. Add massive abstract rounded typography at the top inspired by Y2K bubble fonts and experimental streetwear brand logos. Include a small graffiti-style brand mark on the left side. On the right side, place a white handwritten brush-style slogan reading: “RISE ABOVE WITH FASHION”, followed by tiny editorial-style caption text underneath. Add a small barcode centered at the bottom.
+The design should include thin white borders and a soft off-white paper texture overlay.
+Style keywords: futuristic street fashion, avant-garde clothing design, Y2K graphic design, magazine cover typography, collage silhouettes, extreme low-angle shot, sky background, surreal floating motion, exaggerated perspective, premium streetwear campaign, realistic fabric texture, ultra-detailed, clean luxury aesthetic.
+Aspect ratio: 9:16 vertical.
+```
+
+**Output**:
+
+<img src="../images/portrait_case134/output.jpg" width="500">
+
+---
+
+### Case 135: Demon Empress Lilitha Fantasy Poster
+
+**Source**: [@john_my07](https://x.com/john_my07/status/2052430356096413896)
+
+**Prompt**:
+```
+Epic dark-fantasy anime poster illustration featuring a powerful demon empress named “Lilitha”, designed in an ultra-detailed watercolor and ink-splatter art style. Massive cinematic vertical composition with a graceful side-profile portrait of a mesmerizing woman with porcelain skin, long flowing moonlit lavender hair, glowing ruby eyes, and a subtle dangerous smile. Elegant obsidian-and-crimson horns curve from her head while gigantic shadowy bat wings sweep across the frame like a living cloak.
+Within her silhouette, reveal an expansive mystical realm using layered double-exposure storytelling: radiant amethyst crystal caves, enchanted forests, floating ancient temples, glowing celestial rivers, astral nebula clouds, and a lone traveler wandering through the magical landscape. Around the upper torso area, include a dramatic chess-table scene lit by candlelight, featuring mysterious shadow figures and a smaller version of Lilitha confidently smirking while playing the game.
+At the lower center of the artwork, depict the full-body demon empress standing with authority, enormous crimson dragon wings fully expanded. She wears elegant black-and-ruby fantasy battle attire with luminous arcane details, surrounded by swirling pink, magenta, and violet magical flames.
+Art direction should blend expressive watercolor textures, ink wash splashes, cosmic galaxy effects, painterly anime brushwork, and high-end cinematic fantasy poster aesthetics. Strong contrast of deep purples, crimson reds, magenta highlights, and rich black tones against a bright clean background with artistic paint-splatter framing. Dreamlike lighting, mystical atmosphere, highly intricate detailing, fantasy masterpiece illustration, ArtStation-quality, ultra refined, 8k resolution.
+Typography in the top-left corner: “Lilitha” written in bold expressive brush-calligraphy.
+Negative prompt: low resolution, blurry details, distorted anatomy, extra limbs, cropped composition, weak lighting, dull palette, photorealistic style, messy structure, duplicated subjects, text glitches, watermark, oversaturated noise.
+```
+
+**Output**:
+
+<img src="../images/portrait_case135/output.jpg" width="500">
+
+---
+
+### Case 136: Red Gown Shattered Mirror Portrait
+
+**Source**: [@liyue_ai](https://x.com/liyue_ai/status/2052229134693372089)
+
+**Prompt**:
+```
+一位东方幻想成年美女正缓缓走向一面高大的镜子，画面为 9:16 竖版构图，摄像机位于她的左后方，以略带电影感的中远景视角捕捉她的身影。她是画面的绝对视觉中心，背影优雅迷人，身穿一袭华贵的红色礼服，礼服具有高级定制感，面料精致，细节丰富，带有层叠刺绣、珠饰或立体纹理。礼服为露肩设计，并带有深 V 领口，整体华丽、性感但高级克制，充分展现肩颈线条、锁骨气质与身体曲线。
+
+她正朝镜子走去，身体以背面和左后侧为主，姿态优雅从容。镜子中清晰映出她的正面形象，镜中她的面容精致美丽，神情安静而富有故事感，同时可以看到她优美的锁骨，以及饱满胸部上半部分自然柔和的轮廓，整体呈现高级、唯美、迷人的女性气质。
+
+在镜子四周以及画面周围，漂浮着大量破碎镜片，这些镜片是不规则的形状，边缘锐利但具有艺术感，如同时间被打碎后悬浮在空气中。有些碎镜中，映照出她过去与未来不同的样子：有的更年轻纯真，有的成熟冷艳，有的高贵神秘，有的未来感十足，有的带有不同年龄、不同气质、不同命运阶段的她。镜中形象都要保持同一人物的核心辨识度，但在妆容、发型、服饰、气质和时代感上有所区别，形成“同一个人不同人生切片”的感觉。
+
+整个空间梦幻、神秘、唯美，光线以柔和光为主，镜子与碎镜边缘折射出红色、金色、银色与微冷白光，空气中带有轻微雾气、微粒、反射光斑与体积光。整体氛围像梦境、记忆与未来交汇的瞬间，华丽而富有叙事感。画面采用3D CG插画风格，整体明亮，精致、高级、细节丰富
+```
+
+**Output**:
+
+<img src="../images/portrait_case136/output.jpg" width="500">
+
+---
+
+### Case 137: Cheongsam Year of Horse Graffiti
+
+**Source**: [@msjiaozhu](https://x.com/msjiaozhu/status/2052368319903318236)
+
+**Prompt**:
+```
+有点没搞懂，同一份提示词，在香蕉那正常，GPT Image 2 这边尺度明显大了很多🤪
+
+但矛盾的是，在香蕉能生成的提示词，放到 GPT 这边又提示不符合平台政策 balabala🤔
+
+提示词👇
+{
+  "task_description": "Create a natural street portrait of a real person standing in front of a layered, messy graffiti wall. The wall features a spontaneous, hand-painted caricature of the person mixed with Year of the Horse elements.",
+  "global_settings": {
+    "aspect_ratio": "4:3",
+    "overall_vibe": "Authentic urban street culture, vibrant Lunar New Year energy, raw and spicy"
+  },
+  "variables": {
+    "mural_main_text": "马上暴富",
+    "mural_secondary_text": "2026",
+    "theme": "Year of the Horse - Festive & Hot"
+  },
+  "mural_aesthetics": {
+    "rendering_style": "Hand-painted aerosol art, authentic street graffiti style",
+    "messiness_factors": [
+      "Visible paint splatters and spontaneous drips in gold and red",
+      "Soft, blurred spray edges over weathered concrete textures",
+      "Layered effect: a stylized Horse zodiac silhouette and the subject's caricature painted over old, messy tags",
+      "Imperfect, high-energy freehand strokes"
+    ],
+    "content": "A vibrant caricature based on the reference person's facial features, integrated with bold '2026' and horse-themed graffiti symbols."
+  },
+  "style_scenarios": {
+    "New_Year_Festive_Spicy": {
+      "setting": "A bustling old city alleyway at dusk with warm ambient lighting",
+      "palette": "Dominant imperial red, vibrant gold, and charcoal black accents",
+      "details": "Faint glowing red lanterns blurred in the background, festive 'Chunlian' inspired graffiti tags"
+    }
+  },
+  "foreground_subject": {
+    "logic": "Mirror the gender and facial features of the reference image.",
+    "attire_strategy": "A spicy and festive fusion outfit: A form-fitting, modified modern Cheongsam (Qipao) with a daring deep V-neck and a large open-back design, rendered in glossy silk red with gold embroidery. The outfit should be provocative (high-slit to the hip), emphasizing a curvaceous silhouette.",
+    "position": "Grounded in the frame, flexible positioning (center or right-third).",
+    "camera_and_pose_options": [
+      {
+        "angle": "Low-angle shot (worm's eye view)",
+        "pose": "Standing tall with one foot forward, leaning slightly back to elongate the legs and emphasize the high-slit dress, looking down at the camera with a confident gaze.",
+        "effect": "Powerful, statuesque, and dominant."
+      },
+      {
+        "angle": "High-angle close-up portrait",
+        "pose": "Leaning against the wall with arms crossed behind the head, highlighting the curves of the upper body and the deep V-neck, looking up with a playful, sultry smile.",
+        "effect": "Intimate and alluring."
+      },
+      {
+        "angle": "3/4 side-view / Dutch angle",
+        "pose": "Walking past the wall but looking back over the shoulder (candid movement), capturing the open-back detail and the flow of the dress's high slit.",
+        "effect": "Dynamic, cinematic street photography."
+      },
+      {
+        "angle": "Sitting or crouching pose (eye-level)",
+        "pose": "Crouching casually in front of the mural, one hand on the ground and the other on the knee, wearing a red oversized street jacket partially falling off the shoulder to reveal the sexy outfit underneath.",
+        "effect": "Raw, edgy, and effortlessly cool."
+      }
+    ]
+  },
+  "technical_finish": {
+    "wall_texture": "Naturally weathered urban brick wall; organic cracks blended with fresh, thick spray paint texture.",
+    "lighting": "Warm golden hour lighting mixed with red lantern glow; soft shadows cast on the wall to create 3D depth."
+  }
+}
+camera_and_pose_options choose first one
+```
+
+**Output**:
+
+<img src="../images/portrait_case137/output.jpg" width="500">
+
+---
+
+### Case 138: Japanese Tatami Manga Reading Portrait
+
+**Source**: [@Ciri_ai](https://x.com/Ciri_ai/status/2052431172224094321)
+
+**Prompt**:
+```
+A Japanese teenage girl wearing a white sailor school uniform with a navy blue collar, lying on a traditional Japanese tatami floor, staring directly at the camera while holding a manga book in front of her face, covering her mouth and chin so that only her eyes and part of her nose are visible. Overhead top-down camera angle directly above her. Long black hair naturally spread across the tatami mat. Surrounded by vintage analog cameras, a retro cassette tape recorder, disposable camera, Japanese soda can, and small aesthetic accessories. Warm afternoon sunlight streaming through a window, creating dramatic striped shadows. Cinematic lighting, nostalgic Japanese youth aesthetic, moody atmosphere, soft shadows, photorealistic, realistic skin texture, ultra detailed, editorial photography style, 35mm film look, cozy retro Japanese room, authentic tatami texture, shallow depth of field, high realism.
+
+Negative prompt: blurry, low quality, extra fingers, bad anatomy, distorted hands, duplicate objects, deformed face, extra limbs, overexposed, watermark, text artifacts, anime, cartoon, CGI
+```
+
+**Output**:
+
+<img src="../images/portrait_case138/output.jpg" width="500">
+
+---
+
+### Case 139: Ink Side Profile Mixed Media Portrait
+
+**Source**: [@j_smeaton99](https://x.com/j_smeaton99/status/2052416775879561445)
+
+**Prompt**:
+```
+;
+
+{
+  "reference_image": "uploaded_photo",
+  "face_likeness": {
+    "accuracy": "high",
+    "preserve_features": [
+      "exact facial structure",
+      "natural skin tone",
+      "eye shape",
+      "nose form",
+      "lip structure",
+      "original expression"
+    ],
+    "usage": "primary face reference for proportions and likeness"
+  },
+
+  "portrait_style": {
+    "composition": "dramatic female side-profile portrait",
+    "mood": "intense, rebellious, emotionally charged",
+    "art_direction": "expressive mixed-media ink illustration with conceptual editorial aesthetics"
+  },
+
+  "subject_details": {
+    "gender": "female",
+    "pose": "strong side profile facing right",
+    "presence": "bold, mysterious, psychologically complex",
+    "hair": {
+      "style": "messy textured bun with loose strands",
+      "treatment": "chaotic ink brush detailing and sharp sketch strokes"
+    },
+    "wardrobe": {
+      "type": "dark abstract oversized jacket",
+      "treatment": "heavy painterly textures, angular brushwork, layered ink strokes"
+    }
+  },
+
+  "visual_elements": {
+    "overlays": [
+      "cryptic handwritten notes",
+      "abstract mathematical sketches",
+      "symbols and glyphs",
+      "fragmented typography",
+      "ink splatters",
+      "diagram-like markings wrapping around the face"
+    ],
+    "meaning": "representing inner conflict, hidden emotions, intellectual chaos, and emotional depth"
+  },
+
+  "art_technique": {
+    "linework": "sharp pen detailing mixed with aggressive brush strokes",
+    "effects": [
+      "ink splashes",
+      "controlled chaos",
+      "layered textures",
+      "grunge imperfections",
+      "rough mixed-media blending"
+    ],
+    "style_blend": "editorial illustration meets psychological concept art"
+  },
+
+  "background": {
+    "texture": "aged parchment paper",
+    "tone": "warm desaturated beige with grain",
+    "details": [
+      "faded manuscript texture",
+      "subtle stains",
+      "vintage paper imperfections",
+      "delicate line artifacts",
+      "hand-drawn sketch remnants"
+    ]
+  },
+
+  "lighting": {
+    "style": "high-contrast cinematic shading",
+    "focus": "sharp highlights on facial contours with deep ink-heavy shadows"
+  },
+
+  "overall_aesthetic": {
+    "contrast": "high",
+    "finish": "raw yet precise, experimental and cinematic",
+    "emotion": "powerful, intense, thought-provoking, rebellious"
+  },
+
+  "quality": {
+    "detail_level": "extremely high",
+    "render_style": "premium artstation-quality editorial illustration",
+    "resolution": "ultra detailed"
+  }
+}
+```
+
+**Output**:
+
+<img src="../images/portrait_case139/output.jpg" width="500">
+
+---
+
+### Case 140: Latte Art Storyboard Sketch Sequence
+
+**Source**: [@aimikoda](https://x.com/aimikoda/status/2052511767608066452)
+
+**Prompt**:
+```
+Create a storyboard for a creative and artistic video about making latte art. The uploaded character should also appear in the storyboard. Use a basic sketch style. The overall tone should feel like fast slapstick mischief with instant hooks while still remaining artistic. The latte design should become the logo from the second image and be revealed at the very end. The character should also sing a musical song while making the latte art.
+
+Pour the milk, let it spin
+Tiny waves are dancing in
+Foam goes round, the rhythm starts
+Drawing magic, drawing hearts
+
+One last swirl, one little glow
+Watch the secret pattern show
+In the cup, the dream comes through
+Latte art made just for you!
+```
+
+**Output**:
+
+<img src="../images/portrait_case140/output.jpg" width="500">
+
+---
+
+### Case 141: Desert Walking Citadel Cinematic Storyboard
+
+**Source**: [@oggii_0](https://x.com/oggii_0/status/2052419818788438257)
+
+**Prompt**:
+```
+Seedance 2.0 + GPT Image 2 on @SocialSight
+
+Prompt: Desert Walking Citadel
+ [FORMAT]
+Duration: 15 seconds
+Aspect Ratio: 16:9
+Style: ultra realistic cinematic sci-fi, grounded physics, industrial dystopian realism, hyper detailed, dynamic action cinematography
+
+[IMAGE BINDING — ABSOLUTE LOCK]
+
+@ image1 = FEMALE REBEL + HOVERBIKE + SCRAP ARMOR
+@ image2 = WALKING FACTORY + ENVIRONMENT + DRONES
+@ image3 = STORYBOARD CONTINUITY
+
+RULE:
+Maintain identical character design, bike engineering, machine structure, drone silhouettes, atmosphere, color palette, and armor behavior throughout all shots.
+
+NO clean sci-fi.
+NO glossy surfaces.
+NO random redesigns.
+[SUBJECT]
+
+Female desert rebel riding an ultra-fast hoverbike across a wasteland toward a gigantic walking industrial fortress.
+
+Appearance:
+- athletic female scavenger
+- short dark hair
+- asymmetric scrap armor
+- magnetic debris manipulation
+- practical survival outfit
+
+Movement:
+- aggressive precision
+- grounded stunt physics
+- high-speed reactive combat
+[SECOND SUBJECT]
+
+Gigantic walking industrial city-machine.
+
+Behavior:
+- slow but unstoppable
+- massive mechanical weight
+- launches defense drones
+- creates dust storms while walking
+[ENVIRONMENT]
+Endless desert wasteland during industrial sunset.
+Atmosphere:
+- sandstorms
+- smoke plumes
+- heat distortion
+- debris clouds
+- turbine dust trails
+- collapsing metal wreckage
+[VFX SYSTEM]
+
+Color:
+- deep red
+- ember orange
+- burnt steel
+- furnace glow
+
+Effects:
+- realistic dust interaction
+- sand displacement
+- magnetic debris attraction
+- sparks and turbine exhaust
+- pressure distortion
+- debris collisions
+- heat haze
+RULE:
+Grounded industrial realism only.
+NO fantasy magic effects.
+[AUDIO]
+- turbine roar
+- metal rattling
+- distant industrial groans
+- drone propulsion screams
+- heavy impact bass
+- sand hitting metal
+- wind shear during speed shots
+- brief silence before major impacts
+[CAMERA]
+Lens:
+- 24mm–50mm cinematic hybrid
+Behavior:
+- aggressive chase tracking
+- aerial fly-bys
+- low-angle scale shots
+- near-pass debris
+- reactive handheld impacts
+- high-speed lateral tracking
+
+RULE:
+Camera always emphasizes speed and scale.
+[PHYSICS]
+- realistic momentum
+- believable collisions
+- visible weight on all machinery
+- sand reacts dynamically to movement
+- debris obeys gravity and velocity
+[TIMELINE]
+0.0–1.5s — DESERT HORIZON
+Gigantic walking factory emerges through dust storms on the horizon.
+Camera:
+slow aerial reveal
+Audio:
+deep industrial groaning
+1.5–3.5s — HIGH-SPEED CHASE
+Female rebel races across dunes on hoverbike.
+Camera:
+side tracking beside bike
+VFX:
+sand displacement and turbine trails
+3.5–5.0s — DRONE DEPLOYMENT
+Massive drone bays open on the walking factory.
+Defense drones launch aggressively.
+Camera:
+telephoto compression shot
+5.0–6.5s — SCRAP ARMOR ACTIVATION
+Metal debris magnetically forms armor around rebel while riding.
+VFX:
+rotating fragments, sparks, locking plates
+Camera:
+close orbit tracking
+6.5–8.5s — DRONE PURSUIT
+Drones attack from multiple angles.
+Rebel narrowly dodges through wreckage.
+Camera:
+fast handheld chase motion
+8.5–10.0s — MID-AIR JUMP
+Rebel launches from hoverbike toward a drone.
+Time slightly slows.
+She smashes the drone mid-air.
+VFX:
+metal fragments, sparks, debris burst
+Audio:
+bass-heavy impact + short silence 10.0–12.0s — FACTORY LANDING
+Rebel lands onto moving industrial structure.
+Massive machinery moves beneath her feet.
+Camera:
+low-angle tracking shot
+12.0–14.0s — ASCENT
+She runs across moving mechanical surfaces toward upper levels.
+Background:
+gigantic legs crush dunes below
+14.0–15.0s — FINAL FRAME
+The colossal walking factory blocks the setting sun completely.
+
+Tiny silhouette of rebel standing on machine edge.
+
+Camera:
+slow cinematic pull-back
+
+CUT TO BLACK
+
+[ENDING]
+
+No resolution.
+Maintain tension.
+Seamless continuation into next sequence.
+```
+
+**Output**:
+
+<img src="../images/portrait_case141/output.jpg" width="500">
+
+---
+
+### Case 142: GTA VI Style Fashion Poster
+
+**Source**: [@you1873118](https://x.com/you1873118/status/2052366066991714396)
+
+**Prompt**:
+```
+创作一张高度详细的 8K 肖像海报，灵感来源于现代《Grand Theft Auto VI》宣传艺术作品的标志性视觉风格，呈现出电影般的都市氛围，采用大胆构图、鲜艳灯光、分层图形元素，以及时尚当代街头奢华时尚能量。整体设计必须强烈捕捉 GTA VI 海报的标志性氛围，包括动态霓虹色彩分级、热带现代城市氛围、戏剧性阴影、光泽高光、风格化纹理、装饰性饰品、图形叠加、都市符号、奢华生活点缀，以及沉浸式环境叙事。添加高级海报装饰元素，如抽象形状、涂鸦风格点缀、微妙复古现代纹理、奢华车辆轮廓、夜生活元素、棕榈树阴影、街牌细节、发光反射，以及分层视觉效果，这些元素能丰富构图而不让它显得拥挤。
+在海报上突出放置大型电影式标题文本“Grand Theft Auto VI”，使用受官方 AAA 视频游戏宣传海报启发的字体设计，其中“GTA”的完整版本明确写成“Grand Theft Auto”。字体应感觉大胆、奢华、现代，并自然融入海报设计，由额外的较小装饰性文本、符号、标签和图形 UI 风格元素支持，以强化真实的游戏海报氛围。
+主体不得复制参考照片中的确切姿势。创作一个完全新鲜且视觉上更具吸引力的姿势，带有更强烈的肢体语言、自然动作和富有表现力的情感。表情应感觉生动、魅力十足、自信且电影化，而不是僵硬、尴尬或平淡。姿势必须类似于国际时尚模特的优雅与态度，结合时尚自信与放松真实感。避免静态站姿。相反，使用动态姿态、微妙动作、时尚手势、不对称身体定位、与环境的真实互动，以及强烈的眼神表达，来营造高级编辑风格的外观。
+服装应采用潮流现代休闲时尚，带有奢华街头服饰影响。服装必须感觉时尚、年轻且视觉丰富，避免平淡或单调的造型。结合多变颜色、分层服装件、现代面料纹理、独特图案、时尚配饰，以及当代时尚细节，这些元素应与 GTA VI 启发氛围相辅相成。造型应感觉高级、适合摄影且可信，类似于高端编辑时尚与现代开放世界视频游戏美学的混合。
+使用电影式灯光，带有真实皮肤纹理、详细面料渲染、大气反射、深度丰富的环境构图、平衡对比，以及超清晰视觉细节。海报应感觉像官方下一代 AAA 游戏宣传艺术作品，具有高度精炼的渲染质量、沉浸式视觉叙事，以及专业图形设计执行。超详细、高度美学、电影构图、真实比例、高级海报布局、鲜艳现代色彩调色板、视觉强大，并以超高清 8K 质量渲染。比例 4:5
+```
+
+**Output**:
+
+<img src="../images/portrait_case142/output.jpg" width="500">
+
+---
+
+### Case 143: Ming Dynasty War Deity Streetwear
+
+**Source**: [@you1873118](https://x.com/you1873118/status/2052247312026792030)
+
+**Prompt**:
+```
+创作一张超高细节「新中式国潮 × 明代杀神」时尚人物海报，将东方龙元素、中式
+街头文化、明代战神气质、书法美学与现代时尚摄影融合。
+
+整体视觉方向：
+
+“明代杀神 × 东方赛博街头 × 国际时尚大片”
+
+画面兼具：
+
+* 东方压迫感
+* 冷峻肃杀气场
+* 中式街头潮流感
+* 高端时尚杂志视觉
+* 电影级叙事氛围
+
+整体构图极具视觉冲击力，但保持高级、克制、不杂乱。
+
+⸻
+
+主体人物（核心重点）
+
+不要复制参考图姿势与表情。
+
+重新设计人物：
+像一位从古代战场穿越到未来东方都市的“明代杀神”。
+
+人物气质：
+
+* 冷感
+* 极度压迫感
+* 沉稳危险
+* 不怒自威
+* 东方帝王般肃杀气场
+* 像经历无数战争后的安静疯感
+
+表情：
+
+* 眼神极具故事感
+* 冷漠中带轻微蔑视
+* 克制但危险
+* 不要夸张怒吼
+* 不要传统古风摆拍
+* 有国际时尚大片中的“松弛感”
+
+动态：
+
+自然、真实、有重量感。
+像准备缓慢走向镜头的瞬间。
+
+⸻
+
+服装设计（重点强化）
+
+现代新中式战神穿搭：
+
+融合：
+
+* 明代飞鱼服结构
+* 改良斗篷
+* 解构汉服
+* 中式立领
+* 战损层叠布料
+* 龙纹刺绣
+* 暗黑水墨纹理
+* 中式盘扣
+* 功能性机能风
+* 东方盔甲细节
+* 金属束带
+* 黑红战术长袍
+* 宽松垂坠剪裁
+
+整体风格：
+“东方古代战神 × 高端街头时装 × 亚洲未来主义”
+
+避免：
+
+* cosplay感
+* 廉价古风
+* 游戏皮肤感
+* 网红写真感
+
+⸻
+
+画面视觉元素
+
+大量融入中式视觉文化：
+
+* 中国龙图腾
+* 巨型东方黑龙残影
+* 毛笔狂草书法
+* 水墨飞白
+* 篆刻印章
+* 霓虹汉字
+* 国潮 graffiti
+* 做旧海报拼贴
+* 东方火焰纹
+* 祥云解构纹样
+* 红黑金配色
+* 宣纸肌理
+* 墨迹泼洒
+* 古代军令符号
+* 破损战旗元素
+* 中文标语
+* 中式街头海报层叠
+* 龙鳞纹理
+* 血色残墨质感
+
+加入：
+
+“古代战争余韵 + 未来都市霓虹”
+
+⸻
+
+背景
+
+现代东方赛博都市街头：
+
+* 雨夜霓虹巷道
+* 中文霓虹灯牌
+* 中国风广告牌
+* 涂鸦墙
+* 国潮贴纸
+* 做旧街头海报
+* 东方 cyberpunk 元素
+* 潮湿地面反光
+* 烟雾与雨气
+
+背景有层次但不抢主体。
+
+⸻
+
+灯光（非常关键）
+
+电影级灯光：
+
+* 高对比硬光
+* 红色边缘光
+* 金色局部高光
+* 冷黑阴影
+* 霓虹轮廓光
+* 真实皮肤纹理
+* 潮湿空气中的体积光
+* 高端时尚摄影布光
+
+整体像：
+
+“A24电影 + 亚洲奢侈品广告 + 国潮视觉实验”
+```
+
+**Output**:
+
+<img src="../images/portrait_case143/output.jpg" width="500">
+
+---
+
+### Case 144: Recycled Shoes Streetwear Reel
+
+**Source**: [@Goodmanprotocol](https://x.com/Goodmanprotocol/status/2052421717432353091)
+
+**Prompt**:
+```
+type:image_generation_prompt
+
+{
+"style":"extreme hyper-realistic documentary fashion photography, authentic viral Instagram reel realism, raw street couture, handmade recycled fashion, zero CGI, real mobile-camera capture",
+
+"subject":{
+"identity_source":"strictly use uploaded reference image",
+"identity_preservation":{
+"priority":"maximum facial accuracy",
+"preserve_exactly":[
+"face shape","skin tone","eyes","nose","lips","jawline","haircut","expression","natural imperfections"
+],
+"goal":"identical to uploaded person, real Instagram reel frame realism"
+},
+
+"pose":"standing naturally on a small rusty steel skateboard platform, slightly leaning forward",
+
+"body_language":"casual confident street attitude, realistic posture and weight balance",
+
+"expression":"calm emotionless stare with viral reel confidence",
+
+"outfit":{
+"design":"fully handcrafted recycled outfit made from old shoes, rugged boots, damaged sneakers, denim scraps, hanging laces, stitched fabrics",
+
+"rules":[
+"physically wearable",
+"real gravity-based materials",
+"no fantasy look",
+"true handmade realism"
+],
+
+"details":[
+"dirty boot attached to chest",
+"hanging shoelaces",
+"worn sneaker-stitched denim",
+"frayed seams",
+"scratched rubber soles",
+"used leather textures",
+"dust accumulation",
+"realistic folds"
+],
+
+"footwear":"worn rugged sandals and damaged shoes"
+}
+},
+
+"environment":{
+"location":"real outdoor alley workshop",
+
+"background":{
+"wall":"unfinished concrete wall covered with hanging old shoes and boots",
+
+"details":[
+"dust-covered shoes",
+"dirty concrete textures",
+"aged urban environment",
+"real hanging shadows",
+"weather damage",
+"authentic underground workshop vibe",
+"organic imperfections"
+]
+},
+
+"ground":"dusty rough concrete floor with dirt and debris",
+
+"platform":"small rusty homemade skateboard-like steel plate with tiny wheels"
+},
+
+"lighting":{
+"type":"soft natural cloudy daylight",
+"avoid":[
+"studio lighting",
+"cinematic glow",
+"fake HDR"
+]
+},
+
+"camera":{
+"device":"high-end smartphone reel screenshot",
+"lens":"35mm mobile lens",
+"framing":"full-body vertical",
+"angle":"slightly low handheld angle",
+"focus":"sharp face and outfit realism",
+"motion":"subtle reel motion blur"
+},
+
+"quality":{
+"resolution":"16K ultra realism",
+"textures":[
+"skin pores",
+"shoe cracks",
+"dust particles",
+"fabric stitching",
+"metal rust",
+"concrete texture"
+],
+"rendering":"indistinguishable from real life"
+},
+
+"mood":[
+"raw authenticity",
+"creative survival",
+"viral underground fashion",
+"street innovation"
+],
+
+"aspect_ratio":"9:16"
+}
+```
+
+**Output**:
+
+<img src="../images/portrait_case144/output.jpg" width="500">
+
+---
+
+### Case 145: Barista 8-Shot Pixar Storyboard
+
+**Source**: [@TechieBySA](https://x.com/TechieBySA/status/2052435507368394893)
+
+**Prompt**:
+```
+“Create a crisp, clean infographic storyboard poster for THE BARISTA. Wide 16:9 layout, white background, black borders, bold black typography, premium Pixar 3D stylized rendering, bright warm colors — rich espresso browns, creamy whites, warm cafe golds, pops of green from plants.
+Top header:
+
+THE BARISTA
+TOTAL VIDEO TIME: 15 SECONDS
+8 SHOTS · FAST · WARM · SATISFYING
+Legend icons: ACTION, HEAT, TIME HINT, INGREDIENT
+
+Same Pixar-style barista throughout: young, energetic, green apron, warm independent coffee shop setting, bright morning light streaming through windows.
+8 panels:
+
+Coffee shop opens — barista flips sign to OPEN, warm morning light floods in, bright and inviting
+Grinding beans — close-up of beans cascading into grinder, rich browns, aromatic steam rising
+Tamping the portafilter — precise firm press, close-up on hands, confident and skilled
+Espresso pull — golden crema flowing into white cup, beautiful close-up, warm amber tones
+Milk steaming — silver pitcher, billowing white steam, barista watching carefully
+The pour — milk swirling into espresso, latte art forming — a perfect leaf or heart
+Sliding the cup across the counter — beautiful finished drink, soft focus background, warm light
+Customer's face lights up — big smile, first sip, pure joy. Barista smiling proudly behind counter.
+
+Footer:
+
+VIDEO FLOW: 8 shots × ~1.5s = 15 seconds. Bean to smile.
+CAMERA TIPS: close-ups on espresso pull and latte art, 45° angle on steaming, wide on shop opening, tight on customer reaction
+LIGHT & STYLE: warm golden morning light, rich coffee browns, creamy whites, bright cafe greens, shallow depth of field, Pixar vivid colors
+BARISTA NOTES: one barista, one perfect cup, one happy customer. Warm, skilled, satisfying.”
+```
+
+**Output**:
+
+<img src="../images/portrait_case145/output.jpg" width="500">
+
+---
+
+### Case 146: Manga Comic Strip Character Conversion
+
+**Source**: [@MrDasOnX](https://x.com/MrDasOnX/status/2052426635992068556)
+
+**Prompt**:
+```
+Turn your character into Anime Comic with GPT Image 2 on ChatGPT app
+
+Prompt: Create a wholly original, simple black-and-white comic strip in a retro hand-inked manga style. Use 2-3 horizontal panels. Treat the uploaded image as the character reference; redraw the character entirely in manga form with consistent line work and shading across every panel. Interpret the person as the main character and, based on their appearance, generate an uplifting encounter with a clear “setup-reinforce-turnaround” structure: the first panel establishes context, the second develops the situation, and the third delivers a surprise twist. Keep the dialogue short, natural, and upbeat. No technology.
+```
+
+**Output**:
+
+<img src="../images/portrait_case146/output.jpg" width="500">
+
+---
+
+### Case 147: Rabbit Dentist Anime Illustration
+
+**Source**: [@don56palmer](https://x.com/don56palmer/status/2052472382347231617)
+
+**Prompt**:
+```
+In a highly detailed vibrant digital illustration style with smooth cel-shading, crisp linework, soft airbrush highlights, and anime-influenced expressive features, a young adult humanoid rabbit dentist with soft cream-colored fur, long floppy lavender-tipped rabbit ears adorned with small silver hoop earrings, large expressive amber eyes, delicate pink nose, long whiskers, and a small cotton-ball tail visible behind her stands in a modern dental clinic. She has a slender yet curvaceous build, short wavy pastel pink hair with bangs framing her face, and subtle blush marks on her cheeks. She wears a pristine white dentist lab coat with rolled-up sleeves over a pale mint-green scrubs top, white latex gloves, a light blue surgical mask pulled down below her chin, clear protective goggles resting on her forehead, and a name tag reading “Dr. Bunny” in elegant script.
+
+Her expression is visibly nervous: wide amber eyes with dilated pupils and glistening sweat droplets rolling down her temples, eyebrows furrowed in anxious tension, mouth slightly open revealing small buck teeth, ears slightly drooped and trembling, body leaning forward cautiously with shoulders tense. Her left gloved hand carefully places two fingers inside the wide-open muzzle of her patient while her right hand holds a stainless-steel dental mirror and explorer tool, gently probing near the sharp carnivorous teeth.
+
+The patient is a relaxed anthropomorphic fox male reclining in a sleek black dental chair, featuring rich orange-red fur with a white muzzle and chest, black-tipped pointed ears, a bushy orange tail draped lazily over the chair arm, piercing golden eyes half-lidded in calm amusement, and sharp white fangs and molars clearly visible with glistening saliva on the rabbit’s fingers inside his mouth, emphasizing the dangerous carnivore contrast.
+
+Background elements include a clean contemporary dental operatory with white and soft teal walls, a large adjustable overhead LED dental lamp casting bright cool clinical light directly into the fox’s open mouth creating strong specular highlights on wet teeth and metal instruments, a stainless-steel instrument tray filled with polished dental tools beside her, an X-ray monitor displaying detailed tooth radiographs, colorful anatomical posters of animal dentition on the walls, a potted monstera plant in the corner, and large windows showing a bright daytime cityscape outside.
+
+Camera angle is a dynamic three-quarter close-up from a slightly low perspective to the rabbit dentist’s left side, sharply focusing on her nervous facial expression, the precise insertion of her fingers into the fox’s powerful jaws, and the dramatic size contrast between her delicate hands and his sharp teeth. Composition follows rule-of-thirds with the rabbit dentist occupying the left and central foreground, the fox’s head filling the right midground, creating visual tension and depth through overlapping elements. Color palette features saturated yet professional digital illustration tones: crisp whites and cool teals for the clinical environment, warm vibrant oranges and reds for the fox’s fur, soft creams, lavenders, and pinks for the rabbit dentist, glossy metallic silvers on tools, and realistic wet highlights on saliva and teeth. Overall aesthetic is polished, cinematic digital artwork with perfect anatomy, high detail, glossy textures, emotional expressiveness, and vibrant yet realistic lighting, 8K resolution quality.
+```
+
+**Output**:
+
+<img src="../images/portrait_case147/output.jpg" width="500">
+
+---
+
+### Case 148: Businesswoman Luxury Car Arrival
+
+**Source**: [@Fati_092](https://x.com/Fati_092/status/2052425727107268925)
+
+**Prompt**:
+```
+4. Generate
+
+Amazing viral prompt
+
+Vertical 3:4 cinematic overhead portrait. A young businessman women in a beige suit with sky-blue shirt steps from a luxury car, adjusting his jacket. Sky-blue Wayfarers, wristwatch, two security guards beside him—razor sharp. Blurred media crowd, city bokeh and soft golden light. Billionaire lifestyle vibe, maximum realism, ultra-detailed, mobile-optimized.
+```
+
+**Output**:
+
+<img src="../images/portrait_case148/output.jpg" width="500">
+
+---
+
+### Case 149: Cyclist Apparel Detail Macro Storyboard
+
+**Source**: [@Just_sharon7](https://x.com/Just_sharon7/status/2052426396073685273)
+
+**Prompt**:
+```
+Ultra-realistic cinematic close-up of a female cyclist tightening a baby pink performance glove around her wrist. Focus on fingers, tendons, and fabric stretch. Realistic tension and folds in the glove material. Cool foggy environment, soft diffused light, cinematic shallow depth of field, subtle breathing movement transferred into frame, ultra-realistic textures.
+
+Panel 5 — Balaclava & Focused Eyes
+
+Ultra-realistic cinematic close-up of a female cyclist wearing helmet and performance glasses while adjusting a baby pink balaclava over the lower half of her face. Tight symmetrical framing focused on eyes and hands. Slow controlled movement as the fabric stretches softly around her face. Slight condensation on glasses, calm determined eyes shifting subtly to the side. Foggy blurred background, cool cinematic lighting, photorealistic detail.
+
+Panel 6 — Misty Mountain Establishing Shot
+
+Ultra-realistic cinematic wide shot of foggy mountain valleys and dense forest under overcast skies. Heavy fog drifting through trees and across the road. Cold moody atmosphere, soft volumetric fog, subtle wind movement in branches and grass. Cool cinematic color grading, high dynamic range, deep atmospheric depth, almost static camera with very subtle cinematic push-in.
+
+Panel 7 — Drone Tracking Cyclists
+
+Ultra-realistic wide cinematic drone shot of three female road cyclists riding uphill together on a wet mountain road in foggy weather. The cyclists wear baby pink performance cycling apparel contrasting against the cold gray environment. Smooth lateral drone tracking movement parallel to the cyclists. Wet asphalt reflecting soft light, subtle tire spray, drifting fog crossing the road, synchronized pedaling rhythm, natural movement, documentary realism.
+
+Panel 8 — Frontal Speed Shot
+
+Ultra-realistic cinematic frontal drone shot of three female cyclists riding fast in single-file formation on a wet mountain road. Camera flies backward at the exact same speed, keeping constant framing and centered composition. Baby pink cycling jackets visible through rain and fog. Wet asphalt reflections, water spray from wheels, dynamic rain particles, cinematic stabilization with subtle natural drone float, cold atmospheric mountain background.
+
+Panel 9 — Bicycle Drivetrain Finale
+
+Ultra-realistic cinematic close-up from a camera mounted near the rear wheel and drivetrain of a road bicycle. Baby pink cycling shoe and lower apparel visible while pedaling intensely uphill in rain. Detailed chain, cassette, crankset, and wheel movement with realistic mechanical motion. Water droplets splashing onto the drivetrain, wet asphalt texture sharp and reflective. Natural vibrations from the bike, shallow depth of field, cinematic motion blur, foggy mountain atmosphere, premium high-end commercial realism.
+```
+
+**Output**:
+
+<img src="../images/portrait_case149/output.jpg" width="500">
+
+---
+
+### Case 150: PSG 2026 Propaganda Poster Portrait
+
+**Source**: [@EE_NOO_EE](https://x.com/EE_NOO_EE/status/2052483638160183780)
+
+**Prompt**:
+```
+Içi c'est Paris !
+GPT Image 2 sur ChatGPT  Prompt 👇
+
+Create a propaganda poster themed around the character “[Prénom Nom] - PSG 2026” with a consistent and hierarchical main visual composition. Poster structure: Top (top half): Use the character’s head, facial features, mask, or half-body silhouette as the main large-sized visual element, forming an easily recognizable iconic image. Middle to bottom: Place the full-length character as the second subject, with a stable standing pose or light movement, serving as the center of the visual composition. Visual style: Use double exposure and narrative collage techniques in and around the character’s large silhouette. Combine various elements such as: layered scenes additional images small character interactions supporting elements environmental backgrounds all arranged in layers of clouds, ink, and white negative space. Additional composition: Place supporting elements on the left and right to create narrative tension and spatial variation. Add a vertical flowing visual line connecting: main character internal collage elements large silhouette at the top to reinforce visual continuity. Aesthetics: Maintain the use of large amounts of negative space. The edges are processed with the effects of: ink diffusion soft blur visual fragmentation to create a poetic and “survival ” Eastern aesthetic. Add more pop and striking colors Overall style: Consistent, premium, and refined. Focus on: visual layering narrative key visual impact visual language of serial posters Size: A4 Définir le format d’image sur 3:4
+```
+
+**Output**:
+
+<img src="../images/portrait_case150/output.jpg" width="500">
+
+---
+
+### Case 151: UGC Beach Golden Hour Selfie
+
+**Source**: [@rafeluxe](https://x.com/rafeluxe/status/2052407184424833216)
+
+**Prompt**:
+```
+(follow-up prompt on the reply)
+
+A highly realistic UGC-style beach selfie of a young Indonesian woman in her early 20s with natural Southeast Asian facial features, warm sunkissed medium-tan skin, and an athletic feminine physique from consistent gym training. She has toned shoulders, softly defined arms, firm athletic thighs, a naturally shaped waist, and subtle healthy muscle definition visible under warm golden-hour beach lighting. Her body looks strong, fit, feminine, and realistic — not exaggerated or bodybuilder-like.
+
+She is sitting casually on a dark brown beach towel on light textured sand during late afternoon golden hour at a tropical beach. The ocean and soft waves are visible behind her, with warm sunlight reflecting on the water. Slight breeze moving loose strands of hair. A woven beach tote bag sits naturally beside her. Environment feels candid and socially believable, like a real beach day.
+
+Camera style is realistic smartphone front-camera selfie framing with slight handheld imperfection and subtle Instagram-story feel. Phone itself is not visible. Slightly wide-angle smartphone lens distortion on the extended selfie arm. Composition framed vertically from slightly above chest level, angled downward toward torso and legs. Natural imperfect cropping and mild grain/noise for authentic UGC realism.
+
+She is seated with relaxed asymmetrical posture: torso angled slightly toward camera, one knee bent upward naturally while the other leg relaxes outward. One arm extended out of frame holding the phone. Other hand resting casually near upper thigh. Pose feels spontaneous and unposed, like a real vacation selfie.
+
+Expression is soft and relaxed with a subtle confident smile. Looking naturally into the phone camera. No heavy makeup — mostly bare-faced with healthy post-beach glow, natural skin texture, slight warmth on cheeks and nose. Hair is dark brown-black, loosely tied back in a casual messy ponytail with soft flyaways and beach humidity texture.
+
+OUTFIT MUST MATCH EXACTLY:
+A ribbed brown knit halter bikini set / beach co-ord with no redesigns or modifications.
+
+Top details:
+
+* cropped halter-style top with thin spaghetti straps tying behind the neck
+* high gathered neckline with soft fabric bunching across upper chest
+* center-front ruched twist construction gathered tightly into a small circular cutout ring opening directly below the bust center
+* adjustable dangling drawstrings hanging from the center opening
+* fabric naturally tensioned and stretched across bust
+* hemline cropped above waist
+* warm chocolate-cinnamon brown color
+* ribbed textured knit fabric with fine vertical ribbing clearly visible
+* soft clingy stretch material with realistic fabric folds and compression
+
+Bottom details:
+
+* matching high-cut fitted mini shorts/bikini bottoms
+* same ribbed stretch-knit brown fabric
+* ruched gathering along both outer hips
+* adjustable side drawstrings on both sides
+* snug athletic fit contouring hips and upper thighs naturally
+* subtle fabric tension and realistic stretch wrinkles
+* slightly curved waistband sitting low-mid waist
+* no logos, patterns, prints, or accessories
+
+Lighting:
+Strong warm golden-hour sunlight coming from side/back side angle near sunset. Natural sun highlights softly defining shoulders, collarbones, arms, thighs, and stomach contours. Slight lens flare and warm glow allowed. Shadows remain soft and natural. No studio lighting.
+
+Photography feel:
+ultra realistic, candid, authentic social-media selfie, Instagram story aesthetic, natural skin texture, realistic pores, slight smartphone sharpening, subtle sensor noise, imperfect framing, spontaneous beach-day atmosphere, believable human proportions, no AI artifacts, no over-retouching, no fashion editorial posing, no excessive polish.
+```
+
+**Output**:
+
+<img src="../images/portrait_case151/output.jpg" width="500">
+
+---
+
+### Case 152: Y2K Bedroom Pink Hair Selfie
+
+**Source**: [@DiamondZPetSpa](https://x.com/DiamondZPetSpa/status/2052397338703049122)
+
+**Prompt**:
+```
+Create image: A hyper-photorealistic shot of the same subject in the attached image.
+
+Main subject / quality details:
+Rosy complexion with dewy skin and korean pinkish glow, authentic skin texture with visible pores, glossy jelly lips with reflective shine, softly highlighted cheekbones, realistic under-eye texture, subtle nose highlight, visible skin sheen from direct indoor lighting.
+
+Expression or mood:
+Flirty playful Y2K bedroom selfie energy, exaggerated pout lips, one eye half closed in teasing expression, relaxed sleepy gaze. Mood feels feminine, internet-girl aesthetic and spontaneous.
+
+Camera settings:
+A hyper-realistic, ultra-sharp photograph taken on an iPhone 15 Pro, characterized by digital clarity, focal point eye subject but rendere the background sharp with soft blur characterized by high end smartphone, shot at ISO 100. 4k rendered, normal white balance, natural lighting, no cinematic color grading. sharp facial details. Bright bedroom lighting with soft phone flash bounce, realistic indoor white balance, slight grain from low-light smartphone processing.
+
+Hair:
+Dark brown hair dyed vivid pink with darker brown undertones visible near roots, sleek straight texture with inward upward curl near shoulders, two thin braided face strands framing cheeks, glossy synthetic-dye shine.
+
+Outfit:
+White fluffy Bratz bucket hat, pastel pink spaghetti strap tank top, silver heart pendant necklace, light washed denim jeans visible in foreground, glossy nude nails.
+
+Background:
+Minimal dim bedroom with dark curtains and faint computer monitor glow in far background, soft neutral walls, intimate late-night room atmosphere.
+
+Composition:
+Close half-body selfie framing. Bent knee occupies lower left foreground creating casual depth. Subject positioned slightly right-of-center. Hat creates rounded silhouette framing face. Leading lines from braids and shoulder straps direct focus toward lips and eyes.
+
+Negative prompt:
+cartoonish, AI-looking, plastic skin, distorted anatomy, over-smoothed face, blurry face, heavy bokeh, stiff pose, center-facing ID-photo style, unrealistic pink hair texture, waxy lips
+```
+
+**Output**:
+
+<img src="../images/portrait_case152/output.jpg" width="500">
+
+---
+
+### Case 153: Mirror Selfie Diamond Glam Portrait
+
+**Source**: [@XShreyaYadav](https://x.com/XShreyaYadav/status/2052691060573532367)
+
+**Prompt**:
+```
+A hyper-realistic mirror selfie portrait of a beautiful young woman with long, straight dark hair parted down the middle. She has soft, glowing makeup with neutral mauve lipstick and manicured nails with a matching mauve polish. She is wearing a deeply plunging black sleeveless dress with side cutouts and a gathered twist detail at the waist. She is heavily accessorized with a sparkling thick rhinestone choker, a delicate diamond tennis bracelet on her right wrist, and a small, structured should
+```
+
+**Output**:
+
+<img src="../images/portrait_case153/output.jpg" width="500">
+
+---
+
+### Case 154: Couture Saree Cinematic Fashion Portrait
+
+**Source**: [@XShreyaYadav](https://x.com/XShreyaYadav/status/2052581805736554657)
+
+**Prompt**:
+```
+sing Uploaded image as face and body reference. A Ultra-realistic, vertical 2:3, Candid Cinematic event photorealistic fashion portrait photography image of a woman. Dress (Attire & Accessories) She is wearing a luxurious, modern interpretation of a saree in a shimmering, metallic champagne or light gold fabric. The most striking element is the top, which the text explicitly describes as a "jewellery-integratedcouture piece."
+It acts as a bustier made entirely of clustered diamonds and large eme
+```
+
+**Output**:
+
+<img src="../images/portrait_case154/output.jpg" width="500">
+
+---
+
+### Case 155: Graffiti Restroom Glam Portrait
+
+**Source**: [@KeorUnreal](https://x.com/KeorUnreal/status/2052785320970572141)
+
+**Prompt**:
+```
+A highly detailed cinematic photograph of a beautiful young woman with long wavy fiery blonde hair and fair skin with light freckles, standing in a uncleaned neglected public restroom with peeling light green tiles covered in colorful graffiti and stickers. She is wearing a sleek white glitter strapless mini dress and applying vibrant red lipstick with a lipstick tube in her right hand while her left hand rests on the edge of a sink. Her head is slightly turned to the side with a confident gaze.
+```
+
+**Output**:
+
+<img src="../images/portrait_case155/output.jpg" width="500">
+
+---
+
+### Case 156: Silhouette Sun Horizon Minimalist Portrait
+
+**Source**: [@harboriis](https://x.com/harboriis/status/2052775236278653032)
+
+**Prompt**:
+```
+Create a cinematic minimalist portrait using my uploaded photo Place the subject in full-body
+side profile, standing still and facing left, with a calm, introspective posture and hands in
+pockets. The subject should appear as a dark silhouette with subtle soft lighting, preserving
+natural proportions. In the background, add a large glowing sun (or orb) directly behind the
+subject, low on the horizon, partially diffused through thick atmospheric fog. Use a warm
+monochromatic color palette.
+```
+
+**Output**:
+
+<img src="../images/portrait_case156/output.jpg" width="500">
+
+---
+
+### Case 157: Selfie Look-Up Hand Pointing Portrait
+
+**Source**: [@ozansihay](https://x.com/ozansihay/status/2052811738345615370)
+
+**Prompt**:
+```
+A raw, highly authentic, and heavily unpolished amateur smartphone selfie, explicitly captured with an iPhone front-facing camera. The overall image features prominent camera shake and strong motion blur, giving it a frantic, imperfect, and slightly out-of-focus aesthetic. In the extreme foreground, a person looks directly into the lens with a slight, natural smile, hastily pointing one finger up towards the sky. Looming above in the dramatic, overcast sky is a massive, futuristic metallic UFO f
+```
+
+**Output**:
+
+<img src="../images/portrait_case157/output.jpg" width="500">
+
+---
+
+### Case 158: Desert Motel Pink Sunglasses Portrait
+
+**Source**: [@Sairah_0](https://x.com/Sairah_0/status/2052704912312861005)
+
+**Prompt**:
+```
+Ultra-realistic lifestyle portrait of a smiling young woman standing on a desert roadside near a vintage motel sign, holding oversized translucent pink sunglasses toward the camera, shallow depth of field, sunny California desert aesthetic, candid selfie composition, soft natural sunlight, warm pastel tones, retro Americana vibe, white ringer t-shirt with pink trim and bold “NO DRAMA CLUB” text with rose graphics, freckles and natural skin texture, dreamy summer mood, cinematic photography, high
+```
+
+**Output**:
+
+<img src="../images/portrait_case158/output.jpg" width="500">
+
+---
+
+### Case 159: Frieren Ethereal Anime Portrait
+
+**Source**: [@SimplyAnnisa](https://x.com/SimplyAnnisa/status/2052978965841600854)
+
+**Prompt**:
+```
+GPT image 2 on ChatGPT
+
+Reverse haze, diffused blur, soft focus, close-up shot of an ethereal and pure beautiful girl or boy inspired by the character Frieren from Frieren: Beyond Journey’s End. Blurred portrait and scenery, emphasizing the chaotic beauty of flowing dynamic hair. Extremely attractive appearance, dreamy and elusive atmosphere, Rembrandt lighting, high saturation, reflections and refractions, rich texture details, glowing bloom blur diffusion, low noise, subtle film grain texture, minimalist style, soft-focus aesthetics, emotional impressionism, avant-garde visual art aesthetics, cinematic luxury composition, masterpiece-level film aesthetics. CGI, Unreal Engine 5 rendering, Octane Render.
+```
+
+**Output**:
+
+<img src="../images/portrait_case159/output.jpg" width="500">
+
+---
+
+### Case 160: Photo to Tokyo Anime Manga Poster
+
+**Source**: [@zhongying14](https://x.com/zhongying14/status/2052604233749250297)
+
+**Prompt**:
+```
+把任意人物照片变成日系热血少年漫画
+
+【每日 GPT Image 2 提示词分享】👇
+
+请基于用户上传的真人照片进行二创，将照片中的人物转化成日系热血少年漫画风 / 都市街头动漫角色海报。
+
+请保留每个人的真实身份特征，包括脸型、五官比例、发型基础、肤色、年龄感、体型关系和整体气质。请重新创作一张全新的全身动漫插画，让所有人物完整入镜，从头到脚都清晰可见。
+
+画风参考：日系少年漫画彩页、都市街头动漫海报、干净有力的黑色线稿、明显动漫化五官、锋利有层次的发丝、清晰衣服褶皱、轻微铅笔草稿感、局部水彩或马克笔上色、低饱和色调、纸张纹理。
+
+请为人物自由设计 Tokyo street fashion 穿搭，风格年轻、松弛、酷感、现实可穿。可以使用 oversized 外套、短款上衣、宽松 T 恤、工装裤、阔腿裤、百褶裙、帆布鞋、厚底鞋、单肩包、耳机、项链、手机、咖啡杯等元素。多人画面中，穿搭需要有颜色或配饰呼应，但不要完全一样。
+
+请自由设计更有动漫海报感的站位和姿势，不要普通并排合照。可以是一前一后、背靠背、走路抓拍、靠墙、坐在台阶与站立错位、一个看镜头一个看侧方、一个走在前面一个回头，整体要有角色关系和分镜感。
+
+请根据人物气质、人数、姿势和穿搭，自由创作一个日系都市漫画场景。可以是东京街头巷口、便利店门口、地铁站出口、旧公寓楼下、学校天台、街边楼梯、复古商店橱窗前、自动贩卖机旁、咖啡店外、夜晚路灯下、雨后街道、城市天桥下、旧海报墙、漫画感城市街区等。
+
+背景可以加入线稿、喷绘、涂鸦、旧海报、门牌号、街头贴纸、手写文字、墨水滴落、箭头、星星、皇冠、小表情、砖墙、台阶、玻璃窗、路牌、自动贩卖机、栏杆、电线、街灯等元素。背景要有空间层次和生活感。
+
+整体氛围：日系少年漫画、都市街头、青春、松弛、酷感、轻微叛逆、时尚杂志插画感、漫画彩页感。
+```
+
+**Output**:
+
+<img src="../images/portrait_case160/output.jpg" width="500">
+
+---
+
+### Case 161: Beetle-Inspired Couture Fashion Sheet
+
+**Source**: [@GeekCatX](https://x.com/GeekCatX/status/2052692688135463113)
+
+**Prompt**:
+```
+GPT Image 2 生成 自然灵感时尚礼服设计
+
+提示词
+
+时尚设计稿 / 高定礼服设计页，主题灵感来自 {{灵感主题}}。画面为专业服装设计展示板构图：中央是一位全身站立的真人女模特，真实感、写实皮肤质感、自然五官、高级时装摄影氛围，穿着一件受 {{灵感主题}} 启发的高级定制礼服，礼服整体廓形为 {{礼服廓形}}。服装设计需明显提取灵感对象的色彩、几何形态、晶体结构、透明层次与纹理特征，并转化为礼服的裙摆、胸衣、肩颈结构、刺绣、亮片、薄纱叠层、欧根纱和缎面反光细节。
+
+版式要求：左上角放置 {{灵感主题}} 的精致手绘灵感草图或说明性插图；右侧放置礼服黑白技术线稿，清晰展示服装轮廓与结构，并配有手写感英文/法文风格设计备注，注明面料、分层、剪裁、晶体装饰、透明材质、立体细节。背景保持干净纯白，带少量设计师签名式潦草笔记、草图标记和时装工作室批注，整体呈现专业 fashion design sheet / couture concept board 的视觉效果。
+
+风格要求：真人模特写实感 + 高级时装设计手稿融合表现，真实模特主体、服装材质细节极其精致，软水彩与数字插画混合质感，但人物必须接近时尚大片级真实感，不要卡通，不要动漫，不要夸张二次元。光线柔和均匀，无硬阴影，画面干净高级，面料表现清晰：缎面、薄纱、欧根纱、珠绣、透明层叠、冰晶折射感。超清4K，细节丰富，审美高级，适合品牌级服装提案展示。
+
+灵感主题：甲壳虫
+比例：3:4
+```
+
+**Output**:
+
+<img src="../images/portrait_case161/output.jpg" width="500">
+
+---
+
+### Case 162: Paper Diorama Couple Portrait
+
+**Source**: [@iamsofiaijaz](https://x.com/iamsofiaijaz/status/2052646973774401654)
+
+**Prompt**:
+```
+Images by GPT Image 2 on Chatgpt.
+
+Prompt 👇
+
+Transform the uploaded portrait into a whimsical handcrafted paper diorama illustration with a soft cute aesthetic. Reimagine the people using simplified layered paper shapes, rounded forms, and minimal facial details suitable for paper craft art. Preserve the affectionate pose and emotional warmth of the original image while giving everything a charming handmade appearance.
+
+Use multi-layered cut paper textures with visible cardstock depth, soft drop shadows, folded-paper edges, and delicate handcrafted imperfections. Apply a dreamy pastel color palette featuring warm cream, dusty pink, muted peach, light caramel, ivory, sage green, and soft beige tones.
+
+Create a balanced and aesthetically pleasing composition with the couple centered naturally inside a cozy decorative frame made from layered paper flowers, leaves, butterflies, tiny birds, hearts, vines, and swirly ornamental cutouts. Add playful floating elements around the characters to create movement and a magical scrapbook feeling.
+
+Simplify clothing folds, hair strands, and background details into elegant paper-cut contours while keeping recognizable expressions and gentle smiles
+```
+
+**Output**:
+
+<img src="../images/portrait_case162/output.jpg" width="500">
+
+---
+
+### Case 163: Low-Angle Sky Mood Portrait
+
+**Source**: [@SimplyAnnisa](https://x.com/SimplyAnnisa/status/2053416803297358135)
+
+**Prompt**:
+```
+[INPUT]
+
+- reference image: {Portrait Photo}
+
+- Date: {Today's Date}
+
+- Today's Mood: { }
+
+[Goal]
+
+Create a poster of the sky using an extreme low-angle perspective, looking up at the subject from the ground.
+
+Express today's mood through the sky, light, clouds, and color scheme.
+
+[Maintain Subject]
+
+Maintain the facial mood, hair, body shape, and clothing style of the uploaded subject.
+
+However, the face should not be shown from the front; instead, a side profile or just a slight glimpse of the jawline should be visible.
+
+[Key Composition]
+
+- The camera is almost flat on the ground.
+
+- The subject is slightly floating above the camera or in a jumping moment.
+
+- The soles of the shoes are prominently visible close to the camera.
+
+- The legs appear long with a sense of perspective.
+
+- The subject is in a side view or semi-profile.
+
+- The sky occupies most of the screen.
+
+[Sky by Mood]
+
+Create a sky that matches today's mood.
+
+Examples:
+
+- Happiness: Clear blue sky, white clouds, warm sunlight
+
+- Excitement: Pink clouds, soft sunshine
+
+- Calmness: Pale blue sky, thin clouds
+
+- Loneliness: Sunset, long shadows, empty sky
+
+- Frustration: Low, heavy clouds
+
+- Rain: Overcast sky, raindrops, wet lens texture
+
+[Text]
+
+Arrange the date and mood message in a curved line along the outline or silhouette of the figure's body.
+
+Text to include:
+
+"{Date}"
+
+"{Today's Mood}"
+
+"{Short Message}"
+
+Text should be white, rounded, and bold poster typography.
+
+Avoid overly long sentences and arrange text for easy readability.
+
+If no short message input is provided, it should be automatically generated and entered.
+
+[Style]
+
+Sentimental Sky Poster, Warm Eye View, Bottom View, Wide Angle, Cinematic Fashion Poster, Clear Film Photo, Vast Sky, Clean Typography.
+
+[Prohibited]
+- No ordinary standing poses
+- No poses where shoe soles are not visible
+- No frontal face close-ups
+- No indoor backgrounds
+- No excessive text
+- No random text
+- No watermarks/logos
+```
+
+**Output**:
+
+<img src="../images/portrait_case163/output.jpg" width="500">
+
+---
+
+### Case 164: White Streetwear Python Portrait
+
+**Source**: [@ariaxawan](https://x.com/ariaxawan/status/2053359007407210626)
+
+**Prompt**:
+```
+Ultra-realistic high-fashion editorial portrait of a beautiful young Asian woman standing confidently in a monochromatic white urban environment, wearing modern luxury white streetwear fashion. Oversized white bomber jacket, fitted white crop top, layered white cargo pants with metallic chains, white tactical sneakers, silver jewelry, subtle glossy makeup, soft matte skin texture, long voluminous ash-brown wavy hair with wispy bangs flowing naturally in the wind.
+
+A massive realistic albino python emerges behind and around her body, partially concealed within thick swirling white smoke and atmospheric fog. The snake appears lifelike with detailed scales, realistic muscle tension, natural reflections, visible texture, sharp eyes, and subtle movement. The environment is almost entirely white — white architecture, white smoke, white clothing, white textures, white lighting — creating a clean monochromatic aesthetic.
+
+Large distressed black "1989" typography dominates the background in bold industrial font, the only dark element in the entire composition. Strong contrast between the black numbers and the all-white scene.
+
+Shot like a luxury fashion campaign, realistic photography, cinematic urban atmosphere, natural skin texture, highly detailed eyes, realistic hair strands, authentic fabric folds, realistic smoke physics, dramatic directional lighting, shallow depth of field, crisp focus, realistic proportions, modern editorial photography, Vogue magazine aesthetic, street luxury styling, high dynamic range, photorealistic, ultra detailed, 85mm lens, soft cinematic shadows, studio-quality color grading, real-world textures, professional fashion photography, no fantasy elements, no CGI appearance, no cartoon style, no anime aesthetic.
+```
+
+**Output**:
+
+<img src="../images/portrait_case164/output.jpg" width="500">
+
+---
+
+### Case 165: Vintage Classroom Golden-Light Portrait
+
+**Source**: [@harboriis](https://x.com/harboriis/status/2053301168026050805)
+
+**Prompt**:
+```
+Cinematic portrait of the man in the picture (preserve 100% facial details of this man), vintage classroom. The camera is shot from a distance, with a small section of the chair's back visible in front, as if the photographer was taking the portrait discreetly or in a quiet moment. Soft, golden-yellow lighting reflects from a small window or gap in the right wall, forming diagonal lines of light that fall directly on the man's face, creating a dramatic and emotional contrast.
+The man sits alone in a chair, his feet resting on the desk, with a relaxed and cool expression, as if lost in thought.
+```
+
+**Output**:
+
+<img src="../images/portrait_case165/output.jpg" width="500">
+
+---
+
+### Case 166: Phone Reflection Mirror Portrait
+
+**Source**: [@Ciri_ai](https://x.com/Ciri_ai/status/2053535379618423118)
+
+**Prompt**:
+```
+Ultra-realistic creative portrait taken with an iPhone, identity accurately preserved from the reference image. A woman stands inside a store, facing a glass display window or a reflective wall, photographed from a slightly elevated frontal angle. She holds a smartphone horizontally in front of her face, covering her eyes and the upper part of her face. The phone's screen points at the camera and clearly displays a real-time image of her face.
+```
+
+**Output**:
+
+<img src="../images/portrait_case166/output.jpg" width="500">
+
+---
+
+### Case 167: Korean Convenience Store Portrait
+
+**Source**: [@AIWithRay](https://x.com/AIWithRay/status/2053407281719415273)
+
+**Prompt**:
+```
+Ultra-realistic cozy Korean convenience store portrait of the same woman standing in front of glowing refrigerator aisles at night wearing a fluffy pastel pink hoodie. She holds strawberry milk and a tiny cake while looking shyly toward the camera. Soft blushy makeup, glossy eyes, natural skin texture, warm fluorescent lighting mixed with iPhone flash. Tiny reflections on the drink bottles, cute romantic atmosphere, soft pink and cream tones, dreamy slice-of-life anime realism.
+```
+
+**Output**:
+
+<img src="../images/portrait_case167/output.jpg" width="500">
+
+---
+
+### Case 168: Blush Pink Korean Editorial Portrait
+
+**Source**: [@LufzzLiz](https://x.com/LufzzLiz/status/2053830981438918703)
+
+**Prompt**:
+```
+Elegant Korean female model in blush pink satin slip dress with delicate spaghetti straps, V-neckline, leaning gracefully against floor-to-ceiling window in elegant over-the-shoulder pose, golden hour backlighting creating soft glow, refined beauty editorial, blush and rose gold palette, minimalist luxury penthouse interior, Vogue Korea style fashion photography, cinematic bokeh
+```
+
+**Output**:
+
+<img src="../images/portrait_case168/output.jpg" width="500">
+
+---
+
+### Case 169: French Vintage Oil-Painting Portrait Collage
+
+**Source**: [@zhongying14](https://x.com/zhongying14/status/2053794975268143389)
+
+**Prompt**:
+```
+
+```
+
+**Output**:
+
+<img src="../images/portrait_case169/output.jpg" width="500">
+
+---
+
+<!-- Case 170: Съемка толпы на трансляции Уимблдона (by @Mavericks_Prod) -->
+
+### Case 170: [Съемка толпы на трансляции Уимблдона](https://x.com/Mavericks_Prod/status/2054342640439566739) (by [@Mavericks_Prod](https://x.com/Mavericks_Prod))
+
+| Output |
+| :----: |
+| <a href="../images/portrait_case170/output.jpg" target="_blank" rel="noopener noreferrer"><img src="../images/portrait_case170/output.jpg" width="300" alt="GPT-Image-2 Prompt Example - Wimbledon Broadcast Crowd Shot"></a> |
+
+**Промпт:**
+
+```
+A screenshot from a live Wimbledon TV broadcast during a packed Centre Court match. The camera cuts to the audience, an unbelievably attractive woman in her 20s with long black hair, flawless skin, elegant makeup, and a luxurious aura, seated in the VIP section wearing a sophisticated cream-white low-cut summer outfit with subtle jewelry. She smiles naturally while reacting to the match, unaware she's on camera. Wealthy spectators and champagne glasses around her, old-money tennis atmosphere, shallow depth of field. Full live tennis broadcast overlay: scoreboard, network watermark, broadcast graphics, 16:9 aspect ratio. The image looks exactly like a real TV screenshot, telephoto broadcast lens, realistic live color grading, slight compression artifacts, interlacing grain, subtle motion blur, imperfect live-camera framing.
+```
+
+<!-- Case 171: Золотой портрет на дождливой улице (by @harboriis) -->
+
+### Case 171: [Золотой портрет на дождливой улице](https://x.com/harboriis/status/2054238941482733685) (by [@harboriis](https://x.com/harboriis))
+
+| Output |
+| :----: |
+| <a href="../images/portrait_case171/output.jpg" target="_blank" rel="noopener noreferrer"><img src="../images/portrait_case171/output.jpg" width="300" alt="GPT-Image-2 Prompt Example - Rainy Street Golden Portrait"></a> |
+
+**Промпт:**
+
+```
+Ultra-realistic cinematic street photography of a young man standing alone on a rainy urban sidewalk during golden hour sunset in Mumbai, India. He is leaning casually against a black metal roadside railing while looking down at his smartphone, wearing an oversized black hoodie, loose dark blue cargo jeans, and clean white sneakers. Messy textured black hair moving slightly in the wind. Moody introspective vibe.
+
+Wide-angle composition with dramatic depth and strong leading lines from the wet pavement and railings. Reflective rain-soaked street surface glowing with warm sunset light. Vintage street lamps lining the sidewalk. Historic Gothic architecture inspired by Chhatrapati Shivaji Maharaj Terminus visible on the right side, detailed stone textures and clock tower. Modern skyscrapers fading into atmospheric haze in the distant background, creating a blend of old and new Mumbai cityscape.
+
+Soft cinematic clouds filling the sky with warm orange, peach, and golden tones. A flying bird silhouette crossing the sky. Light traffic with black-and-yellow taxis and blurred cars moving through the street. Realistic puddle reflections, subtle motion blur, volumetric lighting, atmospheric perspective, ultra-detailed textures, natural shadows, realistic skin tones.
+
+Shot on Sony A7R IV, 35mm lens, f/1.8, shallow depth of field, HDR photography, photorealistic, cinematic color grading, warm highlights with cool shadows, highly detailed urban realism, editorial photography style, 8K ultra resolution.
+```
+
+<!-- Case 172: Уютный кафе-редакционный портрет (by @sha_zdiii) -->
+
+### Case 172: [Уютный кафе-редакционный портрет](https://x.com/sha_zdiii/status/2054047328420634927) (by [@sha_zdiii](https://x.com/sha_zdiii))
+
+| Output |
+| :----: |
+| <a href="../images/portrait_case172/output.jpg" target="_blank" rel="noopener noreferrer"><img src="../images/portrait_case172/output.jpg" width="300" alt="GPT-Image-2 Prompt Example - Cozy Cafe Editorial Portrait"></a> |
+
+**Промпт:**
+
+```
+.
+
+Ultra-realistic cozy Japanese-Korean café photography featuring a cute young [Japanese/Korean] couple sitting together naturally in a trendy aesthetic café. The young couple should look stylish and youthful, wearing [fashion style/outfit colors], smiling softly and enjoying desserts together.
+The table is beautifully filled with [desserts/foods] such as pancakes, strawberry cakes, macarons, croissants, pastries, iced coffees, matcha lattes, fruit desserts, and aesthetic drinks arranged in a visually satisfying composition. Add small aesthetic café props like [flowers/ribbons/books/candles/pearls/notebooks] on the table for a premium Pinterest moodboard feel.
+Soft [lighting style] lighting enters through the café windows creating dreamy highlights, creamy shadows, glossy reflections on drinks, and realistic dessert textures. Background should contain softly blurred [Japanese/Korean] signs, glowing café boards, handwritten Japanese text, neon typography, and aesthetic city café elements for an authentic Tokyo/Seoul vibe.
+Add cute scrapbook-style doodles and handwritten notes around the image in [doodle color] ink — tiny hearts, stars, sparkles, ribbons, arrows, smiley sketches, bows, diary stickers, and handwritten café notes.
+Color palette should focus on [color theme] tones. Style inspired by viral Pinterest café photography, Korean lifestyle aesthetics, Japanese cozy café culture, dreamy Gen-Z romance mood, shallow depth of field, cinematic composition, ultra realistic food textures, soft blurry background, ultra detailed realistic photography, clean aesthetic layout, 8k.
+```
+
+<!-- Case 173: Акварельный модный эскиз (by @Naiknelofar788) -->
+
+### Case 173: [Акварельный модный эскиз](https://x.com/Naiknelofar788/status/2054741712011223312) (by [@Naiknelofar788](https://x.com/Naiknelofar788))
+
+| Output |
+| :----: |
+| <a href="../images/portrait_case173/output.jpg" target="_blank" rel="noopener noreferrer"><img src="../images/portrait_case173/output.jpg" width="300" alt="GPT-Image-2 Prompt Example - Watercolor Fashion Sketch"></a> |
+
+**Промпт:**
+
+```
+Transform the uploaded photo into a full-body watercolor fashion illustration in the style of an elegant runway design sketch. Preserve the original outfit, pose, silhouette, colors, fabrics, accessories, shoes, hairstyle and overall styling from the photo. Do not redesign the clothing. Use elongated fashion-sketch proportions The clothing should remain realistic and recognizable, with accurate cut, fit, folds, fabric texture, prints and details. Style: high-fashion watercolor illustration, loose expressive ink lines, delicate pencil contour, transparent watercolor washes, soft shadows, painterly texture, minimalist editorial mood. White or very light background, clean composition, full body centered, lots of negative space. Elegant, modern, airy, like a professional fashion designer sketch.
+```
+
+<!-- Case 174: Ретро-сцена моды у газетного киоска (by @harboriis) -->
+
+### Case 174: [Ретро-сцена моды у газетного киоска](https://x.com/harboriis/status/2054484765001306285) (by [@harboriis](https://x.com/harboriis))
+
+| Output |
+| :----: |
+| <a href="../images/portrait_case174/output.jpg" target="_blank" rel="noopener noreferrer"><img src="../images/portrait_case174/output.jpg" width="300" alt="GPT-Image-2 Prompt Example - Retro Newsstand Fashion Scene"></a> |
+
+**Промпт:**
+
+```
+A cinematic fashion editorial scene of 8 diverse young adults gathered around a vintage urban newsstand kiosk with a bold "NEWSSTAND" sign, set in a gritty indoor street environment with worn concrete floors, dark industrial walls, and subtle urban details. Newspapers fly dynamically through the air in mid-motion, creating layered depth and energy with natural motion blur. The group is styled in coordinated 90s-inspired retro streetwear - oversized jackets, layered fits, sunglasses, caps, and muted earth tones. (olive green, brown, cream, navy). Composition is carefully balanced: one subject leans casually against the kiosk holding a newspaper, one sits confidently on a cream vintage scooter in the foreground, another rests on a teal scooter, while others stand or sit on chairs with relaxed, confident poses and subtle attitude. Shot from a slightly elevated angle (top-down perspective), wide 35mm lens, maintaining natural proportions. Lighting is soft cinematic with warm highlights and diffused shadows, creating a premium fashion campaign mood. Background includes scattered newspapers, a red fire hydrant, and industrial textures for realism. Ultra-detailed, photorealistic, shallow depth of field, crisp subject focus, soft film grain, natural color grading, high-end magazine aesthetic, 4K quality.
+```
+
+<!-- Case 175: Портрет со вспышкой начала 1990-х (by @bmx_ai13) -->
+
+### Case 175: [Портрет со вспышкой начала 1990-х](https://x.com/bmx_ai13/status/2054459126084718785) (by [@bmx_ai13](https://x.com/bmx_ai13))
+
+| Output |
+| :----: |
+| <a href="../images/portrait_case175/output.jpg" target="_blank" rel="noopener noreferrer"><img src="../images/portrait_case175/output.jpg" width="300" alt="GPT-Image-2 Prompt Example - Early 1990s Flash Portrait"></a> |
+
+**Промпт:**
+
+```
+Early 1990s Flash Camera Portrait GPT image 2 on ChatGPT Prompt Template. Use the uploaded image as the main reference. Transform the uploaded photo into a realistic candid portrait with an early 1990s digital camera aesthetic. Preserve the subject’s identity, facial features, pose, outfit, and overall composition, but restyle the image with harsh blown-out flash highlights, subtle red-eye effect, low-resolution image quality, raw snapshot imperfections, nostalgic flash-filter styling, and a vintage timestamp look. The final image should feel candid, imperfect, and authentic, like an old retro party or personal snapshot taken with an early consumer digital camera. Keep the background dark or naturally subdued when appropriate, maintain a direct-flash look, and give the image a raw, unpolished, memory-like atmosphere. Include: - harsh direct camera flash - overexposed or blown-out highlights - subtle red-eye effect - low-resolution / soft digital detail - slight grain or noisy texture - authentic retro snapshot feeling - vintage date/timestamp aesthetic in one corner - candid, natural, imperfect energy Avoid: - cartoon or anime style - overly polished beauty retouching - studio lighting - ultra-sharp modern DSLR look - glossy AI skin - text, logos, watermarks, or graphic overlays other than the timestamp aesthetic - distorted anatomy or altered identity Make the aspect ratio 3:4
+```
+
+<!-- Case 176: Оригами-портретная иллюстрация (by @Inshrah_ali_) -->
+### Case 176: [Оригами-портретная иллюстрация](https://x.com/Inshrah_ali_/status/2055696156211179912) (by [@Inshrah_ali_](https://x.com/Inshrah_ali_))
+
+| Output |
+| :----: |
+| <a href="../images/portrait_case176/output.jpg" target="_blank" rel="noopener noreferrer"><img src="../images/portrait_case176/output.jpg" width="300" alt="Output image"></a> |
+
+**Промпт:**
+
+```
+Ultra-detailed origami paper art portrait of given picture, entirely crafted from meticulously folded paper layers and intricate geometric origami shapes. Realistic paper texture with visible creases and handcrafted folds, defining a low-poly facial structure. Elegant Japanese-inspired aesthetic. Layered paper background featuring delicate cherry blossoms, majestic mountains, stylized sun motifs, and abstract folded patterns. Luxurious gold, black, cream, and white color palette. she wears a football jersey made from artfully folded paper fabric. Dramatic cinematic studio lighting, casting ultra-realistic shadows and creating profound depth. A highly detailed handcrafted paper sculpture, presented in a premium gallery artwork style. Sharp focus, sophisticated composition, and tactile paper texture. Masterpiece quality, 8k ultra detailed. Toy-free, no plastic, no CGI look.
+```
+
+<!-- Case 177: Роскошный портрет с маленьким альтер-эго (by @Professor_134) -->
+### Case 177: [Роскошный портрет с маленьким альтер-эго](https://x.com/Professor_134/status/2055561008626950422) (by [@Professor_134](https://x.com/Professor_134))
+
+| Output |
+| :----: |
+| <a href="../images/portrait_case177/output.jpg" target="_blank" rel="noopener noreferrer"><img src="../images/portrait_case177/output.jpg" width="300" alt="Output image"></a> |
+
+**Промпт:**
+
+```
+- Ultra-cinematic luxury portrait of a fashionable young man standing confidently beside his tiny animated counterpart inside a sophisticated studio setup. The adult character has thick styled black hair, deep brown eyes, a perfectly trimmed beard, warm tan skin, and a calm charismatic smile. He wears an elegant matte-black tuxedo with a fitted black shirt, luxury wristwatch, and minimal jewelry, exuding a modern gentleman aesthetic. His posture is composed with hands clasped naturally in front of him while leaning subtly against a textured charcoal wall.
+
+Next to him stands a miniature stylized version of himself designed in high-end 3D animated character style, featuring oversized sparkling eyes, soft youthful facial proportions, glossy hair, expressive eyebrows, and adorable Pixar-inspired detailing. The child version mirrors the exact outfit and pose of the adult, creating a visually emotional “future meets childhood” composition.
+
+The background is a dark cinematic studio wall with subtle warm gradients, textured concrete finish, and handwritten artistic signature typography painted casually on the wall. Ambient golden lighting softly wraps around both characters, producing realistic highlights, cinematic shadows, and luxury editorial depth. The mood feels emotional, premium, stylish, and heartwarming.
+
+Shot using a professional full-frame portrait lens, shallow depth of field, ultra-sharp focus on faces, soft blurred background, realistic fabric folds, detailed skin texture, ray-traced reflections, cinematic contrast, rich black tones, and premium color grading.
+
+Style references: luxury fashion campaign, Pixar realism, Disney-inspired miniature character design, high-end magazine photography, Unreal Engine 5 realism, Octane Render, volumetric lighting, ultra-detailed 8K masterpiece, elegant masculine aesthetic, modern studio portrait, emotionally cinematic composition.
+Generate image using uploaded image as reference
+```
+
+<!-- Case 178: Портрет с чернильными глифами (by @harboriis) -->
+### Case 178: [Портрет с чернильными глифами](https://x.com/harboriis/status/2055560455494738411) (by [@harboriis](https://x.com/harboriis))
+
+| Output |
+| :----: |
+| <a href="../images/portrait_case178/output.jpg" target="_blank" rel="noopener noreferrer"><img src="../images/portrait_case178/output.jpg" width="300" alt="Output image"></a> |
+
+**Промпт:**
+
+```
+Use the uploaded photo as the main face reference. Preserve the exact facial structure, skin tone, beard shape, nose, eyes and expression from the reference image. A dramatic, high-impact portrait rendered in an expressive ink sketch and mixed-media illustration style, using the uploaded image for exact facial likeness and proportions. The man is shown in side profile, his presence intense and chaotic. His face and upper body are layered with cryptic handwritten  text, symbols, and abstract glyphs, partially wrapping around facial contours, suggesting inner turmoil and hidden meaning He wears a dark, abstract jacket, heavily texture strokes, sharp angular linework, and vibrant ink creating a raw, rebellious visual energy. The illu bold and experimental, blending fine pen detaili aggressive brush marks, splashes, and controll The background is a pale, aged parchment ton grain, faded paper texture, delicate linework, in! stains-evoking an old manuscript  Or forgotten High contrast, expressive composition, artistic with precision, editorial art meets conceptual il intense, and emotionally charged
+```
+
+<!-- Case 179: Y2K Cyber-Pop редакционный кадр (by @noorlewisx) -->
+### Case 179: [Y2K Cyber-Pop редакционный кадр](https://x.com/noorlewisx/status/2055507148541493282) (by [@noorlewisx](https://x.com/noorlewisx))
+
+| Output |
+| :----: |
+| <a href="../images/portrait_case179/output.jpg" target="_blank" rel="noopener noreferrer"><img src="../images/portrait_case179/output.jpg" width="300" alt="Output image"></a> |
+
+**Промпт:**
+
+```
+Don’t alter my facial feature. Create me a wide editorial shot of a girl leaning dramatically across a cluttered floor/desk in a chaotic Y2K cyber-pop room, low front-facing angle with cinematic framing. Moody cool-toned lighting mixed with warm highlights, glossy flash photography feel, dreamy magazine-editorial atmosphere. Long sleek jet-black hair with center part, soft pale glam makeup, subtle blush, glossy gradient red lips, large doll-like eyes with soft eyeliner and lashes. Red fitted tank top and dark mini skirt, colorful manicure, slightly messy dramatic pose with arms stretched forward, intense direct gaze at camera. Surrounding scene filled with scattered random objects, cables, gadgets, accessories, glittery props, and bedroom clutter for a chaotic pop-girl aesthetic. Collage-style edit layered with floating heart gems, cut-out eyes, sticker elements, scrapbook graphics, fake text-message popups, polaroid frames, magazine cutout of the girl, bold typography overlays, hyperpop/K-pop editorial vibe, nostalgic Y2K internet aesthetic, glossy fashion-campaign energy. Scale ratio 4:3
+```
+
+<!-- Case 180: Уютное фото в стиле дудл (by @Sairah_0) -->
+### Case 180: [Уютное фото в стиле дудл](https://x.com/Sairah_0/status/2055500670564991079) (by [@Sairah_0](https://x.com/Sairah_0))
+
+| Output |
+| :----: |
+| <a href="../images/portrait_case180/output.jpg" target="_blank" rel="noopener noreferrer"><img src="../images/portrait_case180/output.jpg" width="300" alt="Output image"></a> |
+
+**Промпт:**
+
+```
+(Cozy Aesthetic Girl in Park)
+
+Aesthetic lifestyle photography of a cute young woman sitting on a wooden park bench during autumn morning, wearing an oversized beige hoodie, white pants, and cream baseball cap, holding a takeaway coffee cup with eyes closed and peaceful smile, soft natural lighting, warm earthy tones, tote bag with kawaii face design beside her, bouquet of baby’s breath flowers, cozy calm vibe, cinematic depth of field, Pinterest aesthetic, soft brown and beige color palette. Add hand-drawn white doodles around the image including hearts, sparkles, arrows, clouds, smiley faces, and handwritten text like “coffee = my love”, “good morning”, “little things”, “Focus Believe Achieve”. Whimsical scrapbook style overlay, dreamy cozy mood, ultra detailed, realistic photography, Instagram aesthetic, soft shadows, candid composition.
+
+Prompt : (Cozy Reading & Coffee Setup)
+
+Warm cozy morning aesthetic near a window, open book being read beside a cup of coffee and lit candle, soft sunlight entering through the window, baby’s breath flowers in glass vase, beige and cream minimal decor, calming self-care atmosphere, soft fabric textures, neutral warm tones, peaceful hygge mood, cinematic lifestyle photography, Pinterest-inspired cozy setup, realistic details, shallow depth of field. Add cute white hand-drawn doodles and kawaii faces on the mug, candle, and vase, with handwritten notes like “Take time to make your soul happy”, “Cozy mood”, “little things”, “Book + coffee = perfect day”, plus hearts, arrows, sparkles, and cloud doodles. Dreamy soft aesthetic, warm natural glow, highly detailed, relaxing cozy-core vibe.
+```
+
+### Case 181: [Convex Mirror Rainy Selfie](https://x.com/Shinning1010/status/2056168101545386430) (by [@Shinning1010](https://x.com/Shinning1010))
+
+| Output |
+| :----: |
+| <a href="../images/portrait_case181/output.jpg" target="_blank" rel="noopener noreferrer"><img src="../images/portrait_case181/output.jpg" width="300" alt="Output image"></a> |
+
+**Промпт:**
+
+```
+Upload one portrait as the identity reference. Use it only for the subject’s facial identity, face shape, hairstyle, hair color, skin tone, and natural body proportions. Do not copy the original portrait’s clothes, background, pose, lighting, or image quality.
+
+Create a hyper-realistic outdoor convex traffic mirror selfie, 9:16 vertical composition. The subject stands in front of a large round roadside safety mirror with a red rim, taking a flash selfie with a decorated phone case, phone partially covering the face. Use the uploaded portrait only for identity and hairstyle. Keep a casual youthful outfit: dark oversized zip hoodie, cropped white graphic tee, loose jeans, white sneakers. Rainy dusk street intersection background, wet asphalt, zebra crossing, trees, soft blue-gray sky, faint streetlights, one blurred passing scooter, dirty mirror surface with dust and water spots, strong camera flash glare, realistic fisheye distortion, candid smartphone snapshot, natural skin texture, real-life street photography, no watermark.
+
+Negative Prompt:
+anime, cartoon, CGI, 3D render, doll face, plastic skin, over-smoothed skin, fake eyes, bad anatomy, distorted hands, extra fingers, broken phone, duplicate person, messy face, unreadable facial features, overexposed face, low resolution, heavy beauty filter, studio lighting, clean perfect mirror, text, logo, watermark, UI elements, poster design, artificial background
+```
+
+### Case 182: [Monochrome Streetwear Editorial](https://x.com/AIwithAliya/status/2056078056419393805) (by [@AIwithAliya](https://x.com/AIwithAliya))
+
+| Output |
+| :----: |
+| <a href="../images/portrait_case182/output.jpg" target="_blank" rel="noopener noreferrer"><img src="../images/portrait_case182/output.jpg" width="300" alt="Output image"></a> |
+
+**Промпт:**
+
+```
+Use my uploaded image as the face reference.
+
+Create a bold monochrome streetwear editorial poster featuring the uploaded person in oversized urban fashion, relaxed stance, hands in pockets, layered baggy clothing, sneakers, and confident rebellious attitude. Main theme keyword: "[QUEEN]". Use giant condensed typography behind the subject, handwritten signature-style script overlay, minimalist white studio background, gritty texture details, cinematic shadows, and luxury music-magazine aesthetics inspired by modern fashion campaigns. Black-and-white high-contrast photography style, full-body composition, eye-level angle, 85mm lens, ultra-sharp detail, soft studio lighting with subtle grain, premium viral poster design optimized for fashion and music culture content.
+```
+
+### Case 183: [Y2K Streetwear Sticker Poster](https://x.com/Shinning1010/status/2056049785682211218) (by [@Shinning1010](https://x.com/Shinning1010))
+
+| Output |
+| :----: |
+| <a href="../images/portrait_case183/output.jpg" target="_blank" rel="noopener noreferrer"><img src="../images/portrait_case183/output.jpg" width="300" alt="Output image"></a> |
+
+**Промпт:**
+
+```
+Use the uploaded portrait only as the identity and hairstyle reference. Accurately preserve the person’s real facial identity, face shape, facial features, skin tone, hairstyle outline, hair volume, and natural real-life appearance. Do not copy the original photo’s background, lighting, clothing, pose, or image quality. Do not turn the person into an anime character, doll, idol illustration, or plastic-looking AI face.
+
+Create a highly realistic 9:16 vertical Y2K streetwear collage poster of the same person. The overall visual style should reference a neon graffiti magazine sticker-board layout: multiple cutout portraits of the same person arranged dynamically on one vertical poster, with thick white sticker outlines, subtle pink neon rim glow, layered photo frames, graffiti tags, doodles, spray-paint textures, black grunge background, electric pink and cyan accents, and a high-energy urban fashion poster feeling.
+
+The poster should include several different shots of the same person in one composition: one central full-body standing pose, one half-body playful pose, one seated or crouching pose, one close-up portrait, and one cropped detail frame showing one eye or facial detail. Each pose should have a different angle, expression, and framing, but all must clearly look like the same real person from the uploaded portrait.
+
+Generate suitable clothing automatically based on the uploaded person’s real appearance and style. The outfit should feel like stylish Y2K streetwear, possibly including denim, layered casual fashion, boots or sneakers, accessories, soft street-style details, and a coordinated youthful look. Do not lock the clothing to the reference image exactly. Choose clothes that fit the person naturally and look believable. Avoid overly revealing clothing.
+
+Use realistic photography texture: natural skin pores, real skin texture, soft uneven skin tone, natural lips, realistic hair strands, believable fabric wrinkles, correct body proportions, detailed denim or streetwear fabric, realistic hands, and real camera lighting. The person should feel like a real photographed person placed into a designed collage poster, not a 3D render or anime illustration.
+
+Lighting should be cinematic but believable, with soft neon pink and cyan reflections, subtle rim light around the cutout edges, realistic shadows, and clean separation from the dark graffiti background. Keep the composition polished, high-end, energetic, and social-media ready.
+
+Do not include any watermark, brand logo, AI-generated text, random Chinese characters, fake signatures, QR codes, platform labels, or unreadable typography. Any graffiti should be abstract decorative marks only, not readable text. The final image must be vertical 9:16.
+
+Negative Prompt:
+
+anime, cartoon, illustration, doll face, plastic skin, waxy skin, overly smooth face, beauty filter, fake glossy skin, over-beautified face, changed identity, different person, distorted face, asymmetrical eyes, bad hands, extra fingers, missing fingers, broken fingers, distorted body, unrealistic body proportions, stiff pose, floating hair, helmet-like hair, fake fabric, painted clothing, low-resolution texture, blurry face, over-sharpened skin, 3D render, CGI, toy-like, cheap poster, messy layout, unreadable text, watermark, logo, AI watermark, random letters, random Chinese text, QR code, duplicated face errors, inconsistent identity, cropped head, cut-off limbs
+```
+
+### Case 184: [Digicam LCD Nostalgia Shot](https://x.com/Ciri_ai/status/2055876982630686956) (by [@Ciri_ai](https://x.com/Ciri_ai))
+
+| Output |
+| :----: |
+| <a href="../images/portrait_case184/output.jpg" target="_blank" rel="noopener noreferrer"><img src="../images/portrait_case184/output.jpg" width="300" alt="Output image"></a> |
+
+**Промпт:**
+
+```
+A realistic close-up shot of a small digital camera screen glowing brightly in a dark indoor environment. Displayed on the LCD is a candid early-2010s style photograph of a young East Asian woman with long dark wavy hair standing beside a wooden shelf packed tightly with colorful comic books and magazines.
+
+She wears a black spaghetti-strap top with a loose white cardigan hanging casually from both shoulders and faded blue jeans. Captured mid-laugh while turning her face slightly sideways, her expression feels spontaneous and natural, with hair falling softly across part of her cheek.
+
+The harsh direct flash from the compact camera creates strong highlights on her face and cardigan while flattening shadows in the background, producing an authentic nostalgic digicam aesthetic. Slight motion blur and digital grain enhance the candid realism.
+
+Camera UI overlays are visible across the LCD screen, including the timestamp “8. 1. 2012 3:15 AM,” exposure data “1/30 F3.4 ISO 100,” focus indicators, and a small green battery symbol in the corner.
+
+The image preserves visible screen pixel structure, slight glare reflections, chromatic softness, and compressed digital texture. Outside the LCD, the surrounding darkness fades smoothly into blur, emphasizing the glowing nostalgic screen.
+
+Shot to resemble an authentic Sony Cyber-shot point-and-shoot camera from the early 2010s using a CCD sensor with vintage digital rendering and imperfect flash exposure.
+```
+
+
+### Case 185: [Y2K Street-Art Editorial Poster](https://x.com/kingofdairyque/status/2056273485131821345) (by [@kingofdairyque](https://x.com/kingofdairyque))
+
+| Output |
+| :----: |
+| <a href="../images/portrait_case185/output.jpg" target="_blank" rel="noopener noreferrer"><img src="../images/portrait_case185/output.jpg" width="300" alt="Output image"></a> |
+
+**Промпт:**
+
+```
+hair instructions, controlling hairstyle, changing hairstyle, young female, young male, bad anatomy, extra fingers, deformed hands, stiff pose, awkward body lean, distorted sunglasses, warped face, asymmetrical eyes, blurry face, low quality, low resolution, muddy colors, overcluttered layout, too many stickers, unreadable typography, misspelled text, cheap poster design, random logos, watermark, cartoon-only style, duplicate subject, extra limbs, plastic skin.
+```
+
+### Case 186: [LEGO Miniature City Editorial](https://x.com/frametheory058/status/2056561951610921186) (by [@frametheory058](https://x.com/frametheory058))
+
+| Output |
+| :----: |
+| <a href="../images/portrait_case186/output.jpg" target="_blank" rel="noopener noreferrer"><img src="../images/portrait_case186/output.jpg" width="300" alt="Output image"></a> |
+
+**Промпт:**
+
+```
+Use the uploaded reference image as the primary character reference.
+Create a premium vertical 4:5 editorial illustration of the same character from the reference image, sitting at a cozy craft table and building a LEGO-style miniature diorama of [CITY NAME].
+Only the character remains organic and natural. Everything else must be built entirely from visible LEGO-style bricks: landmarks, streets, bridges, rivers, lakes, trees, vehicles, trains, people, cafés, shops, food stalls, parks, signs, boa
+```
+
+### Case 187: [Fashion Collage Multi-Style Portrait](https://x.com/Mind_Boticni/status/2056350780840611954) (by [@Mind_Boticni](https://x.com/Mind_Boticni))
+
+| Output |
+| :----: |
+| <a href="../images/portrait_case187/output.jpg" target="_blank" rel="noopener noreferrer"><img src="../images/portrait_case187/output.jpg" width="300" alt="Output image"></a> |
+
+**Промпт:**
+
+```
+Create a premium 1:1 ultra-stylish fashion collage advertisement featuring the same young handsome bearded male model across multiple cinematic portrait styles inside one single high-end composition. The model should have sharp jawline, textured beard, messy stylish hair, attractive confident expression, modern masculine aura, and luxury Gen-Z street fashion styling. Entire mood should feel bold, dark, mysterious, and visually addictive — designed for viral social media aesthetics. Theme: midnig
+```
+
+### Case 188: [Busan Travel Journal Illustration](https://x.com/Sairah_0/status/2056580402761155037) (by [@Sairah_0](https://x.com/Sairah_0))
+
+| Output |
+| :----: |
+| <a href="../images/portrait_case188/output.jpg" target="_blank" rel="noopener noreferrer"><img src="../images/portrait_case188/output.jpg" width="300" alt="Output image"></a> |
+
+**Промпт:**
+
+```
+Dreamy Busan Korea travel journal illustration, cozy vintage scrapbook aesthetic, watercolor and ink art style, red-haired girl sitting at a seaside café writing in a notebook, cream knitted cardigan, floral dress, cinematic ocean view, colorful Gamcheon Culture Village houses on cliffside, Korean signs, travel stamps, boarding pass, handwritten notes, postcards, maps, tape stickers, seashells, coffee cup, retro camera on wooden table, soft pastel tones, warm sunlight, detailed paper textures, w
+```
+
+### Case 189: [Cinematic Volleyball Sports Portrait](https://x.com/meng_dagg695/status/2056590467622744500) (by [@meng_dagg695](https://x.com/meng_dagg695))
+
+| Output |
+| :----: |
+| <a href="../images/portrait_case189/output.jpg" target="_blank" rel="noopener noreferrer"><img src="../images/portrait_case189/output.jpg" width="300" alt="Output image"></a> |
+
+**Промпт:**
+
+```
+Ultra-realistic cinematic sports portrait of a young athletic woman playing volleyball outdoors on a sunny tropical day, captured mid-action while gently tossing/spinning a colorful volleyball upward with one hand. She is standing on an outdoor sports court surrounded by green mesh fencing, lush tropical plants, palm leaves, and soft natural greenery in the background.
+```
+
+### Case 190: [3D Designer-Toy Portrait](https://x.com/iamsofiaijaz/status/2056569264262517002) (by [@iamsofiaijaz](https://x.com/iamsofiaijaz))
+
+| Output |
+| :----: |
+| <a href="../images/portrait_case190/output.jpg" target="_blank" rel="noopener noreferrer"><img src="../images/portrait_case190/output.jpg" width="300" alt="Output image"></a> |
+
+**Промпт:**
+
+```
+Stylized 3D designer-toy portrait, centered symmetrical close-up composition, maintain the exact face, hairstyle, and facial proportions of the character in the reference image, [GLASSES: e.g. oversized translucent cat-eye glasses / no glasses / chunky black frames], [EYES: e.g. sharp green eyes / dark brown eyes], [FACE DETAILS: e.g. freckles,, silver ear piercings], soft neutral facial expression with cool detached attitude,  streetwear-inspired badges / no hat], [OUTFIT: e.g. chunky neon-gree
+```
+
+### Case 191: [Dark Silhouette Rim-Light Portrait](https://x.com/XSydneyFan/status/2056427756213465521) (by [@XSydneyFan](https://x.com/XSydneyFan))
+
+| Output |
+| :----: |
+| <a href="../images/portrait_case191/output.jpg" target="_blank" rel="noopener noreferrer"><img src="../images/portrait_case191/output.jpg" width="300" alt="Output image"></a> |
+
+**Промпт:**
+
+```
+.Ultra realistic dark silhouette portrait of a stylish young woman in side profile pose, deep black background, dramatic rim lighting highlighting hair and jawline edges, wearing stylish trendy sunglasses, DSLR photography style, ultra HD 8K, realistic facial outline, premium fashion edition
+2:3ar
+```
+
+### Case 192: [Cozy Bedroom Korean Girl Portrait](https://x.com/john_my07/status/2056609974852497451) (by [@john_my07](https://x.com/john_my07))
+
+| Output |
+| :----: |
+| <a href="../images/portrait_case192/output.jpg" target="_blank" rel="noopener noreferrer"><img src="../images/portrait_case192/output.jpg" width="300" alt="Output image"></a> |
+
+**Промпт:**
+
+```
+Ultra-realistic cozy bedroom portrait of the same beautiful Korean girl from the previous images, maintaining identical facial appearance, silky long black hair, glossy eyes, soft blush makeup, youthful Korean beauty aesthetic, and realistic skin texture consistency.
+She is lying comfortably on her stomach across a soft cream-colored bed in her cozy bedroom at night, posing playfully toward the camera with a gentle relaxed smile. Her legs are bent upward behind her while resting her chin softly
+```
+
+### Case 193: [Anime Brand Campaign Portrait](https://x.com/ChillaiKalan__/status/2056580787538161753) (by [@ChillaiKalan__](https://x.com/ChillaiKalan__))
+
+| Output |
+| :----: |
+| <a href="../images/portrait_case193/output.jpg" target="_blank" rel="noopener noreferrer"><img src="../images/portrait_case193/output.jpg" width="300" alt="Output image"></a> |
+
+**Промпт:**
+
+```
+Semi-realistic anime style young Korean woman in the uploaded image, ORBIT brand campaign, oversized nuclear orange and white technical jacket, wide black pants, futuristic sneakers, vivid orange seamless backdrop, chrome silver props, circular orbital shapes, sharp flash photography, premium streetwear hype drop energy, clean fashion editorial.
+```
+
+### Case 194: [Woman in Crystal Perfume Bottle](https://x.com/MrDasOnX/status/2056413830687899819) (by [@MrDasOnX](https://x.com/MrDasOnX))
+
+| Output |
+| :----: |
+| <a href="../images/portrait_case194/output.jpg" target="_blank" rel="noopener noreferrer"><img src="../images/portrait_case194/output.jpg" width="300" alt="Output image"></a> |
+
+**Промпт:**
+
+```
+Ultra-realistic surreal conceptual portrait of a distressed middle-aged woman trapped inside an elegant transparent crystal perfume bottle filled halfway with pale pink perfume liquid. The bottle is upright and centered, featuring a faceted glass body with a luxurious gold spray nozzle and cap. Tiny condensation droplets and fine mist residue cling to the inner glass, catching the light. A soft layer of shimmering perfume vapor swirls inside the bottle around the woman’s shoulders and chest leve
+```
+
+### Case 195: [Summer Campus Tesla Lifestyle Poster](https://x.com/Shinning1010/status/2056334868963881144) (by [@Shinning1010](https://x.com/Shinning1010))
+
+| Output |
+| :----: |
+| <a href="../images/portrait_case195/output.jpg" target="_blank" rel="noopener noreferrer"><img src="../images/portrait_case195/output.jpg" width="300" alt="Output image"></a> |
+
+**Промпт:**
+
+```
+Create a premium summer campus lifestyle Tesla poster focused mainly on an adult East Asian female model with a casual cute campus look. Use the uploaded portrait photo only for appearance and hairstyle, preserving face shape, facial features, hairstyle, skin tone, body proportion, and overall temperament. Scene: sunny summer university campus, clean tree-lined walkway, bright greenery, warm daylight, relaxed youthful lifestyle atmosphere. The model is the visual center, clear face, natural swee
+```
+
+### Case 196: [Bubble-Tea Shop Action Portrait](https://x.com/heyfatema/status/2056415080783499427) (by [@heyfatema](https://x.com/heyfatema))
+
+| Output |
+| :----: |
+| <a href="../images/portrait_case196/output.jpg" target="_blank" rel="noopener noreferrer"><img src="../images/portrait_case196/output.jpg" width="300" alt="Output image"></a> |
+
+**Промпт:**
+
+```
+Use case: identity-preserve style-transfer
+Asset type: vertical photorealistic action portrait for social post
+Primary request: create a dynamic bubble-tea shop action portrait using the uploaded portrait photo as the appearance reference for the person.
+Scene/backdrop: a bright modern bubble-tea counter interior with stainless steel panels, glass display edges, overhead circular lights, drink-making equipment, and a dramatic low-angle view from near the floor. Pink strawberry milk tea splashes
+```
+
+### Case 197: [Night Outdoor Portrait](https://x.com/chatgptpaglu/status/2056603808403485006) (by [@chatgptpaglu](https://x.com/chatgptpaglu))
+
+| Output |
+| :----: |
+| <a href="../images/portrait_case197/output.jpg" target="_blank" rel="noopener noreferrer"><img src="../images/portrait_case197/output.jpg" width="300" alt="Output image"></a> |
+
+**Промпт:**
+
+```
+A medium-shot photograph of a young woman with wavy, light brown hair and soft, rosy makeup, posing outdoors at night. She is wearing a slightly oversized black t-shirt with small white text on the left chest, pulling the shirt up slightly with both hands to reveal her midriff and the waistband of black underwear peeking out from low-rise, faded blue denim jeans. She is leaning against a white metal balcony railing, looking off-camera to her right with a neutral expression. The background
+```
+
+<!-- Case 198: Редакционный модный лист в стиле blueprint (by @ZephyraLeigh) -->
+### Case 198: [Редакционный модный лист в стиле blueprint](https://twitter.com/ZephyraLeigh/status/2056770705677775247) (by [@ZephyraLeigh](https://x.com/ZephyraLeigh))
+
+| Результат |
+| :----: |
+| <a href="../images/portrait_case198/output.jpg" target="_blank" rel="noopener noreferrer"><img src="../images/portrait_case198/output.jpg" width="300" alt="Изображение результата"></a> |
+
+**Prompt：**
+
+```
+Fashion blueprint sheet of a stylish young woman posing beside a bright orange wall, half-body fashion editorial view with detailed outfit annotations and luxury styling callouts. Long sleek dark hair, soft glam makeup, silver drop earrings, layered silver necklaces, fitted dark brown cropped tube top, oversized pastel mint-green blazer with structured shoulders, matching high-waisted wide-leg trousers, elegant silver chain detail attached to blazer, relaxed confident pose with one hand in pocket.
+
+Surrounding the model are fashion infographic elements, jewelry breakdowns, fabric texture descriptions, tailoring notes, pose analysis, accessory close-ups, cinematic sunlight reflections, modern Korean street-fashion aesthetic, editorial photography style, ultra detailed, professional fashion concept sheet, 8k, 1744x2336
+```
+
+<!-- Case 199: Радостный уличный портрет с напитком (by @rovvmut_) -->
+### Case 199: [Радостный уличный портрет с напитком](https://twitter.com/rovvmut_/status/2056786034864927229) (by [@rovvmut_](https://x.com/rovvmut_))
+
+| Результат |
+| :----: |
+| <a href="../images/portrait_case199/output.jpg" target="_blank" rel="noopener noreferrer"><img src="../images/portrait_case199/output.jpg" width="300" alt="Изображение результата"></a> |
+
+**Prompt：**
+
+```
+A medium low-angle shot of a joyful young woman with dark hair and straight bangs, smiling brightly against a vibrant, clear blue sky. She wears a white graphic t-shirt featuring three landscape panels. In her right hand, she holds up a clear plastic cup filled with bright orange juice, featuring a white hand-drawn doodle of a smiley face on the side. Whimsical, hand-drawn white digital doodles are overlaid around her: stylized headphones rest around her neck, musical notes and stars float above her head, and glowing white motion outlines trace her silhouette. Bright, natural daylight evenly illuminates the scene, enhancing the playful, energetic pop-art aesthetic.
+```
+
+<!-- Case 200: Постер-портрет в виде коллажа с фотоплёнкой (by @robertsmith_ai) -->
+### Case 200: [Постер-портрет в виде коллажа с фотоплёнкой](https://twitter.com/robertsmith_ai/status/2056766784846606727) (by [@robertsmith_ai](https://x.com/robertsmith_ai))
+
+| Результат |
+| :----: |
+| <a href="../images/portrait_case200/output.jpg" target="_blank" rel="noopener noreferrer"><img src="../images/portrait_case200/output.jpg" width="300" alt="Изображение результата"></a> |
+
+**Prompt：**
+
+```
+High-end portrait collage poster in vertical format. The background contains four layered rounded strips displaying black-and-white film-like images of a curly-haired male model wearing dark sunglasses in varied poses. In front, a vivid color cutout of the same character is placed to the left, dressed in an unbuttoned soft pink shirt, styled like a luxury fashion campaign with dramatic lighting and depth.
+```
+
+<!-- Case 201: Согласованность портрета по референсу (by @mehvishs25) -->
+### Case 201: [Согласованность портрета по референсу](https://twitter.com/mehvishs25/status/2056770900125790595) (by [@mehvishs25](https://x.com/mehvishs25))
+
+| Результат |
+| :----: |
+| <a href="../images/portrait_case201/output.jpg" target="_blank" rel="noopener noreferrer"><img src="../images/portrait_case201/output.jpg" width="300" alt="Изображение результата"></a> |
+
+**Prompt：**
+
+```
+Use the uploaded reference image as the exact facial identity reference for the girl. Maintain the same facial structure, eyes, nose, lips, hairstyle, skin tone, beauty details, and overall appearance consistency throughout the image.
+
+Ultra-realistic portrait of the same girl from the reference image standing beside the large classroom windows in an empty Korean classroom during daytime, posing from the front side while looking directly at the camera with a soft calm smile. One hand gently resting in her hair, relaxed confident posture, modern youthful Korean fashion aesthetic. Wearing a fitted long black ribbed top with full sleeves and light gray washed jeans, elegant casual styling. Long silky black hair flowing naturally, glossy eyes, soft natural blush makeup, realistic skin texture, dreamy youthful Korean beauty aesthetic.
+
+Bright natural sunlight streaming through the classroom windows, creating soft cinematic highlights and realistic shadows across the room. Authentic Korean classroom interior with wooden desks, black chairs, green chalkboard, South Korean flag on the wall, clean neutral walls, polished floors, and trees visible outside the windows.
+
+Calm slice-of-life atmosphere, minimalist Korean school aesthetic, candid model pose, soft daylight photography, shallow depth of field, cinematic composition, highly detailed, photorealistic classroom environment, luxury lifestyle editorial feel, soft glow, realistic DSLR photography, peaceful modern mood.
+```
+
+<!-- Case 202: Лондонский модный уличный портрет (by @ShamiWeb3) -->
+### Case 202: [Лондонский модный уличный портрет](https://twitter.com/ShamiWeb3/status/2056904361792716894) (by [@ShamiWeb3](https://x.com/ShamiWeb3))
+
+| Результат |
+| :----: |
+| <a href="../images/portrait_case202/output.jpg" target="_blank" rel="noopener noreferrer"><img src="../images/portrait_case202/output.jpg" width="300" alt="Изображение результата"></a> |
+
+**Prompt：**
+
+```
+Photorealistic cinematic fashion video set on an elegant London shopping street inspired by Bond Street. A stylish British woman in her late 20s walks confidently past a luxury boutique. She wears gold earrings, a burgundy double-breasted blazer, matching mini skirt, a light blue ruffled silk blouse, a structured dark red leather shoulder bag, and metallic pointed heels. Her chestnut hair is styled in a sleek low bun.
+Her phone rings. She glances at the screen, stops gracefully, and answers. A male voice asks, “Hello there, can you please scan your outfit?” She smiles and replies in a soft British accent, “I guess so.”
+The camera performs a smooth head-to-toe scan, displaying elegant text labels for each outfit item, then ends on a confident editorial pose in front of the boutique window.
+Bright natural sunlight, shallow depth of field, smooth gimbal movement, luxury editorial aesthetic, polished and sophisticated mood, 9:16 vertical, 15 seconds.
+```
+
+<!-- Case 203: Референс для тревел-селфи-портрета (by @linaa_ai) -->
+### Case 203: [Референс для тревел-селфи-портрета](https://twitter.com/linaa_ai/status/2056777746265858158) (by [@linaa_ai](https://x.com/linaa_ai))
+
+| Результат |
+| :----: |
+| <a href="../images/portrait_case203/output.jpg" target="_blank" rel="noopener noreferrer"><img src="../images/portrait_case203/output.jpg" width="300" alt="Изображение результата"></a> |
+
+**Prompt：**
+
+```
+Asset type: portrait image for social post
+Primary request: create a photorealistic travel selfie portrait, using the uploaded portrait photo as the appearance reference for the person.
+Scene/backdrop: an open alpine meadow under a vivid blue sky, surrounded overhead by hundreds of colorful Tibetan prayer flags arranged in a circular spiral canopy, with distant green hills and bright daylight.
+Subject: a young woman with the recognizable facial structure, eyes, hairline direction, and natural skin texture from the uploaded portrait photo, wearing a bright cyan outdoor jacket, white hiking pants, a mustard yellow knit beanie, sunglasses resting on the hat, and a backpack.
+Style/medium: ultra-realistic mobile travel photography with a dynamic action-camera feel, crisp but natural detail, lively social-media adventure portrait.
+Composition/framing: vertical 3:4 frame, extreme wide-angle perspective, low-to-high selfie composition, one hand reaching toward the camera in the foreground with strong perspective enlargement, face in the midground, prayer flags forming a colorful radial tunnel above her head, energetic candid smile.
+Lighting/mood: brilliant high-altitude midday sun, visible lens flare near the upper left, sparkling backlight, bright optimistic mood, high clarity, realistic shadows on grass.
+Color palette: saturated cyan, mustard yellow, red, orange, green, white, and sky blue, clean contrast, sunlit alpine freshness.
+Textures/retouching: believable fabric texture, natural skin pores, realistic hair strands, clean optical sharpness on the face, shallow foreground hand blur, small falling snowflakes or white petals crossing the lens.
+Constraints: preserve the person's recognizable appearance from the uploaded portrait photo; no watermark; no logo; no text; no caption; no signature.
+Avoid: plastic beauty-filter skin, over-smoothed face, distorted hands, extra fingers, warped prayer flags, unreadable markings on clothing, artificial CGI look
+
+Negative Prompt：
+
+watermark, logo, text, caption, signature, AI label, brand mark, extra fingers, missing fingers, fused fingers, deformed hands, oversized malformed palm, asymmetrical eyes, crossed eyes, warped face, plastic skin, waxy skin, over-smoothed beauty filter, blurry face, low detail, low resolution, heavy compression artifacts, distorted anatomy, duplicate person, bad perspective, bent flag strings, warped flags, fake CGI look, overexposed face, muddy colors
+```
+
+<!-- Case 204: Ультрареалистичный портрет в стиле смартфона (by @AiwithZohaib) -->
+### Case 204: [Ультрареалистичный портрет в стиле смартфона](https://twitter.com/AiwithZohaib/status/2056835104824312018) (by [@AiwithZohaib](https://x.com/AiwithZohaib))
+
+| Результат |
+| :----: |
+| <a href="../images/portrait_case204/output.jpg" target="_blank" rel="noopener noreferrer"><img src="../images/portrait_case204/output.jpg" width="300" alt="Изображение результата"></a> |
+
+**Prompt：**
+
+```
+Ultra-realistic, almost indistinguishable-from-real close-up portrait in a casual phone photo style.
+
+Use the uploaded image as the identity reference, fully preserving the natural appearance and atmosphere of the same woman.
+The face and overall appearance must remain 100% identical to the reference image, without altering any facial proportions or features.
+
+Do not change:
+
+Lip shape or lip size
+
+Eyes
+
+Nose
+
+Face shape
+
+Overall facial harmony and identity
+
+Full photorealism.
+No AI-generated feeling — it should look like a random candid photo taken on a mobile phone.
+Not a polished glossy beauty shoot, but a natural, slightly imperfect phone snapshot.
+
+Close-up portrait framed to shoulder level.
+Soft and elegant pose.
+Face slightly turned to the side.
+No direct eye contact with the camera — natural sideways gaze.
+Expression calm, natural, almost neutral.
+The image should feel like a spontaneously captured moment rather than a posed photoshoot.
+
+Hair styled in a natural slightly messy updo.
+Face-framing bangs and loose strands around the face.
+A few flyaway hairs and subtle disheveled texture.
+Effortless beauty aesthetic with imperfectly styled hair.
+
+Ultra-natural skin texture with realistic pores and subtle imperfections.
+Soft mobile-phone lighting, realistic shadows, natural tonal range, authentic candid atmosphere.
+
+The overall result should resemble a genuine smartphone portrait captured casually in real life, with cinematic realism and natural feminine elegance.
+```
+
+<!-- Case 205: Портрет в стиле гравюры на дереве (by @zulkarnaimx) -->
+### Case 205: [Портрет в стиле гравюры на дереве](https://twitter.com/zulkarnaimx/status/2056778953273258275) (by [@zulkarnaimx](https://x.com/zulkarnaimx))
+
+| Результат |
+| :----: |
+| <a href="../images/portrait_case205/output.jpg" target="_blank" rel="noopener noreferrer"><img src="../images/portrait_case205/output.jpg" width="300" alt="Изображение результата"></a> |
+
+**Prompt：**
+
+```
+️
+
+Black and white engraved portrait illustration of a person.
+Drawn in classic woodcut / linocut engraving style, high contrast black ink on textured off-white paper background. Fine cross-hatching and line shading to create depth and shadow, bold black ink shadows under chin and around hair, strong contour lines, traditional printmaking aesthetic.
+Minimal composition, centered portrait, no body visible, clean negative space, vintage editorial illustration style, ultra detailed linework, sharp crisp ink strokes, professional vector-ready engraving look, monochrome palette, dramatic contrast.
+Negative Prompt:
+color, watercolor, soft shading, blurred lines, low contrast, realistic photography, 3D render, anime style, cartoon style, messy sketch, thick uneven strokes, background objects, noisy texture, pixelated, distorted face, extra eyes, extra ears, bad anatomy, modern digital painting, glossy skin, overexposed highlights
+```
+
+<!-- Case 206: Лист дизайна 3D-персонажа в стиле Pixar (by @TechieBySA) -->
+### Case 206: [Лист дизайна 3D-персонажа в стиле Pixar](https://twitter.com/TechieBySA/status/2056784334628036676) (by [@TechieBySA](https://x.com/TechieBySA))
+
+| Результат |
+| :----: |
+| <a href="../images/portrait_case206/output.jpg" target="_blank" rel="noopener noreferrer"><img src="../images/portrait_case206/output.jpg" width="300" alt="Изображение результата"></a> |
+
+**Prompt：**
+
+```
+“Create a Pixar 3D style character design sheet. Clean white background. Two characters side by side with a clean dividing line. Bold brushstroke-style title at the top: PAUL vs THE POLE VAULT. Subtitle beneath: One pole. One shot. Straight up.
+LEFT SIDE — PAUL
+Large name in bold black. Underneath: "The bar was never the problem."
+Hero portrait — Paul isolated on clean white. No background. Pixar 3D man, mid 20s, lean athletic build, electric blue athletics vest with thin gold stripe on shoulder, white shorts, white spikes with electric blue detail. Focused determined expression. Holding a long silver pole horizontally in both hands, slightly crouched forward. Just Paul on white.
+Three poses beneath:
+
+Full sprint down the runway, pole angled forward low, eyes locked ahead, every muscle firing.
+Inverted at full height — body perfectly upside down, pole bent at maximum flex, toes pointed straight at the sky.
+Landing in the pit, arms raised, head turned back to check the bar. Pure joy.
+
+SPEED ████████░░ Enough to get airborne
+COURAGE ██████████ Required at that height
+GRIP ██████████ Non negotiable
+HEIGHT CLEARED █████████░ Still climbing
+HEART RATE AT PEAK ██████████ Do not check
+RIGHT SIDE — THE POLE VAULT
+Large name in bold black. Underneath: "It has never missed. Only the athlete does."
+Hero portrait — the pole vault apparatus isolated on clean white. Tall yellow standards, bright red crossbar at full height, blue crash mat below. Still. Imposing. Just the apparatus on white.
+Three poses beneath:
+
+Bar sitting perfectly still on the standards. Unbothered. Waiting.
+Bar shaking mid-vault as Paul's body passes over — millimeters of clearance.
+Bar still. Settled. Unmoved. It was never going anywhere.
+
+HEIGHT ██████████ Non negotiable
+REMORSE ░░░░░░░░░░ It is a bar. It does not come down for anyone.
+BOTTOM STRIP — five cinematic close-up panels bleeding into each other, some transparent, no hard boxes:
+Paul's white spikes on the red rubber runway surface, pole tip visible at the edge · Silver pole at maximum bend, pure white background, nothing else · Extreme close-up of Paul's face — jaw set, eyes locked forward, pure focus, sweat visible · Paul fully inverted against bright blue sky, body horizontal, red bar inches from his chest · Paul's hands releasing the pole mid-air, arms exploding upward, pure joy, crowd blur behind him
+THE POLE BENDS. THE BAR STAYS. PAUL DOES NOT KNOW HOW.
+STYLE NOTES: Pixar 3D vivid rendering. Clean white background on both character sides. Electric blue stat bars throughout. Bottom strip cinematic and tight — close-ups bleeding into each other with transparent edges like a film production sheet, not boxed panels with full backgrounds. Paul identical across all poses. Maximum brightness and color throughout.”
+```
+
+<!-- Case 207: Бьюти-портрет богини матча (by @NyaiiBubu) -->
+### Case 207: [Бьюти-портрет богини матча](https://twitter.com/NyaiiBubu/status/2056817669668737442) (by [@NyaiiBubu](https://x.com/NyaiiBubu))
+
+| Результат |
+| :----: |
+| <a href="../images/portrait_case207/output.jpg" target="_blank" rel="noopener noreferrer"><img src="../images/portrait_case207/output.jpg" width="300" alt="Изображение результата"></a> |
+
+**Prompt：**
+
+```
+👇
+
+ultra realistic surreal beauty editorial portrait, matcha goddess aesthetic, ethereal asian woman with glossy dewy skin, face covered in dripping liquid matcha cream, surreal cosmetic food fusion, floating matcha cubes, matcha powder particles, green tea mousse textures, edible haute couture, cinematic luxury skincare campaign, dreamy fantasy atmosphere, glowing olive green tones, wet reflective skin, delicate floral accents, suspended droplets, gold flakes, soft volumetric lighting, macro beauty photography, shallow depth of field, highly detailed skin texture, elegant feminine pose, luxury fashion editorial, surreal dessert inspired composition, artistic liquid dynamics, photorealistic, cinematic bokeh background, ultra detailed, 8k, soft glow, clean composition, no text, no logo, no product packaging, vertical 9:16
+```
+
+<!-- Case 208: Снимок LCD-экрана винтажной камеры (by @ZaraElira4) -->
+### Case 208: [Снимок LCD-экрана винтажной камеры](https://twitter.com/ZaraElira4/status/2056786815978524772) (by [@ZaraElira4](https://x.com/ZaraElira4))
+
+| Результат |
+| :----: |
+| <a href="../images/portrait_case208/output.jpg" target="_blank" rel="noopener noreferrer"><img src="../images/portrait_case208/output.jpg" width="300" alt="Изображение результата"></a> |
+
+**Prompt：**
+
+```
+A realistic close-up shot of a small digital camera screen glowing brightly in a dark indoor environment. Displayed on the LCD is a candid early-2010s style photograph of a young East Asian woman with long dark wavy hair standing beside a wooden shelf packed tightly with colorful comic books and magazines.
+
+She wears a black spaghetti-strap top with a loose white cardigan hanging casually from both shoulders and faded blue jeans. Captured mid-laugh while turning her face slightly sideways, her expression feels spontaneous and natural, with hair falling softly across part of her cheek.
+
+The harsh direct flash from the compact camera creates strong highlights on her face and cardigan while flattening shadows in the background, producing an authentic nostalgic digicam aesthetic. Slight motion blur and digital grain enhance the candid realism.
+
+Camera UI overlays are visible across the LCD screen, including the timestamp “8. 1. 2012 3:15 AM,” exposure data “1/30 F3.4 ISO 100,” focus indicators, and a small green battery symbol in the corner.
+
+The image preserves visible screen pixel structure, slight glare reflections, chromatic softness, and compressed digital texture. Outside the LCD, the surrounding darkness fades smoothly into blur, emphasizing the glowing nostalgic screen.
+
+Shot to resemble an authentic Sony Cyber-shot point-and-shoot camera from the early 2010s using a CCD sensor with vintage digital rendering and imperfect flash exposure.
+```
+
+
+<!-- Case 209: 写实感人物竖版照片 (by @liyue_ai) -->
+### Case 209: [写实感人物竖版照片](https://x.com/liyue_ai/status/2057371613059002495) (by [@liyue_ai](https://x.com/liyue_ai))
+
+| Output |
+| :----: |
+| <a href="../images/portrait_case209/output.jpg" target="_blank" rel="noopener noreferrer"><img src="../images/portrait_case209/output.jpg" width="300" alt="GPT-Image-2 Prompt Example - 写实感人物竖版照片"></a> |
+
+**Промпт:**
+
+```
+生成一张 9:16 竖版写实感人物照片，参考高级手机自拍质感，但不要完全普通生活照。整体像是用 iPhone 前置摄像头在温馨卧室中拍摄的精致自拍，保留柔和美型、干净构图和自然高级感。画质为真实手机照片质感，有轻微噪点、轻微柔焦和自然光感，但人物依然精致、漂亮、肤质自然干净，不要变成粗糙低质照片。
+
+画面中是一位成年东方女性，坐在温馨卧室床上，上半身近景自拍构图，镜头略微从上方俯拍，人物位于画面中央偏右，头部微微低下，视线安静看向右下方，表情自然、平静、温柔，嘴唇自然闭合，整体气质柔和、成熟、安静。
+
+人物拥有浅蓝色或冰蓝色长发，发丝自然蓬松，有轻微凌乱感，部分头发垂落在脸侧和肩颈周围。人物保持精致写实美型，脸型柔和自然，五官清秀，皮肤白皙但不过度磨皮，可保留少量真实肤质纹理、细小毛孔、轻微肤色不均和几处很淡的小黑痣，但整体仍然干净、柔和、好看。不要明显暗沉，不要粗糙脏感。
+
+人物身材丰腴，肩颈线条柔和，胸部饱满，不卡通化。服装为浅蓝色丝缎吊带睡裙，带白色蕾丝花边，胸前有简洁小蝴蝶结和自然褶皱，布料柔软贴合身体，呈现真实丝缎材质光泽。人物一只手自然轻轻拉住肩带或肩部附近衣料，手指数量正常，姿态自然。
+
+背景为温馨卧室，有床铺、浅色床品、木质床头柜、暖黄色床头灯、窗帘和柔和室内光。背景轻微虚化，保留真实居家空间感。光线为室内暖光与自然光混合，略微偏暖，画面柔和、亲密、生活化，但保持干净高级。
+
+整体风格：写实手机自拍、高级自然美型、轻微 iPhone 前置摄像头质感、柔和暖光、自然肤质、真实比例、温馨卧室、精致但不过度商业修图。
+
+负面要求：
+不要二次元，不要3D CG，不要摄影棚大片，不要低质粗糙照片，不要过度噪点，不要明显脏感，不要过度磨皮，不要塑料皮肤，不要畸形手指，不要多余手指，不要背景纯白。
+```
+
+<!-- Case 210: Y2K японский уличный редакционный постер (by @noorlewisx) -->
+### Case 210: [Y2K японский уличный редакционный постер](https://x.com/noorlewisx/status/2057349206025847224) (by [@noorlewisx](https://x.com/noorlewisx))
+
+| Output |
+| :----: |
+| <a href="../images/portrait_case210/output.jpg" target="_blank" rel="noopener noreferrer"><img src="../images/portrait_case210/output.jpg" width="300" alt="GPT-Image-2 Prompt Example - Y2K Japanese Street Editorial Poster"></a> |
+
+**Промпт:**
+
+```
+Create a bold Y2K Japanese street-editorial collage poster with a clean high-fashion magazine aesthetic, gritty paper textures, torn magazine cutouts, distressed ink splashes, and urban Tokyo-inspired design.
+```
+
+<!-- Case 211: Редакционный мужской портрет (by @frametheory058) -->
+### Case 211: [Редакционный мужской портрет](https://x.com/frametheory058/status/2057309251048206778) (by [@frametheory058](https://x.com/frametheory058))
+
+| Output |
+| :----: |
+| <a href="../images/portrait_case211/output.jpg" target="_blank" rel="noopener noreferrer"><img src="../images/portrait_case211/output.jpg" width="300" alt="GPT-Image-2 Prompt Example - Editorial Male Portrait"></a> |
+
+**Промпт:**
+
+```
+Ultra-realistic 8K editorial male portrait of the uploaded man, using his exact face as the ONLY identity reference — preserve 100% facial structure, jawline, hairstyle volume, beard texture, skin tone, eye shape, pores, and natural imperfections with zero beautification or face alteration. Luxury “quiet wealth” aesthetic blended with cinematic Instagram masculinity. Centered close-up composition, direct eye contact, calm dominant expression, slightly serious mood, no smile. Styled in a fitted black turtleneck under a premium black tailored blazer, no accessories. Dark emerald-green cinematic studio gradient background with soft atmospheric depth. Shot on an 85mm lens at f/1.8 with razor-sharp focus on the eyes, creamy bokeh, ultra-detailed skin texture, visible beard strands, realistic hair fibers, HDR dynamic range, deep contrast shadows, subtle rim light around hair and jawline, soft key light from front-left sculpting the face naturally. Premium GQ magazine color grading, luxury fashion campaign vibe, hyper-realistic photorealism, dramatic yet minimal composition, insanely detailed, rich blacks, elite masculine aura, emotionally captivating, instantly viral social media quality, masterpiece-level realism, natural cinematic skin, modern billionaire aesthetic, studio perfection, award-winning editorial photography --ar 4:5
+```
+
+<!-- Case 212: Авангардный токийский модный зин-постер (by @john_my07) -->
+### Case 212: [Авангардный токийский модный зин-постер](https://x.com/john_my07/status/2057319214739046552) (by [@john_my07](https://x.com/john_my07))
+
+| Output |
+| :----: |
+| <a href="../images/portrait_case212/output.jpg" target="_blank" rel="noopener noreferrer"><img src="../images/portrait_case212/output.jpg" width="300" alt="GPT-Image-2 Prompt Example - Avant-Garde Tokyo Fashion Zine Poster"></a> |
+
+**Промпт:**
+
+```
+Avant-garde Tokyo fashion zine poster with a refined neo-Y2K editorial aesthetic, inspired by underground Japanese street magazines and luxury urban campaigns. Layered collage composition featuring weathered paper textures, fragmented magazine clippings, faded xerox marks, distressed ink smears, scratched film overlays, and contemporary Harajuku-inspired graphic design.
+Primary visual: a dominant cinematic beauty portrait occupying the upper half of the poster, intense direct gaze with razor-sharp eye detail, naturally textured skin, softly glossy lips, loosely pinned messy hair strands, no eyewear, subtle moody rim lighting, calm yet powerful expression, photographed like a luxury street-fashion campaign with ultra-realistic DSLR depth and authentic facial detail.
+Secondary visuals: exactly two smaller ripped-frame portraits near the lower section, each showing different moods and camera perspectives, arranged asymmetrically like taped instant-film snapshots layered over torn paper pieces.
+Graphic styling: oversized experimental Japanese typography integrated into the composition, minimal condensed English captions, faded metro signage fragments, barcode labels, editorial stamps, folded newspaper textures, masking tape strips, rough brush marks, grainy analog imperfections, layered cut-paper shadows, and sophisticated magazine-inspired spacing.
+Overall mood: clean but rebellious, premium Japanese street-editorial energy, cinematic contrast, muted neutral palette with charcoal, ivory, faded silver, and washed earth tones, subtle flash photography feel, raw fashion photography realism, modern visual culture poster design, highly detailed luxury collage artwork, sharp focus, authentic print imperfections, ultra high resolution, 8K aesthetic, absolutely no kawaii elements, no pastel tones, no cartoon styling.
+```
+
+<!-- Case 213: Портрет в стиле Мики (by @ChillaiKalan__) -->
+### Case 213: [Портрет в стиле Мики](https://x.com/ChillaiKalan__/status/2057286038624878604) (by [@ChillaiKalan__](https://x.com/ChillaiKalan__))
+
+| Output |
+| :----: |
+| <a href="../images/portrait_case213/output.jpg" target="_blank" rel="noopener noreferrer"><img src="../images/portrait_case213/output.jpg" width="300" alt="GPT-Image-2 Prompt Example - Miki Style Line Art Portrait"></a> |
+
+**Промпт:**
+
+```
+​A precise line art illustration portrait in the distinctive Miki style, with clean, defined dark contours and minimal, subtle watercolor wash coloring.
+Subject: A gender-neutral single person with natural medium-length dark hair, wearing round wire-rimmed glasses and a simple dark blue-gray knit sweater, in a clean, soft profile view (facing either left or right). They hold a large bouquet of soft pink and white flowers (roses and small wildflowers) as seen in image_3/4, with one hand visible.
+Background: A minimalist background with a smooth, matte finish of a single color tone (e.g., warm beige or pale mint, as requested), with a very subtle, almost unnoticeable, watercolor paper texture.
+Lighting & Color: Soft diffused natural daylight from the upper-left, illuminating the subject's face gently. A pastel color palette with warm beige/mint tones.
+Composition: Profile chest-up bust shot portrait, composed cleanly, with a calm, nostalgic atmosphere.
+```
+
+<!-- Case 214: Корейский ультрареалистичный портрет красоты (by @ZephyraLeigh) -->
+### Case 214: [Корейский ультрареалистичный портрет красоты](https://x.com/ZephyraLeigh/status/2057315596862370103) (by [@ZephyraLeigh](https://x.com/ZephyraLeigh))
+
+| Output |
+| :----: |
+| <a href="../images/portrait_case214/output.jpg" target="_blank" rel="noopener noreferrer"><img src="../images/portrait_case214/output.jpg" width="300" alt="GPT-Image-2 Prompt Example - Korean Beauty Ultra-Realistic Portrait"></a> |
+
+**Промпт:**
+
+```
+low quality, blurry, distorted anatomy, extra fingers, bad hands, unrealistic smile, messy hair, cartoon, anime, watermark, logo, text, noisy image, oversaturated colors, poorly drawn face, low resolution, bad proportions. 1744x2336
+```
+
+<!-- Case 215: Кинематографический черно-белый портрет (by @Ciri_ai) -->
+### Case 215: [Кинематографический черно-белый портрет](https://x.com/Ciri_ai/status/2057318412175757523) (by [@Ciri_ai](https://x.com/Ciri_ai))
+
+| Output |
+| :----: |
+| <a href="../images/portrait_case215/output.jpg" target="_blank" rel="noopener noreferrer"><img src="../images/portrait_case215/output.jpg" width="300" alt="GPT-Image-2 Prompt Example - Cinematic B&W Portrait"></a> |
+
+**Промпт:**
+
+```
+A hyper-realistic, cinematic black-and-white portrait of a woman caught in mid-motion, her face partially obscured by sweeping hair strands and intentional motion blur. The subject is framed from the shoulders up, slightly off-center, with her head turning laterally as if pulled by momentum. Long exposure creates luminous horizontal light streaks behind her, suggesting an urban night environment dissolving into abstraction.
+```
+
+<!-- Case 216: Художественный портрет молодого человека (by @iamsofiaijaz) -->
+### Case 216: [Художественный портрет молодого человека](https://x.com/iamsofiaijaz/status/2057440838033252767) (by [@iamsofiaijaz](https://x.com/iamsofiaijaz))
+
+| Output |
+| :----: |
+| <a href="../images/portrait_case216/output.jpg" target="_blank" rel="noopener noreferrer"><img src="../images/portrait_case216/output.jpg" width="300" alt="GPT-Image-2 Prompt Example - Artistic Sketch Portrait Young Man"></a> |
+
+**Промпт:**
+
+```
+Create a unique artistic sketch-style portrait of a modern young man wearing black sunglasses, with textured pencil and ink drawing effects mixed with abstract collage elements. Change the shirt color to deep olive green with soft watercolor shading. Add layered geometric frames around the face, expressive cross-hatching, ink splashes, handwritten typography notes, and contemporary fashion mood-board aesthetics. Keep the hairstyle detailed and voluminous with realistic sketch strokes. Use an off-white textured paper background with artistic grunge accents, dynamic composition, and editorial magazine-style illustration. High detail, cinematic lighting, modern urban art style, creative mixed-media sketch effect.
+```
+
+<!-- Case 217: Постер с легендой NBA в воздухе (by @Taaruk_) -->
+### Case 217: [Постер с легендой NBA в воздухе](https://x.com/Taaruk_/status/2057491440406810988) (by [@Taaruk_](https://x.com/Taaruk_))
+
+| Output |
+| :----: |
+| <a href="../images/portrait_case217/output.jpg" target="_blank" rel="noopener noreferrer"><img src="../images/portrait_case217/output.jpg" width="300" alt="GPT-Image-2 Prompt Example - NBA Legend Mid-Air Action Poster"></a> |
+
+**Промпт:**
+
+```
+Dynamic NBA legend poster design, iconic basketball superstar in mid-air action pose performing dunk, jumpshot, or intense celebration, cinematic sports illustration style, highly detailed muscular anatomy, dramatic motion, realistic face with painterly polygon brush texture, explosive paint splashes behind character matching team colors, bold typography with player name in huge vertical letters, motivational quote text layout, sports stats and achievements infographic, clean minimal cream background, modern editorial composition.
+```
+
+<!-- Case 218: Корейский модный портрет красоты (by @Sheldon056) -->
+### Case 218: [Корейский модный портрет красоты](https://x.com/Sheldon056/status/2057296658191483236) (by [@Sheldon056](https://x.com/Sheldon056))
+
+| Output |
+| :----: |
+| <a href="../images/portrait_case218/output.jpg" target="_blank" rel="noopener noreferrer"><img src="../images/portrait_case218/output.jpg" width="300" alt="GPT-Image-2 Prompt Example - Korean Beauty Fashion Portrait"></a> |
+
+**Промпт:**
+
+```
+Create a high-quality “chibi sticker diary portrait” based on the uploaded real-life photo. Preserve the subject’s original identity, realistic facial structure, hairstyle, hair color, glasses, outfit, pose, proportions, lighting, and background. Keep the main subject photorealistic and do not transform the entire image into a full illustration.
+```
+
+<!-- Case 219: Кинематографический футбольный портретный постер (by @de_mon010) -->
+### Case 219: [Кинематографический футбольный портретный постер](https://x.com/de_mon010/status/2057375542652064220) (by [@de_mon010](https://x.com/de_mon010))
+
+| Output |
+| :----: |
+| <a href="../images/portrait_case219/output.jpg" target="_blank" rel="noopener noreferrer"><img src="../images/portrait_case219/output.jpg" width="300" alt="GPT-Image-2 Prompt Example - Cinematic Football Portrait Poster"></a> |
+
+**Промпт:**
+
+```
+Ultra realistic cinematic football poster of a stylish young South Asian male footballer with voluminous messy black hair, sharp jawline, trimmed beard, glowing fair skin, wearing Portugal national team red jersey with number 7. Multi-layered dramatic sports collage composition with three different poses — smiling front portrait pointing at Portugal badge, intense side profile close-up, and back pose showing custom name “HASANUR 7” on jersey. Dynamic action shot at the bottom celebratingon football field with clenched fists and soccer ball. Dark stormy sky with lightning, glowing stadium lights, red smoke flares, flying embers, Portugal flag waving in background, intense red and blue cinematic color grading, ultra detailed facial features, realistic skin texture, high contrast sports photography style, epic FIFA World Cup poster aesthetic, shallow depth of field, hyper realistic, 8K, vertical wallpaper composition.
+```
+
+<!-- Case 220: Швейцарский акварельный туристический постер (by @Sairah_0) -->
+### Case 220: [Швейцарский акварельный туристический постер](https://x.com/Sairah_0/status/2057302629408276624) (by [@Sairah_0](https://x.com/Sairah_0))
+
+| Output |
+| :----: |
+| <a href="../images/portrait_case220/output.jpg" target="_blank" rel="noopener noreferrer"><img src="../images/portrait_case220/output.jpg" width="300" alt="GPT-Image-2 Prompt Example - Switzerland Watercolor Travel Poster"></a> |
+
+**Промпт:**
+
+```
+(Switzerland Poster)
+```
+
+<!-- Case 221: Кинематографический портрет на открытом воздухе (by @aiwithaly) -->
+### Case 221: [Кинематографический портрет на открытом воздухе](https://x.com/aiwithaly/status/2057417304628248645) (by [@aiwithaly](https://x.com/aiwithaly))
+
+| Output |
+| :----: |
+| <a href="../images/portrait_case221/output.jpg" target="_blank" rel="noopener noreferrer"><img src="../images/portrait_case221/output.jpg" width="300" alt="GPT-Image-2 Prompt Example - Cinematic Lifestyle Outdoor Portrait"></a> |
+
+**Промпт:**
+
+```
+Cinematic lifestyle portrait of a cheerful young woman sitting on a rustic wooden bench in a lush botanical courtyard, holding an iced coffee in a clear plastic cup with straw, smiling naturally at camera, short wavy dark brown hair, soft natural makeup, oversized pastel pink graphic t-shirt with vintage sun illustration, white shorts, white chunky sneakers with orange soles, one leg extended toward camera creating dramatic perspective, relaxed summer aesthetic, golden hour sunlight filtering through tropical leaves, luxury university campus or historic garden background with stone architecture and large windows, shallow depth of field, warm tones, candid street photography style, ultra realistic skin texture, cozy youthful vibe, DSLR quality, high detail, photorealistic, dynamic low-angle composition, soft shadows, fashion editorial look, 8k.
+```
+
+<!-- Case 222: Роскошный велосипедный сториборд-постер (by @Strength04_X) -->
+### Case 222: [Роскошный велосипедный сториборд-постер](https://x.com/Strength04_X/status/2057348086247358551) (by [@Strength04_X](https://x.com/Strength04_X))
+
+| Output |
+| :----: |
+| <a href="../images/portrait_case222/output.jpg" target="_blank" rel="noopener noreferrer"><img src="../images/portrait_case222/output.jpg" width="300" alt="GPT-Image-2 Prompt Example - Luxury Cycling Storyboard Poster"></a> |
+
+**Промпт:**
+
+```
+- Step 1: Generate storyboard with GPT Image 2
+```
+
+<!-- Case 223: Y2K японский уличный коллажный постер (by @Kashberg_0) -->
+### Case 223: [Y2K японский уличный коллажный постер](https://x.com/Kashberg_0/status/2057288879150182779) (by [@Kashberg_0](https://x.com/Kashberg_0))
+
+| Output |
+| :----: |
+| <a href="../images/portrait_case223/output.jpg" target="_blank" rel="noopener noreferrer"><img src="../images/portrait_case223/output.jpg" width="300" alt="GPT-Image-2 Prompt Example - Y2K Japanese Street Collage Poster"></a> |
+
+**Промпт:**
+
+```
+Create a bold Y2K Japanese street-editorial collage poster with a clean high-fashion magazine aesthetic, gritty paper textures, torn magazine cutouts, distressed ink splashes, and urban Tokyo-inspired design.
+```
+
+<!-- Case 224: Фантазийный портрет в космическом саду (by @DoctorAmna11) -->
+### Case 224: [Фантазийный портрет в космическом саду](https://x.com/DoctorAmna11/status/2057463557349117968) (by [@DoctorAmna11](https://x.com/DoctorAmna11))
+
+| Output |
+| :----: |
+| <a href="../images/portrait_case224/output.jpg" target="_blank" rel="noopener noreferrer"><img src="../images/portrait_case224/output.jpg" width="300" alt="GPT-Image-2 Prompt Example - Cosmic Garden Fantasy Portrait"></a> |
+
+**Промпт:**
+
+```
+Ultra-realistic cinematic fantasy-science portrait of a beautiful young female scientist inside a futuristic bio-cosmic laboratory garden at night, inspired by dreamy sci-fi storytelling. She is leaning over a glowing holographic solar system projection floating above a sleek glass table, gently touching a luminous orbit line with curiosity and wonder. Her facial features are soft, elegant, and expressive with natural makeup, thick defined eyebrows, warm smile, glowing skin, and loosely tied dark brown hair with cinematic flyaway strands.
+```
+
+<!-- Case 225: Портрет на обложке журнала стритвир (by @harboriis) -->
+### Case 225: [Портрет на обложке журнала стритвир](https://x.com/harboriis/status/2057402894014689418) (by [@harboriis](https://x.com/harboriis))
+
+| Output |
+| :----: |
+| <a href="../images/portrait_case225/output.jpg" target="_blank" rel="noopener noreferrer"><img src="../images/portrait_case225/output.jpg" width="300" alt="GPT-Image-2 Prompt Example - Streetwear Magazine Cover Portrait"></a> |
+
+**Промпт:**
+
+```
+vertical streetwear magazine cover template, in a warm chocolate brown color palette. The layout includes one large, high-fashion main portrait at the top and two smaller, candid polaroid-style photos layered at the bottom with torn-paper edges. The entire composition is covered in a distressed, vintage overlay with textured paper scratches. It features bold vertical Japanese typography on the left, a barcode in the top right corner, and various graphic design elements like stamps,technical text
+snippets, and grunge borders, creating a cohesive Japanese street-culture aesthetic.
+```
+
+<!-- Case 226: Модный портрет в очках кошачий глаз (by @ChillaiKalan__) -->
+### Case 226: [Модный портрет в очках кошачий глаз](https://x.com/ChillaiKalan__/status/2057542507928736240) (by [@ChillaiKalan__](https://x.com/ChillaiKalan__))
+
+| Output |
+| :----: |
+| <a href="../images/portrait_case226/output.jpg" target="_blank" rel="noopener noreferrer"><img src="../images/portrait_case226/output.jpg" width="300" alt="GPT-Image-2 Prompt Example - Cat-Eye Glasses Fashion Portrait"></a> |
+
+**Промпт:**
+
+```
+A young woman with long, dark hair and striking cat-eye glasses is captured in a studio portrait against a solid blue background. She is turned away from the camera, looking over her shoulder with a confident gaze. Her makeup is subtle, with a focus on rosy cheeks and a warm-toned lipstick. She wears a dark, high-necked top that accentuates the curve of her neck and shoulder. The lighting is dramatic, with a strong light source from the left, casting a bright highlight on her face and shoulder, while the right side of her body and hair fall into shadow. The overall mood is sophisticated and alluring.
+```
+
+<!-- Case 227: Смелый монохромный портрет идентичности (by @harboriis) -->
+### Case 227: [Смелый монохромный портрет идентичности](https://x.com/harboriis/status/2057475687276253495) (by [@harboriis](https://x.com/harboriis))
+
+| Output |
+| :----: |
+| <a href="../images/portrait_case227/output.jpg" target="_blank" rel="noopener noreferrer"><img src="../images/portrait_case227/output.jpg" width="300" alt="GPT-Image-2 Prompt Example - Bold Monochrome Identity Portrait"></a> |
+
+**Промпт:**
+
+```
+Use my uploaded image as the face reference.
+```
+
+<!-- Case 228: Чистый технологический рекламный постер (by @Strength04_X) -->
+### Case 228: [Чистый технологический рекламный постер](https://x.com/Strength04_X/status/2057389379971334309) (by [@Strength04_X](https://x.com/Strength04_X))
+
+| Output |
+| :----: |
+| <a href="../images/portrait_case228/output.jpg" target="_blank" rel="noopener noreferrer"><img src="../images/portrait_case228/output.jpg" width="300" alt="GPT-Image-2 Prompt Example - Clean Tech Advertisement Poster"></a> |
+
+**Промпт:**
+
+```
+- A clean tech advertisement poster. A stylish young woman in a white minimalist outfit tilts her head with eyes closed enjoying music beside a giant white wireless earbud case 2.5x her height open and glowing softly, "AURA" engraved on the case lid in silver. Pure clean white background with subtle soft shadows and faint sound wave lines. Ultra minimal thin sans-serif typography "AURA" in light grey filling the background.
+```
+
+<!-- Case 229: Плоская векторная редакционная иллюстрация узора (by @Goodmanprotocol) -->
+### Case 229: [Плоская векторная редакционная иллюстрация узора](https://x.com/Goodmanprotocol/status/2057347670130511912) (by [@Goodmanprotocol](https://x.com/Goodmanprotocol))
+
+| Output |
+| :----: |
+| <a href="../images/portrait_case229/output.jpg" target="_blank" rel="noopener noreferrer"><img src="../images/portrait_case229/output.jpg" width="300" alt="GPT-Image-2 Prompt Example - Flat Vector Editorial Pattern Illustration"></a> |
+
+**Промпт:**
+
+```
+Create a sophisticated flat-vector editorial pattern illustration of [Chicago bulls], composed as a seamless lifestyle-art collage combining iconic landmarks, local culture, vacation scenes, and symbolic city objects.
+```
+
+<!-- Case 230: Корейский портрет красоты идентичности (by @linaa_ai) -->
+### Case 230: [Корейский портрет красоты идентичности](https://x.com/linaa_ai/status/2057400518604206372) (by [@linaa_ai](https://x.com/linaa_ai))
+
+| Output |
+| :----: |
+| <a href="../images/portrait_case230/output.jpg" target="_blank" rel="noopener noreferrer"><img src="../images/portrait_case230/output.jpg" width="300" alt="GPT-Image-2 Prompt Example - Korean Beauty Identity Portrait"></a> |
+
+**Промпт:**
+
+```
+Using the provided reference image, create an ultra-realistic Korean street-fashion editorial portrait of a stylish young woman posing outdoors beside a bold orange wall under bright natural sunlight. She is wearing an oversized pastel mint green blazer with structured tailoring, matching high-waisted wide-leg trousers, and a fitted dark brown cropped tube top. Add luxury silver accessories including statement earrings, layered necklaces, rings, and a decorative chain detail attached to the blazer. She has long sleek straight dark brown hair, flawless porcelain skin, soft glam makeup with nude matte lips, sharp brows, and a confident elegant expression. Relaxed fashion pose with one hand against the wall, modern chic attitude. Background features clear blue sky, soft urban scenery, cinematic sunlight shadows, and vibrant color contrast between the orange wall and mint outfit. High-fashion editorial photography, Vogue Korea inspired, luxury street style aesthetic, ultra-detailed fabric textures, realistic skin detail, sharp focus, soft depth of field, premium color grading, photorealistic, 85mm lens, 8k. Negative Prompt: low quality, blurry, bad anatomy, distorted face, extra fingers, bad hands, oversaturated colors, messy hair, duplicate accessories, cartoon, anime, watermark, logo, text, noisy image, low resolution, unrealistic skin, poorly drawn features. 1744x2336
+```
+
+<!-- Case 231: Голливудский роскошный аниме-модный портрет (by @Mind_Boticni) -->
+### Case 231: [Голливудский роскошный аниме-модный портрет](https://x.com/Mind_Boticni/status/2057519900676280623) (by [@Mind_Boticni](https://x.com/Mind_Boticni))
+
+| Output |
+| :----: |
+| <a href="../images/portrait_case231/output.jpg" target="_blank" rel="noopener noreferrer"><img src="../images/portrait_case231/output.jpg" width="300" alt="GPT-Image-2 Prompt Example - Hollywood Luxury Anime Fashion Portrait"></a> |
+
+**Промпт:**
+
+```
+Create a premium 1:1 Hollywood-style luxury anime fashion editorial collage featuring the same stylish Japanese college male anime character with perfectly consistent facial identity across all frames. The character should have sharp anime facial design (clean jawline, expressive eyes, refined proportions) with ultra-detailed semi-realistic anime shading.Include multiple cinematic moments: close-up beauty anime portrait with soft glowing skin, walking through neon Tokyo streets in designer streetwear, sitting in modern university classroom with confident calm expression, rooftop golden hour silhouette with wind effects, and stylish mirror selfie in luxury dorm room.Use cinematic anime lighting, soft bloom, depth of field, film grain, and luxury editorial composition.Add layered magazine collage style with torn paper textures, glossy reflections
+```
+
+<!-- Case 232: Портрет красоты с референсом идентичности (by @heyfatema) -->
+### Case 232: [Портрет красоты с референсом идентичности](https://x.com/heyfatema/status/2057345382800306192) (by [@heyfatema](https://x.com/heyfatema))
+
+| Output |
+| :----: |
+| <a href="../images/portrait_case232/output.jpg" target="_blank" rel="noopener noreferrer"><img src="../images/portrait_case232/output.jpg" width="300" alt="GPT-Image-2 Prompt Example - Identity Reference Beauty Portrait"></a> |
+
+**Промпт:**
+
+```
+Use only my uploaded portrait photo as the identity reference. Accurately preserve my real face shape, facial proportions, facial contours, skin tone, hairstyle outline, hair volume, hairline, and overall natural presence. Do not turn me into another person. Do not over-beautify the face. Do not create an influencer-style face, plastic skin, or anime look.
+```
+
+<!-- Case 233: Пиксельный портрет персонажа (by @oggii_0) -->
+### Case 233: [Пиксельный портрет персонажа](https://x.com/oggii_0/status/2057504810598089187) (by [@oggii_0](https://x.com/oggii_0))
+
+| Output |
+| :----: |
+| <a href="../images/portrait_case233/output.jpg" target="_blank" rel="noopener noreferrer"><img src="../images/portrait_case233/output.jpg" width="300" alt="GPT-Image-2 Prompt Example - Pixel Art Character Portrait"></a> |
+
+**Промпт:**
+
+```
+Create a cute and stylish pixel-art illustration based on the uploaded image in the style of:
+```
+
+<!-- Case 234: Шаблон портрета с негативным промптом (by @ZephyraLeigh) -->
+### Case 234: [Шаблон портрета с негативным промптом](https://x.com/ZephyraLeigh/status/2057633608459059272) (by [@ZephyraLeigh](https://x.com/ZephyraLeigh))
+
+| Output |
+| :----: |
+| <a href="../images/portrait_case234/output.jpg" target="_blank" rel="noopener noreferrer"><img src="../images/portrait_case234/output.jpg" width="300" alt="GPT-Image-2 Prompt Example - Negative Prompt Portrait Template"></a> |
+
+**Промпт:**
+
+```
+low quality, blurry, distorted face, extra fingers, bad hands, duplicate facial features, unrealistic reflection, cartoon, anime, watermark, logo, text, noisy image, oversaturated colors, poorly drawn eyes, bad anatomy, broken proportions, low resolution.
+```
+
+<!-- Case 235: Модный портрет с референсом идентичности (by @mehvishs25) -->
+### Case 235: [Модный портрет с референсом идентичности](https://x.com/mehvishs25/status/2057635435330064495) (by [@mehvishs25](https://x.com/mehvishs25))
+
+| Output |
+| :----: |
+| <a href="../images/portrait_case235/output.jpg" target="_blank" rel="noopener noreferrer"><img src="../images/portrait_case235/output.jpg" width="300" alt="GPT-Image-2 Prompt Example - Identity Reference Fashion Portrait"></a> |
+
+**Промпт:**
+
+```
+Use the uploaded reference image as the exact facial identity reference for the girl. Preserve her real facial structure, eye shape, nose, lips, jawline, skin tone, hairstyle essence, and overall appearance consistency throughout the entire poster. Maintain accurate identity realism with natural skin texture and authentic facial proportions.
+Create an avant-garde Tokyo street-fashion editorial collage poster with a sophisticated neo-Y2K Japanese magazine aesthetic. Inspired by underground Harajuku fashion zines, luxury streetwear campaigns, and raw urban print design. Composition built from layered torn-paper textures, distressed xerox scans, folded magazine scraps, scratched film overlays, faded ink marks, and gritty editorial collage elements.
+Main composition: one large cinematic close-up portrait of the same girl from the reference image dominating the upper section of the poster. Strong eye contact with sharp realistic eye detail, naturally glossy lips, subtle skin imperfections, softly tied messy hair with loose strands framing the face, no glasses, no exaggerated makeup, calm but magnetic expression. Lighting should feel like premium DSLR flash photography mixed with cinematic shadow gradients, creating a modern luxury fashion-campaign atmosphere.
+Lower composition: exactly two smaller collage portraits of the same girl placed asymmetrically near the bottom, styled like ripped instant-film photographs taped onto the layout. Each frame should show different facial expressions, angles, and poses while maintaining perfect facial identity consistency with the reference image.
+Design elements: oversized experimental Japanese typography, small minimal English captions, subtle Tokyo subway signage fragments, barcode labels, newspaper clipping textures, masking tape pieces, distressed brush strokes, folded paper shadows, vintage print imperfections, halftone grain, layered editorial cutouts, and premium fashion-magazine spacing.
+Color palette and mood: muted neutral tones with charcoal black, faded white, soft silver, washed beige, and subtle cool-gray highlights. Clean but rebellious high-fashion energy, cinematic contrast, raw streetwear editorial moodboard aesthetic, ultra-realistic RAW DSLR photography feel, luxury Japanese graphic design style, sharp focus, highly detailed textures, authentic print wear, ultra detailed, 8K quality.
+Avoid: pastel colors, kawaii styling, cartoon elements, bubbles, exaggerated neon effects, anime aesthetics, overly colorful backgrounds, unrealistic beauty filters, duplicated faces, distorted anatomy, or fake AI-looking skin.
+```
+
+<!-- Case 236: Лист дизайна 3D-персонажа Pixar (by @TechieBySA) -->
+### Case 236: [Лист дизайна 3D-персонажа Pixar](https://x.com/TechieBySA/status/2057511465884557754) (by [@TechieBySA](https://x.com/TechieBySA))
+
+| Output |
+| :----: |
+| <a href="../images/portrait_case236/output.jpg" target="_blank" rel="noopener noreferrer"><img src="../images/portrait_case236/output.jpg" width="300" alt="GPT-Image-2 Prompt Example - Pixar 3D Character Design Sheet"></a> |
+
+**Промпт:**
+
+```
+“Create a Pixar 3D style character design sheet. Clean white background. Two characters side by side with a clean dividing line. Bold brushstroke-style title at the top: STEVE VS THE PLANK. Subtitle beneath: 60 seconds. Feels like a week.
+```
+
+<!-- Case 237: Постер деконструкции автомобильного дизайна (by @Gdgtify) -->
+### Case 237: [Постер деконструкции автомобильного дизайна](https://x.com/Gdgtify/status/2057541939587878914) (by [@Gdgtify](https://x.com/Gdgtify))
+
+| Output |
+| :----: |
+| <a href="../images/portrait_case237/output.jpg" target="_blank" rel="noopener noreferrer"><img src="../images/portrait_case237/output.jpg" width="300" alt="GPT-Image-2 Prompt Example - Automotive Design Deconstruction Poster"></a> |
+
+**Промпт:**
+
+```
+You are an AI automotive designer that deconstructs any object's aerodynamic philosophy, material science, and functional poetry to birth a drivable sculpture. SEMANTIC INFERENCE FRAMEWORK Kinetic DNA Analysis:  Motion Signature: Is it about cutting through or flowing with? Power Source Metaphor: Does it suggest electric silence or combustion rage? Stance Philosophy: Does it crouch predatory or float serene?  Transmutation Logic: When the object embodies:  Sharp edges, aggressive angles, predatory stance, weapon-like intent → Manifest as: Track-Focused Hypercar (exposed carbon, active aero, GT3 energy)  When the object embodies:  Smooth curves, organic flow, biomimicry, effortless grace → Manifest as: Electric Grand Tourer (seamless body, hidden intakes, silent luxury)  When the object embodies:  Brutalist geometry, industrial strength, utilitarian honesty → Manifest as: Safari Rally Weapon (lifted suspension, protective armor, adventure-ready)  OUTPUT: Full car render (3/4 front view), interior detail shot, spec sheet (0-60, top speed, powertrain), brand collaboration ("Pagani x Cactus Edition").
+```
+
+<!-- Case 238: Японский граффити-портретный постер (by @robertsmith_ai) -->
+### Case 238: [Японский граффити-портретный постер](https://x.com/robertsmith_ai/status/2057627319263707543) (by [@robertsmith_ai](https://x.com/robertsmith_ai))
+
+| Output |
+| :----: |
+| <a href="../images/portrait_case238/output.jpg" target="_blank" rel="noopener noreferrer"><img src="../images/portrait_case238/output.jpg" width="300" alt="GPT-Image-2 Prompt Example - Japanese Graffiti Portrait Poster"></a> |
+
+**Промпт:**
+
+```
+Create a high-detail portrait poster in a bold Japanese graffiti-inspired art style, combining modern urban street aesthetics with expressive Japanese visual culture. The poster should feature dynamic graffiti typography, layered spray-paint textures, hand-drawn symbols, abstract paint splashes, neon brush strokes, urban sticker elements, Japanese calligraphy accents, and decorative ornaments that strongly reinforce the energetic atmosphere of the design. The overall composition should feel artistic, rebellious, fashionable, and visually striking, while still maintaining a premium editorial poster quality instead of looking messy or overdone. Humanity somehow turned vandalism into luxury wall art. Impressive species. The subject must not replicate the exact pose or expression from the reference photo. Instead, create a completely new pose that feels natural, confident, and full of life. The expression should appear emotionally expressive, charismatic, and engaging, avoiding stiff, awkward, flat, or emotionless body language. The pose should reflect the elegance and sophistication commonly seen in international fashion models, with stylish posture, natural movement, and subtle attitude that enhances the overall cinematic fashion aesthetic. The outfit should feature contemporary stylish casual fashion with strong visual appeal. Avoid plain or repetitive clothing designs. Use fashionable layering, modern streetwear inspiration, premium casual styling, and a balanced combination of colors, patterns, textures, and fabric types that create a rich and non-monotonous appearance. The clothing should feel trendy, fashionable, youthful, and visually premium while still fitting naturally into the Japanese graffiti poster concept. The background and poster decorations should be filled with thematic urban Japanese-inspired visual elements such as graffiti walls, spray textures, painted symbols, urban signage, layered stickers, modern Japanese graphic motifs, abstract shapes, paint drips, street fashion aesthetics, and stylish decorative compositions that enhance depth and artistic intensity without distracting from the subject. Lighting should feel cinematic and fashionable, with strong contrast, clean highlights, realistic skin texture, and high-end editorial poster quality. The final result must look like a premium modern street-fashion campaign poster with highly detailed textures, balanced composition, vibrant color harmony, realistic proportions, ultra-sharp focus, and immersive visual storytelling. Ultra-detailed, highly aesthetic, premium composition, realistic texture rendering, fashionable urban atmosphere, cinematic quality, poster-ready design, 8K ultra high resolution.
+```
+
+<!-- Case 239: Портрет идентичности бренда (by @Shinning1010) -->
+### Case 239: [Портрет идентичности бренда](https://x.com/Shinning1010/status/2057332420383494441) (by [@Shinning1010](https://x.com/Shinning1010))
+
+| Output |
+| :----: |
+| <a href="../images/portrait_case239/output.jpg" target="_blank" rel="noopener noreferrer"><img src="../images/portrait_case239/output.jpg" width="300" alt="GPT-Image-2 Prompt Example - Brand Identity Portrait"></a> |
+
+**Промпт:**
+
+```
+Use my uploaded portrait photo as the only identity reference. Preserve only the person’s real facial features, face shape, hairstyle, hair color, skin tone, and overall temperament. Generate an ultra-realistic close-up portrait in natural light. The subject is shown in side profile, gently lowering her head toward a blooming white lily. The flower is placed in the foreground and covered with visible dewdrops. Warm golden backlight comes from the side and behind, creating a soft glowing rim light on the hair, with slight lens flare and a shallow depth of field. The background is a dark green natural blur. The expression is calm, soft, and natural, with the subject not looking at the camera. Keep realistic skin texture, clear eyelashes, and detailed hair strands. The overall mood is romantic, clean, dreamy, and cinematic, like a summer morning photo. Vertical 9:16, high-quality realistic photography, no text, no watermark
+```
+
+<!-- Case 240: Портрет на открытом воздухе под открытым небом (by @Shorelyn_) -->
+### Case 240: [Портрет на открытом воздухе под открытым небом](https://x.com/Shorelyn_/status/2057304323047240086) (by [@Shorelyn_](https://x.com/Shorelyn_))
+
+| Output |
+| :----: |
+| <a href="../images/portrait_case240/output.jpg" target="_blank" rel="noopener noreferrer"><img src="../images/portrait_case240/output.jpg" width="300" alt="GPT-Image-2 Prompt Example - Outdoor Lifestyle Open Sky Portrait"></a> |
+
+**Промпт:**
+
+```
+Vibe: outdoor lifestyle · introspective · open sky
+```
+
+
+<!-- Case 241: 高级男性魅力人像 (by @liyue_ai) -->
+### Case 241: [高级男性魅力人像](https://x.com/liyue_ai/status/2057382771035898059) (by [@liyue_ai](https://x.com/liyue_ai))
+
+| Output |
+| :----: |
+| <a href="../images/portrait_case241/output.jpg" target="_blank" rel="noopener noreferrer"><img src="../images/portrait_case241/output.jpg" width="300" alt="GPT-Image-2 Prompt Example - 高级男性魅力人像"></a> |
+
+**Промпт:**
+
+```
+生成一张具有强烈男性魅力和高级视觉冲击力的人像作品，画幅比例为 {画幅比例}。
+
+这不是普通证件照，不是廉价写真，不是网红自拍，也不是夸张霸总风照片，而是一张兼具高级商业人像、电影人物海报、个人品牌视觉和社交平台传播感的男性魅力形象图。
+
+如果用户上传了自拍头像：请以用户上传的自拍头像为核心参考，保留人物的真实身份识别度，包括脸型轮廓、五官比例、眉眼气质、发型基础、年龄感、肤色倾向和面部特征。在保持本人可识别的基础上，对人物进行高级视觉转译：优化面部光影结构；强化眉骨、鼻梁、下颌线和面部轮廓；提升眼神的稳定感和故事感；让发型更干净利落；让皮肤质感更自然清爽；让整体气质更成熟、更自信、更有身份感。
+
+如果用户没有上传自拍头像：默认生成一位成年中国男性，五官端正自然，气质大方得体，干净成熟，身材匀称，肩颈舒展，发型清爽，表情冷静自信，整体符合中国大众审美中的高级男性魅力。
+```
+
+<!-- Case 242: 沙滩场景丰腴人物写真 (by @Adam38363368936) -->
+### Case 242: [沙滩场景丰腴人物写真](https://x.com/Adam38363368936/status/2057402803954631086) (by [@Adam38363368936](https://x.com/Adam38363368936))
+
+| Output |
+| :----: |
+| <a href="../images/portrait_case242/output.jpg" target="_blank" rel="noopener noreferrer"><img src="../images/portrait_case242/output.jpg" width="300" alt="GPT-Image-2 Prompt Example - 沙滩场景丰腴人物写真"></a> |
+
+**Промпт:**
+
+```
+写实风格，超高精细。20岁出头的成年女性，黑色自然长发，透明感的肌肤，可爱而华丽的面容，带着自然且略带羞涩的微笑。背景是南国度假地的黄昏海滩，白沙、平静的海面、淡粉色与橙色的天空，远景是椰子树。女性穿着米白色的优雅简约比基尼，肩上轻轻披着一件白色薄纱衬衫。她站在沙滩上，双手轻轻交叠在身前，对着镜头露出灿烂的笑容。充满幸福感和余韵的氛围。人物位于画面中央，占据较大比例，并留出少许黄昏天空的空白。不添加任何文字或标志。注重清纯、透明感、华丽和特别感。这是一张高完成度、充满余韵的照片。
+```
+
+<!-- Case 243: Фотореалистичный редакционный сидячий портрет (by @zulkarnaimx) -->
+### Case 243: [Фотореалистичный редакционный сидячий портрет](https://x.com/zulkarnaimx/status/2057406867585057106) (by [@zulkarnaimx](https://x.com/zulkarnaimx))
+
+| Output |
+| :----: |
+| <a href="../images/portrait_case243/output.jpg" target="_blank" rel="noopener noreferrer"><img src="../images/portrait_case243/output.jpg" width="300" alt="GPT-Image-2 Prompt Example - Photorealistic Editorial Seated Portrait"></a> |
+
+**Промпт:**
+
+```
+Photorealistic editorial portrait of a relaxed young man seated on minimalist white stone stairs in soft directional sunlight, three-quarter full-body composition, centered framing with leading lines of the steps. He wears a light blue linen button-up shirt with open collar and rolled sleeves, beige slim chinos, and white leather sneakers with pale blue accents; black classic sunglasses, short neatly styled dark hair, warm medium skin tone, confident casual expression. Crisp natural leaf shadows cast on a pale wall in the background, high-key neutral palette, soft warm color grading, subtle film-like grain. Shallow depth of field, sharp subject, soft bokeh in background, balanced contrast, detailed fabric texture and skin tones, realistic reflections on sunglasses. Cinematic lifestyle fashion photography, high resolution, f/2.8, ISO 100, natural sunlight golden-hour feel, slight vignette, clean modern aesthetic.
+```
+
+<!-- Case 244: Мягкая эстетичная обложка модного журнала (by @SimplyAnnisa) -->
+### Case 244: [Мягкая эстетичная обложка модного журнала](https://x.com/SimplyAnnisa/status/2057408066300080297) (by [@SimplyAnnisa](https://x.com/SimplyAnnisa))
+
+| Output |
+| :----: |
+| <a href="../images/portrait_case244/output.jpg" target="_blank" rel="noopener noreferrer"><img src="../images/portrait_case244/output.jpg" width="300" alt="GPT-Image-2 Prompt Example - Soft Aesthetic Fashion Magazine Cover"></a> |
+
+**Промпт:**
+
+```
+Ultra-realistic soft aesthetic fashion magazine cover portrait of a young East Asian girl with short messy black bob hair wearing a beige wide-brim hat, white blouse, oversized dark cardigan, and deep red ribbon bow tie. Minimal luxury Korean editorial vibe, warm beige monochrome palette, cinematic natural window light, soft shadows, dreamy atmosphere, shallow depth of field, photoreal skin texture, delicate facial features, calm expression, centered composition. Luxury typography layout design with huge serif title "ELEGANCE" at the top, handwritten script text "Timeless", elegant fashion magazine graphics, tiny editorial texts, minimalist premium branding, clean spacing, aesthetic magazine cover composition, Vogue-inspired layout, subtle film grain, cozy autumn mood.
+```
+
+<!-- Case 245: Миниатюрная карта мира Пакистана постер (by @AIwithAliya) -->
+### Case 245: [Миниатюрная карта мира Пакистана постер](https://x.com/AIwithAliya/status/2057538178672943460) (by [@AIwithAliya](https://x.com/AIwithAliya))
+
+| Output |
+| :----: |
+| <a href="../images/portrait_case245/output.jpg" target="_blank" rel="noopener noreferrer"><img src="../images/portrait_case245/output.jpg" width="300" alt="GPT-Image-2 Prompt Example - Pakistan Miniature World Map Poster"></a> |
+
+**Промпт:**
+
+```
+Create an ultra-detailed hyper-realistic 9:16 cinematic miniature world map of Pakistan, designed as a premium luxury travel-poster masterpiece where the entire country appears as a massive handcrafted floating island civilization suspended in soft atmospheric clouds. The terrain must showcase dramatic elevation and geographic diversity, including the towering snow-covered peaks of the Karakoram and Himalayas (featuring K2), lush green valleys of Hunza and Swat, dense forests, glowing rivers like the Indus, crystal-blue coastlines along the Arabian Sea, cascading waterfalls, expansive deserts like Thar and Cholistan, fertile farmland of Punjab, and serene lakes. Include futuristic cities blended with historical richness: Karachi as a sprawling coastal megacity with glowing harbor lights.
+```
+
+<!-- Case 246: Портрет в аэропорту в эстетике японского кино (by @BubbleBrain) -->
+### Case 246: [Портрет в аэропорту в эстетике японского кино](https://x.com/BubbleBrain/status/2057447124162560213) (by [@BubbleBrain](https://x.com/BubbleBrain))
+
+| Output |
+| :----: |
+| <a href="../images/portrait_case246/output.jpg" target="_blank" rel="noopener noreferrer"><img src="../images/portrait_case246/output.jpg" width="300" alt="GPT-Image-2 Prompt Example - Japanese Film Aesthetic Airport Portrait"></a> |
+
+**Промпт:**
+
+```
+Use case: photorealistic-natural. Asset type: editorial portrait variant, target composition 1600x1088 landscape.
+
+Primary request: Japanese negative film aesthetic, summer, soft natural sunlight, slightly overexposed highlights, low contrast, muted faded colors, subtle grain, nostalgic memory-like realism. Adult Korean female idol in her mid-20s, beautiful and calm, subtle sensual presence through natural gesture only, relaxed body line and effortless charm. Tasteful editorial portrait, no nudity, no explicit pose, no watermark, no readable text, no extra people.
+
+Scene/backdrop: Incheon airport observation deck near a glass wall, pale runway haze outside, empty metal benches, morning light, minimal architecture.
+
+Wardrobe: oversized crisp white shirt loosely open at collar, light wash denim shorts, white sneakers.
+```
+
+### Case 247: Monochrome Editorial Comp Card
+
+**Source**: [@MissDelulu9](https://x.com/MissDelulu9/status/2058484459008393346)
+
+**Prompt**:
+```
+Ultra-realistic monochrome 3x3 editorial comp card using the reference image as the identity source. Preserve the exact same facial features, face shape, eye shape, nose, lips, skin texture, hairstyle, proportions, and natural beauty. No beautification, no face alteration, no AI-looking skin, no reshaping. Same woman in all 9 frames with consistent identity and styling.
+
+Minimal luxury studio aesthetic, soft diffused lighting, clean light gray background, high-fashion Korean beauty editorial vibe, ultra detailed realistic skin texture, natural makeup, glossy lips, deep black silky long hair, black sleeveless halter top, delicate silver necklace.
+
+3x3 grid layout with evenly spaced portrait frames. Each frame shows a different expression and hand pose:
+1-looking sideways while lightly biting finger
+2-side glance with hand touching temple
+3-confident direct gaze with relaxed lips
+4-playful expression holding lollipop near lips
+5-soft gentle smile looking at camera
+6-wink smile with both hands in hair
+7-pout lips with both hands framing face
+8-thoughtful side glance with finger near lips
+9-warm elegant smile with slight head tilt
+
+Photorealistic DSLR quality, Vogue beauty shoot style, soft shadows, balanced composition, monochrome black-and-white tone with subtle warm grayscale contrast, extremely sharp eyes, realistic hair strands, premium editorial photography, symmetrical comp card design, clean borders, cinematic beauty lighting, 8k ultra detailed.
+```
+
+**Output**:
+
+<img src="../images/portrait_case247/output.jpg" width="500">
+
+---
+
+### Case 248: Watercolor City Slice-of-Life
+
+**Source**: [@Taaruk_](https://x.com/Taaruk_/status/2058550413239235018)
+
+**Prompt**:
+```
+Soft watercolor anime illustration of a cute girl exploring peaceful city landscapes with her small puppy and cat companion, cozy slice-of-life aesthetic, pastel watercolor palette, gentle hand-painted textures, dreamy sketchbook art style, warm sunlight and soft clouds, charming urban riverside picnic scene, quiet Japanese-style street with glowing café lights and murals, cherry blossom lake view with modern skyline, peaceful stone canal walkway with greenery and bridges, adorable anime-inspired girl with fluffy sweater, denim overalls or skirt, small backpack, rosy cheeks and soft wavy hair, whimsical Ghibli-inspired atmosphere, calming everyday life moments, cozy travel diary vibe, highly detailed watercolor brush strokes, delicate ink outlines, nostalgic and heartwarming mood, soft cinematic composition, storybook illustration style, minimal pastel tones, peaceful nature and city harmony, ultra aesthetic anime background art, handmade watercolor paper texture, wholesome companionship theme, 8k
+```
+
+**Output**:
+
+<img src="../images/portrait_case248/output.jpg" width="500">
+
+---
+
+### Case 249: CGI Big-Head Caricature Portrait
+
+**Source**: [@AIwithSynthia](https://x.com/AIwithSynthia/status/2058584818913513717)
+
+**Prompt**:
+```
+Create a photorealistic CGI caricature of the person in the uploaded image, using the uploaded image as the sole and complete visual source for clothing, accessories, pose, colors, and overall appearance. Preserve the person’s exact identity, facial features, age cues, skin tone, hair, beard, and likeness, while transforming them into a realistic caricature with a slightly oversized head, compact body, and subtly shortened proportions. The result must look like a real human recreated as high-end photoreal CGI, not a toy, not Pixar, not vinyl, not cartoon. Use realistic skin shading with natural pores and wrinkles, authentic hair and beard detail, and true-to-life materials and shadows. Lighting should be clean daylight or studio daylight with crisp, realistic shadows on a clean off-white background. No reinterpretation, no redesign, no added styling beyond what exists in the uploaded image. Ultra-high definition, hyper-realistic CGI quality, grounded and believable, no text, no logos, no watermarks. Aspect ratio 4:5.
+```
+
+**Output**:
+
+<img src="../images/portrait_case249/output.jpg" width="500">
+
+---
+
+### Case 250: Hollywood Character Sheet
+
+**Source**: [@Mind_Boticni](https://x.com/Mind_Boticni/status/2058514230350053496)
+
+**Prompt**:
+```
+Create an ultra-premium cinematic character sheet for an Oscar-worthy Hollywood drama film. Use reference image.
+A stunning female protagonist with emotional eyes, realistic skin pores, luxurious satin evening dress, delicate diamond jewelry, graceful posture.
+Include front/side/back turnaround, emotional facial expressions, close-up portrait photography, flowing fabric motion studies, luxury makeup breakdown, handwritten production annotations, realistic height comparison chart.
+Mood: warm golden spotlight, timeless vintage Hollywood elegance, soft cinematic shadows, fashion editorial realism.
+```
+
+**Output**:
+
+<img src="../images/portrait_case250/output.jpg" width="500">
+
+---
+
+### Case 251: Papercut Diorama Style Transfer
+
+**Source**: [@Ciri_ai](https://x.com/Ciri_ai/status/2058596304851513605)
+
+**Prompt**:
+```
+Convert this image into a soft, handcrafted paper-cut layered illustration style, inspired by papercraft diorama aesthetics. Use smooth rounded shapes, simplified cute character proportions, and minimal facial details (dot eyes, blush cheeks) to create a warm, charming look. Apply stacked paper layers with visible depth, subtle shadows between layers, and clean cut edges that resemble laser-cut cardstock.
+```
+
+**Output**:
+
+<img src="../images/portrait_case251/output.jpg" width="500">
+
+---
+
+### Case 252: Futuristic Neon Fashion Editorial
+
+**Source**: [@ZephyraLeigh](https://x.com/ZephyraLeigh/status/2058489835040682296)
+
+**Prompt**:
+```
+Using the provided reference image, create an ultra-realistic futuristic fashion editorial portrait of a stylish young woman standing in vibrant neon lighting. She wears an oversized crisp white shirt with minimalist luxury styling, reflective pastel holographic sunglasses with pink-orange gradient lenses, silver geometric hoop earrings, and a delicate gold chain necklace.
+
+She has sleek shoulder-length dark brown hair, flawless glowing skin, soft glossy lips,
+```
+
+**Output**:
+
+<img src="../images/portrait_case252/output.jpg" width="500">
+
+---
+
+### Case 253: Night Blossom Candid Portrait
+
+**Source**: [@oggii_0](https://x.com/oggii_0/status/2058567432906903562)
+
+**Prompt**:
+```
+A highly realistic candid mobile photo of my original face without altering my real facial structure. A young Asian woman standing beneath blooming pink flower branches at night, with long messy black hair blown by the wind partially covering her face. Natural pale skin with visible real texture and pores, sleepy half-open eyes with faded brown makeup slightly smudged, glossy plump pink lips slightly parted while biting a small pink flower, softly flushed cheeks, dreamy melancholic empty expression. Wearing a loose white shirt with a slightly open collar, surrounded by dark green leaves and pink flowers close to the camera. Harsh direct smartphone flash lighting creating overexposed highlights and deep shadows, low-light nighttime atmosphere, imperfect spontaneous composition like a real candid shot, slight motion blur, natural soft focus, authentic iPhone camera grain, vintage 2010s Tumblr aesthetic, intimate close-up framing, cinematic yet natural look, flash reflection in the eyes, thin messy bangs, realistic handheld shot, no studio lighting, no excessive editing, raw mobile photography, extremely realistic.
+
+Aspect Ratio: 3:4
+```
+
+**Output**:
+
+<img src="../images/portrait_case253/output.jpg" width="500">
+
+---
+
+### Case 254: Collectible 3D Character Avatar
+
+**Source**: [@egeberkina](https://x.com/egeberkina/status/2058613271180009687)
+
+**Prompt**:
+```
+Transform the uploaded portrait into a highly stylized 3D cartoon avatar with a glossy smooth vinyl/plastic texture, minimalist facial design, oversized head proportions, clean geometric hair shapes, thick sculpted eyebrows, simplified facial features, soft airbrushed skin shading, subtle specular highlights, tiny realistic imperfections, designer toy aesthetic, fashion editorial character design, centered composition, isolated cream/off-white background, ultra clean studio lighting, bold graphic look, slightly surreal proportions, premium collectible figurine style, modern mascot character energy, polished CGI render, Octane render, soft global illumination, shallow depth of field, symmetrical face framing, minimal but expressive eyes, smooth rounded forms, contemporary art toy aesthetic, high-end 3D illustration, minimal color palette, glossy black hair, subtle cinematic shadows, poster-like composition, luxury magazine cover feeling, ultra detailed yet simplified stylization
+```
+
+**Output**:
+
+<img src="../images/portrait_case254/output.jpg" width="500">
+
+---
+
+### Case 255: Toddler Crayon Drawing Style
+
+**Source**: [@frametheory058](https://x.com/frametheory058/status/2058543500086722604)
+
+**Prompt**:
+```
+Turn the uploaded image into a funny toddler-style crayon drawing, like it was made by a 3–4 year old kid who tried their best but had absolutely no idea what they were doing
+
+Keep the drawing messy, clumsy, uneven, and adorably inaccurate. The lines should look rough and scribbly, shapes should feel awkward, proportions can be completely wrong, and details should be super simplified. It should feel like a child quickly drew the scene from memory using random crayons.
+
+Avoid realistic anatomy, clean outlines, perfect symmetry, professional shading, or polished illustration styles. The charm should come from how silly, chaotic, and unintentionally funny the drawing looks.
+
+Style: messy wax crayon art, childish doodles, random proportions, uneven coloring, simple shapes, loose interpretation of the original image.
+```
+
+**Output**:
+
+<img src="../images/portrait_case255/output.jpg" width="500">
+
+---
+
+### Case 256: Disco Mirror Transformation
+
+**Source**: [@MrDasOnX](https://x.com/MrDasOnX/status/2058588737043677648)
+
+**Prompt**:
+```
+Transform the uploaded image into a glamorous disco-ball version of itself while preserving the original silhouette, composition, key recognizable features, and subtle tonal colors. Style it as if the subject is made from tiny mirrored square tiles, like a 1970s disco ball chrome, silver, reflective glass, beveled edges and subtle grout lines between tiles. Add bright white sparkle flares and small iridescent highlights across the mirrored surface. Use dramatic studio lighting on a pure black background, with high contrast, glossy reflections and a luxurious nightclub feel. Keep the object centered and iconic, with a polished 3D look.
+```
+
+**Output**:
+
+<img src="../images/portrait_case256/output.jpg" width="500">
+
+---
+
+### Case 257: Sage Field Editorial Portrait
+
+**Source**: [@heyfatema](https://x.com/heyfatema/status/2058594937307115532)
+
+**Prompt**:
+```
+Create a 3:4 cinematic, atmospheric editorial portrait using the attached photo as the exact face and identity reference. A solitary person stands alone in vast wind-swept sage green grass fields, surrounded by tall grass moving in strong wind, muted natural palette, soft overcast daylight, realistic skin texture, fashion-editorial framing, subtle melancholy, quiet luxury tone, and photorealistic detail.
+```
+
+**Output**:
+
+<img src="../images/portrait_case257/output.jpg" width="500">
+
+---
+### Case 258: Korean Fashion Collage Poster
+
+**Source**: [@saniaspeaks_](https://x.com/saniaspeaks_/status/2059447270115029120)
+
+**Prompt**:
+```
+Young Korean woman in ultra-realistic style in the uploaded image, elegant collage poster, fitted black t-shirt with minimalist logo, black denim shorts, black high-top Nike sneakers, long straight silky dark black hair with soft strands framing the face, glossy nude peach lips, Douyin-style makeup, winged eyeliner, soft pink blush, radiant skin, long eyelashes, dual composition with large portrait and full-length flowing hair, golden cinematic lighting, ink splash effects, luxurious white background, ultra-detailed, 8K, 3:4.
+```
+
+**Output**:
+
+<img src="../images/portrait_case258/output.jpg" width="500">
+
+---
+
+---
+### Case 259: Dreamy Japanese Summer Portrait
+
+**Source**: [@Taaruk_](https://x.com/Taaruk_/status/2060752935588630990)
+
+**Prompt**:
+```
+Ultra-cinematic Japanese street photography,
+dreamy summer afternoon in a quiet suburban neighborhood, beautiful young woman standing among vibrant wildflowers and orange cosmos flowers, towering cumulus clouds filling the sky, huge rainbow arching overhead, warm golden hour sunlight, nostalgic anime-inspired atmosphere, soft wind moving hair, candid pose looking into the distance, utility poles and power lines creating urban Japanese aesthetics, shallow depth of field, foreground flower bokeh, rich colors, Kodak Portra 400 film look, dreamy glow, volumetric lighting, natural skin tones, highly detailed face, environmental portrait, low-angle composition, storytelling photography, cozy summer mood, cinematic color grading, photorealistic, masterpiece, 85mm lens, f/1.8, HDR, ultra detailed, soft bloom, realistic shadows, vibrant yet natural tones, editorial fashion photography, Instagram-worthy aesthetic, 8k.
+```
+
+**Output**:
+
+<img src="../images/portrait_case259/output.jpg" width="500">
+
+---
+### Case 260: Grunge Fashion Editorial Collage
+
+**Source**: [@AvelyrahnAI](https://x.com/AvelyrahnAI/status/2060732082599743586)
+
+**Prompt**:
+```
+A high-fashion editorial portrait of a stylish woman with a long, thick French side-braid hair, wearing sleek black designer sunglasses, a premium oversized beige t-shirt tucked into tailored beige trousers. She is wearing a minimalist thick gold chain necklace and a luxury silver watch, posing elegantly with one hand gently touching the back of her neck and looking away with a confident smile.The background is a creative grunge black-and-white collage art featuring a Pegasus illustration, a vintage police car, a classic Chanel perfume bottle, newspaper textures, and vinyl records with white sticker cutout borders. Cinematic studio lighting, sharp focus, magazine cover aesthetic, 8K resolution.
+```
+
+**Output**:
+
+<img src="../images/portrait_case260/output.jpg" width="500">
+
+---
+### Case 261: Pop-Fashion Photobooth Strips
+
+**Source**: [@Mind_Boticni](https://x.com/Mind_Boticni/status/2060959441889948116)
+
+**Prompt**:
+```
+Photorealistic modern pop-fashion photobooth strip arrangement placed on a colorful gradient acrylic desk, top-down cinematic view. Three strips with SAME stylish young woman, consistent identity in all portraits.
+
+Left strip: powerful direct gaze, edgy fashion pose, slightly tilted head, confident attitude.
+Center strip: warm natural smile, candid moment, soft laughing expression, relaxed elegance.
+Right strip: artistic over-the-shoulder glance, calm eyes-closed pose, reflective dreamy look, gentle emotion.
+
+Vibrant contemporary aesthetic with neon pink, sky blue, and warm yellow highlights, ultra-clean studio lighting, glossy printed strips with crisp edges. Modern props like LED lights, fashion magazines, aesthetic accessories, and minimal luxury items. High-fashion digital editorial vibe, colorful, trendy, visually striking composition.
+```
+
+**Output**:
+
+<img src="../images/portrait_case261/output.jpg" width="500">
+
+
+---
+
+---
+### Case 262: Boho Stone-Wall Portrait
+
+**Source**: [@iamaiistudio](https://x.com/iamaiistudio/status/2061600215073996840)
+
+**Prompt**:
+```
+Create an ultra-photorealistic 3:4 editorial portrait of a young adult woman with Ana de Armas-inspired features, a fair natural complexion, a slender fit build, and long dark chestnut-brown hair in loose, slightly messy waves that fall across part of her face. She stands in soft daylight against a textured stone masonry wall made of large irregular gray and beige blocks, giving the scene a natural outdoor or semi-outdoor architectural backdrop.
+
+Pose her leaning lightly against the wall with her body angled, looking downward instead of at the camera for a candid, introspective mood. Her right hand rests gently near her chest and neck with relaxed, splayed fingers, while her left hand hangs by her side holding a dark green crocodile-texture cowboy boot. Keep the expression quiet, moody, artistic, and softly feminine.
+
+Style her in an off-the-shoulder cottagecore boho mini dress made from a lightweight cotton or linen blend. The dress has a red to off-red base, a small delicate floral print with purple and yellow wildflowers, a sweetheart neckline, puffed short sleeves, a corset-style bodice, and a ruffled tiered skirt. Add a thin black choker necklace, multiple silver rings, and a red beaded bracelet on the left wrist.
+
+Use soft diffused natural daylight with even front illumination and gentle shadows. The aesthetic should feel bohemian, chic, feminine, candid, and slightly soft-grunge. Shoot as a thigh-up medium portrait from eye level with an 85mm prime lens, f/2.8 depth of field, flattering portrait compression, and sharp focus on the subject, dress texture, realistic skin pores, fabric details, and stone wall texture. Render in ultra-detailed 8k photorealism with high-end photography quality, realistic material fidelity, and a polished Unreal Engine 5 or premium editorial photo finish.
+```
+
+**Output**:
+
+<img src="../images/portrait_case262/output.jpg" width="500">
+---
+### Case 263: Ink Manuscript Side Portrait
+
+**Source**: [@iamaiistudio](https://x.com/iamaiistudio/status/2061539512300511530)
+
+**Prompt**:
+```
+Use the uploaded photo as the primary face reference. Preserve the person's exact facial structure, skin tone, beard shape, nose, eyes, expression, likeness, and proportions from the reference image.
+
+Create a dramatic, high-impact side-profile portrait in an expressive ink sketch and mixed-media illustration style. The man should feel intense, chaotic, and emotionally charged, with his face and upper body layered in cryptic handwritten text, abstract symbols, and glyph-like marks that wrap around the facial contours, suggesting inner turmoil and hidden meaning.
+
+Dress him in a dark abstract jacket built from heavy textured strokes, sharp angular linework, vibrant ink accents, fine pen details, aggressive brush marks, splashes, and controlled smears. The visual language should feel raw, rebellious, bold, experimental, and editorial, blending precise illustration with conceptual art.
+
+Use a pale aged-parchment background with subtle grain, faded paper texture, delicate linework, ink stains, and the feeling of an old manuscript or forgotten document. Keep the composition high contrast, expressive, intense, and artistically precise.
+```
+
+**Output**:
+
+<img src="../images/portrait_case263/output.jpg" width="500">
+---
+### Case 264: Window-Light Cinematic Portrait
+
+**Source**: [@Ozayrr_irl](https://x.com/Ozayrr_irl/status/2061439592549466615)
+
+**Prompt**:
+```
+Use the exact same face from the reference image and generate a Ultra realistic cinematic portrait of that man with defined facial features, dark tousled hair, intense eyes. Shot from mid-chest up. Scene: sitting beside a large old wooden-framed window in a minimal dark room, early morning golden sunlight streaming through the glass in dramatic god rays  visible light beams cutting through floating dust particles in the air. The window light strikes directly across one side of his face, creating razor-sharp light and shadow divide. Half his face brilliantly golden, half consumed in deep natural shadow. The window frame casts a cross-shadow pattern across his chest and shoulder. Dust particles visibly floating and glowing in the light beams. Wearing a simple white linen shirt slightly unbuttoned. Background: dark moody room interior barely visible. Expression: contemplative, lost in thought, gazing toward the window light. Raw, natural, cinematic perfection. Vertical 9:13 format. Ultra photorealistic, 8K, no text overlays, cinematic color grading.
+```
+
+**Output**:
+
+<img src="../images/portrait_case264/output.jpg" width="500">
+
+---
+
+---
+### Case 265: Futuristic Martial Arts Heroine Portrait
+
+**Source**: [@vireonixx](https://x.com/vireonixx/status/2062352968364818576)
+
+**Prompt**:
+```
+Ultra-photorealistic cinematic portrait of a legendary futuristic martial arts heroine standing in the center of a luxury fashion-editorial composition. She wears an elegant crimson and black combat outfit inspired by contemporary haute couture and advanced athletic armor, featuring intricate embroidered patterns, premium silk textures, carbon-fiber accents, metallic details, and subtle illuminated elements integrated into the design.
+
+The character is captured in a dynamic low stance, one hand extended forward and the other resting near her waist, projecting calm confidence and immense strength. Her facial features are exceptionally realistic with natural beauty, perfectly balanced proportions, visible skin pores, subtle freckles, fine facial hairs, realistic skin translucency, delicate imperfections, soft blush tones, detailed lips with natural moisture, and ultra-sharp eye detail. Deep hazel eyes display complex iris structures, realistic reflections, and cinematic catchlights.
+
+Her long dark hair flows naturally through the frame, with thousands of individually rendered strands, realistic flyaway hairs, subtle movement, and premium salon-quality shine. Decorative fabric ornaments and metallic accessories add visual interest while maintaining realism.
+
+The composition incorporates an artistic mixed-media gallery backdrop featuring fragmented photographic panels, oversized close-up facial details, layered fashion-magazine elements, torn-edge textures, floating geometric shapes, translucent acrylic sheets, and contemporary luxury-brand advertising aesthetics. The background remains predominantly bright and minimalist with sophisticated negative space.
+
+Wardrobe materials showcase extraordinary realism including premium satin, brushed metal, woven fabric, polished leather, textured embroidery, reflective surfaces, and physically accurate material responses. Every fold, stitch, seam, wrinkle, and fabric tension point is visible with microscopic precision.
+
+Captured using a medium-format professional camera system, 110mm portrait lens, ultra-high dynamic range imaging, shallow depth of field, razor-sharp focus on the eyes, cinematic studio lighting with a large diffused key light, subtle rim illumination, controlled fill lighting, realistic shadow transitions, luxury fashion photography quality, and premium commercial advertising aesthetics.
+
+Hyper-detailed skin rendering, subsurface scattering, realistic global illumination, advanced ray tracing, physically based rendering, volumetric atmosphere, ultra-clean composition, museum-quality portrait photography, luxury campaign aesthetics, editorial masterpiece, award-winning fashion photography, extraordinary realism, 32k detail, ultra-high fidelity textures, cinematic depth, breathtaking realism, next-generation rendering quality, photorealistic perfection.
+```
+
+**Output**:
+
+<img src="../images/portrait_case265/output.jpg" width="500">
+
+---
+### Case 266: Under-Glass Worms-Eye Crowd Shot
+
+**Source**: [@iamaiistudio](https://x.com/iamaiistudio/status/2062205313877762389)
+
+**Prompt**:
+```
+Camera placed directly beneath a completely transparent glass floor, pointing straight up. Pedestrians walk across the surface above. Pure blue sky fills the background. No buildings, walls, or edges in frame. The glass is perfectly seamless and nearly imperceptible. Extremely close viewpoint to the underside of the walking figures. People moving mostly left to right. Shoe soles fill the foreground up close.
+```
+
+**Output**:
+
+<img src="../images/portrait_case266/output.jpg" width="500">
+
+---
+### Case 267: Black-and-White Identity Collage Grid
+
+**Source**: [@mehvishs25](https://x.com/mehvishs25/status/2063293613514330224)
+
+**Результат**:
+
+| <a href="../images/portrait_case267/output.jpg" target="_blank" rel="noopener noreferrer"><img src="../images/portrait_case267/output.jpg" width="500" alt="Output image"></a> |
+
+**Промпт:**
+
+```
+Edit the photo while preserving the subject’s exact facial features and identity. Create a high-resolution vertical portrait composition (9:16), ultra-detailed, sharp focus throughout, no background blur, rendered with a premium 8K editorial finish.
+
+Design the image as a sophisticated black-and-white fashion portrait collage arranged in a 2×3 grid, featuring six unique frames of the same young woman in a clean, minimalist indoor studio environment. The overall aesthetic should feel elegant, cinematic, intimate, and effortlessly stylish, inspired by timeless monochrome fashion editorials and luxury magazine photography.
+
+Hair is long, reaching the waist, colored a cool ash-brown with subtle gray undertones. Styled in a Korean-inspired hush cut with soft face-framing layers, airy see-through bangs, and sleek straight lengths that gently curve outward at the ends. The texture appears silky, healthy, and glossy, with a few natural flyaway strands for realism.
+
+Beauty styling remains refined and understated: luminous hydrated skin, naturally feathered brows, subtle brown eyeliner, soft mascara, muted nude lips with a velvety finish, and barely-there blush for a fresh editorial appearance.
+
+Wardrobe consists of a fitted white rib-knit tank top paired with relaxed high-waisted vintage-wash denim jeans, visible in selected frames. Accessories include matte black nail art, delicate silver hoop earrings, multiple silver rings, and a slim silver wristwatch, contributing to a contemporary fashion-editorial mood.
+
+Collage Frame Concepts:
+
+• Frame 1 — Tight portrait crop, fingertips resting softly against the cheek, direct eye contact, confident yet gentle expression.
+
+• Frame 2 — Casual seated pose on a sofa, body turned slightly to one side, gaze directed away from the camera in a contemplative moment.
+
+• Frame 3 — Relaxed reclining position with one knee bent, leaning comfortably into an arm, creating a graceful editorial silhouette.
+
+• Frame 4 — Arms lifted behind the head, posture open and self-assured, subtle lean backward conveying effortless confidence.
+
+• Frame 5 — Emotional close portrait with a slight head tilt and closed eyes, emphasizing calmness and quiet introspection.
+
+• Frame 6 — Front-facing seated composition with composed expression and subtle movement through the hair for a natural, candid feel.
+
+Environment remains intentionally simple: a light-toned studio wall with a neutral sofa appearing selectively across certain frames. The background should support the subject without drawing attention away from her.
+
+Lighting is soft and diffused, resembling natural window light in a professional studio. Gentle directional shadows create depth and dimensionality, while a faint rim light subtly separates the hair from the background. Avoid harsh flash or strong contrast.
+
+Captured with the quality and detail associated with professional mirrorless cameras such as a Canon EOS R5 or Sony A7R IV. Use a combination of intimate close-ups and medium-length portraits, primarily at eye level with occasional slightly elevated angles. Emphasize balanced magazine-style compositions and natural visual flow across the collage.
+
+Final processing should feature a rich monochrome conversion with smooth tonal transitions, lifted shadows, restrained contrast, delicate 35mm film grain, a soft matte finish, and exceptional detail retention in both skin texture and hair, echoing the look of classic high-fashion editorial photography.
+```
+
+---
+### Case 268: Plush Mascot Companion Portrait
+
+**Source**: [@doctorwasif](https://x.com/doctorwasif/status/2063304967218475072)
+
+**Результат**:
+
+<table>
+<tr><td width="50%"><a href="../images/portrait_case268/output.jpg" target="_blank" rel="noopener noreferrer"><img src="../images/portrait_case268/output.jpg" width="100%" alt="Output image"></a></td><td width="50%"><a href="../images/portrait_case268/output2.jpg" target="_blank" rel="noopener noreferrer"><img src="../images/portrait_case268/output2.jpg" width="100%" alt="Output image"></a></td></tr>
+<tr><td width="50%"><a href="../images/portrait_case268/output3.jpg" target="_blank" rel="noopener noreferrer"><img src="../images/portrait_case268/output3.jpg" width="100%" alt="Output image"></a></td><td width="50%"><a href="../images/portrait_case268/output4.jpg" target="_blank" rel="noopener noreferrer"><img src="../images/portrait_case268/output4.jpg" width="100%" alt="Output image"></a></td></tr>
+</table>
+
+**Промпт:**
+
+```
+Use the uploaded portrait as the identity reference and preserve the person's recognizable facial features, hairstyle, skin tone, expression, fashion sense, and overall presence. Create a premium full-body portrait of the same person alongside a large custom-designed plush companion that feels like their mascot alter ego. The plush should be inspired by the subject's mood, facial impression, styling, posture, and overall energy rather than being a generic animal or mascot. Automatically choose a creature concept that best matches the person's unique vibe, avoiding predictable or stereotype-based selections. The mascot must clearly be an oversized plush toy with soft fuzzy fabrics, rounded shapes, detailed stitching, premium textures, and a collectible designer-toy aesthetic. Its design, expression, silhouette, and proportions should subtly reflect the person's character and visual identity. Build a harmonious color palette using cues from the subject's hair, skin tone, clothing, and atmosphere so the person, mascot, and scene feel naturally connected. Show both the person and plush fully visible from head to toe, including shoes and all parts of the mascot, with balanced framing and comfortable spacing. Choose a natural interaction that suits the subject, such as standing beside, sitting with, leaning on, lightly hugging, or casually engaging with the plush companion. Keep the person's expression relaxed, warm, and authentic with a subtle smile or calm gaze, avoiding stiff poses or mannequin-like appearances. If the original image only shows part of the outfit, intelligently complete the full look in a believable and stylish way. Place the scene in a clean, aesthetically pleasing environment such as a minimalist studio, cozy lifestyle setting, or refined editorial backdrop that complements both the person and mascot without distractions. The final image should feel charming, cozy, stylish, emotionally engaging, visually cohesive, and suitable for a high-end character campaign or social-media editorial. Avoid cropped bodies, hidden shoes, incomplete mascot visibility, generic animal choices, real animals, horror elements, cheap toy aesthetics, awkward poses, cluttered backgrounds, distorted anatomy, extra limbs, text, logos, or watermarks.
+```
+
+---
+### Case 269: Editorial Y2K Identity Grid
+
+**Source**: [@Ciri_ai](https://x.com/Ciri_ai/status/2063592048150909396)
+
+**Результат**:
+
+| <a href="../images/portrait_case269/output.jpg" target="_blank" rel="noopener noreferrer"><img src="../images/portrait_case269/output.jpg" width="500" alt="Output image"></a> |
+
+**Промпт:**
+
+```
+A vertical collage of three YZK photos. Using the uploaded selfie as the ONLY and exclusive face reference, keep the facial features, and facial structure exactly the same as the reference image. The character poses against a neutral light background. A girl with a beautiful, voluminous hairstyle, seemingly styled with a brush, wearing foxy makeup and pronounced, angled lashes. In the first photo, she's very close to the camera, looking at it with one eye and winking. In the second photo, she's turned away, her head coquettishly turned toward the lens, her hairstyle slightly covering her face, but not too much. In the third photo, she's looking very close to the lens, her hair to the side, thus covering her left eye, pouting and looking forward. Close-up and medium shot, minimalist composition, vintage digital texture, slight blur, glamorous atmosphere. Photo taken on iPhone 17 Pro Max with flash.
+```
+
+---
+### Case 270: Cool Grey Editorial 3x3
+
+**Source**: [@Mind_Boticni](https://x.com/Mind_Boticni/status/2063587170519314754)
+
+**Результат**:
+
+| <a href="../images/portrait_case270/output.jpg" target="_blank" rel="noopener noreferrer"><img src="../images/portrait_case270/output.jpg" width="500" alt="Output image"></a> |
+
+**Промпт:**
+
+```
+Editorial 3x3 grid in a cool-grey seamless backdrop. Character (face characteristics 100% same as uploaded image) wearing a charcoal sleeveless dress. Lighting: large overhead softbox, faint side bounce.
+
+Shots include: 1. tight cheek + neck close-up with blurred finger foreground (85mm, f/1.8); 2. eyes locked to lens, top-light reflection visible (85mm, f/2.0); 3. monochrome chin-on-hand portrait with strong frame fill (50mm, f/2.2); 4. half-obscured over-shoulder shot through blurred dress strap (85mm, f/2.0); 5. head-on close-up with intersecting shadows across face (50mm, f/2.5); 6. angled raw portrait with tousled hair (85mm, f/2.2); 7. tight detail of hands resting near collarbone (50mm, f/3.2); 8. seated half-body profile with blurred frame edges (35mm, f/4.5); 9. profile macro with single water droplet highlight (85mm, f/1.9). RAW, smooth contrast, editorial softness.
+```
+
+---
+### Case 271: Black-and-White Fashion Grid
+
+**Source**: [@j_smeaton99](https://x.com/j_smeaton99/status/2063661848478859690)
+
+**Результат**:
+
+| <a href="../images/portrait_case271/output.jpg" target="_blank" rel="noopener noreferrer"><img src="../images/portrait_case271/output.jpg" width="500" alt="Output image"></a> |
+
+**Промпт:**
+
+```
+Edit the photo while preserving the subject’s exact facial features and identity. Create a high-resolution vertical portrait composition (9:16), ultra-detailed, sharp focus throughout, no background blur, rendered with a premium 8K editorial finish.
+
+Design the image as a sophisticated black-and-white fashion portrait collage arranged in a 2×3 grid, featuring six unique frames of the same young woman in a clean, minimalist indoor studio environment. The overall aesthetic should feel elegant, cinematic, intimate, and effortlessly stylish, inspired by timeless monochrome fashion editorials and luxury magazine photography.
+
+Hair is long, reaching the waist, colored a cool ash-brown with subtle gray undertones. Styled in a Korean-inspired hush cut with soft face-framing layers, airy see-through bangs, and sleek straight lengths that gently curve outward at the ends. The texture appears silky, healthy, and glossy, with a few natural flyaway strands for realism.
+
+Beauty styling remains refined and understated: luminous hydrated skin, naturally feathered brows, subtle brown eyeliner, soft mascara, muted nude lips with a velvety finish, and barely-there blush for a fresh editorial appearance.
+
+Wardrobe consists of a fitted white rib-knit tank top paired with relaxed high-waisted vintage-wash denim jeans, visible in selected frames. Accessories include matte black nail art, delicate silver hoop earrings, multiple silver rings, and a slim silver wristwatch, contributing to a contemporary fashion-editorial mood.
+
+Collage Frame Concepts:
+
+• Frame 1 — Tight portrait crop, fingertips resting softly against the cheek, direct eye contact, confident yet gentle expression.
+
+• Frame 2 — Casual seated pose on a sofa, body turned slightly to one side, gaze directed away from the camera in a contemplative moment.
+
+• Frame 3 — Relaxed reclining position with one knee bent, leaning comfortably into an arm, creating a graceful editorial silhouette.
+
+• Frame 4 — Arms lifted behind the head, posture open and self-assured, subtle lean backward conveying effortless confidence.
+
+• Frame 5 — Emotional close portrait with a slight head tilt and closed eyes, emphasizing calmness and quiet introspection.
+
+• Frame 6 — Front-facing seated composition with composed expression and subtle movement through the hair for a natural, candid feel.
+
+Environment remains intentionally simple: a light-toned studio wall with a neutral sofa appearing selectively across certain frames. The background should support the subject without drawing attention away from her.
+
+Lighting is soft and diffused, resembling natural window light in a professional studio. Gentle directional shadows create depth and dimensionality, while a faint rim light subtly separates the hair from the background. Avoid harsh flash or strong contrast.
+
+Captured with the quality and detail associated with professional mirrorless cameras such as a Canon EOS R5 or Sony A7R IV. Use a combination of intimate close-ups and medium-length portraits, primarily at eye level with occasional slightly elevated angles. Emphasize balanced magazine-style compositions and natural visual flow across the collage.
+
+Final processing should feature a rich monochrome conversion with smooth tonal transitions, lifted shadows, restrained contrast, delicate 35mm film grain, a soft matte finish, and exceptional detail retention in both skin texture and hair, echoing the look of classic high-fashion editorial photography.
+```
+
+---
+### Case 272: Nightlife Restaurant Flash Collage
+
+**Source**: [@ZephyraLeigh](https://x.com/ZephyraLeigh/status/2063656432864842045)
+
+**Результат**:
+
+| <a href="../images/portrait_case272/output.jpg" target="_blank" rel="noopener noreferrer"><img src="../images/portrait_case272/output.jpg" width="500" alt="Output image"></a> |
+
+**Промпт:**
+
+```
+Using the provided reference image, create an ultra-realistic candid nightlife fashion photoshoot of a beautiful young woman at a trendy upscale restaurant lounge at night.
+
+She has a slim figure, long voluminous dark brown hair, flawless glowing skin, soft glam makeup, glossy nude lips, subtle eyeliner, and an effortlessly confident expression.
+
+She is wearing a fitted deep red halter-neck crop top with a plunging neckline, paired with low-rise charcoal gray vintage-wash denim jeans. Accessories include a small black quilted shoulder bag with a silver chain strap, delicate bracelets, and minimal jewelry.
+
+Create a 3-photo vertical collage capturing different candid poses:
+
+1. Looking down with eyes closed, one hand resting on her chest.
+
+2. Side pose with hair tied into a loose ponytail, looking over her shoulder.
+
+3. Standing confidently with one hand raised near her hair, showing the outfit clearly.
+
+The setting is a crowded luxury restaurant with rattan chairs, candlelit tables, warm ambient lighting, arched windows, hanging greenery, and guests dining in the background. Shot using direct on-camera flash, creating a nostalgic early-2000s paparazzi aesthetic with slightly overexposed highlights and authentic nightlife energy.
+
+Pinterest aesthetic, Instagram nightlife photography, candid fashion editorial, luxury restaurant atmosphere, realistic skin texture, film-camera flash look, subtle grain, warm tones, shallow depth of field, trendy influencer style, photorealistic, Vogue nightlife editorial, DSLR flash photography, 35mm lens, high-fashion social media content, masterpiece, best quality, ultra realistic, 8K.
+```
+
+---
+### Case 273: Vintage Newsstand Double Exposure
+
+**Source**: [@AiwithZohaib](https://x.com/AiwithZohaib/status/2063754827017101475)
+
+**Результат**:
+
+| <a href="../images/portrait_case273/output.jpg" target="_blank" rel="noopener noreferrer"><img src="../images/portrait_case273/output.jpg" width="500" alt="Output image"></a> |
+
+**Промпт:**
+
+```
+The generated image uses the uploaded image as a reference for the character, wearing a high-necked, tight-fitting black long-sleeved dress. A cluster of withered wood and orange-pink flowers lies beside an old newsstand, the grainy texture of vintage film interwoven, the blurred background with noticeable trailing shadows, and the double-image effect creating a fantastical atmosphere. A bewitchingly beautiful girl, carrying flowers, is shown in profile, her fair skin delicate and translucent.
+
+Her exquisite face is blurred with motion, the outline of her figure slightly swaying with the panning camera, the soft focus making the image even more hazy and languid. A warm-toned, low-saturation filter enhances the effect, her long, backlit hair glowing with a soft glow, the messy strands sweeping wildly across her jawline, the details concealing a captivating yet dangerous allure.Cute movements add dynamism, the motion blur blending with the film grain, creating a trendy, Instagram-worthy image while the blurred image outlines a dynamic scene full of story, cleverly balancing bewitching and sweetness.
+Follow : @AiwithZohaib
+```
+
+### Case 274: [Fashion Casting Contact Sheet](https://x.com/Ciri_ai/status/2064027400426709259) (by [@Ciri_ai](https://x.com/Ciri_ai))
+
+![Fashion Casting Contact Sheet](../images/portrait_case274/output.jpg)
+
+**Промпт:**
+```
+Black-and-white fashion casting contact sheet of [HUMAN] with [HAIR], arranged in a clean 2x2 grid of four close portrait frames against [BACKGROUND], wearing [CLOTHING] and [ACCESSORY]. Each frame shows a different expression and angle: [EXPRESSIONS]. Soft studio lighting, crisp monochrome contrast, natural skin texture, visible facial details, clean plain backdrop, subtle film grain, high-end editorial test shoot, minimal styling, intimate camera distance, professional portrait photography, aspect ratio 4:5.
+```
+
+
+### Case 275: [Identity-Locked Portrait Edit](https://x.com/Kashberg_0/status/2064022776600760625) (by [@Kashberg_0](https://x.com/Kashberg_0))
+
+![Identity-Locked Portrait Edit](../images/portrait_case275/output.jpg)
+
+**Промпт:**
+```
+Use the uploaded portrait as the identity reference for the subject's face, hairstyle, facial structure, skin tone, expression, and overall impression.
+
+Create a high-quality realistic emotional portrait of the same person with a soft sad mood and visible tears.
+
+Core concept:
+- a delicate, emotionally touching close-up portrait
+- the subject looks quietly sad, as if holding back emotions
+- the mood should feel fragile, intimate, soft, and beautiful
+- the image should feel like a polished Korean-style emotional portrait
+
+Identity:
+- preserve the subject's recognizable identity
+- keep the same face shape, eyes, nose, lips, jawline, hairstyle, and overall vibe
+- do not make the face look generic or overly different
+- keep the beauty natural and believable
+
+Expression:
+- slightly sad expression
+- soft watery eyes
+- one or two visible tear streaks running down the cheek
+- lips softly closed or slightly parted
+- emotional but restrained, not exaggerated
+- the sadness should feel quiet, longing, and delicate
+
+Styling:
+- long dark hair with soft natural texture
+- a few loose strands falling across the face
+- clean natural makeup
+- luminous skin
+- simple dark top or minimal clothing visible
+- overall styling should remain clean and understated so the face is the focus
+
+Lighting:
+- soft, moody lighting
+- gentle highlights on the eyes, nose, lips, and tear tracks
+- subtle shadow depth
+- dark or muted background
+- the lighting should feel intimate and cinematic, not harsh
+
+Composition:
+- vertical portrait composition
+- close-up framing
+- place the face in the upper half of the frame
+- the center of the face should sit slightly above the vertical midpoint
+- the eyes should fall around the upper-middle area of the image
+- avoid placing the face too low in the frame
+- keep the composition visually balanced and elegant
+
+Mood and style:
+- Korean emotional beauty portrait
+- soft, melancholic, dreamy, intimate
+- elegant and photogenic
+- emotionally expressive without looking dramatic
+- beautiful but slightly heartbreaking
+
+Important visual priority:
+- preserve identity clearly
+- the face must remain the main focus
+- tears should be visible but subtle
+- expression should feel naturally sad and emotionally convincing
+- the portrait should look beautiful, soft, and emotionally immersive
+
+Negative prompt:
+- no exaggerated crying
+- no distorted face
+- no cartoon style
+- no anime style
+- no harsh flash
+- no messy background
+- no over-retouched plastic skin
+- no exaggerated smile
+- no low-resolution image
+- no text
+- no watermark
+```
+
+### Case 276: [High Angle Cinematic Portrait](https://x.com/AvelyrahnAI/status/2064547040508662240) (by [@AvelyrahnAI](https://x.com/AvelyrahnAI))
+
+![High Angle Cinematic Portrait](../images/portrait_case276/output.jpg)
+
+**Промпт:**
+```
+Edit foto wanita tersebut menjadi potret High Angle Sinematik dari seorang wanita muda yang cantik dari sudut pandang belakang. Fokus utamanya adalah pada bahu, lengan, dan sebagian wajahnya yang menghadap ke samping dengan ekspresi tenang. Riasan flawess natural eye shadow semi peach-brown lembut, bulu mata lentik, blush on tipis peach lembut dengan lisptik glossy peach lembut, rambut lurusnya tersanggul keatas agak longgar sedikit ada helaian rambut samping kanan-kirinya membingkai wajahnya. Ia mengenakan atasan sweater rajut dengan model sabrina berwarna cokelat muda. Tekstur kulitnya terlihat sangat halus di bawah siraman cahaya matahari yang terfilter. Latar belakang di outdoor buram (bokeh). Wajahnya menoleh ke samping melihat ke sikataran dengan ekspresi tenang dan sendu.
+
+Pencahayaan dan Warna :
+Foto ini menggunakan teknik pencahayaan yang kontras (terang-gelap). Cahaya matahari jatuh di bagian bahu dan wajahnya, sementara bagian lainnya tenggelam dalam bayangan. Terdapat bayangan siluet dedaunan atau ranting yang jatuh di punggung dan wajah wanita tersebut, memberikan kesan ia berada di bawah pohon saat matahari mulai terbenam (golden hour).
+Palet Warna: Didominasi oleh warna-warna hangat seperti oranye, golden hour, cokelat yang dikontraskan dengan latar belakang yang redup.
+
+Komposisi dan Estetika
+Depth of Field: Latar belakangnya sangat buram (bokeh), membuat subjek wanita menonjol. Kesan yang ditampilkan adalah kelembutan, ketenangan. Foto ini tidak terasa seperti foto potret biasa, melainkan lebih seperti potongan adegan dari sebuah film drama puitis.
+Foto ini memiliki atmosfer yang sangat melankolis, artistik, dan sinematik. Komposisinya bermain dengan kontras antara cahaya hangat dan bayangan yang dalam, menciptakan kesan misterius namun intim.
+```
+
+### Case 277: [Chiaroscuro Hyper-realistic Portrait](https://x.com/iamsofiaijaz/status/2064545265521217953) (by [@iamsofiaijaz](https://x.com/iamsofiaijaz))
+
+![Chiaroscuro Hyper-realistic Portrait](../images/portrait_case277/output.jpg)
+
+**Промпт:**
+```
+Create a hyper-realistic 8K cinematic portrait of the uploaded person in a dramatic chiaroscuro style. The subject is seated at a three-quarter angle, leaning slightly forward with a relaxed yet commanding posture. His face is turned slightly away from the camera, not looking at the lens, with one side of the face sharply illuminated and the opposite side fading into deep, velvety black shadow.
+His expression is contemplative.
+His hands are near the chest in a natural, precise pose, with the fingers gently and correctly interlocked. One wrist clearly shows a luxury black chronograph watch with a detailed metal link bracelet, and one hand wears a subtle silver ring. He is dressed in a sharp black suit jacket over a white dress shirt with the top buttons open, showing refined fabric texture and natural folds.
+The background is solid seamless black. Use strong directional studio lighting with rich contrast, clean shadow falloff, and realistic skin texture. Highlight fine details such as hair strands, beard bristles, eye moisture, facial texture, the watch face, metal bracelet reflections, and the silver ring. Shot with an 85mm portrait lens look, shallow depth of field, premium commercial photography, ultra-sharp focus, smooth natural skin transitions, cinematic contrast, no artificial plastic skin, no extra fingers, no distorted hands, no messy anatomy.
+```
+
+### Case 278: [Kawaii Character Side Profile Portrait](https://x.com/VIBEQUIRKLABS/status/2064543699460354240) (by [@VIBEQUIRKLABS](https://x.com/VIBEQUIRKLABS))
+
+![Kawaii Character Side Profile Portrait](../images/portrait_case278/output.jpg)
+
+**Промпт:**
+```
+Create a photorealistic editorial portrait of one 20-year-old Japanese or Korean female portrait subject with white frame, thin-frame glasses, worn normally on the face, lenses aligned over the eyes and small teardrop gemstone earring detail, delicate understated sparkle, natural basic body, about 160-165 cm visual height, balanced torso-to-leg ratio around 4:6, young seductive alluring beauty face, magnetic feminine facial balance, defined eyes and lips, collarbone-length layered hair, airy natural volume, soft face-framing movement, soft black-tea brown hair, muted brown-black salon tone. She is sitting on a chair that naturally fits the current scene. The setting is British record listening corner, turntable setup, stacked vinyl sleeves, bookshelf speakers, aged wood cabinet, lamp fixture, small side table, indoor rainy-day daylight environment, dim grey window brightness. She wears gothic casual knit-and-ruffle outfit, fitted knit top, lace camisole layer, large ribbon bow, high-waist layered ruffle mini skirt. Inspired by Leslie Kee, polished commercial portrait image language. Camera positioned on the subject's left side, 90-degree left profile view, ultra shallow depth of field.
+```
+
+### Case 279: [Monochrome Vector Vogue Portrait](https://x.com/noorlewisx/status/2064539506305561076) (by [@noorlewisx](https://x.com/noorlewisx))
+
+![Monochrome Vector Vogue Portrait](../images/portrait_case279/output.jpg)
+
+**Промпт:**
+```
+Transform the subject into a striking high-contrast monochrome vector portrait, rendered in a premium black-and-white comic book illustration style with crisp cel-shading, bold geometric shapes, and ultra-clean vector linework. Preserve the subject's facial features, hairstyle, expression, and overall likeness with high accuracy.
+
+The subject is a stylish young woman with long flowing hair, wearing an open dark oversized shirt layered over a fitted white crew-neck T-shirt. She accessorizes with a minimalist square pendant necklace, elegant earrings, and a pair of fashionable sunglasses resting naturally on top of her head, seamlessly integrated into her hairstyle.
+
+Illuminate the portrait with intense red neon rim lighting that traces the contours of her hair, face, shoulders, and clothing, creating a dramatic glow against the monochrome artwork. The red highlights should add depth, separation, and a futuristic cinematic atmosphere without overpowering the black-and-white design.
+
+Set against a pure black background, emphasizing strong contrast and visual impact. Style the artwork with sharp vector edges, bold shadows, clean negative space, graphic-novel aesthetics, modern streetwear fashion energy, and premium poster-quality composition. Ultra-detailed yet minimalist, edgy, contemporary, visually powerful, and magazine-cover worthy. Strong confident female presence, cinematic attitude, luxury editorial feel, and flawless vector illustration quality.
+```
+
+### Case 280: [Minimalist Vogue Editorial Cover](https://x.com/vireonixx/status/2064536416592552092) (by [@vireonixx](https://x.com/vireonixx))
+
+![Minimalist Vogue Editorial Cover](../images/portrait_case280/output.jpg)
+
+**Промпт:**
+```
+Create a sophisticated high-fashion magazine cover portrait using the provided reference image only for the subject's identity and facial features. Transform the scene into a minimalist Vogue-inspired editorial cover that emphasizes timeless style, intellectual elegance, and refined simplicity.
+
+COMPOSITION & FRAMING:
+Vertical magazine cover format, approximately 4:5 aspect ratio. Upper-torso portrait composition, framed from mid-abdomen to slightly above the head. Subject positioned centrally with balanced negative space around the figure for luxury editorial typography. Clean, uncluttered layout with strong visual breathing room. Direct engagement with the camera creates intimacy and authority.
+
+POSE & BODY LANGUAGE:
+Thoughtful fashion-editorial pose with one hand partially covering the lower face, fingers resting naturally near the nose and lips. Opposite arm folded across the body creating subtle structure. Relaxed shoulders. Slight forward lean. Natural posture conveying intelligence, creativity, and effortless confidence. The pose should feel spontaneous rather than staged.
+
+FACIAL EXPRESSION:
+Quiet confidence, introspective gaze, subtle mystery, calm sophistication. Eyes focused directly toward the camera with a soft yet engaging expression. Emotion should communicate intelligence, artistic sensibility, modern elegance, and understated charisma. No exaggerated smile.
+
+FASHION STYLING:
+Minimalist luxury wardrobe centered around a crisp oversized white shirt. Premium cotton fabric with visible texture and natural folds. Open collar with clean lines. Slightly oversized silhouette creating modern proportions. Sleeves casually rolled or relaxed. Styling reflects contemporary luxury, Scandinavian minimalism, and timeless fashion essentials.
+
+ACCESSORIES:
+Thin silver metal-frame eyeglasses with minimalist design. Luxury wristwatch featuring a clean dial, refined metallic case, and understated elegance. Accessories should appear functional, sophisticated, and premium
+```
+
+### Case 281: [Cinematic Street Photography Portrait](https://x.com/frametheory058/status/2064536055366480248) (by [@frametheory058](https://x.com/frametheory058))
+
+![Cinematic Street Photography Portrait](../images/portrait_case281/output.jpg)
+
+**Промпт:**
+```
+Create an ultra-realistic cinematic street photography portrait of me on a busy city street. Keep my face exactly the same as in the reference photo — same facial structure, eyes, nose, lips, hairstyle, skin tone, proportions, and overall identity. Do not alter, beautify, or reinterpret my appearance in any way.
+
+I am standing confidently in the center of the frame wearing an oversized black hoodie, relaxed cargo pants, and casual streetwear. My expression is playful, slightly mischievous, and natural, as if I’m proudly showing my creative side.
+
+I’m holding a large white poster board in front of me.
+
+The poster should contain only ONE hand-drawn sketch illustration of me. No multiple portraits or variations.
+
+The sketch should be:
+
+Black-and-white pencil drawing
+
+Highly detailed
+
+Realistic facial resemblance
+
+Expressive line art
+
+Artist sketchbook style
+
+Clean white background
+
+Subtle shading
+
+Visible hand-drawn pencil strokes
+
+Confident creator energy
+
+At the bottom of the sketch, write:
+
+[Name]
+
+Around the sketch, add only a few minimal doodles:
+
+Tiny stars
+
+Small hearts
+
+Paper airplane
+
+Light sketch arrows
+
+Subtle creative marks
+
+Keep the poster simple, clean, and powerful.
+
+The mood should feel creative, inspiring, authentic, artistic, and documentary-like, as if it’s part of a creator movement campaign.
+
+Style: ultra-realistic street portrait, natural lighting, shallow depth of field, soft background blur, premium editorial photography, magazine-quality image, cinematic storytelling, Pinterest aesthetic, creator-brand campaign, emotional and relatable, professional photography, 8K masterpiece.
+
+The contrast between the real me and the hand-drawn sketch version of me should be the main visual focus, creating a strong artist-versus-art effect. The single sketch on the poster must remain the clear focal point.
+
+Aspect ratio: 4:5
+```
+
+### Case 282: [Winter Wolf Cinematic Portrait](https://x.com/iamaiistudio/status/2064409499906224232) (by [@iamaiistudio](https://x.com/iamaiistudio))
+
+![Winter Wolf Cinematic Portrait](../images/portrait_case282/output.jpg)
+
+**Промпт:**
+```
+://t.co/1ZKQNHa8h4
+
+prompt:
+
+Cinematic winter portrait of a young pale-skinned woman with long dark snow-dusted hair, standing closely behind a majestic gray wolf. She wears a fur-lined heavy winter coat, expression intense, calm and soulful, direct eye contact with camera. The wolf is calm and watchful with thick frost-covered fur and sharp golden intelligent eyes. Both subjects centered symmetrically, ultra-sharp focus on both sets of eyes. Background: softly blurred snow-covered forest, gentle snowfall, cold mist. Lighting: soft natural overcast winter light with diffused shadows, cinematic cool tones, subtle warmth in skin and eyes. Style: fine-art wildlife and cinematic portrait photography, ultra-realistic, 8K quality detail. Mood: quiet intensity, mystery, primal bond, reverence for nature. Portrait orientation, 2:3 aspect ratio.
+
+#AIart #GPTImage2
+```
+
+### Case 283: [Full Shot Man White Chair](https://x.com/JamilAI55/status/2064548739419947299) (by [@JamilAI55](https://x.com/JamilAI55))
+
+![Full Shot Man White Chair](../images/portrait_case283/output.jpg)
+
+**Промпт:**
+```
+A full shot of a man sitting on a white chair with his legs crossed, wearing a dark button-down shirt, white pants, and white slides, uploaded face as reference, with an old-fashioned film camera on a tripod to his left, a potted green plant to his right, and various design-related elements scattered around him, including a notepad listing 'Creative Cloud' applications, a Polaroid photo with the words 'Creativity is Fun,' and text snippets like 'Be Different' and 'Dare to Stand Out,' all arranged in a collage style, with a color palette of muted blues, grays, and whites, and pops of color from the plant and text, creating a visually engaging and informative composition, reminiscent of a graphic design mood board, with a slightly desaturated look and a clean, modern aesthetic.
+```
+
+### Case 284: [Eiffel Tower Low Angle Fashion Portrait](https://x.com/CHAseUnre/status/2064514382756012487) (by [@CHAseUnre](https://x.com/CHAseUnre))
+
+![Eiffel Tower Low Angle Fashion Portrait](../images/portrait_case284/output.jpg)
+
+**Промпт:**
+```
+에펠탑 중앙 하단에서 카메라를 아래로 당당하게 내려다보는 로우 앵글 포즈입니다. 상체는 프레임 우측을 향해 45도 틀어져 있고, 고개를 돌려 카메라를 내려다 보고 있습니다. 바람에 날리는 머리카락 사이로 세련되고 쿨한 표정을 짓고 있으며, 카메라를 아련하면서도 자신감 넘치는 눈빛으로 가만히 응시하고 있습니다.
+
+몸에 부드럽게 밀착되는 정갈하고 심플한 화이트 반소매 라운드넥 티셔츠를 입고 있습니다. 머리카락은 바람을 맞아 자연스럽게 볼륨감이 살아서 얼굴 주변으로 흩날리고 있습니다. 실버 금속 테에 은은한 보랏빛이 도는 반투명 렌즈의 스퀘어 선글라스를 착용했으며, 촉촉한 연분홍색 립글로스를 바른 내추럴하고 깨끗한 메이크업입니다.
+
+인물에 대한 직접 조명은 전혀 없으며 에펠탑 아래에서 은은하게 자연광이 있을 뿐입니다. 바닥에서 하늘을 수직에 가깝게 올려다보는 극단적인 로우 앵글(웜즈 아이 뷰)로 촬영되었습니다. 화면 전체를 거대하게 감싸며 가로지르는 파리 에펠탑의 정교하고 거대한 짙은 회색 철골 격자 구조물이 배경입니다.
+```
+
+---
+### Case 285: Anime-Inspired Pastel Hoodie Portrait
+
+**Source**: [@de_mon010](https://x.com/de_mon010/status/2065247896287744162)
+
+**Результат:**
+
+| Output |
+| :----: |
+| <a href="../images/portrait_case285/output.jpg" target="_blank" rel="noopener noreferrer"><img src="../images/portrait_case285/output.jpg" width="300" alt="GPT-Image-2 Prompt Example - Anime-Inspired Pastel Hoodie Portrait"></a> |
+
+**Промпт:**
+
+```
+Semi-realistic anime-inspired portrait of a stylish man, delicate round-frame glasses, and a gentle confident expression. he wears an oversized pastel lilac hoodie with rolled sleeves paired with a flowing ivory joggers. Full-body composition, standing casually with relaxed posture. Behind his is an artistic collage of hand-drawn monochrome character studies, loose pencil sketches, manga panels, playful doodles, and handwritten notes scattered organically across the backdrop.Contemporary anime fashion illustration with mixed ink-and-pencil textures, clean linework, subtle cel shading, bright white background, magazine-cover aesthetic, highly detailed, ultra-sharp, vibrant yet elegant, 8K masterpiece.
+```
+
+---
+### Case 286: Italian Summer Afternoon Portrait
+
+**Source**: [@iamaiistudio](https://x.com/iamaiistudio/status/2065209349132501265)
+
+**Результат:**
+
+| Output |
+| :----: |
+| <a href="../images/portrait_case286/output.jpg" target="_blank" rel="noopener noreferrer"><img src="../images/portrait_case286/output.jpg" width="300" alt="GPT-Image-2 Prompt Example - Italian Summer Afternoon Portrait"></a> |
+
+**Промпт:**
+
+```
+prompt:
+
+Ultra photorealistic portrait of a young woman with long straight dark brown hair, sun-kissed glowing skin, seated at an outdoor cafe table. She's wearing a white vintage Swiss dot corset mini dress with a sweetheart neckline, ruffled cap sleeves, front lace-up ribbon detailing, fitted bodice, and slightly sheer ruffled hem. Hands raised playfully covering her eyes, head tilted back laughing, red manicured nails, thin bracelet and ring on left hand. Setting: luxury outdoor hotel terrace at Hotel Florence, historic yellow building with "HOTEL FLORENCE" signage, lush green mountains in the background, cloudy blue sky, vintage globe street lamps, round glass-top table with two white ceramic coffee cups and a paperback book. Coquette cottagecore soft feminine luxury aesthetic. Natural bright afternoon sunlight, high contrast, sharp shadows on the table, backlighting creates a hair halo effect, warm vibrant color grading. DSLR 85mm portrait lens, f/2.8 shallow depth of field, 1/500s shutter, ISO 100, 8k RAW photo.
+
+#AIart #GPTImage2
+```
+
+---
+### Case 287: Rainy Night Cinematic Portrait
+
+**Source**: [@iamaiistudio](https://x.com/iamaiistudio/status/2065194222408577258)
+
+**Результат:**
+
+| Output |
+| :----: |
+| <a href="../images/portrait_case287/output.jpg" target="_blank" rel="noopener noreferrer"><img src="../images/portrait_case287/output.jpg" width="300" alt="GPT-Image-2 Prompt Example - Rainy Night Cinematic Portrait"></a> |
+
+**Промпт:**
+
+```
+Full prompt:
+
+Photorealistic cinematic close-up of a young woman in her early 30s, standing in a downpour at night with arms stretched wide and head tilted back, eyes shut, embracing the rain. Warm golden-orange backlight from the left side catches each raindrop, turning them into glowing particles around her silhouette. Soaking wet black tee clinging to her figure, water beading on her skin. Deep contrast between the dark background and the fiery orange sidelight. Expression radiates liberation and calm. Shot on an 85mm lens, f/1.8, 8K, shallow depth of field, vertical framing, dramatic cinematic atmosphere.
+
+#AIart #GPTImage2
+```
+
+---
+### Case 288: 7-Panel Emotion Grid Portrait
+
+**Source**: [@iamaiistudio](https://x.com/iamaiistudio/status/2065179623697306098)
+
+**Результат:**
+
+| Output |
+| :----: |
+| <a href="../images/portrait_case288/output.jpg" target="_blank" rel="noopener noreferrer"><img src="../images/portrait_case288/output.jpg" width="300" alt="GPT-Image-2 Prompt Example - 7-Panel Emotion Grid Portrait"></a> |
+
+**Промпт:**
+
+```
+Full prompt:
+
+Grid layout with thin white gaps between panels and a subtle outer white border around the entire composition. Clean, modern UI aesthetic with slight rounded corners on every tile.
+
+Panel 1: Joyful (Yellow). Warm yellow gradient. Arms raised overhead. Eyes shut. Wide open laugh. High-energy pose.
+Panel 2: Shocked (Blue). Blue gradient. Both hands cupping cheeks. Eyes wide open. Mouth agape. Eyebrows arched high.
+Panel 3: Stern (Red). Solid red background. Arms folded. Brows furrowed. Lips pressed tight. Dark hoodie.
+Panel 4: Affectionate (Pink). Soft pink gradient. Cradling a small brown dog. Gentle smile. Cozy knit sweater.
+Panel 5: Confident (Purple). Purple gradient. One hand resting on hip. Slight smirk. Graphic tee. Easy, relaxed stance.
+Panel 6: Approving (Green). Green gradient. Baseball cap and denim jacket. Thumbs up. Relaxed smile.
+Panel 7: Melancholy (Gray). Gray gradient. Eyes angled slightly downward. Inner brows slightly raised. Lips gently curved down.
+
+#AIart #GPTImage2
+```
+
+---
+### Case 289: Cozy Pastel Morning Overhead Lifestyle
+
+**Source**: [@iamaiistudio](https://x.com/iamaiistudio/status/2065149291099021650)
+
+**Результат:**
+
+<table>
+<tr><td width="50%"><a href="../images/portrait_case289/output.jpg" target="_blank" rel="noopener noreferrer"><img src="../images/portrait_case289/output.jpg" width="100%" alt="GPT-Image-2 Prompt Example - Cozy Pastel Morning Overhead Lifestyle"></a></td><td width="50%"><a href="../images/portrait_case289/output2.jpg" target="_blank" rel="noopener noreferrer"><img src="../images/portrait_case289/output2.jpg" width="100%" alt="GPT-Image-2 Prompt Example - Cozy Pastel Morning Overhead Lifestyle"></a></td></tr>
+<tr><td width="50%"><a href="../images/portrait_case289/output3.jpg" target="_blank" rel="noopener noreferrer"><img src="../images/portrait_case289/output3.jpg" width="100%" alt="GPT-Image-2 Prompt Example - Cozy Pastel Morning Overhead Lifestyle"></a></td></tr>
+</table>
+
+**Промпт:**
+
+```
+prompt:
+
+Overhead lifestyle photo shot from a slightly tilted high angle, looking down at a cozy bed. A slim young woman lies on her back with a relaxed, lazy weekend morning energy. She has long, slightly tousled straight black hair with subtle pink highlights spread softly across a purple pillow, tidy bangs framing her face. Her makeup is a soft East Asian aesthetic with noticeable pink blush and lightly parted glossy lips, her gaze directed softly up into the camera. She wears a white ribbed cotton camisole with front buttons and lace trim, slightly raised at the waist, paired with light pink satin pajama shorts. Her right arm rests casually behind her head, exposing her smooth underarm and shoulder, while her left knee is gently bent, revealing a fair soft upper thigh. The skin on her arms, chest, stomach, and legs looks smooth and luminous, lit by soft diffused daylight spilling through a window on the left. A silver charm bracelet sits on her left wrist. The bedroom is styled throughout in pastel tones. She rests on ruffled pastel purple pillows and a white blanket with subtle purple floral patterns. Two white plush bunnies are placed near her head. In the slightly blurred lower right foreground, a wooden nightstand holds a glass of lemon water, a small pink digital clock showing 8:47, an earbuds case, and an ELLE magazine. Shot on a 35mm lens at a moderate aperture for a natural, slightly imperfect snapshot aesthetic with soft daylight and gentle shadows, capturing the tranquil slow morning mood.
+
+#AIart #GPTImage2
+```
+
+---
+### Case 290: Stylish Woman Outside Cozy Café Portrait
+
+**Source**: [@sakshi___007](https://x.com/sakshi___007/status/2065118696788631921)
+
+**Результат:**
+
+| Output |
+| :----: |
+| <a href="../images/portrait_case290/output.jpg" target="_blank" rel="noopener noreferrer"><img src="../images/portrait_case290/output.jpg" width="300" alt="GPT-Image-2 Prompt Example - Stylish Woman Outside Cozy Café Portrait"></a> |
+
+**Промпт:**
+
+```
+An ultra-realistic lifestyle portrait of a stylish young woman standing outside a modern cozy café during daytime, smiling warmly at the camera with a soft natural expression. She has short wavy platinum blonde hair styled in a soft messy bob, glowing skin, minimal natural makeup, and a fresh effortless beauty aesthetic. She wears an elegant oversized white blouse with soft flowing sleeves, tucked into high-waisted beige wide-leg trousers with a black belt, creating a classy minimalist fashion look. In one hand she holds an iced latte in a transparent cup, and in the other she gently carries a small adorable apricot toy poodle dog wearing a cute dark bandana. Warm natural sunlight, cozy café storefront background with glass windows, soft bokeh lighting, aesthetic urban lifestyle atmosphere, calm and wholesome mood, photorealistic details, fashionable Korean street style, soft neutral color palette, editorial portrait photography, realistic skin texture, cozy café culture vibe, luxury casual fashion, soft cinematic color grading, high detail, elegant modern aesthetic, Pinterest-inspired photography, ultra detailed, 8k quality.
+```
+
+---
+### Case 291: Luxury Streetwear Chrome Chair Portrait
+
+**Source**: [@AiwithLariab](https://x.com/AiwithLariab/status/2065115460820218326)
+
+**Результат:**
+
+| Output |
+| :----: |
+| <a href="../images/portrait_case291/output.jpg" target="_blank" rel="noopener noreferrer"><img src="../images/portrait_case291/output.jpg" width="300" alt="GPT-Image-2 Prompt Example - Luxury Streetwear Chrome Chair Portrait"></a> |
+
+**Промпт:**
+
+```
+Ultra-premium fashion editorial poster, luxury streetwear aesthetic, 4:5 portrait composition. A confident young woman sitting casually on a modern chrome chair, wearing an oversized black leather bomber jacket, black oversized t-shirt, baggy black cargo pants, and black-and-white luxury sneakers. Relaxed but powerful pose with one arm resting on the chair and direct eye contact with the camera.
+
+Massive bold typography in the background reading:
+
+I AM A
+CREATOR
+
+Large beige typography integrated into the composition, partially behind and around the model, creating a premium magazine-cover design. Dark charcoal black studio background with subtle texture and depth.
+
+Professional fashion campaign photography, cinematic studio lighting, dramatic spotlight from upper right corner, soft shadows, luxury fashion branding aesthetic, high-end streetwear advertisement, strong visual hierarchy.
+
+Natural voluminous hair with soft waves, realistic skin texture, sharp facial details, crystal clear eyes, premium color grading, shallow depth of field, ultra-realistic photography, Vogue magazine quality, luxury campaign poster, modern creative entrepreneur branding.
+
+Minimalist design, clean composition, bold typography, premium editorial layout, luxury fashion poster aesthetic, masterpiece, 8K, hyper-realistic, professional retouching, high contrast, ultra detailed.
+
+Small text in bottom left:
+"CREATIVITY IS NOT JUST WHAT YOU MAKE IT'S WHO YOU ARE"
+"ESTD. 2024"
+
+Face preservation priority: maximum.
+Identity consistency: maximum.
+Text accuracy: high.
+Poster design quality: luxury fashion campaign level.
+```
+
+---
+### Case 292: South Korea Graffiti Street Art Portrait
+
+**Source**: [@Kashberg_0](https://x.com/Kashberg_0/status/2065112085269504508)
+
+**Результат:**
+
+<table>
+<tr><td width="50%"><a href="../images/portrait_case292/output.jpg" target="_blank" rel="noopener noreferrer"><img src="../images/portrait_case292/output.jpg" width="100%" alt="GPT-Image-2 Prompt Example - South Korea Graffiti Street Art Portrait"></a></td><td width="50%"><a href="../images/portrait_case292/output2.jpg" target="_blank" rel="noopener noreferrer"><img src="../images/portrait_case292/output2.jpg" width="100%" alt="GPT-Image-2 Prompt Example - South Korea Graffiti Street Art Portrait"></a></td></tr>
+</table>
+
+**Промпт:**
+
+```
+Create a viral CapCut-style
+South korea graffiti image from
+the uploaded person. Keep
+the face consistent. Add
+South korea jersey, full-body pose,
+giant hand-painted mural
+portrait in the background,
+South korea logo, South korea 2026 text,
+yellow and green football
+colors, concrete wall, clean
+poster composition, realistic 闪
+photo foreground, illustrated
+thelifeafptfiti b--'ground,TikTok
+```
+
+---
+### Case 293: Korean Webtoon Couple Selfie
+
+**Source**: [@Taaruk_](https://x.com/Taaruk_/status/2065105428862886301)
+
+**Результат:**
+
+<table>
+<tr><td width="50%"><a href="../images/portrait_case293/output.jpg" target="_blank" rel="noopener noreferrer"><img src="../images/portrait_case293/output.jpg" width="100%" alt="GPT-Image-2 Prompt Example - Korean Webtoon Couple Selfie"></a></td><td width="50%"><a href="../images/portrait_case293/output2.jpg" target="_blank" rel="noopener noreferrer"><img src="../images/portrait_case293/output2.jpg" width="100%" alt="GPT-Image-2 Prompt Example - Korean Webtoon Couple Selfie"></a></td></tr>
+</table>
+
+**Промпт:**
+
+```
+Transform the uploaded photo into a cute hand-painted Korean webtoon illustration of a happy couple taking a selfie outdoors. Soft pastel color palette, round expressive eyes, rosy cheeks, warm smiles, cozy romantic atmosphere, charming doodle elements floating around them (hearts, flowers, stars, swirls, sunshine icons). Lush green park or beach scenery in the background, bright sunny day, whimsical children's-book aesthetic, clean line art, soft painterly shading, adorable proportions, cozy cottagecore vibes, dreamy and cheerful mood, highly detailed digital illustration, storybook quality, kawaii aesthetic, gentle textures, vibrant yet soft colors, Instagram-worthy artwork, wholesome couple portrait, cute lifestyle illustration, masterpiece, ultra detailed.
+```
+
+---
+### Case 294: Non-Existent 1870s Vintage Photograph
+
+**Source**: [@Arminn_Ai](https://x.com/Arminn_Ai/status/2065104900590109130)
+
+**Результат:**
+
+| Output |
+| :----: |
+| <a href="../images/portrait_case294/output.jpg" target="_blank" rel="noopener noreferrer"><img src="../images/portrait_case294/output.jpg" width="300" alt="GPT-Image-2 Prompt Example - Non-Existent 1870s Vintage Photograph"></a> |
+
+**Промпт:**
+
+```
+Non Existence Vintage Photographs with GPT Image 2 📸
+
+- Prompt 👇
+a photographic image in the style of 1870, [SCENE DESCRIPTION], with [CHARACTERS described in period accurate clothing], [Describe the interaction].
+
+The photo has an aged and worn appearance, as it was taken in 1870. It features prominent time-induced chemical stains, heavy grain, sepia toning, and deep scratches.
+
+Significantly reduce the sharpness so that the details of the [SUBJECT] are not crisp, making the [SUBJECT] blurry and low-fidelity.
+
+Greatly increase the wear of the photo, including small tears, missing corners, water damage, and small wormholes caused by insect damage. Add a prominent, jagged diagonal cut across the photo, mended clumsily with old, discolored tape.
+```
+
+---
+### Case 295: Doll-ification Concept Portrait
+
+**Source**: [@iamaiistudio](https://x.com/iamaiistudio/status/2065104023011868884)
+
+**Результат:**
+
+<table>
+<tr><td width="50%"><a href="../images/portrait_case295/output.jpg" target="_blank" rel="noopener noreferrer"><img src="../images/portrait_case295/output.jpg" width="100%" alt="GPT-Image-2 Prompt Example - Doll-ification Concept Portrait"></a></td><td width="50%"><a href="../images/portrait_case295/output2.jpg" target="_blank" rel="noopener noreferrer"><img src="../images/portrait_case295/output2.jpg" width="100%" alt="GPT-Image-2 Prompt Example - Doll-ification Concept Portrait"></a></td></tr>
+</table>
+
+**Промпт:**
+
+```
+prompt:
+
+Ultra-realistic full-body portrait of a woman posed exactly as in the reference photo, stylized as a sleek female action figure. She stands with arms folded across her chest on top of a massive Microsoft Surface Tablet, dressed in urban streetwear — black hoodie, jeans, sneakers — with sharp red tech glasses.
+
+Floating around her in a dynamic layout are designer tools: a next-gen camera with a blue holographic glow, a geometric mouse with electric sparks, a digital stylus leaving wireframe trails, a Pantone color guide in bold blue and black, and a minimal black coffee cup with binary code steam rising from it.
+
+Bold blue-and-orange color palette with dramatic lighting throughout. Cyberpunk vibe, neon details, particle effects scattered across the scene. Visual style blends 3D animation with tech photography. Crisp focus, cinematic lighting, 8k resolution.
+
+#AIart #GPTImage2
+```
+
+---
+### Case 296: Neon Doodle Gallery Snapshot Template
+
+**Source**: [@im_shahid7](https://x.com/im_shahid7/status/2065099049938878503)
+
+**Результат:**
+
+| Output |
+| :----: |
+| <a href="../images/portrait_case296/output.jpg" target="_blank" rel="noopener noreferrer"><img src="../images/portrait_case296/output.jpg" width="300" alt="GPT-Image-2 Prompt Example - Neon Doodle Gallery Snapshot Template"></a> |
+
+**Промпт:**
+
+```
+Create a 9:16 image in the "Neon Doodle Gallery Snapshot" style.
+
+Subject: [SUBJECT].
+Subject action: [SUBJECT_ACTION].
+Prop or product: [PRODUCT_OR_PROP].
+Location: [kashmir].
+Background elements: [wooden interior ].
+Main handwritten text: "[Focus mode on]".
+Secondary handwritten text: "[keep going]".
+Accent symbol: [ACCENT_SYMBOL].
+Wardrobe style: [WARDROBE_STYLE].
+
+Use a realistic candid phone-photo as the base layer. The setting should feel specific and ordinary: visible walls, art, shelves, labels, tables, lamps, posters, people, bags, shadows, grain, and imperfect handheld framing.
+
+Draw a loud digital marker layer directly on top of the photo. Wrap the main subject with a thick hot-pink contour and a cyan offset glow. Add yellow-orange monster spikes, horns, rays, fins, or sunburst shapes around the silhouette. Scatter rough hand-drawn symbols around the frame: stars, paw prints, spiderweb corners, halos, abstract eyes, plants, flowers, scribble underlines, tally marks, arrows, hearts, and sticker-like blobs.
+
+Place rough uppercase handwritten marker text in open areas, using white, yellow, or lime green. The text should feel funny, personal, distracted, and student-made. Preserve the contrast between a real candid photo and chaotic handmade doodles.
+
+Avoid watermarks, usernames, platform logos, creator IDs, app marks, QR codes, clean vector-only illustration, fully illustrated backgrounds, polished ad layout, luxury editorial styling, perfect typography, empty sterile locations, identifiable celebrities, and tiny unreadable text.
+
+--- VARIABLES ---
+
+[ACCENT_SYMBOL] — star, paw print, spiderweb, halo, abstract eye, plant, flower, underline, arrow, tally mark, or scribble
+[BACKGROUND_ELEMENTS] — real photo details such as wall art, labels, shelves, posters, tables, lamps, signage, crowds, fabric, shadows, and phone-camera grain
+[LOCATION] — art gallery, campus hallway, library, studio critique room, classroom, night market, cafe, bookstore, museum, or city wall
+[MAIN_TEXT] — large hand-drawn caption or emotional headline
+[PRODUCT_OR_PROP] — notebook, tote bag, coffee, phone, headphones, sketchbook, jacket, snack, poster, camera, book, or exhibition card
+[SECONDARY_TEXT] — small handwritten notes, repeated words, short joke, date-like label, or study annotation
+[SUBJECT] — main person, group, student, artist, friend, commuter, shopper, or quiet candid figure
+[SUBJECT_ACTION] — looking at art, studying, walking, waiting, browsing, reacting, hiding, laughing, or holding a prop
+[WARDROBE_STYLE] — casual student streetwear, oversized shirt, hoodie, tote bag, loose trousers, jacket, headphones, sneakers, or art-school layers
+
+--- NEGATIVE PROMPT ---
+
+watermark, username, creator ID, platform logo, app mark, QR code, clean vector poster, fully illustrated scene, polished advertising layout, luxury editorial shoot, sterile studio, perfect typography, perfect sticker sheet, subtle doodles, empty background, corporate mascot, identifiable celebrity, real public figure, tiny unreadable text
+```
+
+---
+### Case 297: Face-Reference Consistent Portrait
+
+**Source**: [@john_my07](https://x.com/john_my07/status/2065092295092051994)
+
+**Результат:**
+
+<table>
+<tr><td width="50%"><a href="../images/portrait_case297/output.jpg" target="_blank" rel="noopener noreferrer"><img src="../images/portrait_case297/output.jpg" width="100%" alt="GPT-Image-2 Prompt Example - Face-Reference Consistent Portrait"></a></td><td width="50%"><a href="../images/portrait_case297/output2.jpg" target="_blank" rel="noopener noreferrer"><img src="../images/portrait_case297/output2.jpg" width="100%" alt="GPT-Image-2 Prompt Example - Face-Reference Consistent Portrait"></a></td></tr>
+<tr><td width="50%"><a href="../images/portrait_case297/output3.jpg" target="_blank" rel="noopener noreferrer"><img src="../images/portrait_case297/output3.jpg" width="100%" alt="GPT-Image-2 Prompt Example - Face-Reference Consistent Portrait"></a></td></tr>
+</table>
+
+**Промпт:**
+
+```
+Use the attached reference image as the exclusive guide for facial identity, bone structure, body proportions, skin tone, facial features, and overall physical likeness. Create an ultra-realistic luxury fashion editorial portrait of a stunning young woman captured in a premium lifestyle photoshoot.
+She wears an oversized designer crimson-red T-shirt crafted from heavyweight cotton, featuring the striking white slogan "WHATEVER" across the chest in contemporary minimalist typography. A crisp white curved-brim cap adds a sporty upscale touch, while sleek dark aviator-inspired sunglasses rest slightly lower on the bridge of her nose, revealing her eyes and enhancing the fashion-forward aesthetic.
+The subject is seated comfortably in an elegant sunlit setting, positioned at a subtle three-quarter angle. One hand lightly touches the brim of her cap while the other rests naturally near her knee, displaying a refined gold luxury timepiece. Her posture conveys confidence, sophistication, and effortless style, with a gentle head tilt and captivating direct gaze toward the camera.
+Her exceptionally long chestnut-brown hair cascades over one shoulder in soft, voluminous waves, enriched with warm caramel and hazelnut highlights. Individual strands catch the sunlight, creating natural dimension, movement, and silky texture.
+Professional beauty styling includes radiant luminous skin, softly sculpted cheekbones, precise winged eyeliner, naturally full brows, dramatic lashes, subtle champagne highlighter, delicate peach blush, and glossy coral-nude lips. Makeup appears polished yet realistic, suitable for a high-end fashion campaign.
+Accessories are tastefully curated: layered fine gold chains, elegant hoop earrings, a slim gold bracelet, and a premium luxury wristwatch. The jewelry enhances the look without overpowering it.
+Photographed in the style of an international fashion magazine cover, with warm late-afternoon sunlight, creamy background separation, cinematic depth of field, realistic skin detail, ultra-sharp eye focus, premium fabric texture, luxury lifestyle ambiance, sophisticated color grading, and impeccable commercial fashion photography. Hyper-realistic, editorial quality, Vogue-inspired, high-fashion advertising campaign, 8K resolution, award-winning portrait imagery.
+```
+
+---
+### Case 298: 日本コンビニ店員 昼夜対比写真
+
+**Source**: [@johnAGI168](https://x.com/johnAGI168/status/2065080792548618431)
+
+**Результат:**
+
+<table>
+<tr><td width="50%"><a href="../images/portrait_case298/output.jpg" target="_blank" rel="noopener noreferrer"><img src="../images/portrait_case298/output.jpg" width="100%" alt="GPT-Image-2 Prompt Example - 日本コンビニ店員 昼夜対比写真"></a></td><td width="50%"><a href="../images/portrait_case298/output2.jpg" target="_blank" rel="noopener noreferrer"><img src="../images/portrait_case298/output2.jpg" width="100%" alt="GPT-Image-2 Prompt Example - 日本コンビニ店員 昼夜対比写真"></a></td></tr>
+</table>
+
+**Промпт:**
+
+```
+上班山田😊
+
+下班田山🕶
+
+GPT- image 2 prompt👇
+Daytime Yamada cashier version, 3:4 vertical image. Create a realistic live-action portrait of an adult young Japanese woman, around 24 years old. She has fair skin, soft delicate facial features, a gentle oval face, calm dark eyes, natural light makeup, reddish hair, straight blunt bangs, and long side locks framing both sides of her face. Her expression is gentle, polite, slightly shy, and quietly mature, like a reliable supermarket cashier with a warm customer-service smile.
+
+Scene: daytime inside a Japanese supermarket checkout area. She is standing behind or beside the checkout counter, facing the camera, with a polite gentle smile. The background has blurred product shelves, checkout counter details, and clean supermarket lighting.
+
+Outfit: Japanese supermarket employee uniform. Deep red headscarf covering the back of her hair while still showing her straight bangs and red side locks, pale green or beige striped short-sleeve work shirt, deep red apron, black flared work pants. Add a small rectangular employee name badge pinned on the upper chest or apron with readable Japanese text “山田”. The badge should be realistic, small, and clear. The only readable text in the image should be “山田”.
+
+Style: realistic live-action Japanese drama still, 3:4 vertical portrait, waist-up or three-quarter body, natural indoor fluorescent supermarket lighting, shallow depth of field, muted realistic colors, natural skin texture, 35mm lens look, high detail.
+```
+
+---
+### Case 299: Dreamlike Cloud Face Portrait
+
+**Source**: [@iamaiistudio](https://x.com/iamaiistudio/status/2065073375463325883)
+
+**Результат:**
+
+| Output |
+| :----: |
+| <a href="../images/portrait_case299/output.jpg" target="_blank" rel="noopener noreferrer"><img src="../images/portrait_case299/output.jpg" width="300" alt="GPT-Image-2 Prompt Example - Dreamlike Cloud Face Portrait"></a> |
+
+**Промпт:**
+
+```
+prompt:
+
+Reimagine [NAME] as a dreamlike cloud portrait, keeping their face, expression, and defining features clearly recognizable while transforming the form into soft billowing clouds against a bright blue sky.
+The portrait should look like the face is materializing from or melting into the clouds, with gentle diffused natural light casting soft highlights and airy shadows for depth and realism.
+Avoid sharp edges, visible skin texture, or hard details, keeping the transition symbolic and organic.
+Preserve facial proportions, eyes, smile, and distinctive features through the cloud structure.
+Style: dreamy, ethereal, cinematic, surreal
+Lighting: volumetric sunlight, soft glow, natural
+Color palette: sky blue, white, soft gradient tones
+Mood: serene, uplifting, peaceful
+Layer clouds naturally around and within the face for a smooth, seamless transition. Keep the background a clean blue sky with soft gradient clouds.
+Ultra-realistic cloud texture, high resolution, seamless blending, no watermarks, no text.
+
+#AIart #GPTImage2
+```
+
+---
+### Case 300: Face-Preserved Ultra-Realistic Portrait
+
+**Source**: [@Rainlanded](https://x.com/Rainlanded/status/2065071103316484451)
+
+**Результат:**
+
+<table>
+<tr><td width="50%"><a href="../images/portrait_case300/output.jpg" target="_blank" rel="noopener noreferrer"><img src="../images/portrait_case300/output.jpg" width="100%" alt="GPT-Image-2 Prompt Example - Face-Preserved Ultra-Realistic Portrait"></a></td><td width="50%"><a href="../images/portrait_case300/output2.jpg" target="_blank" rel="noopener noreferrer"><img src="../images/portrait_case300/output2.jpg" width="100%" alt="GPT-Image-2 Prompt Example - Face-Preserved Ultra-Realistic Portrait"></a></td></tr>
+</table>
+
+**Промпт:**
+
+```
+low quality, blurry, distorted face, bad anatomy, extra limbs, stiff pose, unnatural selfie angle, overexposed skin, harsh flash, plastic skin, overly bright colors, cheap fabric, messy background, cartoon style, exaggerated beauty filter, unrealistic eyes, artificial hair, bad hands, awkward arm, noisy image.
+```
+
+---
+### Case 301: Sharp Digital Portrait Illustration
+
+**Source**: [@JamilAI55](https://x.com/JamilAI55/status/2065060797861023948)
+
+**Результат:**
+
+| Output |
+| :----: |
+| <a href="../images/portrait_case301/output.jpg" target="_blank" rel="noopener noreferrer"><img src="../images/portrait_case301/output.jpg" width="300" alt="GPT-Image-2 Prompt Example - Sharp Digital Portrait Illustration"></a> |
+
+**Промпт:**
+
+```
+Open Gemini / Grok / GPT Image 2.0
+2. Upload your photo
+3. Copy the prompt
+4. Generate
+5. Prompt ⤵️
+Prompt 👇
+Ultra-detailed digital portrait illustration of a confident young man with sharp facial features and intense dark eyes, looking directly into the camera. His hand covers the lower half of his face, creating a mysterious and powerful expression. Stylish voluminous black hair, wearing a deep red shirt over a black t-shirt, black wrist wrap, and a subtle gold chain. Dramatic red rim lighting outlining the hair, face, shoulders, and clothing against a pure black background. High-contrast cinematic lighting, dark moody atmosphere, bold shadows, comic-book and graphic novel style, semi-realistic digital painting, ultra-sharp details, textured brushwork, modern masculine aesthetic, centered composition, portrait crop, 4K quality, trending on ArtStation, masterpiece, highly detailed, red and black color palette, powerful gaze, edgy and stylish character design
+```
+
+---
+### Case 302: 파리 가로등 기댄 감성 전신 포즈
+
+**Source**: [@CHAseUnre](https://x.com/CHAseUnre/status/2065240920283398353)
+
+**Результат:**
+
+| Output |
+| :----: |
+| <a href="../images/portrait_case302/output.jpg" target="_blank" rel="noopener noreferrer"><img src="../images/portrait_case302/output.jpg" width="300" alt="GPT-Image-2 Prompt Example - 파리 가로등 기댄 감성 전신 포즈"></a> |
+
+**Промпт:**
+
+```
+[인물] 이미지1, 이미지2 참조. 파리의 길거리 표지판 기둥에 몸을 비스듬히 기대어 서 있는 전신 포즈입니다. 고개를 살짝 왼쪽으로 기울이고 눈을 감은 채 입술을 아주 약간 내밀며 나른하고 감성적인 표정을 짓고 있습니다. 왼손에는 테이크아웃 커피 컵을 가볍게 쥐고 있습니다. 배경: 파리 거리 분위기, 흐린 자연광.
+```
+
+---
+### Case 303: 深夜调酒师暗红酒吧封面写真
+
+**Source**: [@liyue_ai](https://x.com/liyue_ai/status/2064965712406556931)
+
+**Результат:**
+
+<table>
+<tr><td width="50%"><a href="../images/portrait_case303/output.jpg" target="_blank" rel="noopener noreferrer"><img src="../images/portrait_case303/output.jpg" width="100%" alt="GPT-Image-2 Prompt Example - 深夜调酒师暗红酒吧封面写真"></a></td><td width="50%"><a href="../images/portrait_case303/output2.jpg" target="_blank" rel="noopener noreferrer"><img src="../images/portrait_case303/output2.jpg" width="100%" alt="GPT-Image-2 Prompt Example - 深夜调酒师暗红酒吧封面写真"></a></td></tr>
+<tr><td width="50%"><a href="../images/portrait_case303/output3.jpg" target="_blank" rel="noopener noreferrer"><img src="../images/portrait_case303/output3.jpg" width="100%" alt="GPT-Image-2 Prompt Example - 深夜调酒师暗红酒吧封面写真"></a></td></tr>
+</table>
+
+**Промпт:**
+
+```
+深夜调酒师人物摄影：高级酒吧场景、暗红灯光、玻璃酒杯反光 + 黑衬衫、深酒红马甲、袖箍建立人物身份感 + 调酒动作、抬眼看镜头、金色边缘光建立封面气场。危险但克制的气质，深夜暗红酒吧封面风。
+```
+
+<!-- Case 304: Шерстяная миниатюра в технике сухого валяния (by @iamaiistudio) -->
+### Case 304: [Шерстяная миниатюра в технике сухого валяния](https://x.com/iamaiistudio/status/2066206049464660301) (by [@iamaiistudio](https://x.com/iamaiistudio))
+
+| Output |
+| :----: |
+| <a href="../images/portrait_case304/output.jpg" target="_blank" rel="noopener noreferrer"><img src="../images/portrait_case304/output.jpg" width="300" alt="GPT-Image-2 Prompt Example - Шерстяная миниатюра в технике сухого валяния"></a> |
+
+**Промпт:**
+
+```
+Transform the subject into a handcrafted needle-felted wool miniature. Material: organic roving wool with visible needle-punch textures, soft fuzzy surface, and handcrafted seams. Eyes are tiny black bead eyes or simple felted circles.
+
+Style rules: slightly oversized head with simplified limbs and a cute, charming aesthetic. Retain the original colors from the source image but soften them with wool texture. Clothing becomes simplified felt versions of the original outfits with tiny fabric buttons and stitched details. Accessories are recreated as miniature felted props.
+
+Camera: macro photography, close-up shot. Soft studio lighting with warm highlights and gentle shadows. Clean, out-of-focus bokeh background in a neutral craft studio setting. Shallow depth of field (f/2.8). High fidelity, 8k resolution, photorealistic wool texture, Pixar-like character charm.
+```
+
+---
+### Case 305: Воздушный японский портрет у окна
+
+**Source**: [@iamaiistudio](https://x.com/iamaiistudio/status/2066643592366727581)
+
+**Результат:**
+
+| Output |
+| :----: |
+| <a href="../images/portrait_case305/output.jpg" target="_blank" rel="noopener noreferrer"><img src="../images/portrait_case305/output.jpg" width="300" alt="GPT-Image-2 Prompt Example - Воздушный японский портрет у окна"></a> |
+
+**Промпт:**
+
+```
+35mm film photo, airy Japanese aesthetic, soft natural window light from the side, slightly overexposed, muted pastel colors, low contrast, bright gentle highlights, quiet indoor room beside sheer white curtains, pale wall, natural eye-level frame from mid-thigh upward, young East Asian woman, barely-there makeup, smooth natural skin, long loose dark hair, oversized white button-down shirt, casual shorts, bare feet, effortless everyday style, relaxed stance with arms lightly at sides or gently back, looking softly at the camera, calm quiet smile, stillness and lightness, fine film grain, gentle dreamy mood --ar 9:16
+```
+
+<!-- Case 306: Портрет с айс-кофе на скамейке (by @saniaspeaks_) -->
+### Case 306: [Портрет с айс-кофе на скамейке](https://x.com/saniaspeaks_/status/2067451160991084677) (by [@saniaspeaks_](https://x.com/saniaspeaks_))
+
+<table>
+<tr><td width="50%"><a href="../images/portrait_case306/output.jpg" target="_blank" rel="noopener noreferrer"><img src="../images/portrait_case306/output.jpg" width="100%" alt="GPT-Image-2 Prompt Example - Портрет с айс-кофе на скамейке"></a></td><td width="50%"><a href="../images/portrait_case306/output2.jpg" target="_blank" rel="noopener noreferrer"><img src="../images/portrait_case306/output2.jpg" width="100%" alt="GPT-Image-2 Prompt Example - Портрет с айс-кофе на скамейке"></a></td></tr>
+</table>
+
+**Промпт:**
+
+```
+Beautiful young Japanese girl with long straight dark brown hair and soft full bangs, fair skin, bright natural smile, sitting casually on a wooden park bench while holding an iced coffee cup. Wearing a light beige windbreaker jacket and a white pleated mini skirt, relaxed posture, one hand resting on the bench. Surrounded by a lush green park with tall trees, fresh grass, and a bright blue sky with soft clouds. Captured with a smartphone camera in portrait mode, casual everyday snapshot, natural daylight, handheld iPhone photo, slightly imperfect framing, realistic skin texture, natural colors, soft HDR phone processing, candid social-media aesthetic, no professional modeling, no studio lighting, no cinematic color grading, authentic mobile photography, ordinary park outing vibe, spontaneous moment, realistic shadows, subtle lens softness, photorealistic, high-quality phone camera image.
+```
+
+<!-- Case 307: Крупный портрет с челкой-шторкой (by @iamsofiaijaz) -->
+### Case 307: [Крупный портрет с челкой-шторкой](https://x.com/iamsofiaijaz/status/2067450336378544407) (by [@iamsofiaijaz](https://x.com/iamsofiaijaz))
+
+| Output |
+| :----: |
+| <a href="../images/portrait_case307/output.jpg" target="_blank" rel="noopener noreferrer"><img src="../images/portrait_case307/output.jpg" width="300" alt="GPT-Image-2 Prompt Example - Крупный портрет с челкой-шторкой"></a> |
+
+**Промпт:**
+
+```
+A photorealistic close-up portrait of a young girl filling almost the entire frame. Her head is slightly tilted to the side, with her cheek resting against her shoulder and partially hidden inside the long cream-colored sleeve of a hoodie. Long, straight hair with curtain bangs falls freely along the left side of her face, covering one eye.￼ On the visible side of her face, she wears soft makeup: laminated brows, a sharp elongated black winged eyeliner that extends the shape of the eye, matte dusty-pink lips, and a calm, slightly pouting expression. She looks directly into the camera, with visible eyelashes.
+
+A long zip-up hoodie over the one shoulder The composition is intimate and casual, resembling a webcam selfie. The frame has a slight tilt, and the face is positioned very close to the lens. Focus is sharp on the visible eye, lips, hair texture, and the thick cream-colored fabric of the sleeve, while the background fades into a soft blur. Behind her is a simple warm gray-beige wall with no visible details. Warm indoor and screen lighting from the front-left creates soft highlights on the skin and hair. The contrast is moderate, and the color palette is muted, featuring black, beige-gray, and dusty pink tones. The overall image should preserve the authentic feeling of a selfie photograph.
+```
+
+---
+### Case 308: [Крупный план кибернетического протеза](https://x.com/iamaiistudio/status/2067732972351222060) (by [@iamaiistudio](https://x.com/iamaiistudio))
+
+| Output |
+| :----: |
+| <a href="../images/portrait_case308/output.jpg" target="_blank" rel="noopener noreferrer"><img src="../images/portrait_case308/output.jpg" width="300" alt="GPT-Image-2 Prompt Example - Cyborg Prosthetic Close-Up"></a> |
+
+**Промпт:**
+
+```
+Ultra-realistic cinematic close-up of a young woman with pale, freckled skin and wet dark hair. Her eyes are vivid blue-green and she wears a silver septum ring.
+Cybernetics: A massive industrial robotic prosthetic arm with worn metal textures, visible wiring, and hydraulic components rests near her face, metallic fingers curved toward her temple.
+A thin cybernetic sensor wire traces across her cheekbone just below the eye.
+Her jawline and neck show embedded steel plating and brushed-metal body augmentations.
+
+Background: Clean, neutral studio setting in muted grey-white.
+Lighting: Soft front-left directional light casting detailed shadows across mechanical joints while catching moisture on skin and lips.
+Mood: Raw, futuristic, and melancholic with a high-end editorial aesthetic.
+Framing: Off-center composition, shallow focus on the eye and robotic hand texture detail.
+Surface detail: Pores clearly visible, individual wet hair strands, scratched and oil-marked metal.
+Color grade: Muted cool palette, high contrast. Photorealistic digital art style.
+```
+
+---
+### Case 309: [Солнечный портрет в средиземноморском переулке](https://x.com/iamaiistudio/status/2067474399431979223) (by [@iamaiistudio](https://x.com/iamaiistudio))
+
+| Output |
+| :----: |
+| <a href="../images/portrait_case309/output.jpg" target="_blank" rel="noopener noreferrer"><img src="../images/portrait_case309/output.jpg" width="300" alt="GPT-Image-2 Prompt Example - Mediterranean Alley Sunlit Portrait"></a> |
+
+**Промпт:**
+
+```
+Ultra-realistic photo of a woman seated on stone steps in a vibrant Mediterranean alley with vivid blue-painted walls, stairs, and buildings with white accents. She wears a blue fitted sleeveless top and a long flowing white skirt, barefoot, with a calm relaxed expression and eyes slightly downward. Long wavy hair falls naturally over her shoulders. Strong natural sunlight creates high contrast shadows and saturated colors. Shot from a slightly low front-facing angle with full body framing, sharp focus on subject against a detailed background of blue walls, hanging patterned fabric, small windows, and plants above. Highly saturated blues contrasted with natural white and skin tones, ultra-realistic textures, crisp shadows, realistic depth.
+```
+
+<!-- Case 310: Toy Camera Balcony Candid (by @iamaiistudio) -->
+### Case 310: [Спонтанный балконный кадр на игрушечную камеру](https://x.com/iamaiistudio/status/2068501129059783072) (by [@iamaiistudio](https://x.com/iamaiistudio))
+
+| Результат |
+| :----: |
+| <a href="../images/portrait_case310/output.jpg" target="_blank" rel="noopener noreferrer"><img src="../images/portrait_case310/output.jpg" width="300" alt="GPT-Image-2 Prompt Example - Спонтанный балконный кадр на игрушечную камеру"></a> |
+
+**Промпт:**
+
+```
+A quiet summer morning in a European apartment. A woman sits on the floor next to open balcony doors, absorbed in a book, one leg stretched toward the railing, a cream knitted blanket draped loosely over her lap. She wears a simple orange bralette and delicate jewelry, completely unaware of the camera. A cup of tea and an open book rest on the wooden floor beside her. The balcony overlooks classic European architecture: cream stone facades, wrought-iron railings, flowering balconies, leafy trees.
+
+Photographed from an awkward handheld angle, as if someone walked past the room and snapped a photo without slowing down. The framing is tilted and accidental. The subject is not centered. Parts of the balcony doors, blanket, floor, and foreground objects are cut off by the frame edges.
+
+Captured on a cheap 2000s low-resolution toy digital camera. 0.3-megapixel quality. Heavy motion blur. Intentionally crooked and tilted framing. Harsh pop-up flash despite bright daylight. Overexposed white highlights. Intense digital noise and heavy sensor grain. Low-fidelity faded colors. Chromatic aberration at the edges. Lens flare. Looks like an extremely blurry candid photo uploaded from an old toy camera. Raw and amateurish. Authentic nostalgic texture.
+
+Slight focus miss, motion smear, low-resolution facial details, sensor noise, JPEG artifacts, and compression damage visible across the face — exactly as a cheap toy camera would produce.
+
+Do not preserve modern clarity. Do not protect facial sharpness. The subject remains recognizable despite image degradation. Subject occupies 65% of the frame.
+
+Large foreground obstructions from a partially clipped teacup, book, blanket folds, and balcony door frame. Extreme off-balance composition. Camera not leveled. Subject positioned awkwardly near one edge. Parts of the room, railing, and foreground elements are clipped.
+
+The image should feel like a forgotten candid uploaded to an old social media site in the mid-2000s. Raw, amateurish, imperfect, accidental, nostalgic, unpolished. Captured-memory realism, not aesthetic photography.
+
+Super thick plastic toy-lens softness, motion smear, focus miss, smeared highlights, low-resolution detail loss, heavy JPEG compression, sensor noise, and degraded detail across the face, hair, hands, blanket, books, teacup, balcony, buildings, and sky.
+
+--ar 4:5
+
+Negative prompt: beauty filter, modern smartphone quality, DSLR quality, cinematic grading, HDR photography, professional composition, studio lighting, ultra sharp face, perfect skin, flawless focus, fashion editorial, influencer photo, polished digital rendering, AI perfection, hyper-detailed eyes, premium camera quality, luxury portrait photography
+```
+
+<!-- Case 311: Emerald Headwrap Editorial Portrait (by @bmx_ai13) -->
+### Case 311: [Редакционный портрет в изумрудном тюрбане](https://x.com/bmx_ai13/status/2068462145319444778) (by [@bmx_ai13](https://x.com/bmx_ai13))
+
+| Результат |
+| :----: |
+| <a href="../images/portrait_case311/output.jpg" target="_blank" rel="noopener noreferrer"><img src="../images/portrait_case311/output.jpg" width="300" alt="GPT-Image-2 Prompt Example - Редакционный портрет в изумрудном тюрбане"></a> |
+
+**Промпт:**
+
+```
+A cinematic close up side profile portrait of a beautiful Black woman with deep glowing skin, eyes closed peacefully, wearing a bold emerald green and black patterned headwrap and matching scarf. Minimal elegant white face paint strokes above the eyebrow and across the cheek, glossy natural lips, small silver earring. Dark muted green studio background with soft atmospheric bokeh, premium fashion editorial lighting, smooth skin texture, dramatic yet calm mood, African inspired beauty portrait, high end magazine cover aesthetic, ultra-realistic photography, shallow depth of field, soft rim light, rich contrast, 85mm lens, f/1.8, 8k detail.
+
+Negative Prompt: text, logo, watermark, extra face paint, messy fabric, distorted face, bad anatomy, harsh shadows, overexposed skin, blurry eyes, plastic skin, low resolution, cartoon, CGI, unrealistic jewelry, extra earrings, deformed nose, asymmetrical lips.
+```
+
+<!-- Case 312: Late-Night Office Flash Portrait (by @iamaiistudio) -->
+### Case 312: [Ночной офисный портрет со вспышкой](https://x.com/iamaiistudio/status/2068395305624871253) (by [@iamaiistudio](https://x.com/iamaiistudio))
+
+| Результат |
+| :----: |
+| <a href="../images/portrait_case312/output.jpg" target="_blank" rel="noopener noreferrer"><img src="../images/portrait_case312/output.jpg" width="300" alt="GPT-Image-2 Prompt Example - Ночной офисный портрет со вспышкой"></a> |
+
+**Промпт:**
+
+```
+CCD flash photography style, late-night office setting, whiteboard covered in mathematical formulas in the background, black-rimmed glasses, white high-neck top, black high-waisted mini skirt, semi-matte cool-white porcelain skin with realistic skin texture, subject seated at desk, whiteboard marker held close to the lips, slight dutch angle composition, nuyoah aesthetic
+```
+
+<!-- Case 313: Late-Night Subway CCD Portrait (by @iamaiistudio) -->
+### Case 313: [Ночной CCD-портрет в метро](https://x.com/iamaiistudio/status/2068516066679283984) (by [@iamaiistudio](https://x.com/iamaiistudio))
+
+<table>
+<tr><td width="50%"><a href="../images/portrait_case313/output.jpg" target="_blank" rel="noopener noreferrer"><img src="../images/portrait_case313/output.jpg" width="100%" alt="GPT-Image-2 Prompt Example - Ночной CCD-портрет в метро"></a></td><td width="50%"><a href="../images/portrait_case313/output2.jpg" target="_blank" rel="noopener noreferrer"><img src="../images/portrait_case313/output2.jpg" width="100%" alt="GPT-Image-2 Prompt Example - Ночной CCD-портрет в метро"></a></td></tr>
+</table>
+
+**Промпт:**
+
+```
+prompt:
+
+CCD flash photo with low-saturation black-pearl dark-gold tones, deep charcoal shadows, subtle dark-gold light reflections, soft frontal flash illuminating the subject, slight overexposure, fine grain, cool and moody late-night city atmosphere.
+
+Subject: young East Asian woman, elegant small oval face, narrow almond-shaped eyes, aloof expression, black low ponytail.
+Outfit: black turtleneck bodycon dress + dark gray thin jacket + sheer stockings + pointed stilettos.
+Setting: deserted midnight subway platform, metal benches, blurred backlit ad panels, reflective floor.
+Pose: sitting on platform bench, legs crossed naturally, one hand on her bag.
+Expression: pensive, glancing up at camera after looking down.
+Highlight: long legs, slim waist, cold elegant vibe.
+Aspect ratio: 9:16
+```
+
+<!-- Case 314: Винтажный уличный портрет с motion blur (by @iamaiistudio) -->
+### Case 314: [Винтажный уличный портрет с motion blur](https://x.com/iamaiistudio/status/2068887185269616803) (by [@iamaiistudio](https://x.com/iamaiistudio))
+
+| Output |
+| :----: |
+| <a href="../images/portrait_case314/output.jpg" target="_blank" rel="noopener noreferrer"><img src="../images/portrait_case314/output.jpg" width="300" alt="GPT-Image-2 Prompt Example - Винтажный уличный портрет с motion blur"></a> |
+
+**Prompt:**
+
+```
+A stylish woman standing still with hands in pockets, wearing a loose sage-green button-up shirt tucked into high-waisted dark trousers. Calm, confident expression. Vintage cars rushing past at high speed behind her, creating dramatic motion blur trails with a long-exposure photography effect. Street portrait setting, warm golden-hour lighting, muted retro color palette with reds, teals, and yellows streaking across the frame. Sharp focus on the woman with shallow depth of field, strong subject isolation. Cinematic realism, editorial fashion mood, nostalgic 1970s film look, soft grain, ultra-detailed, high resolution.
+```
+
+<!-- Case 315: Студийный портрет с высоты птичьего полета (by @iamaiistudio) -->
+### Case 315: [Студийный портрет с высоты птичьего полета](https://x.com/iamaiistudio/status/2069568331821318277) (by [@iamaiistudio](https://x.com/iamaiistudio))
+
+| Output |
+| :----: |
+| <a href="../images/portrait_case315/output.jpg" target="_blank" rel="noopener noreferrer"><img src="../images/portrait_case315/output.jpg" width="300" alt="GPT-Image-2 Prompt Example - Студийный портрет с высоты птичьего полета"></a> |
+
+**Prompt:**
+
+```
+Full prompt:
+
+Ultra-wide angle, 90-degree top-down aerial studio portrait of a woman looking straight up at the camera. Strict identity preservation from reference image, do not alter face, proportions, skin texture, or expression.
+
+Composition: full-body framing, large negative space surrounding the subject, dramatic isolation and graphic impact.
+
+Subject: woman with round thick-framed stylish glasses. Wearing a deep dark brown short-sleeve button-up shirt in corduroy or textured fabric, with a light beige off-white textured sweater underneath. Natural hairstyle with visible texture and volume, do not alter hair color or structure. Natural realistic skin tone, visible texture, not over-smoothed. Expression: engaging, slightly curious or inquisitive.
+
+Background: minimalist studio backdrop, soft gray gradient, darker at edges, lighter at center directly beneath the subject.
+
+Lighting: soft uniform overhead lighting from above, subtle shadows defining facial features and clothing folds, even illumination, no harsh contrast.
+
+Camera: ISO 150-200, aperture f/1.28, shutter speed 1/200s, high-resolution ultra-detailed.
+
+Color grading: neutral modern tones, soft balanced contrast, clean contemporary look.
+
+Mood: minimalist, modern, contemplative. Strong subject isolation and visual clarity.
+```
+
+
+<!-- Case 316: Портрет с кроссовком в принудительной перспективе (by @iamaiistudio) -->
+### Case 316: [Портрет с кроссовком в принудительной перспективе](https://x.com/iamaiistudio/status/2069538312357114324) (by [@iamaiistudio](https://x.com/iamaiistudio))
+
+| Output |
+| :----: |
+| <a href="../images/portrait_case316/output.jpg" target="_blank" rel="noopener noreferrer"><img src="../images/portrait_case316/output.jpg" width="300" alt="GPT-Image-2 Prompt Example - Портрет с кроссовком в принудительной перспективе"></a> |
+
+**Prompt:**
+
+```
+A cinematic forced-perspective street photography scene where a giant worn-out sneaker appears enormous in the foreground, towering over a casually dressed young man leaning against it. The man wears a brown leather jacket, loose blue jeans, sneakers, and a beige cap, standing confidently with hands in pockets. Autumn atmosphere with yellow and orange leaves scattered on the road, talltrees with fall foliage in the background, parked car slightly blurred. Ultra-realistic textures on the shoe sole, visible dirt and fabric wear. Shot from a very low angle to exaggerate scale, shallow depth of field, natural daylight, soft cinematic color grading, realistic shadows, high detail, 8K resolution, professional photography, surreal yet believable forced perspective illusion.
+```
+
+
+<!-- Case 317: Редакционный портрет с облачным цветением (by @ChillaiKalan__) -->
+### Case 317: [Редакционный портрет с облачным цветением](https://x.com/ChillaiKalan__/status/2069471846890959183) (by [@ChillaiKalan__](https://x.com/ChillaiKalan__))
+
+<table>
+<tr><td width="50%"><a href="../images/portrait_case317/output.jpg" target="_blank" rel="noopener noreferrer"><img src="../images/portrait_case317/output.jpg" width="100%" alt="GPT-Image-2 Prompt Example - Редакционный портрет с облачным цветением"></a></td><td width="50%"><a href="../images/portrait_case317/output2.jpg" target="_blank" rel="noopener noreferrer"><img src="../images/portrait_case317/output2.jpg" width="100%" alt="GPT-Image-2 Prompt Example - Редакционный портрет с облачным цветением"></a></td></tr>
+</table>
+
+**Prompt:**
+
+```
+Photorealistic high-fashion editorial image, vertical 4:5. A young adult fashion model sitting calmly on the center of one enormous pink flower growing above the clouds, the flower stem rising from below and disappearing into soft white clouds. Low-angle perspective from slightly below, the flower framing the image, making the flower feel monumental and surreal. The model wears a short sleeve crisp oversized white shirt, loose light trousers, silver jewelry, and black minimal sandals. Natural open brown hair moving softly in the wind, composed expression, slight soft smile. Clean vivid blue sky, a few soft white clouds, huge detailed flower petals, bright natural daylight, crisp vivid color, playful surreal fashion campaign mood, realistic anatomy, natural hands, sharp editorial photography, no text, no logos --ar 4:5 --raw --profile glu65pn --stylize 60 --weird 4 --hd
+```
+
+<!-- Case 318: Nochnoi selfi-portret v spalne krupnym planom (by @TIGER) -->
+### Case 318: [Nochnoi selfi-portret v spalne krupnym planom](#) (by @TIGER)
+
+| Rezultat |
+| :----: |
+| <a href="../images/portrait_case318/output.jpeg" target="_blank" rel="noopener noreferrer"><img src="../images/portrait_case318/output.jpeg" width="300" alt="Izobrazhenie rezultata"></a> |
+
+**Prompt:**
+
+```
+Vertical 9:16 close-up nighttime bedroom phone selfie portrait. A young woman is lying on a bed or soft bedding, leaning very close to the camera, her face placed from the lower-right toward the center of the frame. The camera sits slightly below face level, as if shot from bed or tabletop height, with a subtle tilted composition. Keep the real low-light phone selfie feeling: mild digital noise, compressed dark areas, and a spontaneous imperfect frame.
+
+She looks directly into the lens with large clear eyes, fine black eyeliner, curled lashes, soft pink-brown eyeshadow, and a subtle aegyo-sal effect. Her expression is calm, soft, and slightly absent-minded, like a tired late-night pause. Her lips are gently closed with glossy rose-pink lip tint. Preserve a small soft face shape, delicate nose bridge, gentle jawline, clean transparent base makeup, and realistic skin texture rather than plastic smoothing. The makeup direction should feel like Korean / Xiaohongshu-style nighttime selfie beauty.
+
+Her hair is long, straight, dark brown almost black, naturally parted slightly off-center, falling close to the cheeks and shoulder, with a few fine loose strands across the forehead. The crown and hair edges catch cool blue-purple reflections. She wears a loose pale gray-white or cool light blue-gray knitted sweater with a slipped off-shoulder neckline, revealing one shoulder, the neck, collarbones, and a small upper-chest area near the neckline. The waist, legs, and bottom clothing are not visible; do not invent extra exposed body areas. Visible skin includes the face, neck, collarbones, one shoulder, a small upper-chest area, and partial fingers. Her skin tone is fair and natural, made porcelain-cool by the blue-purple light; the shoulder and neck skin should feel soft, clean, and slightly cool, as if covered by late-night screen light.
+
+The main light is a close blue-purple LED or screen-like glow from the lower-left front, washing across the cheeks, nose bridge, neck, shoulder, knit sweater, and foreground objects. The opposite side of the face remains darker, while a narrow weak warm light along the left door or mirror frame creates a cool-warm contrast. In the foreground, place a white ceramic cup with blue handwritten-style lettering and a dark-covered book or magazine, partially blocking the lower frame. The background is a dim bedroom or dorm room: a slanted door frame or mirror frame on the left, a half-open wardrobe with hanging dark and light clothes, a black decorative picture or bag above it, and white bedding. The atmosphere is quiet, intimate, and believable, as if she had been lying in bed late at night with the cup and book still there, then looked up into the lens while the blue-purple light was still on.
+
+Negative prompt: plastic skin, over retouched, heavy glamour lighting, extra exposed body, wide smile, bad hands, distorted face, harsh flash, clean studio background, over saturated neon, cartoon, anime, low detail eyes.
+```
+
+<!-- Case 319: CCD Portret devushki v spalne v yaponskom stile (by @nanyuan0412) -->
+### Case 319: [CCD Portret devushki v spalne v yaponskom stile](https://x.com/nanyuan0412/status/2072892849256046810) (by [@nanyuan0412](https://x.com/nanyuan0412))
+
+| Output |
+| :----: |
+| <a href="../images/portrait_case319/output.jpg" target="_blank" rel="noopener noreferrer"><img src="../images/portrait_case319/output.jpg" width="300" alt="Output image"></a> |
+
+**Prompt:**
+
+```
+CCD 闪光直拍、低清数码压缩、轻微过曝高光、柔焦美颜、浅粉蓝低饱和甜美调色，真人摄影，日系少女卧室写真。俯拍高机位广角手机感，中近景斜向构图，白色皱褶床单占大面积，年轻美女斜躺在床上，脸部位于右侧中部最清晰，双腿屈起抬向左上前景形成透视，身体被浅蓝白条纹棉质睡裙包裹，胸口系带与荷叶边、裙摆自然褶皱，白色蕾丝手套半透明层叠，一只手轻触嘴边，另一只手松弛摊在床上，白色短袜带浅蓝蝴蝶结图案。冷白到象牙白肤调，闪光带暖白高光，腿部和手臂轻微过曝，脸颊淡粉腮红，鼻尖与唇面有妆面反光；深棕长卷发散在枕头上，空气刘海和蓝色小发夹，半睁水光眼、上眼睑轻压、粉红嘴唇微张，娇俏迷离、欲言又止。右侧蓝白格纹枕和粉色抱枕，底部粉色复古电话，中下方白色小熊玩偶，少量草莓蛋糕与蓝色蝴蝶结点缀，辅助元素不可放大为主角。正面偏左上闪光直打，白、浅蓝、粉色为主，边缘锐度不均、轻颗粒、背景道具略虚，Pin 图式亲密生活感
+```
+
+<!-- Case 320: Selfi krupnym planom s verkhnego rakursa (by @TIGER) -->
+### Case 320: [Selfi krupnym planom s verkhnego rakursa](#) (by @TIGER)
+
+| Output |
+| :----: |
+| <a href="../images/portrait_case320/output.jpeg" target="_blank" rel="noopener noreferrer"><img src="../images/portrait_case320/output.jpeg" width="300" alt="Output image"></a> |
+
+**Prompt:**
+
+```
+{
+  "subject": {
+    "description": "An adult female model appears in a close high-angle selfie-style image. Her face is close to the lens on the right side of the frame, one arm reaches toward the camera, and a finger or palm heavily blocks the upper-left area. The image feels like a spontaneous late-night room selfie, with a messy real background containing a laptop, desk lamp, cluttered table, shelves, and city lights outside the window.",
+    "mirror_rules": {
+      "is_mirror_selfie": false,
+      "rules": "Not a mirror selfie. Keep the handheld selfie perspective with one arm reaching toward the camera and a blurred finger obstruction in the upper-left corner. No mirror reflection or visible front-facing phone."
+    },
+    "age": "adult woman, appears in her 20s",
+    "expression": {
+      "eyes": {
+        "look": "moist, slightly tired eyes looking directly into the camera, partly covered by messy hair strands",
+        "energy": "late-night, tired, hazy, as if she just paused mid-motion",
+        "direction": "looking up toward the close camera from the right-middle area of the frame"
+      },
+      "mouth": {
+        "position": "lips slightly parted, with glossy highlights",
+        "energy": "relaxed, unguarded, carrying a slow late-night feeling"
+      },
+      "overall": "Her expression feels like a spontaneous camera raise in a messy room, with lived-in realism, tiredness, and emotional residue from the previous second."
+    },
+    "face": {
+      "preserve_original": "Preserve the small face, soft jawline, natural nose bridge, moist eyes, slightly flushed nose and cheeks, and real strands of hair pressed across the face. Do not replace her with a specific celebrity face or an overdone influencer look.",
+      "makeup": "Transparent late-night selfie makeup inspired by East Asian urban phone portraits: thin base, subtle under-eye shine, natural brown-black eyeliner, long lashes, muted pink-brown eyeshadow, lightly flushed nose and cheeks, and low-saturation rosy-pink glossy lips."
+    }
+  },
+  "hair": {
+    "color": "deep black-brown or natural dark brown",
+    "style": "long hair falling loosely, thick volume, messy strands around the face and forehead",
+    "effect": "The hair looks as if it had just been brushed by hand or moved by motion. Strands fall near the eyes, cheeks, and lips. Shadows are nearly black, while the lamp and screen light create soft brown reflections."
+  },
+  "body": {
+    "frame": "slender adult female frame, mostly cropped into face, neck, shoulders, and the arm reaching toward the camera",
+    "waist": "the waist is not clearly visible, hidden by the white top, cropping, and foreground obstruction",
+    "chest": "the chest is covered by a white short-sleeved T-shirt, showing only a casual clothing silhouette without emphasis on body shape",
+    "legs": "legs are not clearly visible and should not be a visual focus",
+    "skin": {
+      "visible_areas": "Visible skin includes the face, neck, a small collarbone area, shoulder edge, forearm reaching toward the camera, wrist, and part of the hand. The chest, waist, abdomen, back, hips, and legs are covered, cropped, or obstructed, with no added exposure.",
+      "tone": "natural warm fair skin with a pale peach undertone, appearing creamy beige under indoor warm light, with slight gray-green and cool-blue tones in the shadows",
+      "texture": "The skin should retain real selfie texture. Cheeks and nose tip feel slightly warm, fine, and faintly dewy to the touch; the foreground arm is soft and slightly out of focus because it is close to the lens. Avoid plastic smoothing.",
+      "lighting_effect": "A mix of desk lamp, laptop screen, and warm room light illuminates the face, nose tip, glossy lips, and extended arm, creating small highlights. The window night light and darker room areas push the shadows into low-saturation cool gray."
+    }
+  },
+  "pose": {
+    "position": "the subject is close to the camera in a room, sitting or half-standing, with her body shifted to the right side of the frame",
+    "base": "one arm reaches toward the camera, with a finger or palm covering the upper-left corner; the opposite shoulder and torso are cropped close by the selfie framing",
+    "overall": "The pose feels like she suddenly lifted the camera for a selfie. Her body leans slightly toward the lens, hair is disturbed by the motion, and the composition feels accidental."
+  },
+  "clothing": {
+    "top": {
+      "type": "white short-sleeved T-shirt",
+      "color": "white or warm white",
+      "details": "round or loose neckline, possible small black print on the chest but mostly cropped and obscured, casual cotton fabric",
+      "effect": "The T-shirt has a moderate loose fit, natural folds from body movement, and reflects lamp and screen light."
+    },
+    "bottom": {
+      "type": "bottom clothing not clearly visible",
+      "color": "uncertain",
+      "details": "cropped out by the close selfie framing",
+      "effect": "Do not add prominent bottom details or revealing styling."
+    }
+  },
+  "accessories": {
+    "jewelry": "a thin necklace or small pendant near the collarbone, and a transparent or silver bracelet/wrist accessory that becomes bright and blurred in the foreground",
+    "device": "a laptop on the desk in the background, with a blue-white glowing screen",
+    "prop": "desk lamp, cups, papers, cosmetics or small items, shelves, window city lights, chair, and everyday clutter"
+  },
+  "photography": {
+    "camera_style": "real smartphone selfie look, close-range wide-angle high-angle shot, with finger obstruction, motion blur, low-light compression noise, and casual imperfection",
+    "angle": "the camera is above and in front of the subject, looking downward. Her face is on the right side, and a finger close to the lens creates a huge blurred obstruction in the upper-left.",
+    "shot_type": "vertical close selfie crop, combining a face close-up with an extended-arm foreground",
+    "aspect_ratio": "vertical 4:3 or close to a phone photo ratio",
+    "texture": "low-light phone-photo texture, slight blur, mild noise, compression artifacts, localized lamp overexposure, and softened cluttered background",
+    "lighting": "warm-white desk lamp and laptop screen act as the visible light sources, with cool blue night light from the window. The light is uneven: the face is softly warm, while the shadows retain gray-green coolness.",
+    "depth_of_field": "shallow to medium depth of field: the face is relatively clear, the finger and arm reaching toward the lens are strongly blurred, and the desk, lamp, laptop, shelves, and city lights soften in the background."
+  },
+  "background": {
+    "setting": "a private room or work-bedroom at night, with a cluttered desk that looks recently used for work, makeup, or organizing things",
+    "wall_color": "warm white wall, locally tinted pale yellow by the desk lamp",
+    "elements": [
+      "open laptop screen",
+      "white or silver desk lamp",
+      "cluttered desk",
+      "cups and small objects",
+      "storage shelves with bottles and containers",
+      "city night view and window reflections",
+      "blurred finger obstruction in the upper-left",
+      "remove the original platform watermark in generation"
+    ],
+    "atmosphere": "late night, messy, lived-in, close, unprepared selfie moment",
+    "lighting": "the background has localized lamp overexposure, cool light from the laptop screen, scattered city lights outside, and a warm-cool indoor/night mix."
+  },
+  "the_vibe": {
+    "energy": "tired, real, messy, close, late-night",
+    "mood": "the lamp has been on for a long time and the laptop is still glowing; she seems to have suddenly reached for the camera before the frame was fully ready.",
+    "aesthetic": "East Asian urban late-night selfie, cluttered room, low-light smartphone texture, moist eyes, finger covering the lens, lived-in private feeling",
+    "authenticity": "Keep imperfections: finger obstruction, messy background, lamp overexposure, hair across the face, motion blur, phone noise, off-center framing, and foreground blur.",
+    "intimacy": "The camera is very close, but the feeling should stay like a daily late-night record rather than explicit posing.",
+    "story": "She may have just finished working or chatting. The room is still messy, the laptop is still running, and the instant her hand blocked the lens became the photo.",
+    "caption_energy": "\u201cThe laptop was still on, and she just took one quick photo.\u201d"
+  },
+  "constraints": {
+    "must_keep": [
+      "adult female model",
+      "high-angle close selfie perspective",
+      "blurred finger or palm blocking the upper-left corner",
+      "face close to the right side of the frame",
+      "messy long black-brown hair across the face",
+      "white short-sleeved T-shirt",
+      "moist eyes and slightly parted lips",
+      "thin necklace and wrist accessory",
+      "background laptop",
+      "desk lamp and cluttered room",
+      "city night window",
+      "low-light smartphone photo texture"
+    ],
+    "avoid": [
+      "do not make the subject look underage",
+      "avoid explicit sexualization",
+      "do not add nudity",
+      "avoid plastic skin",
+      "avoid commercial studio lighting",
+      "avoid an overly clean room",
+      "avoid perfectly sharp noise-free rendering",
+      "avoid anime face",
+      "do not remove all messy hair strands",
+      "avoid text, watermark, or logo"
+    ]
+  },
+  "negative_prompt": [
+    "underage",
+    "childlike",
+    "explicit nudity",
+    "pornographic",
+    "watermark",
+    "text",
+    "logo",
+    "plastic skin",
+    "over-smoothed face",
+    "anime face",
+    "studio lighting",
+    "perfect composition",
+    "clean empty room",
+    "extra limbs",
+    "distorted hand",
+    "bad fingers",
+    "warped face",
+    "harsh flash",
+    "high saturation",
+    "over-sharpened"
+  ]
+}
+```
+
+<!-- Case 321: Selfi krupnym planom s myagkimi chertami litsa (by @TIGER) -->
+### Case 321: [Selfi krupnym planom s myagkimi chertami litsa](#) (by @TIGER)
+
+| Output |
+| :----: |
+| <a href="../images/portrait_case321/output.jpeg" target="_blank" rel="noopener noreferrer"><img src="../images/portrait_case321/output.jpeg" width="300" alt="Output image"></a> |
+
+**Prompt:**
+
+```
+{
+  "subject": {
+    "description": "An adult woman in a close high-angle phone selfie, sitting or half-reclining on white bedding. The frame runs from the top of her head and lowered face down to the low-rise jeans area, with an intimate, casual, real-life snapshot feeling.",
+    "mirror_rules": "Not a mirror selfie; the phone or camera is held above the subject, looking downward. No visible phone, mirror, or reflected device.",
+    "age": "Adult, visually in her 20s",
+    "expression": {
+      "eyes": {
+        "look": "Eyes naturally looking downward, eyelids lowered, long eyelashes clearly visible",
+        "energy": "Quiet, soft, with a slight emotional afterglow of a paused moment",
+        "direction": "Looking down, not at the camera"
+      },
+      "mouth": {
+        "position": "Lips closed and relaxed",
+        "energy": "Soft muted red lip color, calm and restrained"
+      },
+      "overall": "An inward, natural expression, not a posed smile; it feels like a spontaneous moment while looking down or adjusting clothing."
+    },
+    "face": {
+      "preserve_original": "Preserve the soft face shape under the high-angle perspective, the nose bridge highlight caused by looking down, and the quiet downward gaze. Do not turn it into a front-facing commercial beauty portrait.",
+      "makeup": "A natural translucent makeup style often seen in East Asian social media beauty contexts: clean base, soft brows, delicate eyeliner, visible but not exaggerated lashes, light brown eyeshadow, coral-red or rose-red lips, sweet and natural rather than stage-like."
+    }
+  },
+  "hair": {
+    "color": "Dark brown to black-brown natural hair, with subtle brown highlights where the light hits",
+    "style": "Long hair, naturally loose, partly falling over the left shoulder, with fine strands over the forehead and a visible hair part",
+    "effect": "Slightly messy but realistic, with natural shine and tiny flyaway hairs; not overly silky or advertisement-perfect"
+  },
+  "body": {
+    "frame": "Close upper-body framing, natural body contours shaped by fitted fabric, relaxed but supported posture",
+    "waist": "The waist and abdomen are clearly visible between the cropped top and the low-rise jeans, including the full midriff and navel",
+    "chest": "No chest skin is visible; the chest area is fully covered by a fitted gray cropped T-shirt, with natural fabric tension and horizontal folds",
+    "legs": "Legs are mostly outside the frame; only the upper edge of the low-rise jeans and partial hip-line area are visible",
+    "skin": {
+      "visible_areas": "Visible skin includes the forehead, cheeks, nose bridge, area around the lips, a small edge of the neck, parts of both arms, the full waist and abdomen, the navel, and the upper hip area above the jeans. Shoulders are covered by the T-shirt; back, buttocks, and legs are not visible.",
+      "tone": "Warm fair skin tone with a soft creamy quality and a slight pink undertone under sunlight",
+      "texture": "The skin looks smooth while retaining real detail; the abdomen has natural softness and subtle under-skin variation. It should feel warm, clean, soft, and lightly sun-warmed to the touch, not plastic or overly airbrushed.",
+      "lighting_effect": "Warm natural light falls from the upper-right area of the frame, creating highlights on the forehead, nose bridge, upper fabric, and abdomen. White bedding provides soft reflected fill light, while the hemline and jeans edge create slight shadows."
+    }
+  },
+  "pose": {
+    "position": "The subject is sitting or half-reclining on a bed, leaning slightly back, head lowered, with arms placed to the sides or behind the body for support",
+    "base": "Weight rests on the hips and rear arm-support points; the waist opens naturally, shoulders slightly pulled back",
+    "overall": "A casual pause after sitting down, not a standardized pose; preserve slight body offset, fabric wrinkles, and imperfect symmetry"
+  },
+  "clothing": {
+    "top": {
+      "type": "Cropped fitted crew-neck T-shirt",
+      "color": "Light heather gray",
+      "details": "Short sleeves, hem ending around the upper abdomen, fine cotton-knit texture, horizontal stretch folds, and natural shadows",
+      "effect": "Fitted but not rigidly sculpted; the fabric responds to posture with realistic wrinkles, pressure marks, and subtle stretching"
+    },
+    "bottom": {
+      "type": "Low-rise blue denim jeans",
+      "color": "Washed blue with lighter worn edges",
+      "details": "Low waistband, visible button area, slightly open or loosened waistband, pale inner fabric and denim structure visible",
+      "effect": "Thick denim with clear creases, everyday wear, and a slightly worn texture"
+    }
+  },
+  "accessories": {},
+  "photography": {
+    "camera_style": "Close handheld phone selfie, authentic social media snapshot feel, similar to an iPhone or Android main/wide camera",
+    "angle": "Strong high-angle view from above the head and front, looking downward; the face, front fabric, abdomen, and waistband form a vertical perspective line",
+    "shot_type": "Vertical close-up to partial half-body crop, top of head near the upper edge, lower frame ending at the jeans waistband",
+    "aspect_ratio": "9:16 vertical",
+    "texture": "Slight phone sharpening, natural compression, mild noise, with visible bedding folds, clothing texture, and real skin transitions",
+    "lighting": "Indoor bedside natural daylight, warm and slanted, with white bedding acting as reflected fill light; avoid obvious studio rim light or perfect softbox lighting",
+    "depth_of_field": "Mostly clear smartphone wide-angle depth of field; face and clothing are sharp, dark furniture in the background slightly softened"
+  },
+  "background": {
+    "setting": "Bedroom or bedside interior",
+    "wall_color": "Mostly white bedding and dark furniture, with a small darker upper background area",
+    "elements": [
+      "white pillow or bedsheet",
+      "black bedside table or cabinet",
+      "small round gold or wooden knob",
+      "faint window light or tiny reflected points in the distance"
+    ],
+    "atmosphere": "Private, everyday, quiet, with the lingering feeling of morning or afternoon sunlight entering the room",
+    "lighting": "White bedding creates a broad soft bounce fill, while dark furniture lowers the background brightness and makes the skin highlights stand out"
+  },
+  "the_vibe": {
+    "energy": "Quiet, close, real, slightly lazy",
+    "mood": "As if she had just woken up, sat on the bed, or looked down for a second while adjusting herself",
+    "aesthetic": "Phone selfie, everyday bedroom, natural light, social media life-photo feeling rather than a perfect studio image",
+    "authenticity": "Keep messy flyaway hair, clothing wrinkles, slight composition offset, phone compression, and natural human body form",
+    "intimacy": "Very close framing, but emotionally restrained; the lack of eye contact gives it a private-space feeling",
+    "story": "She had just sat on the bed, the sunlight had already landed on her body, and the camera captured the downward-looking moment before the motion fully ended.",
+    "caption_energy": "Low-key, casual, like an everyday photo posted without over-explaining"
+  },
+  "constraints": {
+    "must_keep": [
+      "adult woman",
+      "high-angle downward shot",
+      "lowered head and downward gaze",
+      "dark brown long hair with forehead strands",
+      "gray fitted cropped T-shirt",
+      "visible waist, abdomen, and navel",
+      "low-rise washed blue jeans",
+      "white bedding background",
+      "warm natural daylight",
+      "authentic phone selfie texture"
+    ],
+    "avoid": [
+      "minor appearance",
+      "exposed chest or explicit nudity",
+      "oversexualized posing",
+      "plastic airbrushed skin",
+      "commercial studio lighting",
+      "front-facing direct gaze",
+      "perfectly symmetrical composition",
+      "heavy filters",
+      "AI anatomy distortion",
+      "watermarks or social media logos"
+    ]
+  },
+  "negative_prompt": [
+    "childlike",
+    "minor",
+    "explicit nudity",
+    "oversexualized",
+    "plastic skin",
+    "over-smoothed",
+    "studio lighting",
+    "perfect symmetry",
+    "distorted anatomy",
+    "extra fingers",
+    "bad hands",
+    "watermark",
+    "logo",
+    "text"
+  ]
+}
+```
+<!-- Case 322: Селфи крупным планом снизу, естественная текстура фото (by @TIGER) -->
+### Case 322: [Селфи крупным планом снизу, естественная текстура фото](#) (by @TIGER)
+
+| Output |
+| :----: |
+| <img src="../images/portrait_case322/output.jpeg" width="300" alt="Output image"> |
+
+**Промпт:**
+
+```
+{
+  "subject": {
+    "description": "A young adult woman inside a car, captured in a close low-angle selfie with a raw mobile-phone feeling; the body is close to the camera, creating intimacy, pressure, and a quiet cool mood.",
+    "mirror_rules": "Not a mirror selfie, no mirror visible; the camera should sit below the chest or near the waist and abdomen, creating an upward selfie angle.",
+    "age": "young adult woman, around 20-28",
+    "expression": {
+      "eyes": {
+        "look": "eyes mostly hidden under the shadow of a low baseball cap, only a faint eye contour visible",
+        "energy": "calm, low-emotion, slightly distant",
+        "direction": "head slightly lowered, gaze seems directed toward the camera or phone screen"
+      },
+      "mouth": {
+        "position": "lips naturally closed and relaxed",
+        "energy": "no smile, restrained and quiet"
+      },
+      "overall": "an unforced car selfie, as if the photo was taken right after a still, absent-minded moment"
+    },
+    "face": {
+      "preserve_original": "keep the soft oval face impression, delicate features, natural nose bridge and relaxed lips, without creating an identifiable real person",
+      "makeup": "clean natural makeup inspired by cool-toned East Asian fashion aesthetics; soft matte base, natural pink-nude lips, very subtle eye makeup mostly hidden by the cap shadow"
+    }
+  },
+  "hair": {
+    "color": "deep black or natural black-brown",
+    "style": "long straight hair falling naturally from both sides of the cap and behind the shoulders",
+    "effect": "slightly messy strands, airy and real, with a faint rim light from the car window; avoid overly silky commercial hair"
+  },
+  "body": {
+    "frame": "slim with natural curves, clear waist and abdomen lines, slightly stretched by the low wide-angle perspective",
+    "waist": "waist and abdomen fully visible, flat but naturally soft, navel placed near the lower center of the frame",
+    "chest": "chest covered by a fitted white cropped tank top, fabric creates natural volume; no exposed chest skin",
+    "legs": "legs are mostly outside the frame, only the lower-body edge and low-waist clothing area are visible",
+    "skin": {
+      "visible_areas": [
+        "neck",
+        "shoulders",
+        "upper arms",
+        "edge of the underarm area",
+        "small area around the collarbone",
+        "full waist and abdomen",
+        "side waist",
+        "upper hip edge"
+      ],
+      "tone": "fair neutral-cool skin tone, slightly grayish and cool in the shaded car interior",
+      "texture": "skin looks smooth yet natural, as if cool to the touch, soft, with subtle pores and real underlying contours; no plastic smoothing",
+      "lighting_effect": "overcast daylight enters through the panoramic roof; the bright sky acts as backlight, the cap casts a strong shadow over the upper face, soft diffused light touches the abdomen and shoulders, while the black car interior creates deep contrast around the figure"
+    }
+  },
+  "pose": {
+    "position": "seated or leaning inside a car, front of the body close to the camera",
+    "base": "one arm extends upward and out of frame as if holding a phone or adjusting the angle; shoulders are uneven and the body weight is slightly shifted",
+    "overall": "low-angle selfie pose, torso leaning forward, head slightly lowered, natural but with subtle tension"
+  },
+  "clothing": {
+    "top": {
+      "type": "white sleeveless high-neck cropped tank top",
+      "color": "cool white",
+      "details": "large muted gray block-letter graphic print across the chest, simple neckline and armholes, hem slightly rolled upward",
+      "effect": "thin cotton or stretch knit fabric, fitted to the body, with slight horizontal wrinkles and realistic stretch texture"
+    },
+    "bottom": {
+      "type": "low-waist white bottom or folded-waist white sporty skirt/shorts",
+      "color": "white with small black inner edges",
+      "details": "folded fabric around the waist, black inner line slightly visible",
+      "effect": "soft fabric with natural creases, not too neat"
+    }
+  },
+  "accessories": {
+    "headwear": "worn gray baseball cap, low brim hiding the eyes, washed faded texture and visible stitching",
+    "jewelry": "thin silver necklace with a small flat silver pendant",
+    "device": "phone is not visible, but the image should feel like a handheld phone selfie",
+    "prop": "black car roof frame, panoramic sunroof, window edges"
+  },
+  "photography": {
+    "camera_style": "realistic mobile phone selfie, casual car selfie, not a studio shoot or polished commercial image",
+    "angle": "strong low-angle upward view, camera placed near the waist or car seat height, upper body leaning toward the lens",
+    "shot_type": "vertical close half-body selfie, framing includes cap, face shadow, shoulders, chest, waist, abdomen, and upper hip edge",
+    "aspect_ratio": "9:16 vertical",
+    "texture": "slight mobile noise, dark shadows with some detail loss, bright sky highlights, realistic sharpness without over-processing",
+    "lighting": "natural overcast daylight through the panoramic roof and windows; the subject remains in the darker car interior, bright sky becomes a large soft background, the cap creates a hard-edged face shadow, black car structure forms strong negative space",
+    "depth_of_field": "phone-camera depth of field, subject and car roof edges mostly clear, sky slightly soft but not heavily blurred"
+  },
+  "background": {
+    "setting": "inside a car under a panoramic sunroof",
+    "wall_color": "black car interior mixed with pale blue-gray cloudy sky",
+    "elements": [
+      "curved panoramic sunroof frame",
+      "black roof structure",
+      "pale blue-gray sky",
+      "soft clouds",
+      "window edges"
+    ],
+    "atmosphere": "quiet, private, slightly cold, like an overcast afternoon inside a car",
+    "lighting": "bright exterior sky, dim car interior, high contrast edges"
+  },
+  "the_vibe": {
+    "energy": "low-key, cool, naturally confident",
+    "mood": "as if she had just sat in the car on a cloudy day and casually took the photo, with the previous moment still lingering",
+    "aesthetic": "real phone selfie, low-angle car interior, cool white clothing against black structure, subtle sporty street style",
+    "authenticity": "keep slight off-center framing, low-angle perspective, clothing wrinkles, messy hair strands, face shadow, and mobile-phone noise",
+    "intimacy": "very close distance, but the expression remains detached, creating a private yet cool contrast",
+    "story": "she is adjusting the phone angle in the car, the cap hides her eyes, and in the next second she might put the phone down or look out the window",
+    "caption_energy": "a cold-toned selfie with no explanation, no performance, only the mood of a cloudy car interior"
+  },
+  "constraints": {
+    "must_keep": [
+      "low-angle car selfie perspective",
+      "gray low-brim baseball cap hiding the eyes",
+      "black car roof and curved panoramic sunroof",
+      "cloudy pale blue-gray sky background",
+      "white cropped sleeveless tank top",
+      "large muted gray block-letter graphic print",
+      "fully visible waist and abdomen",
+      "natural mobile-phone texture and slight noise",
+      "real shadows, no excessive fill light"
+    ],
+    "avoid": [
+      "any tattoos or body markings",
+      "text, stickers, or patterns on skin",
+      "overly commercial retouching",
+      "over-smoothed skin",
+      "studio lighting",
+      "exaggerated sexy pose",
+      "mirror selfie",
+      "strong filters",
+      "watermarks and social media tags"
+    ]
+  },
+  "negative_prompt": [
+    "tattoo",
+    "body art",
+    "skin text",
+    "watermark",
+    "logo watermark",
+    "over-retouched skin",
+    "plastic skin",
+    "studio lighting",
+    "mirror selfie",
+    "heavy makeup",
+    "extra fingers",
+    "distorted hands",
+    "bad anatomy",
+    "overexposed face",
+    "unrealistic body",
+    "AI glossy look"
+  ]
+}
+```
+
+<!-- Case 323: Реалистичный уличный портрет (by @TIGER) -->
+### Case 323: [Реалистичный уличный портрет](#) (by @TIGER)
+| Output |
+| :----: |
+| <img src="../images/portrait_case323/323391.jpeg" width="300" alt="Output image"> |
+
+**Промпт:**
+
+```
+Vertical 9:16 real smartphone street portrait. A young adult woman leans diagonally against a red-and-white city taxi, her body forming a natural curve along the car. Both arms are raised high above her head with wrists crossed, while her waist and hip area are supported by the car body. She looks directly into the camera with clear calm eyes, slightly parted lips, and a soft cool expression with quiet street-fashion confidence.
+
+She has long dark brown to chestnut-brown hair, loose over her shoulders and chest, slightly lifted at the crown, with a few stray strands near the forehead. Her makeup is clean sweet-cool style: fresh base, light peach-pink blush, fine eyeliner, subtle aegyo-sal, curled lashes, and glossy coral-pink lips. She wears a white strapless bandeau crop top with red and black graphic lettering across the front, paired with light blue low-rise denim shorts with distressed edges, frayed patches and star appliqué details. Accessories include large silver hoop earrings, a thin necklace with a small pendant, and gold chain bracelets.
+
+Visible skin includes face, neck, collarbones, shoulders, underarm area, arms, palms, fingers, waist, abdomen, navel, hip edge and upper thighs; back and buttocks are not visible or are blocked by clothing and the car. Skin is bright fair with a slightly warm creamy tone, softened by strong urban daylight and car reflections. It should look delicate, smooth and sun-warmed, with slight real pores and natural daylight shine, not plastic or over-retouched.
+
+The camera angle is slightly high, looking downward in a close street portrait from upper thighs to raised hands. The background includes light gray-white high-rise buildings, parked cars, distant pedestrians, a blue road sign, reflective taxi windows, a red tail light and a taxi roof sign. Lighting is strong daytime urban natural light, with slight overexposure in the upper-left, bright reflections from buildings and the white car roof, and a faint warm bounce from the red car body. The image should feel like a real casual street shot, not a polished studio editorial.
+
+Negative prompt: screen overlay, lock screen overlay, status bar, timestamp, floating icons, watermark, studio backdrop, plastic skin, heavy retouching, flat soft light, oversexualized pose, extra fingers, distorted hands, distorted face, AI glossy look.
+```
+
+<!-- Case 324: Реалистичная женщина, сидящая на полу спальни (by @TIGER) -->
+### Case 324: [Реалистичная женщина, сидящая на полу спальни](#) (by @TIGER)
+| Output |
+| :----: |
+| <img src="../images/portrait_case324/325231.jpeg" width="300" alt="Output image"> |
+
+**Промпт:**
+
+```
+{
+  "subject": {
+    "description": "A young adult woman sitting on a bedroom floor, captured from the side in a quiet private moment. The image should feel accidental and human, with slight blur, blown highlights, and lived-in imperfection rather than polished studio beauty.",
+    "mirror_rules": "Not a mirror selfie; no mirrored text or reflection logic needed. Keep the feeling of a low handheld camera angle.",
+    "age": "young adult woman, clearly 20+",
+    "expression": {
+      "eyes": {
+        "look": "eyes lowered, looking down toward an open book, magazine, or tablet on the floor",
+        "energy": "quiet, relaxed, soft, slightly morning-after or late-afternoon stillness",
+        "direction": "downward, not looking at the camera"
+      },
+      "mouth": {
+        "position": "lips naturally closed or softly relaxed",
+        "energy": "unposed, introspective"
+      },
+      "overall": "the side of the face is partially hidden by hair and strong light; the expression feels calm and unfinished, as if paused mid-motion"
+    },
+    "face": {
+      "preserve_original": "preserve the soft side-profile silhouette, natural jawline, gentle nose bridge, and partially obscured face; avoid turning it into a perfectly symmetrical commercial beauty face",
+      "makeup": "natural bare-skin makeup direction, inspired by soft East Asian casual beauty aesthetics: sheer base, subtle brows, muted lip color, almost invisible eye makeup, with clean skin washed by daylight"
+    }
+  },
+  "hair": {
+    "color": "dark brown-black, turning warm brown along the sunlit edges",
+    "style": "short to shoulder-length hair, naturally voluminous, side-parted, with slightly flipped-out ends",
+    "effect": "backlit hair creates soft glowing edges; strands partially cover the cheek and eyes, with a slightly messy just-woke-up texture"
+  },
+  "body": {
+    "frame": "slim and natural, not overly athletic or model-like, with a soft shoulder and neck line",
+    "waist": "a small side area of the waist and lower abdomen is visible due to the cropped top and seated pose, with natural folds and gentle shadow",
+    "chest": "upper chest and collarbone area are partly visible; the clothing fits naturally without exaggerated emphasis, while strong sunlight creates a blown-out white highlight across the front",
+    "legs": "thighs and part of the lower legs are visible, bent and resting sideways on the floor; the skin turns softly warm under the window light",
+    "skin": {
+      "visible_areas": "visible skin includes one shoulder and upper arm, forearms, hands, collarbone area, upper chest edge, side waist/lower abdomen, thighs, and part of the lower legs. The back and buttocks are not clearly shown; only the seated body contour remains.",
+      "tone": "light warm skin tone, almost creamy white in direct sunlight, with soft beige-apricot and gray warmth in the shadows",
+      "texture": "the skin should feel soft, warm, and finely textured, like it has been gently heated by window sunlight; avoid plastic smoothing, keep subtle grain, soft focus, natural overexposure, and diffused skin edges",
+      "lighting_effect": "strong window light enters from the rear-right and side windows, landing on the shoulder, upper chest, arms, and legs, creating large highlights, bloom, and edge glow; shaded areas remain soft warm gray"
+    }
+  },
+  "pose": {
+    "position": "sitting on the wooden floor, body turned to the right, head slightly lowered",
+    "base": "one hand supports the body behind her, the other reaches toward a book or tablet on the floor; both legs are bent and resting sideways",
+    "overall": "relaxed, natural, unposed, as if she was looking at something on the floor and sunlight briefly held the moment still"
+  },
+  "clothing": {
+    "top": {
+      "type": "white cropped off-shoulder top",
+      "color": "soft white",
+      "details": "the neckline slips down to reveal one shoulder; cropped cut exposes a small side-waist area; thin fitted fabric with natural wrinkles",
+      "effect": "the sunlit area becomes nearly blown-out white, with softened fabric edges and a casual body-hugging fit"
+    },
+    "bottom": {
+      "type": "gray lounge shorts",
+      "color": "light gray or gray-blue",
+      "details": "soft homewear fabric, slight bunching at the waist, short hem, naturally fitted around the thighs in the seated pose",
+      "effect": "subtle folds and shadows, not overly refined"
+    }
+  },
+  "accessories": {
+    "jewelry": "a very thin bracelet or hair-tie-like detail around the wrist, understated and barely noticeable",
+    "prop": "an open book, magazine, or tablet on the floor in the foreground, slightly out of focus"
+  },
+  "photography": {
+    "camera_style": "low-angle casual lifestyle photography, like a phone or small digital camera, with slight blur, motion softness, and natural grain",
+    "angle": "camera placed close to floor level, shooting from the front-left side of the subject; the woman sits on the left side of frame while large windows fill the upper background",
+    "shot_type": "environmental medium-close portrait, most of the seated body included, with slight cropping of the hand and foreground object",
+    "aspect_ratio": "vertical composition, around 2:3 or 3:4",
+    "texture": "soft focus, low contrast, film-like grain, blown highlights, hazy bloom",
+    "lighting": "natural window light as the key source, mixing strong backlight and sidelight; sunlight passes through white window frames and sheer curtains, creating real physical light patches and exposure spill on skin and fabric; no obvious artificial fill light",
+    "depth_of_field": "shallow to medium depth of field, with the face and foreground slightly soft, while background furniture and windows remain recognizable"
+  },
+  "background": {
+    "setting": "bright vintage bedroom or private room",
+    "wall_color": "warm white or pale cream walls",
+    "elements": [
+      "large white-framed windows",
+      "long white curtains",
+      "decorative scalloped curtain valances",
+      "white bed with soft bedding",
+      "wooden desk or vanity",
+      "stacks of books",
+      "vintage bedside cabinet and lamp",
+      "ceiling pendant lamp",
+      "wooden floor"
+    ],
+    "atmosphere": "quiet, domestic, slightly vintage, as if dust and warmth are suspended in the afternoon light",
+    "lighting": "strong daylight enters from outside; windows are bright and blown out, indoor shadows are warm gray, with uneven natural exposure"
+  },
+  "the_vibe": {
+    "energy": "low, slow, unperformed",
+    "mood": "gentle, private, hazy, with the feeling of a summer afternoon that had just passed",
+    "aesthetic": "vintage bedroom, natural light, lifestyle portrait, soft-focus film texture, low-saturation white and gray palette",
+    "authenticity": "keep real-camera imperfections: slight blur, overexposure, off-center framing, foreground interference, and imperfect posture",
+    "intimacy": "feels like a private moment casually photographed by a friend or by herself, not a formal photoshoot",
+    "story": "She had just sat down on the floor, the book beside her was not finished yet, and sunlight had already slipped across her body through the windows.",
+    "caption_energy": "“sun stayed a little longer than I did.” / “the afternoon light had not left yet.”"
+  },
+  "constraints": {
+    "must_keep": [
+      "low floor-level angle",
+      "side seated pose",
+      "white cropped off-shoulder top",
+      "gray lounge shorts",
+      "strong blown-out window light",
+      "large bedroom windows and white curtains",
+      "soft-focus film texture",
+      "real-life casual blur"
+    ],
+    "avoid": [
+      "over-retouched skin",
+      "commercial studio lighting",
+      "exaggerated sexy pose",
+      "overly sharp HD detail",
+      "perfectly centered composition",
+      "heavy makeup",
+      "plastic skin texture",
+      "overly modern luxury background"
+    ]
+  },
+  "negative_prompt": [
+    "over-retouched skin",
+    "plastic skin",
+    "sharp studio lighting",
+    "glamour pose",
+    "heavy makeup",
+    "perfect symmetry",
+    "hyper realistic commercial ad",
+    "clean CGI",
+    "over saturated colors",
+    "extra limbs",
+    "distorted hands",
+    "wrong anatomy",
+    "harsh flash",
+    "luxury hotel room"
+  ]
+}
+```
+<!-- Case 325: Красавица японского фестиваля фейерверков (by @reonkun_sub) -->
+### Case 325: [Красавица японского фестиваля фейерверков](https://x.com/reonkun_sub/status/2072266484857098584) (by [@reonkun_sub](https://x.com/reonkun_sub))
+
+| Output |
+| :----: |
+| <img src="../images/portrait_case325/output.jpg" width="300" alt="Output image"> |
+
+**Промпт:**
+
+```
+竖长3:4手机照片风格。日本夏日祭典·烟花大会之夜，在摊位林立的热闹街道上拍摄的自然抓拍肖像。主体是一位20多岁的美丽成年日本女性。清纯优雅，亲切随和的氛围。自然妆容，透明感的肌肤质感，柔和的棕色瞳孔，自然而温柔的微笑。
+
+她身着淡雅的奶油色上品浴衣。浴衣上饰有浅紫色的精致花纹，营造出柔和清凉的印象。腰带为淡紫色，在背部以大蝴蝶结般蓬松的方式系着。手中拿着浅米色系的小型挎包。
+
+头发是深棕色的盘发向上造型。脸部周围有自然的散落发丝，前额刘海轻轻分开，略微垂在额前。侧发自然垂在脸颊旁，头发侧边点缀着浅紫色和白色的细小花饰。不张扬，却与浴衣相配的上品和风发型。
+
+相机从主体的左侧斜后方近距离拍摄。她微微背对相机站立，从肩头回眸朝这边微笑。脸部位于画面上部中央稍偏右的位置，构图捕捉上半身至腰部左右。背部的大片淡紫色腰带进入画面左下方，手持挎包的手自然置于画面右下方。脸部和上半身为主角，同时可见浴衣的花纹、背部的腰带以及手边的挎包。仿佛被朋友呼唤而自然回首的瞬间。
+
+背景是日本夏日祭典的摊位街。左侧是排列整齐的灯笼祭典灯光，右侧是明亮的摊位、红白相间的摊位布、黄色摊位招牌、暖色调的摊位照明。远处自然融入身着浴衣的来宾和漫步祭典的人群。背景热闹却不抢镜，主角女性清晰突出。摊位的文字作为氛围可见，但不宜过于清晰可读。
+
+夜空呈深蓝色。画面上部散布着粉色、紫色、白色、金色的多朵大型烟花绽放。烟花从女性头顶上方华丽地填满整个画面上部。烟花的光芒与摊位的暖色灯光交织，营造出夏夜般浪漫而绚烂的氛围。
+
+整张照片呈现真实的iPhone拍摄风格。仿佛实际由第三方在夏祭中近距离抓拍的自然感。生成4张。柔和的背景虚化、暖色祭典照明、真实的肌肤质感、浴衣布料的细腻纹理、自然的手持感。不刻意追求电影感，美丽却不过度修饰，抑制AI感，呈现真实高品质的夏祭照片。
+```
+
+<!-- Case 326: Естественное селфи с низкого угла в приседе (by @0xkyne) -->
+### Case 326: [Естественное селфи с низкого угла в приседе](https://x.com/0xkyne/status/2070785288331522084) (by [@0xkyne](https://x.com/0xkyne))
+
+<table>
+<tr><td width="50%"><a href="../images/portrait_case326/output.jpg" target="_blank" rel="noopener noreferrer"><img src="../images/portrait_case326/output.jpg" width="100%" alt="Output image"></a></td><td width="50%"><a href="../images/portrait_case326/output2.jpg" target="_blank" rel="noopener noreferrer"><img src="../images/portrait_case326/output2.jpg" width="100%" alt="Output image"></a></td></tr>
+</table>
+
+**Промпт:**
+
+```
+写实电影感手机自拍照片，竖版构图，近距离广角手持自拍视角，整体呈现高级、真实、细腻的职业角色写真质感。
+
+主体为《原神》中的凝光进入现实空乘职业场景后的真人化重释版本。她是一位25岁左右的东亚成年女性，气质冷艳、高贵、从容，带有精致的掌控感和上位者气场。她必须保留凝光最核心的视觉识别点：白金色或银白色长发，发量丰盈顺滑，带凝光式高贵盘束结构与长发垂落；金色或琥珀金色眼睛；精致冷艳的五官；白皙通透的肌肤；黑、金、白、红为核心的细节配色；金色发簪、流苏耳饰、玉石吊坠和中式金纹装饰。
+
+她不是普通空姐，而是凝光被重释为现实世界中的头等舱首席乘务员或高端国际航线空乘形象。妆容精致干净，眼线细致，唇色带自然光泽，表情冷静、自信、从容，带轻微半笑，眼神像始终掌控高端舱服务节奏的精英空乘。
+
+她的身材高挑纤细但曲线非常明显，胸型饱满立体，腰线纤细清晰，臀腿线条圆润流畅，整体体态成熟、优雅、紧致，肩颈、锁骨、腰臀和腿部线条清晰自然，呈现极具视觉冲击力但仍然真实克制的女性曲线美。
+
+人物采取低位蹲姿，双膝并拢，小腿紧贴大腿，身体整体压缩成紧凑而优美的折叠姿态。身体微微侧转，面部以3/4侧脸角度看向镜头。左手轻托下巴，手指自然贴住脸侧，右臂向前下方伸出持机自拍，动作自然放松，但神态保持凝光式的冷艳、自信与掌控感。
+
+镜头使用近距离广角手机自拍构图，由人物右手持机拍摄，镜头下置到接近膝部到小腿高度，从腿部前侧低角度拍向上半身。高跟鞋、脚踝、小腿、大腿构成画面前景，腿部占据画面下半部分并形成自然但强烈的近大远小透视。视觉重点落在修长双腿、凝光式贵气神态、空乘职业造型和夸张但真实的身体曲线上。上半身和脸位于画面中上区域，脸部清晰对焦，背景自然虚化，带真实手机自拍的亲近感。
+
+服装为凝光风格的高级空乘职业重释穿搭：深海军蓝、酒红或黑金配色的修身空姐风迷你连衣裙，带利落翻领、收腰剪裁、精致短袖或修身制服结构，领口、袖口、腰部或裙摆点缀细金边和少量红色细节，整体保留空姐职业的优雅、干练和服务感，同时通过金色发饰、玉石耳饰、黑金白红配色和中式纹样维持凝光辨识度。搭配黑色半透明丝袜与黑色或黑金色尖头细高跟鞋，鞋侧或鞋跟带细金属装饰，进一步强化腿部比例与高端机舱气质。
+
+场景为飞机头等舱区域或高级客舱过道，带头等舱座椅、舷窗、顶柜、柔和地毯、舱内灯光与清晰延伸的机舱纵深，环境整洁、高级、安静。人物真实蹲在机舱过道中，鞋底与地面接触清晰，座椅与过道共同建立空间层次，人物与环境自然融合。
+
+光线采用机舱内柔和暖白顶灯与局部反射光混合照明，脸部、肩颈、手臂和腿部带柔亮高光，金色饰件与玉石细节带细微反光，皮肤保留自然纹理和通透感。整体画面精致、真实，呈现凝光进入现实航空职业世界后的高级写实自拍摄影效果。
+```
+
+<!-- Case 327: Фото с конвента (by @VoxcatAI) -->
+### Case 327: [Фото с конвента](https://x.com/voxcatai/status/2067281160875704783) (by [@VoxcatAI](https://x.com/voxcatai))
+
+<table>
+<tr><td width="50%"><a href="../images/portrait_case327/output.jpg" target="_blank" rel="noopener noreferrer"><img src="../images/portrait_case327/output.jpg" width="100%" alt="Output image"></a></td><td width="50%"><a href="../images/portrait_case327/output2.jpg" target="_blank" rel="noopener noreferrer"><img src="../images/portrait_case327/output2.jpg" width="100%" alt="Output image"></a></td></tr>
+<tr><td width="50%"><a href="../images/portrait_case327/output3.jpg" target="_blank" rel="noopener noreferrer"><img src="../images/portrait_case327/output3.jpg" width="100%" alt="Output image"></a></td><td width="50%"><a href="../images/portrait_case327/output4.jpg" target="_blank" rel="noopener noreferrer"><img src="../images/portrait_case327/output4.jpg" width="100%" alt="Output image"></a></td></tr>
+</table>
+
+**Промпт:**
+
+```
+漫展现场路人返图风格，一位高完成度二次元 cosplay 女生，蹲坐或缩腿坐在现场，姿势自然随意，带一点不羁感和痞帅气质。她的表情冷淡、平静、略带厌世感或漫不经心的松弛感，眼神直视镜头或微微放空，不甜美，不刻意卖萌，重点是又美又拽的气场。
+
+一只手自然抬起，手指间夹着一根薯条，姿势像在抽烟，但明确是薯条而不是香烟，形成一种慵懒、玩世不恭、带点反差幽默的感觉。人物整体造型精致鲜艳，具有明显二次元 cosplay 特征，例如高饱和发色、夸张头饰、兽耳或角、华丽服装。
+
+背景为漫展现场，只出现少量模糊的半身路人，位于画面边缘和上半部分，路人不需要完整露脸，不需要全身，只保留模糊的上半身、手臂、手机、站姿轮廓，形成围观感和现场抓拍感。背景人物是陪衬，不喧宾夺主，但能强化"在人群中被路人随手拍到"的真实氛围。
+
+竖屏手机摄影构图，近距离拍摄，轻微抓拍感，非棚拍，非官方写真，非干净纯背景。整体像社交平台上的漫展返图，真实、生活化、偶遇感强。画面干净清晰，减少无必要噪点与颗粒感，细节稳定，人物手部自然准确，手指数量正确，比例正常，关节清晰，姿态合理。
+```
+<!-- Case 328: Эффектный чёрно-красный постер персонажа в тюремной тематике (by @0xkyne) -->
+### Case 328: [Эффектный чёрно-красный постер персонажа в тюремной тематике](https://x.com/0xkyne/status/2062030505101713425) (by [@0xkyne](https://x.com/0xkyne))
+
+<table>
+<tr><td width="50%"><a href="../images/portrait_case328/output1.jpg" target="_blank" rel="noopener noreferrer"><img src="../images/portrait_case328/output1.jpg" width="100%" alt="Output image"></a></td><td width="50%"><a href="../images/portrait_case328/output2.jpg" target="_blank" rel="noopener noreferrer"><img src="../images/portrait_case328/output2.jpg" width="100%" alt="Output image"></a></td></tr>
+<tr><td width="50%"><a href="../images/portrait_case328/output3.jpg" target="_blank" rel="noopener noreferrer"><img src="../images/portrait_case328/output3.jpg" width="100%" alt="Output image"></a></td><td width="50%"><a href="../images/portrait_case328/output4.jpg" target="_blank" rel="noopener noreferrer"><img src="../images/portrait_case328/output4.jpg" width="100%" alt="Output image"></a></td></tr>
+<tr><td width="50%"><a href="../images/portrait_case328/output5.jpg" target="_blank" rel="noopener noreferrer"><img src="../images/portrait_case328/output5.jpg" width="100%" alt="Output image"></a></td></tr>
+</table>
+
+**Промпт:**
+
+```
+设计一张极具冲击力的黑红监狱题材人物海报，主题为FF7中Tifa Lockhart的真人cosplay版本。海报中的人物是一位20多岁的东亚成年女性，展现出精致的日韩cosplay美感，融合了日式cosplay写真集的优雅气质和韩式偶像般的身材比例。请保留Tifa Lockhart的标志性特征，请将这些特征转化为可信的高端cosplay服饰，而非廉价的cosplay服装。
+
+风格锁定：高饱和度的日式暗黑系游戏角色档案海报，左侧为黑红相间的档案面板，右侧为冷峻的灰白色混凝土监狱墙；动漫写实风格的3D宣传图；高级扭蛋角色卡封面美学；光泽亮丽的CG皮肤，带有细微汗渍；醒目的做旧字体；密集的图形档案面板；超大的SSS级；FF7相关标志；冷白色商业审讯灯光；锐利的动漫美人脸；强烈的前景背景分离；并非普通的写实摄影，并非低饱和度的纪实肖像，也并非低饱和度的嫌犯照。
+
+深度和冲击力锁定：强烈的前景背景分离。Tifa Lockhart必须在视觉上位于左侧档案面板和冷峻的灰白色混凝土身高测量墙的前方，而不是融入背景。左侧的黑色档案面板和右侧的浅色混凝土墙是平坦的背景图形层；Tifa Lockhart是画面前景的主要主体，她更大、更亮、更清晰，也更靠近镜头。黑色的囚犯标牌是距离观众最近的物体，在前景中显得格外醒目，在她身上投下淡淡的阴影。运用清晰的遮挡、景深层次感、视差效果，以及头发、肩膀、手部、珠宝和标牌周围锐利的边缘高光。人物占据海报高度的75%-85%，特写镜头从头部到大腿上部，极具冲击力的海报封面构图。
+
+海报布局：竖版高冲击力囚犯档案海报。左侧是醒目的黑色竖版档案面板，占据画面约25%-30%的面积。面板包含人物相关的徽章、粗糙的白色标题文字“Tifa Lockhart”、小字日文“蒂法·洛克哈特”、囚犯档案、囚犯代码 FF7-0TF、高风险、超大危险等级 SSS、红色机密印章、条形码、警告标签以及逼真的档案字体。文字应给人以密集、图像化、收藏价值高且做旧的感觉，但又不宜包含过多必须清晰阅读的小字。
+
+右侧：特写镜头展现Tifa Lockhart站在一面冰冷的灰白色混凝土监狱身高测量墙前，墙面呈现浅灰白色的水泥纹理，带有黑色身高标记、细微的裂缝、划痕、灰尘、隐约可见的神罗风格图案、背景中融入的神罗风格涂鸦以及高对比度的冷色调阴影。与左侧的黑色档案面板相比，墙面必须显得明亮、冰冷、冷峻，略微过曝，但仍然保留着粗糙的质感。构图从头部延伸至大腿上部，三个强烈的视觉焦点依次呈现：她精致的动漫美人脸庞、超大的黑色囚犯身份牌以及腰腹线条。她双手交叉于上半身，手持一块超大的哑光黑色囚犯身份牌
+
+服装：高级黑色无肩带抹胸比基尼，采用无肩带设计。比基尼上半部分完全被黑色囚犯身份牌遮盖，仅露出肩膀、手臂、腰线、腹部、腿部比例以及低腰比基尼泳裤。绝对没有任何肩带、细带、挂脖带、颈带、胸罩肩带或透明带。红黑拼接露指格斗手套、以及低调的FF7风格配饰。
+
+姿势与表情：女王般的入狱登记姿势，下巴微微抬起，眼睑半垂，目光冷峻而强势，神情平静而轻蔑。双肩放松，身姿挺拔优雅，双手紧握标牌，沉稳自信，仿佛正在接受入狱登记拍照，却依然掌控着整个房间。
+
+黑色标牌是前景的主要视觉元素：哑光表面，粗黑边框，简洁清晰的白色文字“Tifa Lockhart”，边缘略有磨损，手部握持和手指按压的力度真实自然。标牌必须清晰遮盖上半身，并保持构图的克制和锐利：不得露出乳头、不得裸露、不得穿着透明衣物、不得出现性行为、不得裁剪身体的局部。
+
+光线与氛围：冷白色审讯灯光。一束强烈的冷白色商业主光从左上方照射过来，照在人物身上比背景更亮，在脸部、锁骨、腰线、标牌边缘、神罗饰品和混凝土高度标记上投射出干净明亮的亮部和冷色调的阴影。来自右侧边缘的冰冷轮廓光将头发、肩膀、双手、饰品和标牌分隔开来。
+```
+
+<!-- Case 329: Необычная поза сна персонажа ACG (by @drmrzhong) -->
+### Case 329: [Необычная поза сна персонажа ACG](https://x.com/drmrzhong/status/2062196751134847436) (by [@drmrzhong](https://x.com/drmrzhong))
+
+<table>
+<tr><td width="50%"><a href="../images/portrait_case329/output1.jpg" target="_blank" rel="noopener noreferrer"><img src="../images/portrait_case329/output1.jpg" width="100%" alt="Output image"></a></td><td width="50%"><a href="../images/portrait_case329/output2.jpg" target="_blank" rel="noopener noreferrer"><img src="../images/portrait_case329/output2.jpg" width="100%" alt="Output image"></a></td></tr>
+</table>
+
+**Промпт:**
+
+```
+指定角色：流萤
+角色所属世界观：崩壞：星穹鐵道
+
+真实社交平台风格手机快照，凌晨两点。画面主体是 {指定角色} 的真人化版本，一位明确成年的女性角色，不像任何真实明星、网红或名人。她必须保留该角色最核心的可识别特征：发型、发色、脸部气质、代表性色彩、标志性饰品、常用服装元素或身份符号，但整体转译为真实旅行生活中的自然状态。
+
+场景是符合 {指定角色} 所属世界观的旅馆、客房、临时住所或休息舱，而不是默认现代商务酒店。请根据角色原作世界观、时代背景、所属阵营、常驻地区和视觉美术风格自动推导房间环境：如果角色来自海贼或航海世界，房间应像海岛旅馆、船舱客房或港口旅店；如果角色来自魔法世界，房间应有木质旅馆、烛灯、羊皮纸、魔法道具；如果角色来自赛博科幻世界，房间应有合金墙面、霓虹窗光、电子设备、舱室床铺；如果角色来自古风或幻想世界，房间应有屏风、木榻、纱帐、灯笼、传统器物。环境必须明显服务于 {指定角色} 的世界观，而不是普通现代酒店房间。
+
+她在旅行、任务、宴会、战斗或长途移动后疲惫到直接倒在床上睡着，被同行朋友站在床边用手机随手拍下。画面不是写真，不是摆拍，不是广告大片，而是朋友觉得她平时形象强烈、现在睡相反差太大而留下的轻松记录照，真实、自然、有社交平台随手发图感。
+
+她拥有精致韩系脸和高级感五官，大而清透的眼睛，细腻柔和的鼻唇线条，白皙透亮的高级柔光奶油肌，皮肤带轻微高光、自然肌理。
+
+她的身形为成熟丰腴但协调自然的曲线型体态，肩颈线柔和舒展，腰线清晰，腰胯转折自然，腿部比例修长，整体呈现优雅的 S 型轮廓。
+
+人物处于睡熟状态，头发凌乱散开，几缕发丝贴在脸颊、额头或唇边，嘴巴微微张开或表情完全放松，眼睛闭合，睡姿自然随机。她穿着隨機恥力爆表的符合角色世界观的睡衣套装，睡衣扣子全解開，裤子为短款睡裤。颜色和细节参考 {指定角色} 的代表性色彩与服装元素；衣料有自然皱褶和睡乱后的松散感，身体被被子、枕头、披风、外袍或毯子自然遮挡。整体是疲惫、反差、生活化的睡相，而不是性感摆拍。
+
+PBR皮肤质感，真实微汗肌肤，锁骨、肩膀、腹部、腰线和大腿有细小汗珠与冷光高光，强景深分层、边缘光、暗角。微弱暖白灯光从左前上方照射，右侧冰冷轮廓光勾勒发丝、肩颈、手部。
+
+床上可见凌乱枕头、半掀开的被子、皱起的床单，以及符合 {指定角色} 世界观的旅行用品和随身物件。床头或桌面上摆放与角色设定相关的小物：可以是水杯、地图、书卷、航海用品、魔法道具、武器护具、饰品、徽章、通行证、香水瓶、发饰、食物包装、任务文件或阵营标记。所有道具都要贴合角色世界观和身份。
+
+房间背景必须根据 {指定角色} 的世界观变化。墙面、床头、窗帘、灯具、地板、行李、窗外光线和装饰物都应体现角色所处世界的材质与审美：木板、船舱、海风、藤编、金属舱室、霓虹、魔法烛灯、古典屏风、石墙、帐篷、旅店木梁、徽章纹样、阵营标志或地方文化元素。背景要有生活杂乱感，但不能脏乱恶心；要像真实住了一晚的旅途房间。
+
+手机直闪拍摄，混合房间内微弱环境光。部分床单、枕头和皮肤边缘有轻微过曝，背景较暗。画面具有手机 HDR、社交平台压缩感、轻微手震模糊、自然噪点、弱光环境下的生活抓拍质感。
+
+朋友站在床边略高角度拍摄，24mm 手机广角，9:16 竖式构图，相机微微倾斜。人物全身勉强入镜，头顶、手臂或脚尖可以略微被裁切，构图有一点随手感。画面重点是 {指定角色} 真人化后的疲惫睡相、角色标志性特征、符合世界观的旅馆环境、凌乱床铺和朋友视角的真实记录感，而不是刻意展示身体。
+```
+
+<!-- Case 330: Косплей горничной-повара с верхней широкоугольной перспективой (by @voxcatai) -->
+### Case 330: [Косплей горничной-повара с верхней широкоугольной перспективой](https://x.com/voxcatai/status/2074780734863429975) (by [@voxcatai](https://x.com/voxcatai))
+
+<table>
+<tr><td width="50%"><a href="../images/portrait_case330/output1.jpg" target="_blank" rel="noopener noreferrer"><img src="../images/portrait_case330/output1.jpg" width="100%" alt="Output image"></a></td><td width="50%"><a href="../images/portrait_case330/output2.jpg" target="_blank" rel="noopener noreferrer"><img src="../images/portrait_case330/output2.jpg" width="100%" alt="Output image"></a></td></tr>
+<tr><td width="50%"><a href="../images/portrait_case330/output3.jpg" target="_blank" rel="noopener noreferrer"><img src="../images/portrait_case330/output3.jpg" width="100%" alt="Output image"></a></td></tr>
+</table>
+
+**Промпт:**
+
+```
+【角色】，成年女性，米哈游角色真人 COS，甜美二次元女仆厨娘风格。黑色短发，齐刘海，柔顺短波波头，发型干净可爱，带轻微二次元娃娃感。
+
+高机位俯拍构图，镜头位于人物头顶前方上方，近距离广角透视。人物抬头看向镜头，形成明显上目线，脸部靠近镜头显得更大，身体、腿部和脚部因透视被压缩变小，呈现头大身小的 Q 版视觉比例。人物位于画面中心，脸部是视觉中心，姿态收敛，双脚靠近站立，身体略微前倾，像在和镜头近距离互动。
+
+服饰根据【角色】自动设计，在女仆厨娘造型基础上进行角色化改造。围裙、头巾、裙摆、袖口、蝴蝶结、花边、刺绣、装饰配件、图案纹样、配色方案与主题元素，全部结合【角色】的核心识别点进行变化。保留【角色】的代表色、标志性符号、世界观元素、性格气质与视觉特征，并转译为甜美、精致、可穿戴的厨娘女仆造型。可使用波点、格纹、蕾丝、缎带、轻纱、褶边、刺绣、小型主题饰品等细节强化角色识别度。整体服装可爱、柔软、甜美，二次元感强，裙摆自然向下展开，形成清晰可爱的视觉轮廓。
+
+妆容固定不变：冷白瓷感底妆，皮肤非常平滑，强磨皮美颜效果。粉色眼影，玫粉色眼下晕染，夸张上挑猫眼眼线，眼尾明显拉长。眼下高位腮红，大面积粉红腮红，鼻尖微微泛红，鼻梁和鼻尖有明显高光。浅粉色 glossy 唇妆，唇部柔和湿润，整体呈现二次元娃娃感与虚拟主播感。
+
+表情为半眯眼、浅浅微笑、无感又甜美。眼睛几乎眯成一条线，嘴角轻微上扬，不露齿，带一点慵懒、空洞、病娇、电子宠物感。整体气质甜腻、梦幻、人工化，cute but slightly eerie，doll-like，pastel atmosphere。
+
+背景为室内地板与柔软床边环境，背景弱化，空间纵深较浅。正面柔光补光，面部明亮，带轻微紫粉色氛围光。整体色调以粉、白、黑为基底，并结合【角色】对应的服饰配色与主题元素变化。高清，细节丰富，柔焦，动漫真人混合质感，cosplay portrait，强滤镜，甜美二次元摄影质感。
+```
+<!-- Case 331: Милая виртуальная дудл-реплика — упрощённая версия (by @saniaspeaks_) -->
+### Case 331: [Милая виртуальная дудл-реплика — упрощённая версия](https://x.com/saniaspeaks_/status/2080859150620279165) (by [@saniaspeaks_](https://x.com/saniaspeaks_))
+
+<table>
+<tr><td width="50%"><a href="../images/portrait_case331/output1.jpg" target="_blank" rel="noopener noreferrer"><img src="../images/portrait_case331/output1.jpg" width="100%" alt="Output image"></a></td><td width="50%"><a href="../images/portrait_case331/output2.jpg" target="_blank" rel="noopener noreferrer"><img src="../images/portrait_case331/output2.jpg" width="100%" alt="Output image"></a></td></tr>
+<tr><td width="50%"><a href="../images/portrait_case331/output3.jpg" target="_blank" rel="noopener noreferrer"><img src="../images/portrait_case331/output3.jpg" width="100%" alt="Output image"></a></td><td width="50%"><a href="../images/portrait_case331/output4.jpg" target="_blank" rel="noopener noreferrer"><img src="../images/portrait_case331/output4.jpg" width="100%" alt="Output image"></a></td></tr>
+</table>
+
+**Промпт:**
+
+```
+Use the uploaded photo as the exact identity reference. Keep the face, skin tone, hairstyle, accessories, and outfit exactly the same. Create a vertical full-body image of the real person standing beside their ink-twin doodle. The real person should look photorealistic with a playful, slightly embarrassed expression and a natural pose. The ink twin should be a rough black charcoal sketch on a clean white or light gray wall, matching the person's hairstyle, outfit, and pose only as a silhouette, but with exaggerated, chaotic energy. Add a few simple doodle effects like motion lines, stars, or hearts. Use soft natural daylight with a clean minimal background. Do not change the person's appearance or outfit. Do not make the twin a real person, colored cartoon, or flat shadow. Avoid repeated poses, bad hands, extra limbs, clutter, text, or watermarks.
+```
+
+<!-- Case 332: Милая виртуальная дудл-реплика — полная версия (by @Ciri_ai) -->
+### Case 332: [Милая виртуальная дудл-реплика — полная версия](https://x.com/Ciri_ai/status/2080580411487600862) (by [@Ciri_ai](https://x.com/Ciri_ai))
+
+<table>
+<tr><td width="50%"><a href="../images/portrait_case332/output1.jpg" target="_blank" rel="noopener noreferrer"><img src="../images/portrait_case332/output1.jpg" width="100%" alt="Output image"></a></td><td width="50%"><a href="../images/portrait_case332/output2.jpg" target="_blank" rel="noopener noreferrer"><img src="../images/portrait_case332/output2.jpg" width="100%" alt="Output image"></a></td></tr>
+<tr><td width="50%"><a href="../images/portrait_case332/output3.jpg" target="_blank" rel="noopener noreferrer"><img src="../images/portrait_case332/output3.jpg" width="100%" alt="Output image"></a></td><td width="50%"><a href="../images/portrait_case332/output4.jpg" target="_blank" rel="noopener noreferrer"><img src="../images/portrait_case332/output4.jpg" width="100%" alt="Output image"></a></td></tr>
+</table>
+
+**Промпт:**
+
+```
+使用上传的角色参考图像作为严格的身份和服装参考。
+
+保留参考角色的：
+- 面部身份
+- 面部比例
+- 眼睛形状
+- 鼻子
+- 嘴唇
+- 肤色
+- 发型
+- 发色
+- 可见的发饰
+- 整体可识别的氛围
+- 参考图像中展示的服装和造型
+
+不要硬编码上传参考中不存在的任何特定角色特征。
+所有身份、发型、配饰和服装细节必须直接从上传的参考图像中推断。
+
+创建一个高质量的混合风格纵向肖像，展示：
+1. 上传角色/人物的逼真全身版本
+2. 同一角色/人物在旁边的墙上的黑色手绘涂鸦阴影版本
+
+核心概念：
+真实人物和他们的涂鸦阴影一起做出俏皮调皮的姿势。
+真实人物表演一个可爱的逼真版本的姿势，而涂鸦阴影表演同一个姿势想法的更夸张、混乱、卡通化的版本。
+氛围应该感觉可爱、俏皮、调皮、时尚、有趣，并且适合社交媒体。
+
+真实人物：
+- 必须保持逼真且上镜
+- 必须穿着与上传参考图像中相同风格和关键可见细节的服装
+- 不要用无关的时尚替换参考造型
+- 表情应该是可爱的、略带困惑、轻微尴尬、俏皮的，仿佛在想：“为什么我要和我的影子做这个？”
+- 真实人物不应该僵硬地站着
+- 真实人物应该积极参与姿势，但以自然逼真的方式
+
+涂鸦阴影：
+- 必须是同一人物的黑色手绘草图版本，直接画在墙上
+- 不是逼真的第二个人
+- 不是正常的物理阴影
+- 不是全彩动漫角色
+- 仅限黑色草图线稿
+- 通过发型轮廓、配饰、服装轮廓和姿势结构来相似于该人物
+- 涂鸦阴影应该看起来比真实人物更有活力、更傻、更混乱
+- 如果有帮助，可以在涂鸦周围添加类似漫画的运动线、心形、星星、闪光和漫画标记
+
+随机调皮姿势规则：
+姿势不得固定。
+
+对于每次生成，为真实人物和涂鸦阴影发明一个新的俏皮调皮姿势。
+真实人物和涂鸦阴影应该共享相同的总体姿势想法，但不需要完美匹配。
+真实人物表演一个可爱的逼真版本。
+涂鸦阴影表演一个更夸张、混乱、卡通化的版本。
+
+不要反复使用指指姿势。
+不要反复使用手指枪姿势。
+不要反复使用相同的站姿。
+不要总是让两个形象简单地互相指指。
+
+每次创建一个不同的调皮姿势。
+
+可能的姿势方向仅为松散灵感，不是固定菜单：
+- 俏皮偶像姿势
+- 傻乎乎的舞蹈姿势
+- 侧身倾斜，一只手臂弯曲举过头顶
+- 做大心形姿势
+- 厚脸皮眨眼姿势
+- 双手靠近脸颊的可爱挑逗姿势
+- 夸张的“哒哒！”姿势
+- 假装惊讶姿势
+- 俏皮的原地跑步姿势
+- 调皮的踮脚姿势
+- 手臂向相反方向伸展
+- 假装偷偷溜走
+- 可爱捣蛋鬼姿势
+- 戏剧性过度反应姿势
+- 傻乎乎的胜利姿势
+- 俏皮平衡姿势
+- 俏皮躲猫猫姿势
+- 害羞但调皮的姿势
+- 可爱过度自信姿势
+
+最终姿势应该感觉新鲜、可爱、调皮，并且略带混乱。
+真实人物应该看起来像是勉强玩闹着配合。
+涂鸦阴影应该看起来像是玩得太过开心。
+
+构图：
+- 4:5 或 9:16 
+- 以全身或近全身构图展示真实人物
+- 将真实人物放置在画面的一侧
+- 将黑色涂鸦阴影放置在旁边的干净墙上
+- 涂鸦阴影的高度大致相同或略高
+- 在两个形象周围留出足够空间，以便完整姿势可见
+- 真实人物和涂鸦阴影之间的联系必须一目了然
+
+背景：
+- 简单干净的室内摄影棚墙壁或最小化房间角落
+- 白色、奶油色或浅灰色墙壁
+- 干净的地板
+- 允许柔和的自然阳光斑块或温和的墙壁阴影
+- 保持背景整洁无杂物
+
+照明：
+- 柔和的自然摄影棚照明
+- 明亮、干净、精致、俏皮的氛围
+- 保持真实人物的脸部清晰可见
+
+风格质量：
+- 逼真的人类摄影
+- 墙上的黑色手绘涂鸦阴影
+- 匹配的调皮姿势互动
+- 强烈的身份相似度
+- 服装和造型忠实基于上传参考
+- 可爱且时尚的混合媒体肖像
+- 干净的构图
+- 适合社交媒体
+- 无明显 AI 伪影
+
+负面提示：
+与参考无关的服装变化，逼真的第二个人，正常反射，仅正常阴影，纯黑色怪物阴影，恐怖阴影，诡异阴影，全彩插图，卡通人类，动漫人类，弱相似度，无关草图角色，凌乱墙壁，杂乱背景，反复指指姿势，反复手指枪姿势，每次相同姿势，固定姿势，无聊镜像姿势，僵硬姿势，相同姿势重复，真实人物不匹配阴影姿势，文本，水印，标志，扭曲身体，多余肢体，多余手指，坏手
+```
+
+<!-- Case 333: Кинематографичный молодёжный кадр в прыжке (by @graynotelab) -->
+### Case 333: [Кинематографичный молодёжный кадр в прыжке](https://x.com/graynotelab/status/2080652913815220731) (by [@graynotelab](https://x.com/graynotelab))
+
+<table>
+<tr><td width="50%"><a href="../images/portrait_case333/output1.jpg" target="_blank" rel="noopener noreferrer"><img src="../images/portrait_case333/output1.jpg" width="100%" alt="Output image"></a></td><td width="50%"><a href="../images/portrait_case333/output2.jpg" target="_blank" rel="noopener noreferrer"><img src="../images/portrait_case333/output2.jpg" width="100%" alt="Output image"></a></td></tr>
+</table>
+
+**Промпт:**
+
+```
+9:16 竖构图，超写实电影级摄影，青春电影感人像，高级时尚杂志 Editorial 风格，自然生活纪实摄影，夏日海边氛围，高速抓拍摄影，真实运动瞬间，电影静帧，中画幅摄影，超高分辨率，真实摄影作品，而非插画。
+
+一位约23岁的亚洲女性，鹅蛋脸，五官精致自然，白皙细腻肌肤，真实皮肤纹理，浅棕色自然眼妆，清澈明亮的双眼，嘴唇自然微张，整体流露轻松、自由、青春洋溢的气质。
+
+黑色长发自然披散，发丝在人物腾空瞬间因惯性完全扬起，形成丰富而自然的动态弧线，几缕碎发自由飞舞，发间点缀一条醒目的红色缎带，随着动作在空气中自然飘扬，形成充满节奏感的视觉引导线。
+
+身穿简洁干净的学院风夏季穿搭：白色短袖针织上衣，浅灰色格纹百褶短裙，黑色乐福鞋，白色短袜，服装剪裁自然利落，无品牌 Logo，无文字元素，整体强调青春校园与生活方式摄影风格。
+
+人物处于腾空最高点，全身完全离开地面，一条腿自然向后弯曲，另一条腿轻轻向下伸展，双臂因跳跃惯性自然向前舒展，身体略微前倾，头部随着动作自然低垂，发丝完全遮挡部分面部，整体动作充满真实爆发力，没有刻意摆拍痕迹，呈现高速抓拍才能记录下来的自然瞬间。
+
+拍摄地点位于海边步道，远处是平静海面与朦胧天际线，岸边草地、岩石与少量树木作为环境点缀，大面积天空形成纯净背景，整体环境简洁通透，富有夏日空气感与电影叙事氛围。
+
+自然日间阳光作为主光源，从人物侧前方柔和照射，天空形成均匀漫射环境光，人物受光自然，高光柔和不过曝，阴影细腻通透，发丝边缘形成轻微轮廓光，整体光线干净透明，具有真实户外摄影空气感，不使用夸张补光，不产生 HDR 效果。
+
+整体采用低饱和电影色彩，天空呈淡蓝与暖白渐变，海面带有轻微银蓝色反光，肤色自然柔和，服装保持干净中性色调，红色缎带成为画面的唯一高饱和彩色点缀，形成视觉焦点，同时保持整体色彩克制统一。
+
+采用70-200mm 长焦镜头约120mm焦段，高速快门 1/2500s 凝固人物腾空瞬间，F2.8 大光圈，背景自然虚化，中画幅 RAW 摄影，自然胶片颗粒，真实镜头压缩感，真实空气透视，真实布料纹理，真实发丝细节，真实皮肤细节，高动态范围，电影级摄影品质。
+
+构图采用低机位仰拍，大面积天空作为留白背景，人物位于画面黄金分割区域，身体形成优雅对角线，发丝、四肢与红色飘带共同形成丰富的动态引导线，整体画面充满速度感、自由感与青春生命力，犹如日本青春电影中的经典瞬间。
+
+反向提示词（Negative Prompt）：低质量、低分辨率、模糊、运动拖影、塑料皮肤、过度磨皮、动漫风、插画风、CG 感、HDR 光晕、曝光过度、曝光不足、畸形四肢、多余手指、多余肢体、人物比例异常、背景杂乱、现代广告牌、Logo、文字、水印、AI 痕迹明显。
+```
+
+<!-- Case 334: Портрет в японском стиле в духе фэшн-эдиториала (by @graynotelab) -->
+### Case 334: [Портрет в японском стиле в духе фэшн-эдиториала](https://x.com/graynotelab/status/2080667348558872682) (by [@graynotelab](https://x.com/graynotelab))
+
+<table>
+<tr><td width="50%"><a href="../images/portrait_case334/output1.jpg" target="_blank" rel="noopener noreferrer"><img src="../images/portrait_case334/output1.jpg" width="100%" alt="Output image"></a></td><td width="50%"><a href="../images/portrait_case334/output2.jpg" target="_blank" rel="noopener noreferrer"><img src="../images/portrait_case334/output2.jpg" width="100%" alt="Output image"></a></td></tr>
+<tr><td width="50%"><a href="../images/portrait_case334/output3.jpg" target="_blank" rel="noopener noreferrer"><img src="../images/portrait_case334/output3.jpg" width="100%" alt="Output image"></a></td></tr>
+</table>
+
+**Промпт:**
+
+```
+9:16 竖构图，超写实电影级摄影，和风幻想角色人像，高级时尚杂志 Editorial 风格，自然叙事摄影，室内日光与阴影交织，电影静帧质感，中画幅摄影，超高分辨率，真实摄影作品而非插画。
+
+一位约23岁的东方女性，鹅蛋脸，五官精致柔和，肌肤白皙通透，真实皮肤纹理，自然淡妆，眼神清澈安静，目光直视镜头，表情克制、从容、带一点神秘感，整体气质冷艳而优雅，带有东方幻想角色的沉浸感。
+
+黑色长发自然垂落，发顶佩戴夸张但精致的黑色毛绒狐耳发饰，耳部轮廓清晰，发间点缀少量红金色和金属花饰，几缕碎发被光线轻轻勾亮，发丝层次丰富，整体造型保留角色感但不过度戏剧化。
+
+身穿黑色和风角色造型连体服，外层为更厚实的黑色绸缎与提花面料，内层为高包裹度抹胸式结构，肩颈线条干净利落，腰部加入金属花纹腰封与红色流苏装饰，服装整体强调材质高级感与角色设定感，避免过度暴露，整体风格偏艺术摄影而非性感展示。搭配半透明黑色长袜与同色系鞋履，腿部线条自然延伸，但不刻意强调身体局部。
+
+人物以侧坐姿态停留在榻榻米或和风室内地台上，上半身轻轻后仰，一条腿自然向前延伸，另一条腿收拢形成优雅斜线，左手自然抬起停在面侧附近，右手轻扶身旁低矮家具边缘，身体重心放松，姿势舒展而安静，动作像被镜头定格的瞬间，没有刻意摆拍感。
+
+场景为日式传统室内空间，木质梁柱、纸拉门、榻榻米、低矮桌面与室内摆件共同组成背景，环境层次清晰但不过分复杂，整体空间有东方生活气息，背景轻微虚化，保留木材纹理与和风建筑结构，不出现现代电器、现代家具、广告牌或文字元素。
+
+光线是整张图最重要的部分：强烈自然日光从画面左上方斜切进入，形成明显的高光与阴影分界，人物面部、肩部、发丝边缘和衣料表面被阳光照亮，出现细腻而柔和的高光溢出；暗部保留丰富层次，室内边缘处形成深色包围感，整体呈现“高反差自然补光 + 侧逆光轮廓光”的电影质感。光线在发丝与衣料上形成轻微 Bloom 柔光晕，让主体在明亮背景中依然清晰可读。
+
+整体采用高亮度、低饱和、冷暖对比明显的电影色彩，背景偏浅白与灰米色，衣料偏黑与深灰，肤色干净通透，少量红金饰品成为画面中的暖色点缀，整体色彩统一克制，具有高级时装摄影与东方角色摄影的融合感。
+
+85mm 中长焦镜头视角，F2.0 大光圈，浅景深，低机位仰拍，构图略带对角线倾斜感，主体位于画面中部偏右，前景与背景形成自然空间层次，真实镜头压缩感，中画幅 RAW 原片质感，轻微胶片颗粒，真实布料纹理，真实皮肤细节，真实发丝反光，电影级动态范围，整体画面华丽、冷静、干净、具有强烈视觉冲击力。
+
+反向提示词（Negative Prompt）：低质量、低分辨率、模糊、塑料皮肤、过度磨皮、动漫风、插画风、CG感、HDR 光晕、曝光过度、曝光不足、颜色过饱和、锐化过强、畸形手部、多余手指、多余肢体、人物比例异常、背景杂乱、现代元素、文字、水印、Logo、服装穿模、过度暴露、过度性感化姿势、AI痕迹明显。
+```
+
+<!-- Case 335: Серия портретов для премиального модного журнала (by @TIGER) -->
+### Case 335: [Серия портретов для премиального модного журнала](#) (by @TIGER)
+
+<table>
+<tr><td width="50%"><a href="../images/portrait_case335/output1.jpg" target="_blank" rel="noopener noreferrer"><img src="../images/portrait_case335/output1.jpg" width="100%" alt="Output image"></a></td><td width="50%"><a href="../images/portrait_case335/output2.jpg" target="_blank" rel="noopener noreferrer"><img src="../images/portrait_case335/output2.jpg" width="100%" alt="Output image"></a></td></tr>
+</table>
+
+**Промпт:**
+
+```
+使用上传人物作为唯一身份参考，保持五官、脸型、发型和身材比例一致，生成一组高端时尚杂志人像写真。成年东亚女性，黑色微乱低盘发，少量碎发自然垂落，妆容干净高级，眼神温柔又带一点神秘感。
+
+人物穿白色羽毛塑身上衣、黑色高腰短裤、黑色蕾丝长手套与蕾丝腿环，搭配黑色细带高跟鞋。部分画面佩戴黑色蕾丝眼罩，整体性感但克制，不低俗、不暴露。
+
+摄影棚内拍摄，深灰至暖米色渐变背景，强烈金色逆光从人物后方照射，形成柔和轮廓光和发丝光，空气中有轻微烟雾与漂浮的白色羽毛。电影级暖色调，柔和高光，真实皮肤质感，浅景深，细腻颗粒，复古胶片氛围，高级时装广告摄影。
+
+分别生成不同构图和动作：
+
+蕾丝眼罩近景肖像，双臂自然抬起，神情安静神秘。
+全身背身站立，微微回头看镜头，姿态自然优雅。
+半身侧脸，佩戴蕾丝眼罩，烟雾环绕，强烈金色逆光。
+坐在铺满羽毛的地面，身体侧坐，微笑看向镜头。
+正面站立，一只手轻扶后脑，羽毛从空中飘落。
+
+加入极简高级杂志排版，使用超大英文衬线字体与轻微横向故障效果，可出现：
+
+VEIL / BACKLIGHT / MUSE / ECHO / PLUME
+
+画面边缘加入少量英文说明、期刊编号、系列名称和摄影棚标识，排版留白自然，不遮挡人物面部。竖版海报构图，3:4比例，每张单独生成，不拼图。
+
+负面要求：
+不要过度磨皮，不要塑料皮肤，不要夸张身材，不要畸形手脚，不要僵硬姿势，不要过度暴露，不要廉价影楼感，不要杂乱文字，不要人物变脸，不要多余肢体
+```
+
+<!-- Case 336: Сюрреалистический портрет с визуальными элементами (by @hexmethod) -->
+### Case 336: [Сюрреалистический портрет с визуальными элементами](https://x.com/hexmethod/status/2079786690215068108) (by [@hexmethod](https://x.com/hexmethod))
+
+<table>
+<tr><td width="50%"><a href="../images/portrait_case336/output1.webp" target="_blank" rel="noopener noreferrer"><img src="../images/portrait_case336/output1.webp" width="100%" alt="Output image"></a></td><td width="50%"><a href="../images/portrait_case336/output2.webp" target="_blank" rel="noopener noreferrer"><img src="../images/portrait_case336/output2.webp" width="100%" alt="Output image"></a></td></tr>
+<tr><td width="50%"><a href="../images/portrait_case336/output3.webp" target="_blank" rel="noopener noreferrer"><img src="../images/portrait_case336/output3.webp" width="100%" alt="Output image"></a></td><td width="50%"><a href="../images/portrait_case336/output4.webp" target="_blank" rel="noopener noreferrer"><img src="../images/portrait_case336/output4.webp" width="100%" alt="Output image"></a></td></tr>
+</table>
+
+**Промпт:**
+
+```
+Use the supplied image as the absolute authority for the central character’s identity, species, anatomy, facial structure, natural body proportions, silhouette, hairstyle or head shape, expression language, distinctive features, color palette, material cues, symbolic motifs, and overall visual presence. Preserve clear recognizability.
+
+Do not copy the supplied pose, background, camera angle, composition, or clothing. Clothing in the supplied image may influence only abstract colors, materials, textures, ornamentation, motifs, and cultural design language. Any newly generated garment must use entirely different construction, silhouette, coverage, layering, and draping.
+
+The character must be clearly adult. Preserve the established gender presentation, species logic, anatomy, non-human traits, skin markings, scars, tattoos, pigmentation, prosthetics, cybernetics, horns, ears, antennae, tails, wings, fins, claws, integrated armor, jewelry, masks, helmets, visors, hoods, eyepatches, headpieces, and all other identity-defining features. Do not humanize, simplify, relocate, exaggerate, minimize, replace, or remove them.
+
+Eyes and Facial Coverings
+
+Preserve the original eye state exactly. Closed eyes remain closed. Hidden, masked, shadowed, hair-covered, or otherwise concealed eyes remain concealed. Do not reveal, invent, open, duplicate, enlarge, or reposition them.
+
+If eyes are visible, preserve their shape, size, placement, sclera, iris pattern, pupil shape, color, markings, glow, reflections, asymmetry, heterochromia, and other distinctive details.
+
+Never remove permanent masks, helmets, visors, hoods, eyepatches, facial coverings, or integrated headpieces.
+
+Photoreal Translation
+
+Render convincing live-action photorealism with realistic adult facial anatomy, natural skin texture, visible pores, plausible eyes, individually resolved hair strands, accurate materials, and photographic lighting.
+
+Translate anime, manga, cel-shaded, illustrated, or painted features into believable real-world anatomy while preserving identity and design. Do not reproduce anime faces, oversized illustrated eyes, simplified facial structure, doll-like proportions, cel shading, drawn features, or glossy artificial skin.
+
+Preserve non-human anatomy and translate it into physically plausible biological, mechanical, mineral, crystalline, chitinous, synthetic, spectral, aquatic, or otherwise appropriate forms.
+
+Inherited Design Language
+
+Carry the supplied image’s dominant and secondary colors, materials, shapes, ornamentation, symbolic motifs, and overall aesthetic language into the garment, lighting, architecture, atmosphere, and environmental details.
+
+Inherit the visual language rather than literal clothing, props, or scenery. Do not introduce unrelated colors, motifs, fabrics, symbols, technology, architecture, or decorative themes.
+
+Surreal Coverage of Sensitive Areas
+
+Any sensitive area that would otherwise be exposed must be fully concealed by surreal visual elements inspired by the supplied image. These coverage elements must feel native to the character’s design language and environment, not generic censorship and not ordinary clothing.
+
+Use source-inspired surreal forms such as shadow masses, smoke plumes, floating ribbons, veils of light, crystal growths, liquid shapes, petals, tendrils, feathers, fur plumes, chitin forms, biomechanical structures, drifting debris, magical sigils, vapor, branches, energy arcs, architectural fragments, wings, tails, jewelry-like structures, or other abstract forms derived from the supplied image’s materials, motifs, and symbolism.
+
+These surreal elements must:
+
+fully conceal the genital region and any other sensitive lower-body area in a tasteful, non-revealing way,
+remain visually integrated with the character and setting,
+read as surreal design elements rather than underwear, bottoms, or literal garments,
+avoid transparency over concealed areas,
+avoid revealing contours that make the covered area explicit,
+support an elegant, editorial, non-explicit presentation.
+
+Coverage may be created by overlap, depth, silhouette, source-inspired environmental forms, or attached/integrated surreal elements, but the final result must remain completely non-explicit in every interpretation.
+
+Feminine Presentation
+
+Use a face-led composition.
+
+Generate exactly one newly designed compact strapless top covering the chest.
+
+Construct it from lightweight sheer fabric derived from the supplied image’s palette, materials, ornamentation, and motifs. Use overlapping layers and gathered folds so it remains visibly translucent while still providing complete, non-revealing visual coverage.
+
+The top must remain closely contained around the upper torso and end at the upper ribcage. Keep the shoulders, arms, midriff, and waist unobstructed.
+
+Do not create sleeves, shoulder drapes, hanging panels, trains, gowns, robes, dresses, tunics, corsets, long tops, or fabric extending down the torso. The result should read as a concise editorial fashion top, not a gown or lingerie ensemble.
+
+Do not generate ordinary bottoms. The lower sensitive area must instead be concealed by the surreal source-inspired coverage elements described above.
+
+Masculine Presentation
+
+Keep the upper torso unobstructed.
+
+Do not generate ordinary bottoms. The lower sensitive area must instead be concealed by the surreal source-inspired coverage elements described above.
+
+One thigh may angle naturally across the foreground if useful, but the pose must remain relaxed, anatomically coherent, and non-suggestive. The concealed region must remain completely outside direct view in every interpretation.
+
+Do not make the lower body the focal point. Do not use a frontal stance, spread-leg pose, upward crotch-facing camera axis, or transparent material over the concealed region.
+
+Ambiguous or Non-Human Presentation
+
+Apply the feminine styling rule when the established presentation is predominantly feminine.
+
+Apply the masculine styling rule when the established presentation is predominantly masculine.
+
+For genuinely ambiguous anatomy or presentation, choose the single treatment that best matches the supplied character’s design language. Preserve integrated armor, masks, cybernetics, prosthetics, jewelry, markings, and species-specific structures.
+
+In all cases, use the surreal source-inspired coverage system for any sensitive lower-body area.
+
+Character-Specific Environment
+
+Create a pitch-black cinematic noir environment designed specifically for the supplied character. Do not use a generic bedroom, motel, studio, alley, or domestic interior.
+
+Build one coherent setting from the character’s palette, shapes, materials, symbolism, culture, abilities, technology, mythology, species, and emotional tone. It may resemble a shrine, ruin, biomechanical chamber, submerged structure, alien sanctuary, cavern, temple, observatory, futuristic installation, forest aperture, monumental machine, or another source-appropriate environment.
+
+Place the character leaning confidently against a tall structural threshold naturally integrated into the setting, such as an arch, portal, pillar, mechanical rib, cavern edge, crystalline opening, tree-like frame, or armored bulkhead.
+
+A powerful source-colored backlight pours through the opening, producing a strong silhouette and sharp rim light around the head, face, shoulders, torso, limbs, garment where applicable, armor, horns, wings, tail, or other visible structures.
+
+Keep the environment near-black and only partially readable through silhouettes, faint reflections, atmospheric depth, restrained particles, and edge lighting. The background must support the character rather than compete with them.
+
+Lighting and Camera
+
+Keep the face or visible eye region sharp and softly readable while most of the figure remains silhouetted.
+
+The backlight must remain dominant. Use faint source-colored reflected light to reveal limited facial structure, collarbones or equivalent anatomy, upper torso, markings, materials, and translucent fabric detail where applicable. Do not use broad frontal lighting.
+
+Use a dramatic low-angle portrait with coherent foreshortening, pronounced tilt-shift depth of field, a controlled Dutch angle, and a 9:21 vertical composition.
+
+Aim the optical axis toward the face and upper torso rather than upward through the lower body. Keep the lower center of the composition fully obscured by the surreal coverage elements, supporting pose overlap, silhouette, or integrated architecture.
+
+Use realistic photographic optics, near-black shadows, subtle atmospheric haze, accurate translucent fabric behavior, natural skin and material response, fine analog grain, restrained bloom, deep tonal separation, and high-end live-action noir cinematography.
+
+Hard Constraints
+
+Maintain a tasteful, non-explicit editorial presentation throughout.
+
+Do not include:
+
+copied source clothing,
+gown-like upper garments,
+fabric extending below the upper ribcage on feminine-presenting characters,
+ordinary bottoms or underwear,
+lower-body focal emphasis,
+provocative stance,
+revealing camera angle,
+explicit anatomy,
+transparent coverage over sensitive regions,
+anime rendering,
+cartoon anatomy,
+glossy plastic skin,
+generic interiors,
+extra people,
+unrelated lights,
+text,
+signage,
+unrelated motifs,
+unrelated props,
+unrelated colors.
+
+The final image must read as dark surreal editorial noir, with the sensitive area concealed by surreal source-inspired forms, not by conventional clothing and not by accidental cropping alone.
+```
+
+<!-- Case 337: Атмосферное свадебное приглашение (by @TIGER) -->
+### Case 337: [Атмосферное свадебное приглашение](#) (by @TIGER)
+
+<table>
+<tr><td width="50%"><a href="../images/portrait_case337/output1.webp" target="_blank" rel="noopener noreferrer"><img src="../images/portrait_case337/output1.webp" width="100%" alt="Output image"></a></td><td width="50%"><a href="../images/portrait_case337/output2.webp" target="_blank" rel="noopener noreferrer"><img src="../images/portrait_case337/output2.webp" width="100%" alt="Output image"></a></td></tr>
+<tr><td width="50%"><a href="../images/portrait_case337/output3.webp" target="_blank" rel="noopener noreferrer"><img src="../images/portrait_case337/output3.webp" width="100%" alt="Output image"></a></td><td width="50%"><a href="../images/portrait_case337/output4.webp" target="_blank" rel="noopener noreferrer"><img src="../images/portrait_case337/output4.webp" width="100%" alt="Output image"></a></td></tr>
+</table>
+
+**Промпт:**
+
+```
+围绕具体主题内容生成，把主题的真实场景、对象或人物关系放进一张带轻微运动瞬间感的实拍照片底层：主体位于画面中下部，不要占满全幅，保留上方宽阔浅亮空间和中部深色环境带，让大号白色手写刷字先被读到，再把视线带回主体互动。最高层使用粗粝干刷感的手写英文或短句作为情绪标题，笔画粗细忽大忽小，边缘有断墨、擦痕、露底和不规则飞白，字距松散，基线自然起伏，像直接写在照片上而不是排版字体；底部放较小的手写日期、地点或主题信息，保持同样的白色干墨质感但更紧凑。围绕主体与空白处散布少量手绘线条图案、星点、简笔花形和一条自由弯曲的长线，线宽不均，位置像随手标注情绪，不要形成整齐边框；可加入沿弧线排列的小字，让信息顺着主体旁边的空间流动。颜色由主题派生，但保持角色关系：大面积背景低饱和、偏柔和、带自然明度层次；中景用较深的环境色承托白色笔迹；主体保留温暖肤色、布料或材质本色；小面积主题色只作为花束、道具、局部服饰或标记的轻微点亮。整体明度不追求洁白通透，而是日落或柔光下的胶片照片质感，暗部轻压、亮部不过曝，颗粒细密均匀，边缘略软，色彩有轻微褪色和扫描感；白色涂鸦保持最亮、最干净的可读层，但不要变成矢量贴纸。成品应像私人纪念照片被手写涂鸦重新编辑，亲密、松弛、带现场感；失败表现是文字过于标准、图案装饰太满、照片过分清晰商业化，或颜色脱离主题只剩固定绿白配色。
+
+
+——————
+主题：草地婚礼请帖，突出新人在户外仪式前的温柔纪念感
+补充：出现 3 个相关信息点，保留少量婚礼邀请文字
+画幅：竖版 9:10
+```
+
+<!-- Case 338: Элегантное свадебное приглашение (by @TIGER) -->
+### Case 338: [Элегантное свадебное приглашение](#) (by @TIGER)
+
+<table>
+<tr><td width="50%"><a href="../images/portrait_case338/output1.webp" target="_blank" rel="noopener noreferrer"><img src="../images/portrait_case338/output1.webp" width="100%" alt="Output image"></a></td><td width="50%"><a href="../images/portrait_case338/output2.webp" target="_blank" rel="noopener noreferrer"><img src="../images/portrait_case338/output2.webp" width="100%" alt="Output image"></a></td></tr>
+</table>
+
+**Промпт:**
+
+```
+围绕具体主题内容组织成洁白仪式感邀请视觉，画面以大面积近白纸面展开，版心保持细长的垂直阅读秩序，顶部用小号辅助文字分置两侧作为轻声引导，中上部放置高对比衬线大标题，字形窄长、笔画粗细反差明显，行距紧、重心稳定，下接一行较大的中文标题形成正式宣告感。中段嵌入一块边界干净的方形影像区域，主题核心以近距离低快门模糊呈现，黑白灰为主，暗部集中在影像下方和交叠处，亮部带轻微冷调雾白，使情绪像被瞬间捕捉而非清晰摆拍；影像底部压入超大黑色衬线词，字脚被画框裁切，既像欢迎标语又像影像重量的底座。下方信息按居中轴线分成数个安静段落：短英文小标题、主题名称、日期数字锁定、邀请语、地点图标与地址文字，字号逐层缩小，字距克制，段与段之间留出宽阔呼吸。颜色由主题派生但必须遵循近白大底、少量冷淡浅灰承托影像、深黑文字建立秩序的角色关系；整体明度高、饱和度低、洁净而克制，纸面带极淡的丝绸纹理和弧线暗纹，只在空白区若隐若现，不增加污渍或复古脏感。所有文字与影像共享同一条垂直中轴，信息密度集中在标题、影像和日期三处，其余空间保持安静，形成庄重、私密、被见证的邀请氛围。
+
+
+——————
+主题：婚礼请柬视觉，突出一场安静而庄重的婚礼邀约
+补充：保留少量邀请文字，整体尽量清爽
+画幅：竖版 1:2
+```
+
+<!-- Case 339: Премиальная эстетика свадебного приглашения (by @TIGER) -->
+### Case 339: [Премиальная эстетика свадебного приглашения](#) (by @TIGER)
+
+<table>
+<tr><td width="50%"><a href="../images/portrait_case339/output1.webp" target="_blank" rel="noopener noreferrer"><img src="../images/portrait_case339/output1.webp" width="100%" alt="Output image"></a></td><td width="50%"><a href="../images/portrait_case339/output2.webp" target="_blank" rel="noopener noreferrer"><img src="../images/portrait_case339/output2.webp" width="100%" alt="Output image"></a></td></tr>
+</table>
+
+**Промпт:**
+
+```
+围绕具体主题内容组织清透留白的邀请视觉：画面先以大面积明亮浅色背景建立安静呼吸感，背景保持低饱和、高明度、细腻雾面与柔和漫射光，主题派生的主色只在局部人物、物件或花材上轻轻出现，深色承重区域压在一侧下方形成稳定对照，白色文字负责信息与情绪连接，整体洁净、柔软、不过度装饰。主题人物或主题对象采用近距离局部裁切，关键面部、手部、肩颈或可替代的情感动作从画面边缘进入，另一侧保留大片空场，让被截断的形体与空白共同制造亲密、含蓄、像被偷看到的瞬间；主体边缘要柔和真实，肤色或材质明度被柔光抬起，暗部克制，不做强烈戏剧阴影。中央偏上的空白处加入一组松散手写白字，笔画像随手写在空气上，粗细不匀、略带拖尾和停顿，跨过空白并靠近主体边缘，成为最先被读到的情绪标记；顶部可放极淡的小号英文或日期感文字，字距疏朗、透明度低，只作为仪式感背景声。下方沿中轴附近排列精简邀请信息，使用细净宋体或明清感衬线中文，小字号、行距宽、点状分隔，白字在深浅交界处保持可读但不过分抢眼。色彩按主题派生映射：背景取主题中最轻、最安静的雾白或浅灰角色，主体取自然肤色、材质本色或主题柔色，花材与饰物提供少量清新低饱和点缀，深色衣物、阴影或器物承担视觉重量；所有颜色保持明亮、洁净、低对比的婚礼相纸质感。避免拥挤排版、浓重滤镜、硬边拼贴和高饱和装饰，让留白、局部裁切、手写情绪字与细小礼仪信息共同完成温柔邀请感。
+
+
+——————
+主题：婚礼请柬的新人局部留白特写，保留温柔仪式感
+补充：出现 3 个相关信息点，文字少一点，保留请柬气质
+画幅：竖版 9:10
+```
+
+<!-- Case 340: Естественный женский портрет в вагоне скоростного поезда (by @TIGER) -->
+### Case 340: [Естественный женский портрет в вагоне скоростного поезда](#) (by @TIGER)
+
+| Output |
+| :----: |
+| <a href="../images/portrait_case340/output.webp" target="_blank" rel="noopener noreferrer"><img src="../images/portrait_case340/output.webp" width="300" alt="Output image"></a> |
+
+**Промпт:**
+
+```
+Create one vertical 9:16 photoreal phone-video still inside a modern Chinese high-speed train carriage, as if a seated passenger casually recorded the aisle from chest height. The camera is partly blocked by a dark seat-back edge and a blurred passenger shoulder in the foreground; mild rolling-shutter softness, phone compression, small autofocus miss, and fine sensor noise. 
+
+Main subject: A stunning young adult East Asian woman with a Korean-style slim V-line face, long wavy black hair with blunt bangs, pale ivory skin, soft blush, tiny freckles, silver contact lenses, glossy pink-to-rose lips, sculpted nose highlight, posture confident, waist slim and body curvy in a realistic S-line. She is not posing; her expression is a quick concentrated half-smile toward the bag, face readable in three-quarter profile. 
+
+Styling: a fitted ivory tank, low-waist dark plaid mini skirt with secure shorts underneath, sheer black tights, long black knee-high boots, slim earrings, simple watch, long dark hair clipped back with a few loose strands.
+
+Train geometry must be believable: paired seats with headrest covers, window strip, overhead rack depth, aisle perspective, luggage, small ceiling lights, a few ordinary passengers out of focus, no broken train layout. Natural daylight mixed with cool carriage LEDs. Keep the image like a compressed social phone clip, not an editorial ad. Avoid underage cues, school uniform reading, voyeuristic framing, isolated body-part crop, nudity, lingerie, explicit pose, fake cabin geometry, business wear drift, long coat hiding silhouette, deformed hands, plastic AI skin, unreadable face, logos, readable text, watermark.
+
+Portrait construction: clearly establish an adult subject, mature aura, and photographic mode. Express attractiveness through garment cut, tailoring, fabric texture, fine accessories, a fleeting expression or action, motivated light, camera behavior, depth separation, and negative space rather than blunt or isolated body descriptions. Keep the styling tasteful, fully clothed, restrained, and naturally proportioned. Prompt polish guardrail: mature natural facial features, not childlike; body proportions are realistic and coordinated; hands, fingers, limbs, posture, and clothing physics are anatomically believable. Keep the visual focus on face appeal, posture, clothing texture, lighting, atmosphere, and camera realism rather than isolated body parts. Style stability: preserve real phone-photo texture, mild noise/compression, imperfect crop, natural skin texture, believable autofocus, and non-studio lighting. Avoid plastic skin, over-polished fashion editorial lighting, fake HDR, and CG-like perfection. Overall safety/stability: high-end, tasteful, restrained visual expression; no nudity, no explicit sexual pose, no isolated chest/hip/body-part close-up, no underage cues, no readable real logos, no garbled text, no watermark. Avoid CGI-like rendering, plastic skin, doll-like faces, and exaggerated anatomy unless a stylized medium is explicitly requested. Use mature aesthetic language, realistic proportions, coherent scene logic, and believable camera artifacts.
+```
+
+<!-- Case 341: Косплей Альбедо (Albedo) (by @TIGER) -->
+### Case 341: [Косплей Альбедо (Albedo)](#) (by @TIGER)
+
+| Output |
+| :----: |
+| <a href="../images/portrait_case341/output.webp" target="_blank" rel="noopener noreferrer"><img src="../images/portrait_case341/output.webp" width="300" alt="Output image"></a> |
+
+**Промпт:**
+
+```
+生成一张竖屏 9:16 的近距离手机自拍感 cosplay 妆照：一位成年女性扮演雅儿贝德 Albedo，保留真实前置手机自拍的亲密距离和轻微广角压缩感。人物脸部占据画面中心偏上，头部微微倾斜，眼神柔和直视镜头，嘴唇自然微张或轻轻闭合，表情冷静、优雅、克制，带一点高贵暗黑幻想角色的魅惑感。
+
+她拥有雅儿贝德风格的超长深黑色头发，带轻微冷蓝黑光泽，中分或微偏分，长发顺直垂落，脸侧有细碎发丝贴近脸颊，发尾自然散在肩前。头发要有精致 cosplay 假发质感，但保留轻微毛躁、发丝分层和真实自拍中的不完美，不要变成紫发或蓝发。
+
+妆容是雅儿贝德 cosplay 妆造：冷白瓷感底妆，金色或琥珀色美瞳，细长深色眉毛，上扬黑色眼线，纤长浓密睫毛，下眼睑轻微阴影和卧蚕，高光集中在鼻梁、眼下和唇峰，唇色为柔和玫瑰粉或淡豆沙色。皮肤可见区域包括脸、耳侧、颈部、肩颈线、锁骨附近和少量上胸边缘；皮肤看起来细腻、柔软、微凉，像轻薄底妆覆盖后的瓷感肌，但仍保留肩颈处真实皮肤的柔软起伏，不要完全磨成塑料皮肤。
+
+服装换成雅儿贝德风格白色暗黑幻想礼服 cosplay：纯白或象牙白礼服，上半身有金色蛛网状胸饰或项链装饰，黑色与金色领口细节，材质像缎面、蕾丝和合成 cosplay 布料混合。胸前由礼服和金色装饰覆盖，保持优雅华丽的角色轮廓，不强调裸露。头顶两侧有黑色弯曲恶魔角，角面带哑光纹理；背后或画面边缘隐约出现黑色羽翼，羽毛真实但不要过度夸张。一只白色或黑色长手套的手臂轻搭在胸前或肩前，形成自然前景遮挡。
+
+摄影风格保持手机前置自拍或近距离手持妆照，略高于眼平的轻微俯拍，构图稍微偏移，不要太工整。室内自然窗光从左前方照来，冷白柔光打亮脸颊、鼻梁、肩颈和白色礼服，黑发与白色服装形成强烈明暗对比，背景略暗。背景是普通室内房间或走廊入口，米白墙、暗色门框、天花板线条和顶灯隐约可见。整体保留真实社交平台自拍感：轻微美颜、锐化、压缩、局部过曝、发丝毛躁、服装褶皱、道具边缘和普通生活空间，不要变成完美商业棚拍海报。
+
+negative prompt: purple hair, Raiden Shogun outfit, pink heart sticker, missing horns, missing wings, blue eyes, childlike face, teenage appearance, oversexualized pose, plastic skin, heavy airbrushing, studio poster lighting, bad hands, extra fingers, distorted eyes, wrong costume, low resolution, uncanny valley
+```
+
+<!-- Case 342: Мечтательная портретная съёмка в спальне с мягким фокусом (by @TIGER) -->
+### Case 342: [Мечтательная портретная съёмка в спальне с мягким фокусом](#) (by @TIGER)
+
+| Output |
+| :----: |
+| <a href="../images/portrait_case342/output.webp" target="_blank" rel="noopener noreferrer"><img src="../images/portrait_case342/output.webp" width="300" alt="Output image"></a> |
+
+**Промпт:**
+
+```
+Vertical 9:16, photorealistic intimate indoor portrait, dreamy Japanese photobook aesthetic, late-1990s to early-2000s soft-focus photography, vintage compact digital camera look, hazy diffusion filter, gentle highlight bloom, subtle halation, low contrast, muted warm-gray color palette, visible fine grain, slightly imperfect candid snapshot.
+
+A clearly adult East Asian woman in her mid-20s with long slightly messy dark brown-black hair, soft loose strands framing her face, pale luminous skin, delicate oval face, soft brown almond-shaped eyes, natural straight brows, glossy pale pink lips, minimal natural makeup, subtle under-eye softness, realistic skin texture.
+
+She is sitting on a carpeted bedroom floor in a relaxed side-folded sitting pose, both legs bent and tucked loosely beside her body. Her torso faces slightly away from the camera while she turns her head back over one shoulder, looking directly into the lens. One arm extends naturally toward the floor for support. Her posture feels quiet, slightly vulnerable, sleepy and unposed.
+
+Her expression is calm, emotionally distant and faintly melancholic, with half-lidded eyes and softly parted lips.
+
+Outfit: a fitted white spaghetti-strap camisole paired with pale ivory lace boyshorts, delicate floral lace texture, soft feminine homewear styling, intimate but tasteful.
+
+Scene: a quiet cozy bedroom at night, warm bedside lamp glowing behind her, wooden bed frame, rumpled white bedding, beige curtains, muted brown carpet, softly shadowed corners, lived-in domestic atmosphere.
+
+Soft warm tungsten light mixed with dim ambient window light, diffused backlight around the hair, creamy skin tones, slightly overexposed highlights, shallow depth of field, soft edges, subtle motion softness, 50mm lens, eye-level perspective, close three-quarter body composition, authentic amateur photobook photography, natural anatomy.
+```
+<!-- Case 343: Персонаж-тень (by @VoxcatAI) -->
+### Case 343: [Персонаж-тень](https://x.com/voxcatai/status/2088737784337145954) (by [@VoxcatAI](https://x.com/VoxcatAI))
+
+| Output |
+| :----: |
+| <a href="../images/portrait_case343/output.webp" target="_blank" rel="noopener noreferrer"><img src="../images/portrait_case343/output.webp" width="300" alt="Output image"></a> |
+
+**Промпт:**
+
+```
+在一个真实、普通、具有生活感的室内空间中拍摄。角色明确为成年人，人物本人完全位于取景框之外，画面只记录人物投射在浅色地面上的巨大完整剪影。
+
+影子的核心造型采用清晰的贴身人体轮廓。 肩部、胸腰比例、腰线、臀部、手臂和双腿的外轮廓直接按照自然成年人体结构形成，身体曲线连续、简洁、明确。影子边缘紧贴真实人体结构，不通过宽袖、裙摆、斗篷、外套等服装体积塑造轮廓。
+
+角色身份主要通过 头部剪影特征 + 发型 + 少量不会改变身体主体轮廓的标志元素 + 姿势 表达，例如 {猫耳 / 兽耳 / 角 / 高马尾 / 双马尾 / 长卷发 / 特殊发髻 / 帽子轮廓 / 手持小型标志道具}。其中头发可以形成明显长发、卷发、马尾或发尾轮廓，使角色即使只剩影子依然具有辨识度。
+
+人物采用 {侧身 / 微微弯腰 / 回头 / 伸手 / 扶头发 / 抬手 / 单腿微曲 / 轻微转胯} 等具有漂亮身体曲线的姿态。强烈低角度阳光将人物轮廓拉长投射到地面，使影子呈现清晰的侧脸、头发、肩颈、腰臀和四肢关系。
+
+所有角色服装和主要配饰实体化出现在地面前景。 {Cos服装 / 汉服 / 外套 / 裙子 / 披风 / 腰带 / 手套 / 鞋子 / 饰品 / 武器套件} 自然堆放在镜头下方，形成刚刚脱下并随手放置的真实状态。织物具有明显褶皱、层叠、厚度、压痕与重力关系，通过这些地面服装告诉观众角色是谁。
+
+因此画面形成明确的两层叙事：
+
+上层：只有人物身体与角色发型形成的巨大影子。
+下层：角色真正的服装、配饰和道具散落在现实地面。
+
+背景仅保留少量床沿、衣架、窗帘、衣柜、挂着的日常衣物等真实室内元素，集中在画面边缘。主体区域保持大面积浅色瓷砖、木地板或其他平整浅色地面。
+
+Composition： 9:16 竖幅手机摄影，斜俯视视角，大面积地面约占画面 65%—80%；人体剪影从画面上方或侧边延伸至中央，影子的头部、躯干、腰臀和主要肢体完整可读；地面服装堆位于画面下方前景，与影子局部产生自然空间交叠；真实人物身体保持在镜头外。
+
+Lighting： 晴天下午或接近日落前的强烈低角度自然太阳光，从窗户或门口斜射进入房间。亮部地面呈暖奶油黄色，人物影子深而清晰；影子靠近人物投影源的一端边缘更锐利，远端产生轻微自然柔化，符合真实阳光投影规律。
+
+Camera： 普通手机斜俯拍，生活记录式取景，轻微自动曝光，高光区域略亮，瓷砖保留真实反射和接缝线；构图带一点偶然性和随手拍感，同时保证人物剪影轮廓完整漂亮。
+
+Style： Shadow Cos、角色缺席摄影、阳光剪影、现实与二次元身份错位、生活纪实、极简视觉叙事、手机快拍、强烈自然硬光、角色身份暗示。
+
+Constraints： 影子严格按照自然成年人体贴身轮廓塑造，肩颈、胸腰、臀腿和四肢比例连贯准确；头发与角色头部特征承担主要角色辨识功能；角色服装以真实实体形式集中呈现在地面前景；光源方向、人体位置、投影长度和透视关系保持物理一致；手部剪影保持自然结构、手指数量正确、比例正常、关节清晰；地面衣物具有真实织物重量与层叠关系；画面干净清晰，减少无必要噪点与颗粒感，粒子效果克制，整体保持自然生活记录质感。
+
+通用变量公式：
+
+{成年角色}
+＋ {贴身自然人体剪影}
+＋ {角色标志性发型 / 耳朵 / 角等头部剪影}
+＋ {强调腰线与身体曲线的姿态}
+＋ {角色完整服装与配饰全部堆在地面}
+＋ {浅色地板}
+＋ {低角度太阳硬光}
+＋ {人物本人保持画外}
+＋ {手机斜俯拍}
+
+核心视觉关系：
+
+身体留在影子里，角色服装留在地面上
+```
+
+<!-- Case 344: Модель-мотоциклистка (by @AIVideoHub_) -->
+### Case 344: [Модель-мотоциклистка](https://x.com/AIVideoHub_/status/2090604205128200470) (by [@AIVideoHub_](https://x.com/AIVideoHub_))
+
+| Output |
+| :----: |
+| <a href="../images/portrait_case344/output.webp" target="_blank" rel="noopener noreferrer"><img src="../images/portrait_case344/output.webp" width="300" alt="Output image"></a> |
+
+**Промпт:**
+
+```
+9:16 竖版，超写实日常运动时尚摄影。一位 20–25 岁、明确成年的亚洲女性 正在干净开阔的城市道路上骑行，身材高挑修长，拥有自然协调的模特比例、纤细腰身、修长双腿与丰满但不过度夸张的胸部曲线。人物五官精致，带有清透的洋娃娃感，小巧尖下巴，冷白细腻肌肤保留真实纹理与自然血色。
+
+她佩戴粉色棒球帽，黑色长发从帽檐下自然垂落，被迎面气流吹得凌乱飞扬；身穿白色修身短款深 V 领运动上衣，领口自然下探，露出约半幅上胸、肩颈、锁骨与纤细腰部，搭配粉色高腰紧身骑行短裤、粉色运动手套和干净的白色运动鞋。服装面料轻薄贴身，随着骑行动作与风势产生真实褶皱和轻微飘动，整体呈现明快、活力又带轻微性感的运动时尚风格。
+
+人物身体随骑行节奏自然前倾，姿态舒展有力量，微微侧头看向镜头，与镜头形成自然互动，神情放松，眼神灵动，嘴角带若有若无的俏皮笑意，展现慵懒、自信且松弛的社交媒体抓拍感。
+
+使用 超广角镜头和贴近地面的低机位仰拍，镜头位于自行车前侧斜下方，使人物双腿、自行车与向远处延伸的道路形成强烈透视关系，营造明显纵深感、速度感和视觉冲击力。人物主体清晰，面部与躯干保持自然比例，画面边缘仅保留轻微广角拉伸，避免身体和面部严重变形。
+
+背景为整洁、现代、通透的城市道路，路面标线清晰，两侧建筑、树木与街道设施简洁有序，没有杂乱行人和拥堵车辆。运用自然的日常快照式光影，柔和阳光落在脸部、肩颈和服装表面，形成清透高光与自然阴影。背景与车轮加入方向一致的动态模糊和速度拖影，人物面部保持相对清晰，重点呈现长发、帽檐、衣摆和手套被风吹动的细节。
+
+整体采用低饱和粉白配色、清透冷调肤色、轻微胶片颗粒与真实手机抓拍质感，呈现自然、轻盈、鲜活的 INS 运动时尚氛围。超写实，真实皮肤纹理，发丝清晰，服装材质真实，动态自然，画面具有速度感和纪实感，无文字，无标识，无水印。
+
+负面提示词：低质量，低分辨率，过度磨皮，塑料皮肤，夸张胸部，身体比例失衡，面部变形，严重鱼眼畸变，扭曲四肢，多余手指，缺失手指，多余肢体，自行车结构错误，悬空姿势，僵硬动作，背景杂乱，人物重影，面部运动模糊，过度锐化，过度曝光，AI感，文字，Logo，水印
+```
+
+<!-- Case 345: Лайфстайл-съёмка в пенной ванне (by @TIGER) -->
+### Case 345: [Лайфстайл-съёмка в пенной ванне](#) (by @TIGER)
+
+| Output |
+| :----: |
+| <a href="../images/portrait_case345/output.webp" target="_blank" rel="noopener noreferrer"><img src="../images/portrait_case345/output.webp" width="300" alt="Output image"></a> |
+
+**Промпт:**
+
+```
+明确成年的东亚女性，坐在白色浴缸中泡泡浴，浓密白色泡沫自然覆盖身体，湿发贴在脸侧与肩颈，神情放松，轻微直视镜头。生活感写真摄影，手机数码质感，暖白奶油色调，低饱和，柔和浴室暖光，水汽薄雾，轻微柔焦与 bloom，低对比柔润肤感。近距离半身构图，浴缸边缘与泡沫形成自然前景，背景为简洁现代浴室，画面安静、松弛、干净，9:16 竖版。
+```
+
+<!-- Case 346: Поясной портрет в фиолетовом кимоно (by @AIVideoHub_) -->
+### Case 346: [Поясной портрет в фиолетовом кимоно](https://x.com/aivideohub_/status/2094607634351755671) (by [@AIVideoHub_](https://x.com/AIVideoHub_))
+
+| Output |
+| :----: |
+| <a href="../images/portrait_case346/output.webp" target="_blank" rel="noopener noreferrer"><img src="../images/portrait_case346/output.webp" width="300" alt="Output image"></a> |
+
+**Промпт:**
+
+```
+9:16 竖版，近距离半身构图，真实 iPhone 前置摄像头随手抓拍 × 日系和风 Editorial × 清冷梦核 × INS 生活快照。一位 20–23 岁、明确成年的漂亮日本女性，身材高挑纤细，拥有轻盈修长的模特比例、纤细腰身与舒展肩颈。胸部视觉约为自然 E 罩杯，丰满但不过度夸张，与整体纤细身材自然协调。
+
+人物拥有精致自然的日本女性真人五官，头部偏小、脸型小巧精致，流畅柔和的鹅蛋脸、清晰下颌线与微尖下巴，五官集中协调，眼睛大小自然。肌肤非常白皙、细腻、通透，呈干净柔嫩的冷白瓷肌色调，脸部、颈部、肩部、锁骨、胸前与手臂肤色自然统一，同时保留真实毛孔、细小绒毛与自然粉润血色。
+
+乌黑或深棕色长发浓密柔顺，采用精致但略带松弛感的日式盘发，部分长发自然披散在肩后。发间点缀紫色花簪、淡紫花朵、细小珍珠、银色发饰与精致流苏。几缕细碎发丝被山间微风轻轻吹起，但不遮挡眼睛与主要五官。
+
+人物身穿轻量化、少层叠布料的现代改良紫色和服，以低饱和藤紫、紫罗兰、淡紫与月白色为主要配色，融合真丝、薄纱、缎面、细腻花卉刺绣与传统和风纹样。
+
+上身采用非常明确的大深 V 低领交叠式和服衣襟，左右衣襟自然向两侧打开并向下延伸，展现完整肩颈、锁骨与较多上胸区域，形成明显的低领视觉效果，自然呈现 E 罩杯视觉的丰满胸部曲线。腰部使用精致窄版腰封收束，使胸腰比例更加清晰，同时保持真实和服衣料的重力、厚度与自然褶皱。
+
+采用近距离半身构图，从完整头顶和花簪拍摄至腰部附近，人物占画面约 75%–85%。视觉重点集中在真人面容、眼神、日式盘发、紫色花簪、肩颈、锁骨、大深 V 和服衣襟、上胸曲线与纤细腰封，减少下半身和环境占比。
+
+人物身体轻微侧转约 15–30°，上半身自然朝向镜头。一侧肩膀略微降低，使和服衣襟产生自然松弛感。一只手可轻轻整理花簪、触碰耳侧长发或扶住腰封，另一只手自然垂落于画面下缘。动作松弛、克制，避免标准影楼摆拍。
+
+人物视线轻轻落向镜头附近，眼神清冷、慵懒、若有所思，带一点淡淡凄美与疏离感；嘴唇自然放松或轻微张开，形成安静、有故事感的日系美人神态。
+
+场景位于山脚、山林边缘或传统日式庭院附近，背景可见自然虚化的远山、树木、石阶、草地与少量木质建筑轮廓。通过浅景深将环境柔化为低饱和青灰绿色与木色散景，使紫色和服与冷白肌肤成为绝对视觉中心。
+
+采用接近平视、略微高于胸口位置的自然手机抓拍角度，使用接近 50–85mm 人像镜头的视觉压缩感，避免手机超广角造成大头、大脸、鼻子放大或胸部比例失真。
+
+摄影语言模拟真实 iPhone 随手抓拍：构图略微倾斜、不完全居中，头顶与左右留白带有轻微随机性，像旅行途中突然靠近人物拍下的一张照片。人物眼睛与面部保持主要清晰区域，发梢、薄纱和背景边缘允许出现极轻微动态感。
+
+整体采用低饱和冷色梦核调色，以藤紫、月白、冷白、青灰绿为主。加入轻微高光溢出、低对比、自然手机锐化、柔和 Bloom、细腻颗粒与极轻微边缘柔化，但人物脸部、眼睛、发丝、皮肤和和服刺绣保持清晰可辨。
+
+核心关键词： 20–23 岁成年日本女性，小头小脸，冷白瓷肌，自然 E 罩杯视觉，近距离半身，大深 V 低领紫色改良和服，少层叠布料，肩颈锁骨明显，纤细腰封，紫色花簪，真人脸，头发不挡脸，iPhone 随手抓拍，山林背景，清冷梦核，INS 风，凄美、慵懒、疏离、高级日系 Editorial。
+
+负面提示词： 全身照，远景，人物过小，厚重多层和服，领口过高，衣襟完全闭合，大头，大脸，宽脸，胸部过度夸张，胸型异常，严重广角畸变，头发遮眼，花簪遮脸，衣物穿模，和服衣襟结构错误，廉价 Cosplay，塑料皮肤，过度磨皮，肤色偏黄，严重低清，五官模糊，严重过曝，严重失焦，手部畸形，多手多指，背景杂乱，动漫脸，CG脸，AI 伪影，文字，Logo，水印
+```
+
+<!-- Case 347: Портрет у холодильной витрины магазина (by @TIGER) -->
+### Case 347: [Портрет у холодильной витрины магазина](#) (by @TIGER)
+
+<table>
+<tr><td width="50%"><a href="../images/portrait_case347/output.webp" target="_blank" rel="noopener noreferrer"><img src="../images/portrait_case347/output.webp" width="100%" alt="Output image"></a></td><td width="50%"><a href="../images/portrait_case347/output2.webp" target="_blank" rel="noopener noreferrer"><img src="../images/portrait_case347/output2.webp" width="100%" alt="Output image"></a></td></tr>
+</table>
+
+**Промпт:**
+
+```
+一张9:16竖构图照片，画面主体是一位二十五岁左右、肤色极白、留着天然黑长发（脸颊两侧有柔和细碎发丝）的东亚女性。她坐在光线明亮的便利店冷藏柜前，手持一瓶蓝色瓶盖的透明矿泉水置于脸侧，唇齿微张，含着一颗直径约2.5厘米的光滑白色球形糖果，目光放松，视线投向镜头前方。人物占据了约72%的画面高度，构图截取至大腿上部；拍摄机位距地面约82厘米，镜头仰角约6度，使用50mm镜头在约1.4米距离处拍摄，呈现出一种略带非对称感、身体偏向画面右侧的近景环境人像。一个装满白色圆糖的模糊玻璃碗位于距镜头约18厘米处，占据画面左下角22%的区域，遮挡了部分裙摆和左大腿；另一侧，一根距镜头约24厘米的大号白蜡烛占据了右下角12%的区域；两者均呈现为柔和的前景形状，轮廓清晰可见，但缺乏细节纹理。主光源来自冷藏柜，位于视线左上方（约11点钟方向、高出视线18度），冷色调且光质硬朗的LED光线投射在她的额头、鼻梁和锁骨上，同时有一股较弱的暖色烛光从右下方（约5点钟方向）映照上来；画面色调分布为：冰蓝色（#9bc6d8）约占42%，珍珠白约占32%，自然肤色约占18%，黑发与阴影约占8%。她身穿一套夸张的、带有Y2K风​​格的全白服饰，包括蕾丝饰边的修身上衣、不对称透视袖、细腰带、挺括的白色迷你裙、银色链条装饰以及精致的白色蕾丝O形环颈圈；透视面料在手肘和腰部呈现轻微褶皱，而修身面料则显现出自然的张力褶痕，而非光滑的塑料质感。焦点精准地落在双眼及白色糖果的前缘，皮肤细节清晰，可见毛孔和细小的碎发；背景中的冷藏柜瓶身化为中等程度的蓝白色光斑（焦外成像），唯有肩部附近的散落发梢呈现出淡淡的动态模糊感。她身后的冰箱隔板上，有一只瓶子向右倾斜了约12度。她左侧髋部垂挂着一条较短的银链，位置低于其他链条，并捕捉到了一抹孤立的蓝色高光。三缕散落的黑发横过她的右侧锁骨，在冰箱灯光的照射下呈现出各自的光泽。避免采用对称居中的构图、完全无遮挡的前景、经喷笔处理的塑料质感皮肤、摄影棚柔光箱照明、重复出现的首饰、多余的手指、扭曲变形的瓶身标签以及均匀的全局模糊效果。
+```
+
+<!-- Case 348: Кафе после полудня (by @CyberTotal2026) -->
+### Case 348: [Кафе после полудня](https://x.com/cybertotal2026/status/2095378755908702275) (by [@CyberTotal2026](https://x.com/CyberTotal2026))
+
+| Output |
+| :----: |
+| <a href="../images/portrait_case348/output.webp" target="_blank" rel="noopener noreferrer"><img src="../images/portrait_case348/output.webp" width="300" alt="Output image"></a> |
+
+**Промпт:**
+
+```
+主体：
+画面中央，坐在街角咖啡馆的户外木制长椅上，通过吸管喝着透明杯中奶茶的年轻东亚裔女性。
+
+人物・表情：
+小巧的卵形脸庞，大大的深褐色瞳孔，细细的眉毛，挺直的鼻梁，淡粉色的嘴唇。黑褐色的头发高高盘起，薄薄的刘海和贴着脸颊的散落发丝。脸庞转向镜头，带着轻柔微笑的目光，柔和的粉色脸颊和自然的润泽妆容。
+
+服装・姿势：
+象牙白的细肩带罗纹上衣，灰米色的的高腰迷你裙，光泽的黑色及膝靴。右膝抬起搭在长椅上，左腿向前伸展，右手握着杯子，左手支撑长椅边缘。
+
+背景・光线：
+背景左侧是昏暗的咖啡馆窗户和暖色吊灯，木制长椅，前景左侧有圆形凳子、智能手机、烟灰缸、黑色手袋和熊形挂饰。画面右侧洒入柔和的午后自然光线，照亮双腿和墙壁。
+
+构图・镜头：
+2:3 的纵向构图，自然腰部高度的镜头，从头部到靴子收录全身的肖像。人物置于中央并较大，抬起膝盖置于画面左侧，伸直的双腿延伸至画面下方。焦点在脸部，昏暗的店内以浅景深模糊处理。
+
+质感・风格：
+照片级真实写实照片。自然而优雅地描绘罗纹布料、哑光裙子、黑色皮革靴子、木制家具，以及冷饮上的凝露。
+
+负面：
+站姿或双脚平放在地面的姿势；白色鞋子
+```
+
+<!-- Case 349: Документальная CCD-фотография с прямой вспышкой (by @0xkyne) -->
+### Case 349: [Документальная CCD-фотография с прямой вспышкой](https://x.com/0xkyne/status/2095427594934235187?s=20) (by [@0xkyne](https://x.com/0xkyne))
+
+| Output |
+| :----: |
+| <a href="../images/portrait_case349/output.webp" target="_blank" rel="noopener noreferrer"><img src="../images/portrait_case349/output.webp" width="300" alt="Output image"></a> |
+
+**Промпт:**
+
+```
+9:16竖版，CCD直闪纪实摄影，雨夜行驶中的出租车后排场景，真实生活化抓拍感，带一点日系胶片与千禧年CCD随手拍气质。车窗布满细密雨珠，窗外是被雨水打散的城市霓虹、路灯与模糊车流光斑，画面带有轻微高光溢出、闪光灯直打出的近景明亮肤感、轻微噪点、真实车内暗部层次与潮湿夜晚空气感，整体氛围私密、漂亮、松弛，像深夜回程途中被顺手拍下的一张特别出片的真实照片。 画面主体是一位明确成年的二十多岁东亚女性，拥有非常自然且有辨识度的高颜值，脸型小巧精致，轮廓柔和流畅，五官秀气协调，眼睛大小自然，鼻型精致，嘴唇柔软，肌肤白皙细腻并保留真实皮肤质感。她坐在出租车后排座位，身体自然斜靠在座椅里，神情安静放松，头部轻轻偏向车窗一侧，不看镜头，以漂亮的侧颜与微微放空的眼神看向窗外夜景，呈现一种深夜独处时安静又迷人的情绪。  她穿粉灰色贴身迷你深V连衣裙，面料柔软轻薄，线条贴合身形，外面随意披着一件浅色薄外套，外套从肩头自然滑落，呈现不经意的松弛感。下身穿一双轻薄通透、带细腻反光感的黑色丝袜，丝袜质感精致，顺着腿部线条自然延展，在CCD直闪下形成柔和细亮的光泽感。双腿以近距离前景构图呈现，腿部姿态自然舒展并略微交叠或分开，形成漂亮流畅的腿线与丝袜高光细节，让丝袜特写既醒目又自然，不像刻意摆拍。脚上搭配简洁精致的高跟鞋或细带鞋，呼应整体时尚感。  镜头采用出租车后排近距离拍摄视角，略低机位，构图从人物上半身延伸到前景双腿，让侧脸、雨夜窗景和丝袜腿部特写同时成立。车内保留真实细节，如黑色座椅、车门、雨伞或小包等生活化元素，但不要喧宾夺主。重点突出：不看镜头、侧颜望向窗外、雨夜出租车后排、CCD直闪感、丝袜腿部近景特写、真实漂亮的深夜回程氛围。
+```
+
+<!-- Case 350: Реалистичный косплей × домашний автопортрет в зеркале (by @TIGER) -->
+### Case 350: [Реалистичный косплей × домашний автопортрет в зеркале](#) (by @TIGER)
+
+<table>
+<tr><td width="50%"><a href="../images/portrait_case350/output.webp" target="_blank" rel="noopener noreferrer"><img src="../images/portrait_case350/output.webp" width="100%" alt="Output image"></a></td><td width="50%"><a href="../images/portrait_case350/output2.webp" target="_blank" rel="noopener noreferrer"><img src="../images/portrait_case350/output2.webp" width="100%" alt="Output image"></a></td></tr>
+</table>
+
+**Промпт:**
+
+```
+{角色}，年轻成年女性，真人 COS 居家镜面自拍，保留角色标志性发型、发色、服装配色与饰品，服装呈现真实织物、金属及配饰质感。
+
+人物坐在木地板上，上半身自然直立，头部微低，一手竖持手机遮住面部。按画面方向，一条腿向左屈膝平放，小腿横穿前景、脚尖朝右；另一条腿在画面右侧屈膝抬高，脚掌落地，形成不对称三角坐姿。鞋履与腿部装饰根据角色设定适配。
+
+3:4 竖版全身构图，人物中央偏左，轻微俯拍，适度广角透视。浅灰墙面、白色踢脚线、暖色木地板，室内柔和自然光，白皙肤色带浅粉血色，柔亮高光，低对比调色，生活化自拍质感。
+
+头部右侧加入小型手绘气泡，边框与内容颜色呼应角色；气泡内呈现符合角色性格、能力或喜好的代表性符号、迷你道具或简短口头禅，与当前自拍情境自然关联。
+
+左上角加入 stylized“T”与猫元素组成的简洁 logo，右下角加入极小手写签名“T”，服装自然融入“T”吊牌。画面干净清晰，手部与腿部结构准确，姿态合理，细节稳定。
+```
+
+<!-- Case 351: Портретная съёмка на фестивале аниме (by @TIGER) -->
+### Case 351: [Портретная съёмка на фестивале аниме](#) (by @TIGER)
+
+| Output |
+| :----: |
+| <a href="../images/portrait_case351/output.webp" target="_blank" rel="noopener noreferrer"><img src="../images/portrait_case351/output.webp" width="300" alt="Output image"></a> |
+
+**Промпт:**
+
+```
+【角色池】
+不知火舞、蒂法、2B、艾达·王、吉尔·瓦伦丁、春丽、阿狸、雷电将军、八重神子、卡芙卡、娜美、女帝、纲手、明日香、约尔。
+
+【随机场景池】
+漫展会场、漫展入口、COSER休息区、展馆走廊、展位前、摄影区、舞台后台、签售区、展馆楼梯间、场馆外广场、漫展周边街区
+
+【随机构图池】
+特写、半身、三分之二身、全身、低机位、侧面抓拍、镜前自拍、动态抓拍。
+
+【随机上半身动作池】
+比心、飞吻、双手爱心、剪刀手、撩发、手指嘘、遮脸、捂嘴偷笑、轻触嘴唇、双手举高
+
+【随机下半身姿势池】
+鸭子坐W-sit、单膝跪地、交叉腿坐、单腿站立、胯部侧推、侧身扭腰、迈步回头、靠墙站立、屈膝半蹲、盘腿坐。
+
+【随机表情池】
+甜笑、微笑、俏皮、冷艳、害羞、惊讶、偷笑、眨眼、慵懒、无辜。
+
+【随机机制】
+每张图片独立重新随机抽取各项，从对应选项池中随机选择，不按选项顺序抽取，不偏向前几个选项，不继承上一张结果。
+
+连续出图时尽量避免重复的场景、构图、动作、姿势和表情组合。
+
+若用户指定角色，则锁定该角色，仅重新随机场景、构图、上半身动作、下半身姿势和表情。
+
+【画面要求】
+9:16竖幅；iPhone 17 Pro抓拍质感；写实真人COS摄影；根据角色还原标志性发型、服装、配色与饰品，并自然转化为真实成年女性摄影。
+
+冷白肤色，真实毛孔、细微皮肤纹理与自然血色；人物保持真实自然的成年女性体态与比例。
+
+漫展场景可自然出现少量COSER、摄影师、观众、展位、灯光、宣传板、展架或道具；非漫展场景根据环境加入少量合理物件，增强真实感。
+
+【签名】
+左下角的签名 stylized“T”与猫元素组成的简洁 logo
+
+【确认】
+出图前，先和我确认具体角色
+```
+
+<!-- Case 352: CCD-фотография с длинной выдержкой и прямой вспышкой (by @0xkyne) -->
+### Case 352: [CCD-фотография с длинной выдержкой и прямой вспышкой](https://x.com/0xkyne/status/2096439480794452001) (by [@0xkyne](https://x.com/0xkyne))
+
+<table>
+<tr><td width="50%"><a href="../images/portrait_case352/output.webp" target="_blank" rel="noopener noreferrer"><img src="../images/portrait_case352/output.webp" width="100%" alt="Output image"></a></td><td width="50%"><a href="../images/portrait_case352/output2.webp" target="_blank" rel="noopener noreferrer"><img src="../images/portrait_case352/output2.webp" width="100%" alt="Output image"></a></td></tr>
+</table>
+
+**Промпт:**
+
+```
+9:16竖版，近距离半身到大腿中部构图，CCD直闪纪实摄影，雨后夜晚的繁忙城市十字路口，真实生活化抓拍感，带一点日系胶片与千禧年CCD随手拍气质。画面处于红灯等待时刻，人物站在斑马线边缘或路口转角处，前景与背景都带一点真实街头遮挡和拥挤感。背后是密集车流、人流、雨伞、霓虹广告牌、路口信号灯、店招与大楼灯箱，背景中的行人和车辆呈现明显动态模糊与拖影，形成繁杂、混乱、流动的都市夜景。地面潮湿发亮，映出红绿灯、车灯与招牌的斑斓反光。闪光灯直打人物，人物清晰明亮，背景混沌流动，形成强烈反差。整体氛围真实、喧闹、潮湿、漂亮，有一种在人群和车流里突然捕捉到惊艳瞬间的感觉。
+
+画面主体是一位明确成年的二十多岁东亚女性真人Coser，以现实中的高级时尚美女方式诠释角色。她拥有自然且极具辨识度的高颜值，小巧精致的脸型，轮廓流畅，五官漂亮但不过分锐利，眼睛大小自然，神情冷淡、松弛、微微出神，像在等红灯时被顺手拍下。皮肤白皙细腻，保留真实皮肤质感。长发自然披散，发丝在夜风与潮湿空气里带一点轻微凌乱感。
+
+服装采用性感时尚的都市Coser重释风格。上身是极小面积、贴身、低胸的内搭，面料紧致柔软，清晰勾勒出丰满、自然下垂、带柔软度与真实重力感的胸部轮廓；外面搭配一件宽大、廓形感强的时尚夹克，夹克自然半脱，松松滑落到小臂位置，露出肩颈、锁骨与大面积上胸区域，形成强烈的松弛感与时尚感。下身可保留超短下装，并搭配黑色半透明丝袜或高跟短靴，强化都市感与腿部延伸感。
+
+人物姿态自然但有张力。身体微微侧向镜头，一侧肩膀略低，腰胯形成轻微反差；一只手自然拎着包或拿着手机，另一只手轻轻压住夹克下摆、裙摆或放在大腿外侧。上半身略微前倾，胸腰线条被自然带出，人物不刻意摆拍，但性感气息很强。构图重点放在人物的脸、肩颈、胸部轮廓、夹克半脱状态，以及背后混乱动态的十字路口氛围。整体效果像一张特别出片的真实街头抓拍，人物艳丽清晰，背景脏乱喧闹又充满都市速度感
+```
