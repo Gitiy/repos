@@ -42,7 +42,7 @@ https://github.com/goreliu/zshguide
 
 https://github.com/Ceelog/DictionaryByGPT4
 
-https://github.com/TapXWorld/ChinaTextbook
+# https://github.com/TapXWorld/ChinaTextbook
 
 https://github.com/Yuheng0101/X.git
 
