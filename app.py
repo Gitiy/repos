@@ -44,7 +44,9 @@ def create_app(config=None):
     app.config['DATABASE'] = os.getenv(
         'DATABASE_PATH', os.path.join(app.instance_path, 'media_parser.db')
     )
-    app.config['JULIANG_PROXY_API_URL'] = os.getenv('JULIANG_PROXY_API_URL', '').strip()
+    proxy_url = (os.getenv('DYNAMIC_PROXY_API_URL') or os.getenv('JULIANG_PROXY_API_URL') or '').strip()
+    app.config['DYNAMIC_PROXY_API_URL'] = proxy_url
+    app.config['JULIANG_PROXY_API_URL'] = proxy_url
     app.config['MAX_CONTENT_LENGTH'] = 32 * 1024
     app.config['PERMANENT_SESSION_LIFETIME'] = timedelta(days=30)
     app.config['JSON_SORT_KEYS'] = False
@@ -65,7 +67,7 @@ def create_app(config=None):
     if not app.config.get('SECRET_KEY'):
         app.config['SECRET_KEY'] = _load_or_create_secret(database_dir or app.instance_path)
     init_database(app)
-    manager = ProxyManager(app.config["DATABASE"], app.config["JULIANG_PROXY_API_URL"])
+    manager = ProxyManager(app.config["DATABASE"], app.config["DYNAMIC_PROXY_API_URL"])
     app.extensions["proxy_manager"] = manager
     if not app.testing:
         manager.start()
