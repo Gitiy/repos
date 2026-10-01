@@ -8,7 +8,7 @@
 
 | 项目 | 值 |
 |------|----|
-| 🕒 最后同步 | 2026-09-30 04:48:50 UTC |
+| 🕒 最后同步 | 2026-10-01 05:01:05 UTC |
 | 📦 跟踪仓库数 | 26 |
 | 💾 总大小 | 2742.77 MB |
 
@@ -16,7 +16,7 @@
 
 | 仓库 | 路径 | 大小 | 最近提交 | 状态 |
 |------|------|------|----------|------|
-| [gushiwen](https://github.com/yht050511/gushiwen.git) | `repos/gushiwen` | 94.55 MB | a39ee216d 2026-09-28 | ✅ 正常 |
+| [gushiwen](https://github.com/yht050511/gushiwen.git) | `repos/gushiwen` | 94.54 MB | a39ee216d 2026-09-28 | ✅ 正常 |
 | [chinese_ancient_poetry](https://github.com/JoshuaCH/chinese_ancient_poetry.git) | `repos/chinese_ancient_poetry` | 76.66 MB | c5cfee6a9 2026-09-28 | ✅ 正常 |
 | [chinese-gushiwen](https://github.com/caoxingyu/chinese-gushiwen.git) | `repos/chinese-gushiwen` | 0 KB | N/A | ❌ 拉取失败 |
 | [chinese-poetry](https://github.com/chinese-poetry/chinese-poetry.git) | `repos/chinese-poetry` | 359.29 MB | 516a9583b 2026-09-28 | ✅ 正常 |
