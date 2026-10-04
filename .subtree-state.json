@@ -3,144 +3,144 @@
     "url": "https://github.com/yht050511/gushiwen.git",
     "branch": "main",
     "last_upstream_head": "409df701b3f91a41c87e5979b092c8c3c42c2123",
-    "synced_at": "2026-10-03T04:32:10Z"
+    "synced_at": "2026-10-04T05:02:45Z"
   },
   "chinese_ancient_poetry": {
     "url": "https://github.com/JoshuaCH/chinese_ancient_poetry.git",
     "branch": "master",
     "last_upstream_head": "0e942708a6ac22c3f15d93761d93c108b51b7baf",
-    "synced_at": "2026-10-03T04:32:13Z"
+    "synced_at": "2026-10-04T05:02:48Z"
   },
   "chinese-poetry": {
     "url": "https://github.com/chinese-poetry/chinese-poetry.git",
     "branch": "master",
     "last_upstream_head": "b8594f81a89752241442f2ce267d6f66f96704ee",
-    "synced_at": "2026-10-03T04:32:23Z"
+    "synced_at": "2026-10-04T05:03:01Z"
   },
   "hanzi-writer-data": {
     "url": "https://github.com/chanind/hanzi-writer-data.git",
     "branch": "master",
     "last_upstream_head": "68d10a4b21150cae5e1ebbd223eed289cf32d90c",
-    "synced_at": "2026-10-03T04:32:28Z"
+    "synced_at": "2026-10-04T05:03:04Z"
   },
   "makemeahanzi": {
     "url": "https://github.com/skishore/makemeahanzi.git",
     "branch": "master",
     "last_upstream_head": "bddc96d41bef78427ed0e034e9f7e31d71fd1b92",
-    "synced_at": "2026-10-03T04:32:36Z"
+    "synced_at": "2026-10-04T05:03:13Z"
   },
   "chinese-dictionary": {
     "url": "https://github.com/mapull/chinese-dictionary.git",
     "branch": "main",
     "last_upstream_head": "e804ada333b68afddfdccbe8dcc938a72da157a7",
-    "synced_at": "2026-10-03T04:32:43Z"
+    "synced_at": "2026-10-04T05:03:20Z"
   },
   "chinese-xinhua": {
     "url": "https://github.com/pwxcoo/chinese-xinhua.git",
     "branch": "master",
     "last_upstream_head": "fe6d6c2e8baa82187f4c96bbe042e43f96c05666",
-    "synced_at": "2026-10-03T04:32:50Z"
+    "synced_at": "2026-10-04T05:03:28Z"
   },
   "ChineseLyrics": {
     "url": "https://github.com/dengxiuqi/ChineseLyrics.git",
     "branch": "master",
     "last_upstream_head": "add595c86d850b641f1ffd801a3e536fe3899705",
-    "synced_at": "2026-10-03T04:32:53Z"
+    "synced_at": "2026-10-04T05:03:32Z"
   },
   "deep-learning-for-image-processing": {
     "url": "https://github.com/WZMIAOMIAO/deep-learning-for-image-processing.git",
     "branch": "master",
     "last_upstream_head": "1ec3fe6f374fc9969973a61f819de25658595afa",
-    "synced_at": "2026-10-03T04:32:56Z"
+    "synced_at": "2026-10-04T05:03:34Z"
   },
   "AndroidReverseStudy": {
     "url": "https://github.com/heyhu/AndroidReverseStudy.git",
     "branch": "master",
     "last_upstream_head": "16ab6555b9ae9ad58ab062ebad19f75977ad3e08",
-    "synced_at": "2026-10-03T04:32:59Z"
+    "synced_at": "2026-10-04T05:03:37Z"
   },
   "XYplorer_Help": {
     "url": "https://github.com/violet7pan/XYplorer_Help",
     "branch": "master",
     "last_upstream_head": "b3e010366497bca204affbbca46ddc44cbc445d8",
-    "synced_at": "2026-10-03T04:33:03Z"
+    "synced_at": "2026-10-04T05:03:41Z"
   },
   "Advanced-SQL-Injection-Cheatsheet": {
     "url": "https://github.com/kleiton0x00/Advanced-SQL-Injection-Cheatsheet",
     "branch": "main",
     "last_upstream_head": "4fec7a5425563cc21f630cfef5b77a2509b8e00b",
-    "synced_at": "2026-10-03T04:33:05Z"
+    "synced_at": "2026-10-04T05:03:43Z"
   },
   "frida-all-in-one": {
     "url": "https://github.com/hookmaster/frida-all-in-one",
     "branch": "master",
     "last_upstream_head": "67db9b89e97d7db0a6cbf367f67417b9479f112e",
-    "synced_at": "2026-10-03T04:33:13Z"
+    "synced_at": "2026-10-04T05:03:51Z"
   },
   "Micro8": {
     "url": "https://github.com/Micropoor/Micro8",
     "branch": "master",
     "last_upstream_head": "23766878420b2131638564796c6d4422a922c7de",
-    "synced_at": "2026-10-03T04:33:17Z"
+    "synced_at": "2026-10-04T05:03:55Z"
   },
   "mybackup-IT": {
     "url": "https://github.com/cxapython/mybackup-IT",
     "branch": "main",
     "last_upstream_head": "0a0c29915870487677e9b81b7691c8a427c14e05",
-    "synced_at": "2026-10-03T04:33:19Z"
+    "synced_at": "2026-10-04T05:03:57Z"
   },
   "H5-Animation": {
     "url": "https://github.com/supperjet/H5-Animation",
     "branch": "master",
     "last_upstream_head": "5f425dbed285a452f00fe0626f6f1e85522ceb6a",
-    "synced_at": "2026-10-03T04:33:21Z"
+    "synced_at": "2026-10-04T05:03:59Z"
   },
   "zshguide": {
     "url": "https://github.com/goreliu/zshguide",
     "branch": "master",
     "last_upstream_head": "a5051faf6dd6da0d0979b1edd93859b8ec785152",
-    "synced_at": "2026-10-03T04:33:23Z"
+    "synced_at": "2026-10-04T05:04:01Z"
   },
   "DictionaryByGPT4": {
     "url": "https://github.com/Ceelog/DictionaryByGPT4",
     "branch": "main",
     "last_upstream_head": "8c9b050b653108145a94a559c816e0e499ef1627",
-    "synced_at": "2026-10-03T04:33:26Z"
+    "synced_at": "2026-10-04T05:04:05Z"
   },
   "X": {
     "url": "https://github.com/Yuheng0101/X.git",
     "branch": "main",
     "last_upstream_head": "a9cd1900b97f7ed9e77114b63bb7b940a2594c05",
-    "synced_at": "2026-10-03T04:33:29Z"
+    "synced_at": "2026-10-04T05:04:07Z"
   },
   "hwyy": {
     "url": "https://github.com/Gitiy/hwyy",
     "branch": "main",
     "last_upstream_head": "5552adefa97f4850370e45cf9cb117bfc78cef8b",
-    "synced_at": "2026-10-03T04:33:30Z"
+    "synced_at": "2026-10-04T05:04:09Z"
   },
   "OpenHome3D": {
     "url": "https://github.com/yuyou-dev/OpenHome3D",
     "branch": "main",
     "last_upstream_head": "cb52afc00201b4b7ed90b24631e977112ba07869",
-    "synced_at": "2026-10-03T04:33:34Z"
+    "synced_at": "2026-10-04T05:04:12Z"
   },
   "prehistoric-animal-museum": {
     "url": "https://github.com/s010s/prehistoric-animal-museum",
     "branch": "main",
     "last_upstream_head": "3b8adfd3838b2f3fa5dae2e19fee9bc5764c232c",
-    "synced_at": "2026-10-03T04:33:41Z"
+    "synced_at": "2026-10-04T05:04:19Z"
   },
   "awesome-gpt-image-2-prompts": {
     "url": "https://github.com/tigerowo/awesome-gpt-image-2-prompts",
     "branch": "main",
     "last_upstream_head": "747c9904630c47b4e55808294cbe07c6a89557d8",
-    "synced_at": "2026-10-03T04:33:47Z"
+    "synced_at": "2026-10-04T05:04:25Z"
   },
   "media-parser": {
     "url": "https://github.com/ucmao/media-parser",
     "branch": "main",
     "last_upstream_head": "48ac2b915e4a8df73c8faa54797b5d5b0e0a648c",
-    "synced_at": "2026-10-03T04:33:49Z"
+    "synced_at": "2026-10-04T05:04:28Z"
   }
 }

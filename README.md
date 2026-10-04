@@ -8,7 +8,7 @@
 
 | 项目 | 值 |
 |------|----|
-| 🕒 最后同步 | 2026-10-03 04:33:50 UTC |
+| 🕒 最后同步 | 2026-10-04 05:04:28 UTC |
 | 📦 跟踪仓库数 | 26 |
 | 💾 总大小 | 2742.77 MB |
 
@@ -19,9 +19,9 @@
 | [gushiwen](https://github.com/yht050511/gushiwen.git) | `repos/gushiwen` | 94.54 MB | a39ee216d 2026-09-28 | ✅ 正常 |
 | [chinese_ancient_poetry](https://github.com/JoshuaCH/chinese_ancient_poetry.git) | `repos/chinese_ancient_poetry` | 76.66 MB | c5cfee6a9 2026-09-28 | ✅ 正常 |
 | [chinese-gushiwen](https://github.com/caoxingyu/chinese-gushiwen.git) | `repos/chinese-gushiwen` | 0 KB | N/A | ❌ 拉取失败 |
-| [chinese-poetry](https://github.com/chinese-poetry/chinese-poetry.git) | `repos/chinese-poetry` | 359.29 MB | 516a9583b 2026-09-28 | ✅ 正常 |
-| [hanzi-writer-data](https://github.com/chanind/hanzi-writer-data.git) | `repos/hanzi-writer-data` | 77.66 MB | 7a8e9b0d8 2026-09-28 | ✅ 正常 |
-| [makemeahanzi](https://github.com/skishore/makemeahanzi.git) | `repos/makemeahanzi` | 276.57 MB | 511b9bda7 2026-09-28 | ✅ 正常 |
+| [chinese-poetry](https://github.com/chinese-poetry/chinese-poetry.git) | `repos/chinese-poetry` | 359.30 MB | 516a9583b 2026-09-28 | ✅ 正常 |
+| [hanzi-writer-data](https://github.com/chanind/hanzi-writer-data.git) | `repos/hanzi-writer-data` | 77.65 MB | 7a8e9b0d8 2026-09-28 | ✅ 正常 |
+| [makemeahanzi](https://github.com/skishore/makemeahanzi.git) | `repos/makemeahanzi` | 276.56 MB | 511b9bda7 2026-09-28 | ✅ 正常 |
 | [chinese-dictionary](https://github.com/mapull/chinese-dictionary.git) | `repos/chinese-dictionary` | 108.08 MB | e0267e04d 2026-09-28 | ✅ 正常 |
 | [chinese-xinhua](https://github.com/pwxcoo/chinese-xinhua.git) | `repos/chinese-xinhua` | 91.67 MB | c98aa78e0 2026-09-28 | ✅ 正常 |
 | [ChineseLyrics](https://github.com/dengxiuqi/ChineseLyrics.git) | `repos/ChineseLyrics` | 155.82 MB | 1020d421b 2026-09-28 | ✅ 正常 |
