@@ -108,11 +108,16 @@ npm run test:e2e
   <a href="https://atomgit.com/leonleung/prehistoric-animal-museum">
     <img src="https://atomgit.com/leonleung/prehistoric-animal-museum/star/new_badge.svg" height="54" alt="AtomGit G-Star">
   </a>
+  &nbsp;
+  <a href="https://hellogithub.com/repository/s010s/prehistoric-animal-museum">
+    <img src="https://api.hellogithub.com/v1/widgets/recommend.svg?rid=0987c257f4e541b49c80492161915f74&amp;claim_uid=I7P4vVbDKhkYRdB" width="250" height="54" alt="Featured｜HelloGitHub">
+  </a>
 </p>
 
 <p align="center">
   <sub>
     <a href="https://github.com/s010s/prehistoric-animal-museum"><strong>GitHub</strong></a> 是项目主仓与开发协作入口，Issue 和 Pull Request 请在 GitHub 提交。<br>
-    <a href="https://atomgit.com/leonleung/prehistoric-animal-museum"><strong>AtomGit</strong></a> 是面向中国大陆访问者的官方同步镜像。
+    <a href="https://atomgit.com/leonleung/prehistoric-animal-museum"><strong>AtomGit</strong></a> 是面向中国大陆访问者的官方同步镜像。<br>
+    本项目已获 <a href="https://hellogithub.com/repository/s010s/prehistoric-animal-museum"><strong>HelloGitHub 推荐</strong></a>。
   </sub>
 </p>
