@@ -1,5 +1,5 @@
 import { readdir } from 'node:fs/promises'
-import { join } from 'node:path'
+import { dirname, join, resolve } from 'node:path'
 import { fileURLToPath, pathToFileURL } from 'node:url'
 
 import type {
@@ -7,7 +7,7 @@ import type {
   AnimalPackageDefinition,
 } from '../src/content/types'
 
-export const repositoryRoot = fileURLToPath(new URL('../', import.meta.url))
+export const repositoryRoot = resolve(dirname(fileURLToPath(import.meta.url)), '..')
 export const animalsRoot = join(repositoryRoot, 'src/content/animals')
 
 export interface LoadedAnimalDefinition {
@@ -35,14 +35,17 @@ function isAnimalDefinitionModule(
   )
 }
 
-export async function loadAnimalDefinitions(): Promise<
+export async function loadAnimalDefinitions(
+  onlyIds?: readonly string[],
+  importDefinition: (moduleUrl: string) => Promise<unknown> = (moduleUrl) => import(moduleUrl),
+): Promise<
   LoadedAnimalDefinition[]
 > {
   const directoryEntries = await readdir(animalsRoot, {
     withFileTypes: true,
   })
   const directoryNames = directoryEntries
-    .filter((entry) => entry.isDirectory())
+    .filter((entry) => entry.isDirectory() && (!onlyIds || onlyIds.includes(entry.name)))
     .map((entry) => entry.name)
     .sort()
 
@@ -50,7 +53,7 @@ export async function loadAnimalDefinitions(): Promise<
     directoryNames.map(async (directoryName) => {
       const directoryPath = join(animalsRoot, directoryName)
       const moduleUrl = pathToFileURL(join(directoryPath, 'package.ts')).href
-      const loadedModule = (await import(moduleUrl)) as unknown
+      const loadedModule = await importDefinition(moduleUrl)
 
       if (!isAnimalDefinitionModule(loadedModule)) {
         throw new Error(
