@@ -8,9 +8,9 @@
 
 | 项目 | 值 |
 |------|----|
-| 🕒 最后同步 | 2026-10-23 04:02:11 UTC |
+| 🕒 最后同步 | 2026-10-24 03:56:17 UTC |
 | 📦 跟踪仓库数 | 26 |
-| 💾 总大小 | 2829.50 MB |
+| 💾 总大小 | 2829.51 MB |
 
 ## 📚 仓库列表
 
@@ -21,7 +21,7 @@
 | [chinese-gushiwen](https://github.com/caoxingyu/chinese-gushiwen.git) | `repos/chinese-gushiwen` | 0 KB | N/A | ❌ 拉取失败 |
 | [chinese-poetry](https://github.com/chinese-poetry/chinese-poetry.git) | `repos/chinese-poetry` | 359.29 MB | 516a9583b 2026-09-28 | ✅ 正常 |
 | [hanzi-writer-data](https://github.com/chanind/hanzi-writer-data.git) | `repos/hanzi-writer-data` | 77.66 MB | 7a8e9b0d8 2026-09-28 | ✅ 正常 |
-| [makemeahanzi](https://github.com/skishore/makemeahanzi.git) | `repos/makemeahanzi` | 276.54 MB | 511b9bda7 2026-09-28 | ✅ 正常 |
+| [makemeahanzi](https://github.com/skishore/makemeahanzi.git) | `repos/makemeahanzi` | 276.55 MB | 511b9bda7 2026-09-28 | ✅ 正常 |
 | [chinese-dictionary](https://github.com/mapull/chinese-dictionary.git) | `repos/chinese-dictionary` | 108.08 MB | e0267e04d 2026-09-28 | ✅ 正常 |
 | [chinese-xinhua](https://github.com/pwxcoo/chinese-xinhua.git) | `repos/chinese-xinhua` | 91.67 MB | c98aa78e0 2026-09-28 | ✅ 正常 |
 | [ChineseLyrics](https://github.com/dengxiuqi/ChineseLyrics.git) | `repos/ChineseLyrics` | 155.82 MB | 1020d421b 2026-09-28 | ✅ 正常 |
@@ -39,7 +39,7 @@
 | [hwyy](https://github.com/Gitiy/hwyy) | `repos/hwyy` | 184 KB | 82e8ed913 2026-09-28 | ✅ 正常 |
 | [wechat-decrypt](https://github.com/ylytdeng/wechat-decrypt) | `repos/wechat-decrypt` | 0 KB | N/A | ❌ 拉取失败 |
 | [OpenHome3D](https://github.com/yuyou-dev/OpenHome3D) | `repos/OpenHome3D` | 15.33 MB | 0a7ec8376 2026-09-28 | ✅ 正常 |
-| [prehistoric-animal-museum](https://github.com/s010s/prehistoric-animal-museum) | `repos/prehistoric-animal-museum` | 313.36 MB | 306dd382d 2026-10-23 | ✅ 正常 |
+| [prehistoric-animal-museum](https://github.com/s010s/prehistoric-animal-museum) | `repos/prehistoric-animal-museum` | 313.37 MB | 306dd382d 2026-10-23 | ✅ 正常 |
 | [awesome-gpt-image-2-prompts](https://github.com/tigerowo/awesome-gpt-image-2-prompts) | `repos/awesome-gpt-image-2-prompts` | 294.23 MB | 6d34fbb60 2026-09-28 | ✅ 正常 |
 | [media-parser](https://github.com/ucmao/media-parser) | `repos/media-parser` | 3.24 MB | 565793e84 2026-10-11 | ✅ 正常 |
 
