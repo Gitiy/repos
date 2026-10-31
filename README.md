@@ -8,9 +8,9 @@
 
 | 项目 | 值 |
 |------|----|
-| 🕒 最后同步 | 2026-10-30 05:01:35 UTC |
+| 🕒 最后同步 | 2026-10-31 04:48:33 UTC |
 | 📦 跟踪仓库数 | 26 |
-| 💾 总大小 | 2830.20 MB |
+| 💾 总大小 | 2949.04 MB |
 
 ## 📚 仓库列表
 
@@ -39,9 +39,9 @@
 | [hwyy](https://github.com/Gitiy/hwyy) | `repos/hwyy` | 184 KB | 82e8ed913 2026-09-28 | ✅ 正常 |
 | [wechat-decrypt](https://github.com/ylytdeng/wechat-decrypt) | `repos/wechat-decrypt` | 0 KB | N/A | ❌ 拉取失败 |
 | [OpenHome3D](https://github.com/yuyou-dev/OpenHome3D) | `repos/OpenHome3D` | 15.33 MB | 0a7ec8376 2026-09-28 | ✅ 正常 |
-| [prehistoric-animal-museum](https://github.com/s010s/prehistoric-animal-museum) | `repos/prehistoric-animal-museum` | 313.37 MB | 306dd382d 2026-10-23 | ✅ 正常 |
+| [prehistoric-animal-museum](https://github.com/s010s/prehistoric-animal-museum) | `repos/prehistoric-animal-museum` | 432.21 MB | 36dd8302d 2026-10-31 | ✅ 正常 |
 | [awesome-gpt-image-2-prompts](https://github.com/tigerowo/awesome-gpt-image-2-prompts) | `repos/awesome-gpt-image-2-prompts` | 294.23 MB | 6d34fbb60 2026-09-28 | ✅ 正常 |
-| [media-parser](https://github.com/ucmao/media-parser) | `repos/media-parser` | 3.96 MB | 11371de8a 2026-10-30 | ✅ 正常 |
+| [media-parser](https://github.com/ucmao/media-parser) | `repos/media-parser` | 3.96 MB | 51446b7d2 2026-10-31 | ✅ 正常 |
 
 ---
 
