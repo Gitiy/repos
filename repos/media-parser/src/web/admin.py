@@ -3,13 +3,16 @@ from datetime import datetime, time, timedelta, timezone
 import io
 from zoneinfo import ZoneInfo
 
-from flask import Blueprint, Response, flash, g, jsonify, redirect, render_template, request, session, url_for
+from flask import Blueprint, Response, current_app, flash, g, jsonify, redirect, render_template, request, session, url_for
 
 from werkzeug.security import generate_password_hash
 
 from configs.general_constants import DOMAIN_TO_NAME
 from src.auth import admin_required, csrf_protected, format_log_time, generate_api_key, hash_api_key
 from src.db import get_daily_trend, get_db, get_platform_distribution, get_top_users, set_setting, setting, utcnow
+from src.utils.proxy_manager import (
+    DEFAULT_FETCH_PER_SECOND, DEFAULT_POOL_SIZE, MAX_FETCH_PER_SECOND, MAX_POOL_SIZE, PROXY_MODES,
+)
 from src.utils.table_query import paginate_memory_list, query_paginated_table
 
 
@@ -107,9 +110,19 @@ def overview():
 def settings():
     db = get_db()
     settings = {row["key"]: row["value"] for row in db.execute("SELECT * FROM system_settings")}
+    manager = current_app.extensions["proxy_manager"]
+    proxy_options = {
+        "switch_on": manager.switch_on,
+        "has_url": bool(manager.get_active_api_url()),
+        "url_from_env": not settings.get("dynamic_proxy_api_url") and bool(current_app.config.get("DYNAMIC_PROXY_API_URL")),
+        "mode": manager.mode,
+        "pool_size": manager.pool_size,
+        "fetch_per_second": round(1 / manager.fetch_interval),
+    }
     return render_template(
         "admin/settings.html",
         settings=settings,
+        proxy_options=proxy_options,
         active_nav="settings",
     )
 
@@ -119,9 +132,28 @@ def settings():
 @csrf_protected
 def update_settings():
     db = get_db()
+    is_ajax_request = request.headers.get("X-Requested-With") == "XMLHttpRequest" or "application/json" in request.headers.get("Accept", "")
+    if "ip_blacklist" in request.form:
+        from src.api.access import get_client_ip
+        from src.ip_rules import BLACKLIST_SETTING_KEY, ip_matches, parse_ip_rules
+
+        networks, normalized, invalid = parse_ip_rules(request.form.get("ip_blacklist"))
+        error = None
+        if invalid:
+            error = "IP 黑名单格式有误：" + "、".join(invalid[:5]) + "（每行填写一个 IP 或网段，如 1.2.3.4 或 1.2.3.0/24）"
+        elif ip_matches(get_client_ip(), networks):
+            error = f"不能把你当前的 IP（{get_client_ip()}）加入黑名单，否则会把自己锁在后台外"
+        if error:
+            if is_ajax_request:
+                return jsonify({"succ": False, "message": error}), 400
+            flash(error, "error")
+            return redirect(url_for("admin.settings"))
+        set_setting(BLACKLIST_SETTING_KEY, "\n".join(dict.fromkeys(normalized)))
     for name in ("global_api_enabled", "homepage_enabled", "demo_enabled", "registration_enabled", "api_tip_enabled"):
         set_setting(name, "1" if request.form.get(name) else "0")
     set_setting("default_user_qps", _positive_int(request.form.get("default_user_qps"), 2))
+    if "registration_daily_limit" in request.form:
+        set_setting("registration_daily_limit", _non_negative_int(request.form.get("registration_daily_limit"), 30, 100000))
 
     if request.form.get("chk_unlimited_trial") == "1" or request.form.get("default_trial_days") == "0":
         set_setting("default_trial_days", 0)
@@ -153,6 +185,18 @@ def update_settings():
             set_setting(key, (request.form.get(key) or "").strip())
             if key.startswith("cookie_"):
                 cookie_keys_saved.append(key)
+
+    # 代理总开关与参数：仅在表单提交了对应字段时更新；总开关关闭时其余字段被禁用、不随表单提交。
+    if "proxy_enabled_field" in request.form:
+        set_setting("proxy_enabled", "1" if request.form.get("proxy_enabled") else "0")
+    if "proxy_mode" in request.form:
+        mode = (request.form.get("proxy_mode") or "").strip().lower()
+        set_setting("proxy_mode", mode if mode in PROXY_MODES else "auto")
+    if "proxy_pool_size" in request.form:
+        set_setting("proxy_pool_size", _positive_int(request.form.get("proxy_pool_size"), DEFAULT_POOL_SIZE, MAX_POOL_SIZE))
+    if "proxy_fetch_per_second" in request.form:
+        set_setting("proxy_fetch_per_second", _positive_int(
+            request.form.get("proxy_fetch_per_second"), DEFAULT_FETCH_PER_SECOND, MAX_FETCH_PER_SECOND))
 
     db.commit()
 
@@ -353,8 +397,8 @@ def users():
     db = get_db()
     users_where, users_params = [], []
     if u_q := request.args.get("users_q", "").strip():
-        users_where.append("u.username LIKE ?")
-        users_params.append(f"%{u_q}%")
+        users_where.append("(u.username LIKE ? OR u.register_ip LIKE ? OR u.last_login_ip LIKE ?)")
+        users_params.extend([f"%{u_q}%", f"%{u_q}%", f"%{u_q}%"])
     if u_role := request.args.get("users_role", "").strip():
         users_where.append("u.role = ?")
         users_params.append(u_role)
@@ -375,6 +419,8 @@ def users():
         "expires_at": "u.expires_at",
         "qps_limit": "u.qps_limit",
         "credits": "u.credits",
+        "register_ip": "u.register_ip",
+        "last_login_at": "u.last_login_at",
     }
     users_table = query_paginated_table(
         db,
@@ -1105,8 +1151,8 @@ def logs():
     db = get_db()
     logs_where, logs_params = [], []
     if l_q := request.args.get("logs_q", request.args.get("q", "")).strip():
-        logs_where.append("(l.input_url LIKE ? OR u.username LIKE ? OR l.error_code LIKE ?)")
-        logs_params.extend([f"%{l_q}%", f"%{l_q}%", f"%{l_q}%"])
+        logs_where.append("(l.input_url LIKE ? OR u.username LIKE ? OR l.error_code LIKE ? OR l.client_ip LIKE ?)")
+        logs_params.extend([f"%{l_q}%", f"%{l_q}%", f"%{l_q}%", f"%{l_q}%"])
     if l_status := request.args.get("logs_status", request.args.get("status_code", "")).strip():
         if l_status == "200":
             logs_where.append("l.status_code < 400")
@@ -1132,6 +1178,7 @@ def logs():
         "status_code": "l.status_code",
         "username": "u.username",
         "platform": "l.platform",
+        "client_ip": "l.client_ip",
     }
 
     req_args = dict(request.args)
@@ -1197,8 +1244,8 @@ def export_logs():
             pass
     else:
         if l_q := request.args.get("logs_q", request.args.get("q", "")).strip():
-            where_clauses.append("(l.input_url LIKE ? OR u.username LIKE ? OR l.error_code LIKE ?)")
-            params.extend([f"%{l_q}%", f"%{l_q}%", f"%{l_q}%"])
+            where_clauses.append("(l.input_url LIKE ? OR u.username LIKE ? OR l.error_code LIKE ? OR l.client_ip LIKE ?)")
+            params.extend([f"%{l_q}%", f"%{l_q}%", f"%{l_q}%", f"%{l_q}%"])
         if l_status := request.args.get("logs_status", request.args.get("status_code", "")).strip():
             if l_status == "200":
                 where_clauses.append("l.status_code < 400")
@@ -1222,7 +1269,7 @@ def export_logs():
     output = io.StringIO()
     output.write("\ufeff")
     writer = csv.writer(output, lineterminator="\r\n")
-    writer.writerow(("时间", "客户", "Key", "平台", "请求路径", "请求 URL", "状态码", "耗时（毫秒）", "错误码"))
+    writer.writerow(("时间", "客户", "IP", "Key", "平台", "请求路径", "请求 URL", "状态码", "耗时（毫秒）", "错误码"))
 
     cursor = db.execute(
         f"SELECT l.*, u.username, k.key FROM request_logs l "
@@ -1235,6 +1282,7 @@ def export_logs():
             writer.writerow((
                 _safe_csv_cell(format_log_time(row["created_at"])),
                 _safe_csv_cell(row["username"] or "在线体验"),
+                _safe_csv_cell(row["client_ip"] or ""),
                 _safe_csv_cell(f"{row['key'][:11]}••••••••" if row["key"] else ""),
                 _safe_csv_cell(row["platform"] or ""),
                 _safe_csv_cell(row["path"]),
@@ -1283,8 +1331,8 @@ def batch_logs():
     if select_mode == "all":
         where_clauses, params = [], []
         if l_q := (request.form.get("logs_q") or request.form.get("q") or "").strip():
-            where_clauses.append("(l.input_url LIKE ? OR u.username LIKE ? OR l.error_code LIKE ?)")
-            params.extend([f"%{l_q}%", f"%{l_q}%", f"%{l_q}%"])
+            where_clauses.append("(l.input_url LIKE ? OR u.username LIKE ? OR l.error_code LIKE ? OR l.client_ip LIKE ?)")
+            params.extend([f"%{l_q}%", f"%{l_q}%", f"%{l_q}%", f"%{l_q}%"])
         if l_status := (request.form.get("logs_status") or request.form.get("status_code") or "").strip():
             if l_status == "200":
                 where_clauses.append("l.status_code < 400")
