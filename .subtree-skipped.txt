@@ -1,2 +1,0 @@
-chinese-gushiwen|https://github.com/caoxingyu/chinese-gushiwen.git|main|fetch-failed
-wechat-decrypt|https://github.com/ylytdeng/wechat-decrypt|main|fetch-failed
